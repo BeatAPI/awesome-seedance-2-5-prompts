@@ -1162,9 +1162,9 @@ The complete machine-readable collection is in
 ## Media format and storage
 
 Every output is normalized to VP9 WebM with an Opus audio track when source
-audio exists. Posters are JPEG. The public Git repository keeps metadata and
-prompts lightweight; media is stored under BeatAPI's CDN at
-`prompt-gallery/seedance-2-5/`.
+audio exists. Posters are JPEG. Full media is stored under BeatAPI's CDN at
+`prompt-gallery/seedance-2-5/`; the repository includes six lightweight
+three-second WebP previews alongside the metadata and prompts.
 
 The original X post and author remain the canonical attribution source.
 Public availability does not transfer copyright. The WebM derivatives and
