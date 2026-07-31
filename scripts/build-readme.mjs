@@ -6,6 +6,10 @@ const catalogFile = new URL('../prompts/catalog.json', import.meta.url);
 const startMarker = '<!-- GENERATED_VIDEO_GALLERY_START -->';
 const endMarker = '<!-- GENERATED_VIDEO_GALLERY_END -->';
 const galleryBase = 'https://beatapi.io/prompts/seedance-2-5';
+const playButton =
+  'https://img.shields.io/badge/PLAY_FULL_VIDEO-3158E8?style=for-the-badge';
+const promptButton =
+  'https://img.shields.io/badge/OPEN_%26_COPY_PROMPT-111827?style=for-the-badge';
 
 const animatedPreviewOrder = [
   'vietnamese-mythic-sea-battle',
@@ -29,6 +33,21 @@ function titleFor(entry) {
   return typeof entry.title === 'string' ? entry.title : entry.title.en;
 }
 
+function promptPreview(prompt, limit = 260) {
+  const compact = prompt.replace(/\s+/g, ' ').trim();
+  if (compact.length <= limit) return escapeHtml(compact);
+
+  const clipped = compact.slice(0, limit).replace(/\s+\S*$/, '').trimEnd();
+  return `${escapeHtml(clipped)}...`;
+}
+
+function sourceHandleFor(entry) {
+  if (!/^@[A-Za-z0-9_]{1,15}$/.test(entry.source.name)) {
+    throw new Error(`${entry.slug}: source name must be an X @handle`);
+  }
+  return entry.source.name;
+}
+
 function renderEntry(entry, index) {
   const title = titleFor(entry);
   const isAnimated = animatedPreviewSlugs.has(entry.slug);
@@ -39,6 +58,7 @@ function renderEntry(entry, index) {
     ? 'Animated three-second preview'
     : 'Preview frame';
   const category = entry.category.replaceAll('-', ' ');
+  const sourceName = sourceHandleFor(entry);
 
   return `### ${index + 1}. ${title}
 
@@ -48,15 +68,22 @@ function renderEntry(entry, index) {
 
 *${previewLabel} — click the image to play the complete WebM.*
 
-**Prompt**
+> **Prompt:** ${promptPreview(entry.prompt)}
+
+<details>
+<summary><strong>View full prompt and copy</strong></summary>
+
+Use the copy icon in the upper-right corner of the code block.
 
 ~~~~text
 ${entry.prompt.trim()}
 ~~~~
 
-**Details:** ${entry.duration} · ${entry.aspectRatio} · ${category} · ${entry.outputStatus}
+</details>
 
-[Play full WebM](${entry.media.video}) · [Open on BeatAPI](${galleryBase}/${entry.slug}) · [Prompt JSON](./prompts/${entry.slug}.json) · [Original source](${entry.source.url})
+[![Play full video](${playButton})](${entry.media.video}) [![Open and copy prompt](${promptButton})](${galleryBase}/${entry.slug})
+
+**Source:** [${sourceName}](${entry.source.url}) · **Details:** ${entry.duration} · ${entry.aspectRatio} · ${category} · ${entry.outputStatus}
 
 ---`;
 }
@@ -87,10 +114,11 @@ const entries = catalogEntries
 
 const gallery = `${startMarker}
 
-The result comes first: watch the lightweight motion preview, copy the complete
-prompt below it, or open the full WebM. The first six cards use repository-hosted
-animated WebP previews; the remaining cards use CDN poster frames to keep GitHub
-fast. Every output keeps its creator attribution and evidence state.
+The result comes first: watch the lightweight motion preview, scan the shortened
+prompt, or expand the complete prompt and use GitHub's copy control. The first
+six cards use repository-hosted animated WebP previews; the remaining cards use
+CDN poster frames to keep GitHub fast. Every source handle links to the original
+X post.
 
 ${entries.map(renderEntry).join('\n\n')}
 
