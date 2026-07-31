@@ -1,0 +1,59 @@
+name: Submit a Seedance 2.5 prompt
+description: Propose a Prompt–Video pair with complete source evidence.
+title: "[Prompt] "
+labels: ["prompt-submission"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Prompt title
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Complete reusable prompt
+    validations:
+      required: true
+  - type: input
+    id: output
+    attributes:
+      label: Public output video URL
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Original source post
+    validations:
+      required: true
+  - type: input
+    id: prompt_source
+    attributes:
+      label: Prompt source post or reply
+    validations:
+      required: true
+  - type: dropdown
+    id: workflow
+    attributes:
+      label: Workflow mode
+      options:
+        - Reference generation
+        - Video editing
+        - Video extension
+    validations:
+      required: true
+  - type: textarea
+    id: references
+    attributes:
+      label: Reference roles and settings
+      description: Explain what every image, video, and audio reference controls.
+    validations:
+      required: true
+  - type: checkboxes
+    id: rights
+    attributes:
+      label: Rights confirmation
+      options:
+        - label: I have permission to publish any media I upload directly.
+          required: true

@@ -1,0 +1,43 @@
+{
+  "slug": "vietnamese-mythic-sea-battle",
+  "title": {
+    "en": "Vietnamese Mythic Sea Battle",
+    "zh": "越南神话海战"
+  },
+  "description": {
+    "en": "30-second fantasy prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒越南神话海战提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "fantasy",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Image reference",
+    "Text prompt",
+    "Audio or sound direction"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Xizital",
+    "url": "https://x.com/Xizital/status/2083117163909710053"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/Xizital/status/2083117489656135983"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Xizital/status/2083117163909710053"
+  ],
+  "prompt": "[Phần 1: Character]\n+ Nhân (young man, @referance image): A rustic Vietnamese peasant with sun-bronzed skin, wearing simple dark linen garments, showing deep resilience and bravery.\n+ Hắc Thần Điểu (mythical giant bird @referance image ): A colossal guardian bird of prey with jet-black feathers, a razor-sharp golden beak, and piercing, glowing red eyes.\n+ Giao Long (mythical sea monster): Serpentine dragon-like sea creatures covered in dark green scales with vibrant bioluminescent green patterns and glowing eyes.\n\n[Phần 2: Bối cảnh]\nAn ancient mythical Vietnamese seascape during a raging tempest, dominated by towering limestone karsts rising majestically from a turbulent, bioluminescent green ocean. The environment is devoid of any modern structures, filled only with untamed waters, dark ominous storm clouds, and a mythical atmosphere of a forgotten folkloric era.\n\n[Phần 3: Phong cách đoạn video]\nCinematic 8K video style with hyper-realistic textures and dynamic dark-fantasy atmosphere. The color palette features deep ocean blues, stormy charcoal greys, and dramatic contrast from the vibrant bioluminescent green of the sea creatures and the divine gold energy of the mythical bird. High-speed action cinematography with dramatic slow-motion, dynamic tracking shots, shutter angle matching intense action, organic film grain, and realistic water simulation with volumetric splashes and heavy atmosphere.\n\n[Phần 4: Shot-by-shot]\nShot 1 (2s):\nPOV moving rapidly upward from deep underwater towards the surface. Looking through the murky, bubbling green water, the glowing silhouettes of giant Giao Long swirl below, creating a sense of thalassophobia. Above the water's surface, the dark silhouette of Hac Than Dieu 📷is visible from behind, flying in place with Nhan r📷iding on its back, his back turned to the camera. Golden hour stormy light filters through the surface. no dialog\n\nShot 2 (3s):\nClose-up of the bubbling, boiling sea surface glowing with an eerie, underwater green bioluminescence under a dark stormy sky. The atmosphere is strangely silent. A colossal, glowing shadow of Giao Long swirls beneath the waves, then suddenly bursts violently upward from the ocean directly towards the camera, spraying water everywhere. no dialog\n\nShot 3 (1s):\nClose-up of Nhan's panicked face under the flashing stormy light, wind whipping his hair. He sits on the back of Hac Than Dieu, quickly turning his head around to look at the newly emerged sea dragon behind them, his eyes wide with fear. Nhan screams \"Cẩn thận!\" (dialogue in Vietnamese).\n\nShot 4 (1s):\nClose-up of Hac Than Dieu under the stormy sky, its sharp head snapping around in alarm toward the direction Nhan is looking, its red eyes glowing intensely as it senses the threat. no dialog\n\nShot 5 (2s):\nWide slow-motion tracking shot. Under a dark, stormy sky, the massive Hac Than Dieu, with Nhan clinging to its feathered back, masterfully tilts its giant black wings to the side, narrowly evading the massive Giao Long's snapping jaws in a near-miss aerial dodge. no dialog\n\nShot 6 (2s):\nSlow-motion close-up of Nhan under flashing lightning, his expression filled with sheer terror as the bird tilts sharply. He grips the thick dark feathers of Hac Than Dieu tightly with both hands, trying his best not to fall off into the ocean below. no dialog\n\nShot 7 (1s):\nSlow-motion extreme close-up of the lunging Giao Long's fearsome mouth, filled with sharp, wet fangs and glowing with green light, snapped open wide, attempting to bite the edge of Hac Than Dieu's massive black wing under the stormy sky. no dialog\n\nShot 8 (2s):\nSlow-motion shot of Hac Than Dieu carrying Nhan on its back. The giant bird performs a breathtaking mid-air barrel roll under the dark, thundering clouds, its body twisting elegantly to dodge the attack. no dialog\n\nShot 9 (4s):\nWide shot showcasing the majestic landscape of jagged limestone karsts rising from the churning ocean. The bioluminescent green water glows intensely as multiple Giao Long rise and fly up. The camera speed ramps back to normal as Hac Than Dieu escapes the first bite spectacularly, swiftly dodging a second lunging Giao Long, while three more of the sea monsters are seen in the background preparing to lunge at high speed. no dialog\n\nShot 10 (1s):\nClose-up of Hac Than Dieu's head under the stormy sky. The giant bird opens its sharp beak wide, letting out a booming, telepathic command. Hac Than Dieu shouts \"Bám chặt!\" (dialogue in Vietnamese).\n\nShot 11 (1s):\nClose-up of Nhan. Shifting from initial panic to absolute focus, his face hardens with determination as he locks his grip even tighter onto the dark feathers of Hac Than Dieu under the flashing lightning. no dialog\n\nShot 12 (1s):\nMedium shot under the dark stormy twilight. The first Giao Long, frustrated by its missed attack, turns around aggressively and lunges headfirst directly towards the camera, its glowing green eyes filled with rage. no dialog\n\nShot 13 (9s):\nMedium dynamic continuous shot kết hợp với obit shot. Under the dark stormy sky, Hac Than Dieu carrying Nhan releases a brilliant burst of divine golden energy. Suddenly accelerating, the giant bird rolls in mid-air and strikes the lunging Giao Long's head with its powerful talons, knocking it out of the frame. Instantly, a second Giao Long attacks from the side; Hac Than Dieu swerves swiftly, and Nhan uses the momentum to land a powerful kick on the monster's flank, sending it crashing away. Two more Giao Long attack in tandem; a smooth, dynamic orbiting camera tracks Hac Than Dieu as it weaves through their strikes, diving through a narrow, majestic limestone mountain pass over the sea, leading the camera into a pitch black screen. no dialog",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/vietnamese-mythic-sea-battle.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/vietnamese-mythic-sea-battle.jpg",
+    "format": "video/webm",
+    "videoBytes": 3196350,
+    "videoSha256": "e03498e492c4affad84db558ce054f01531a0a24e10dc3fe4a8a7b77e38c23c0"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

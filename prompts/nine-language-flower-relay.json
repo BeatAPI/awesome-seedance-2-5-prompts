@@ -1,0 +1,43 @@
+{
+  "slug": "nine-language-flower-relay",
+  "title": {
+    "en": "Nine-Language Flower Relay",
+    "zh": "九种语言鲜花接力"
+  },
+  "description": {
+    "en": "18-second brand film prompt paired with an attributed official showcase and its output video.",
+    "zh": "18 秒九种语言鲜花接力提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "reference-generation",
+  "mode": "image-to-video",
+  "duration": "18s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Image reference",
+    "Text prompt",
+    "Audio or sound direction"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@johnAGI168",
+    "url": "https://x.com/johnAGI168/status/2071957758467801512"
+  },
+  "outputStatus": "official-example",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/johnAGI168/status/2071957758467801512"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/johnAGI168/status/2071957758467801512"
+  ],
+  "prompt": "真人实拍风格,快速剪辑,电影感,4K,24fps,温暖自然光,真实人物表演,自然口型同步,无字幕。以一朵鲜花的传递作为整支视频的核心视觉线索,花从一个国家快速传到下一个 国家,串联全球不同地域与人群。每到一个场景,都有一个人物接过过花、露出真诚微笑,并用当地语言说\"谢谢\"。整体节奏轻快流畅,镜头富有动感,强调真实街头/生活气息、跨文化温暖连 接、人与人之间的善意传递。转场方式:以前一个人物把花递出画面,下一镜头由另一个人物在新场景中接住花或使用快速甩镜、运动模糊、前景遮挡完成无缝转场保持花在画面中的视觉连续 性,形成\"一镜传全球\"的感觉镜头风格:手持跟拍、轻微镜头晃动、快速推拉、近景与中景结合、真实环境音氛围、电影级街拍质感。背景音乐温馨、轻快、有世界旅行感,结尾温柔淡出。场 景1 @图像1中国花店内,真实生活化场景。女孩接过一枝玫瑰,看向钱头微笑,自然地说:\"谢谢!\"镜头跟随花从画面右侧递入,女孩接花后轻轻扬起花束。场景2 @图像2英格兰街 头,微凉天气,街景自然。男士接过一枝康乃馨,微笑点头,说:\"Thank you!\"通过甩镜转场,花从上一场景甩入这一场景。场景3 @图像3墨西哥市场,色彩丰富,充满烟火气。阿姨接 过一束万寿菊,双手合十,温暖地说:\"¡Gracias!\"镜头快速掠过摊位立与人群,定格在接花瞬间。场景4 @图像4印尼乡村,自然阳光洒落。孩子接过一朵鸡蛋花,开心微笑笑,微微鞠躬, 说:\"Terima kasih!\"镜头带一点奔跑感,氛围纯真自然。场景5 @图像5泰国街头,热闹市井。摊贩接过一串茉莉花环,双手合十,亲切地说:\"ขอบคุณค่ะ!\"镜头轻快推进,花环在阳光下微 @图像6阿拉伯庭院,光影柔和,环境雅致。女士接过一枝沙漠玫傀,抚胸微笑,说:\"IJSul\"画面安静而温暖,人物神情真挚。场景7 微摆动。场景6 @图像7巴西社区,氛围热情鲜 活。男孩接过一朵非洲菊,十分开心,说:\"Obrigado!\"镜头富有节奏感,充满生命力。场景8 @图像8日本街道,上班族接过便当上的一朵小花,礼貌鞠躬,说:\"ありがとう!\"镜头短促 利落,保留都市节奏感。场景9 @图像9韩国街头,现代都市感。女青年接过一枝杜鹃花,双手自然合拢,微笑说:\"감사합니다!\"镜头在她微笑的瞬间稍作停留,随后画画面柔和淡出。",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/nine-language-flower-relay.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/nine-language-flower-relay.jpg",
+    "format": "video/webm",
+    "videoBytes": 1590819,
+    "videoSha256": "d33c80c74741c58e3cd129b617faba8491514308be7a0b6d69f6e7ce6d59d892"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

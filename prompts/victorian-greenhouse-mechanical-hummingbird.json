@@ -1,0 +1,42 @@
+{
+  "slug": "victorian-greenhouse-mechanical-hummingbird",
+  "title": {
+    "en": "Victorian Greenhouse Mechanical Hummingbird",
+    "zh": "维多利亚温室机械蜂鸟"
+  },
+  "description": {
+    "en": "15-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒维多利亚温室机械蜂鸟提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Audio or sound direction"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@PromptSin",
+    "url": "https://x.com/PromptSin/status/2083077699917258779"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/PromptSin/status/2083077712324010311"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/PromptSin/status/2083077699917258779"
+  ],
+  "prompt": "15-second photorealistic cinematic video, 16:9, with synchronized stereo audio.\n\nA female explorer with short black hair, a red waterproof jacket, and a gray backpack remains perfectly consistent inside an abandoned Victorian greenhouse during a nighttime storm.\n\n0–4s: A low-angle tracking shot follows her walking across the wet floor. Her boot hits a puddle, creating a physically accurate splash.\n\n4–8s: Without a cut, the camera moves into a medium side-tracking shot. She pushes aside a wet branch as a brass mechanical hummingbird emerges, circles her head, and casts warm golden light across her face.\n\n8–12s: The camera performs a fluid 120-degree orbit. She extends her hand and the hummingbird lands precisely on her finger. Its wings slow naturally as water droplets fall from its metallic body. She says in Spanish, with natural lip sync: “Así que eras real.”\n\n12–15s: Lightning illuminates the greenhouse. A rapid rack focus reveals an enormous bioluminescent flower opening in the background and releasing glowing blue particles. The explorer and hummingbird turn toward it simultaneously. End with a slow push toward the flower.\n\n35mm anamorphic cinematography, natural depth of field, realistic physics, coherent reflections, detailed skin, blue storm light contrasted with the hummingbird’s golden glow.\n\nImmersive stereo rain, wind, vibrating glass, synchronized footsteps and splashes, spatial mechanical buzzing, clean dialogue, and one deep musical note when the flower opens.\n\nPriorities: absolute character and wardrobe consistency, stable hummingbird design, correct anatomy, natural hands, precise physical contact, coherent movement, consistent lighting, and continuous camera motion. Exactly one explorer and one hummingbird. No subtitles, text, logos, or additional characters.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/victorian-greenhouse-mechanical-hummingbird.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/victorian-greenhouse-mechanical-hummingbird.jpg",
+    "format": "video/webm",
+    "videoBytes": 805894,
+    "videoSha256": "e58119573dec9c35a3081cdedbe655d9222e7ecafbf2b04295d9a88cb14c3884"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

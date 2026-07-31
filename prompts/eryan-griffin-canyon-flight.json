@@ -1,0 +1,43 @@
+{
+  "slug": "eryan-griffin-canyon-flight",
+  "title": {
+    "en": "Eryan and Griffin Canyon Flight",
+    "zh": "Eryan 与狮鹫峡谷飞行"
+  },
+  "description": {
+    "en": "30-second fantasy prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒Eryan 与狮鹫峡谷飞行提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "fantasy",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "30s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "Image reference",
+    "Text prompt",
+    "Audio or sound direction"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@markusmak12",
+    "url": "https://x.com/markusmak12/status/2083094461811487182"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/markusmak12/status/2083094696285585687"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/markusmak12/status/2083094461811487182"
+  ],
+  "prompt": "NO MUSIC, ONLY NATURAL SOUND — Epic blockbuster fantasy, shot on ARRI Alexa 65 with IMAX-scale anamorphic lenses, warm golden-hour daylight breaking through canyon haze, drifting mist and volumetric god-rays, with grounded handheld energy during the run building into a sweeping aerial glide in flight. In the sweeping rocky valley from @Image3, tiered waterfalls spill down the cliffs, scattered pines line a winding dirt trail across the canyon floor, and tall sandstone mesas dissolve into low mist. A side-tracking shot moves parallel to ERYAN (@Image1) as he sprints in profile across the dirt trail, staying low on his feet as they pound the ground and kick up dust and grit. The camera gradually eases back to hold his full body in frame: a lean young man wearing a tattered beige linen tunic belted with a wide leather sash, with black wavy hair, green eyes, and cloth bindings wrapped around his lower legs, driving toward a jutting rock outcrop. Staying lateral with him, the camera follows as he reaches the lip and launches off the edge into open air above the valley. Slow motion at the peak of the leap, held in side profile, with his body suspended against the waterfalls far below, his tunic and hair lifting and his arms spread wide. The forward momentum of the jump carries him into a long downward arc, still traveling forward as he drops, and within the same continuous motion THE GRIFFIN (@Image2)—with an eagle head, dark brown plumage, tufted ears, pale eyes, a hooked gray beak, black-brown wings, tawny lion hindquarters, a leather saddle, and braided rope reins—sweeps upward from below in a rush of powerful wingbeats and slides beneath him mid-arc, catching him on its back. Return to real time as ERYAN (@Image1) settles into the saddle, grabs the rope reins tightly in both fists, and the griffin banks hard into flight. Dynamic flight sequence: a wide aerial shot follows THE GRIFFIN (@Image2) sweeping down the canyon between towering cliff walls, its wingtips skimming a cascading waterfall as spray mists across its feathers. Cut to a tight side-profile tracking shot of ERYAN (@Image1) leaning low over the griffin’s neck, wind tearing through his hair as a wide grin breaks across his face and his breath becomes visible. Cut to a low hero shot of THE GRIFFIN (@Image2) from the front, wings stretched to their full span, driving forward with powerful downbeats and its eyes locked ahead. Cut to an over-the-shoulder shot from behind ERYAN as the valley opens before him, with waterfalls, pines, and mist-covered mesas streaming past below. The griffin rises through a shaft of golden light and levels out into a long, graceful glide over the ridge. Faces, wardrobe, feather patterns, anatomy, and proportions remain perfectly locked to the reference sheets, with lighting and landscape matched to @Image3. SFX: pounding footsteps, scattering grit, the whoosh of the leap, the heavy thunder of wingbeats, rushing wind, distant waterfall roar, Eryan’s laughing breath, and creaking saddle leather. Cinematic 4K, subtle filmic grain, accurate feather and cloth physics, grounded natural motion, no music, no text, no watermark, no CGI plasticity.\n\nCredits to @MayorKingAI",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/eryan-griffin-canyon-flight.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/eryan-griffin-canyon-flight.jpg",
+    "format": "video/webm",
+    "videoBytes": 2251915,
+    "videoSha256": "8e8a324f2fd2f6c46cba0aa8d6b31b08ad85490081ad8502d72449f1d753e3fa"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

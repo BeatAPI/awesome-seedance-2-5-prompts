@@ -1,0 +1,42 @@
+{
+  "slug": "cbd-rooftop-power-ensemble",
+  "title": {
+    "en": "CBD Rooftop Power Ensemble",
+    "zh": "CBD 天台权谋群像"
+  },
+  "description": {
+    "en": "15-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒CBD 天台权谋群像提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "Text prompt",
+    "Audio or sound direction"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@you1873118",
+    "url": "https://x.com/you1873118/status/2083115308693561497"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/you1873118/status/2083116635775554001"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/you1873118/status/2083115308693561497"
+  ],
+  "prompt": "一镜到底，镜头移动不出现突然加速，速度均匀\n16:9 电影宽画幅｜8K超高清｜UE5写实CG\n深夜城市CBD高空天台精英群像版｜结尾直升机远景\n\n全局参数：\n16:9 电影超宽画幅，8K超高清，电影级写实CG，UE5引擎，PBR极致物理材质，超锐利细节，胶片颗粒电影质感；深夜城市CBD高空露天写字楼天台，四周巨型城市夜景，万丈霓虹流光，远处车流灯带；天台边缘有金属护栏与冷白工业灯，整体冷蓝暗调夜景，高对比暗光氛围，城市背光剪影，低饱和高反差悬疑压迫感；全程环境音：高空晚风呼啸、远处城市车流低频轰鸣、衣物摩擦声、直升机远处旋翼低频声；无BGM、无字幕、无水印。\n\n分镜1｜00:00-00:02 中景起幅·弧形左移\n中景起幅，镜头平稳起幅后缓慢左侧弧形横移；高空天台夜风涌动，22岁超模气质精英黑衣女西装，侧身伫立天台边缘，低头沉思，随后高傲抬眼直视镜头，眼神疏离、冷漠、不屑；前景轻微虚化留白，焦点锁死女主，夜景层次深邃，城市霓虹逆光勾勒肩颈线条，暗调高级电影感。\n\n分镜2｜00:02-00:05 拉焦切镜·男一贴脸特写\n镜头持续左移+极速前景拉焦；前景虚化猛然清晰，22岁金丝细框眼镜黑西装精英男猛然转头，超低角度极致贴脸大特写占满前景；全镜片反射城市冷冽霓虹光，眼神冷酷蔑视，压迫感极强；后方女主彻底虚化远退，前后景极致空间拉扯，暗光高对比，悬疑张力拉满。\n\n分镜3｜00:05-00:09 后拉摇移·女二强势卡位特写\n镜头快速后拉+持续左摇；眼镜男退至中景，双手自然垂立，挺拔伫立；画面左侧首位切入第二位22岁凌厉黑西装精英女，强势抢占前景C位特写；身穿张扬白色西装，单手轻拽西装领口，抬下巴，嘴角嘲弄冷笑，居高临下俯视镜头，气场锋利霸道，焦点精准锁死女二面部，城市夜景流光做层次背景。\n\n分镜4｜00:09-00:12 斜向后撤升起·男二压轴登场\n镜头大范围斜向后撤+摇臂抬升，视野极速拓宽；人物特写，画面正中央压轴亮相，22岁顶级掌控者气场男主，敞开白色西装，慵懒侧身倚靠天台金属护栏，双手自然摊放护栏之上，体态松弛霸气，眼神淡漠，掌控全局，自带权贵压迫感；霓虹城市夜景铺满远景，明暗对比极强。\n\n分镜5｜00:12-00:15 大全景落幅·四人权力群像定格\n\n镜头拉远，平视视角，四人同框。",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/cbd-rooftop-power-ensemble.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/cbd-rooftop-power-ensemble.jpg",
+    "format": "video/webm",
+    "videoBytes": 1227756,
+    "videoSha256": "bb65cbcffcb6e40a1e840abb78156a5db02f81f3dc5292826e44950e1ae1d514"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

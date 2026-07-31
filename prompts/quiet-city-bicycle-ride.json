@@ -1,0 +1,41 @@
+{
+  "slug": "quiet-city-bicycle-ride",
+  "title": {
+    "en": "Quiet City Bicycle Ride",
+    "zh": "静谧城市骑行"
+  },
+  "description": {
+    "en": "15-second vlog prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒静谧城市骑行提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "vlog",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@noorwithwifi",
+    "url": "https://x.com/noorwithwifi/status/2074956913075491029"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/noorwithwifi/status/2074956913075491029"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/noorwithwifi/status/2074956913075491029"
+  ],
+  "prompt": "A young East Asian woman riding a bicycle through quiet city streets, casually exploring the neighborhood, cinematic, natural daylight, realistic, smooth camera movement. https://t.co/CLIgJpdpQX",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/quiet-city-bicycle-ride.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/quiet-city-bicycle-ride.jpg",
+    "format": "video/webm",
+    "videoBytes": 1883212,
+    "videoSha256": "222617624dd8efadce9a76933d67ad6c3864a5f2ddd0db35b1af63f72b01f352"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

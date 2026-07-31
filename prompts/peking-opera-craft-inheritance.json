@@ -1,0 +1,42 @@
+{
+  "slug": "peking-opera-craft-inheritance",
+  "title": {
+    "en": "Peking Opera Craft Inheritance",
+    "zh": "京剧手艺传承"
+  },
+  "description": {
+    "en": "30-second documentary prompt paired with an attributed official showcase and its output video.",
+    "zh": "30 秒京剧手艺传承提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "documentary",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "3:4",
+  "ingredients": [
+    "Text prompt",
+    "Audio or sound direction"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@johnAGI168",
+    "url": "https://x.com/johnAGI168/status/2071574387866697765"
+  },
+  "outputStatus": "official-example",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/johnAGI168/status/2071574387866697765"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/johnAGI168/status/2071574387866697765"
+  ],
+  "prompt": "京剧非遗短片,电影感,东方美学,温暖克制。传统戏班后台与手工作坊里,老师傅安静制作京剧头饰、整理戏服、勾 勒脸谱,手部细节细腻,丝线、珠饰、颜料和绣纹都很有质感。一个年轻学徒在旁边认真看着,随后小心接过工具,在老师傅指导 下完成细小步骤。老师傅为他扶正头面、整理衣襟,像把一门手艺和一份情感轻轻交到他手里。最后年轻人穿戴整齐,站在即将上 场的戏台边,微光照亮戏服与侧脸,老师傅在身后安静注视。整体氛围安静、深情、有传承感,少字幕,穿插合适的台词。",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/peking-opera-craft-inheritance.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/peking-opera-craft-inheritance.jpg",
+    "format": "video/webm",
+    "videoBytes": 1946777,
+    "videoSha256": "dd3b5fd37ba095a9a2d8f4ab4ae72f4a4460fb8b94f2e1a40fdaed816b19e9e1"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

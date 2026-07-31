@@ -1,0 +1,43 @@
+{
+  "slug": "1977-boston-zombie-outbreak",
+  "title": {
+    "en": "1977 Boston Zombie Outbreak",
+    "zh": "1977 波士顿丧尸爆发"
+  },
+  "description": {
+    "en": "30-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒1977 波士顿丧尸爆发提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Image reference",
+    "Text prompt",
+    "Audio or sound direction"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Bou_bee",
+    "url": "https://x.com/Bou_bee/status/2083092357248106686"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/Bou_bee/status/2083092675805462925"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Bou_bee/status/2083092357248106686"
+  ],
+  "prompt": "30-second cinematic sequence.\n\n1977 suburban Boston during a zombie outbreak. Use the uploaded husband, wife and male character as the exact character references. Authentic Kodak Eastmancolor photochemical cinema with warm golden afternoon sunlight, subtle halation, fine 35mm film grain, Panavision anamorphic lenses, practical effects only, realistic 1970s production design.\n\nThe sequence opens with an elderly zombie brutally attacking a terrified man inside a narrow residential alley. The zombie bites the man's neck while he desperately struggles to escape. This attack dominates the foreground. Far behind them, softly blurred through a long telephoto lens, the husband, wife and the uploaded male character suddenly sprint across the street from left to right between abandoned 1970s cars, ignoring the attack as they desperately flee the spreading outbreak.\n\nThe perspective naturally changes to a smooth side tracking shot following the three survivors running together through burning suburban streets. Their formation constantly changes. Sometimes the uploaded male character leads, then the husband overtakes him, while the wife briefly runs in front before falling back again. Their movement feels exhausted, frightened and realistic rather than heroic. Thick smoke drifts across the road as elderly zombies slowly emerge from burning houses and narrow residential streets behind them.\n\nThe camera later observes the chase from behind a burning vintage sedan. Orange flames fill the foreground while the three survivors suddenly burst through thick smoke in the background before disappearing behind abandoned vehicles. The camera gently pans to keep them inside the frame as more zombies continue appearing throughout the neighborhood.\n\nThe sequence then reveals another layered composition. Two elderly zombies violently struggle over a fallen victim in the foreground while, farther behind them, the husband, wife and uploaded male character weave through abandoned cars, burning debris and drifting smoke without stopping. Every layer of the frame remains active with environmental storytelling.\n\nThe wife briefly stumbles while avoiding burning debris. The husband immediately catches her arm and pulls her forward without slowing down. The uploaded male character looks back, realizes several zombies are getting closer, then accelerates and leads the group toward a safer street.\n\nThe perspective suddenly changes into a perfect 90-degree bird's-eye view directly overhead. The camera looks completely vertical over an entire suburban intersection. The three survivors run diagonally through streets, sidewalks and front yards, constantly changing formation while dozens of elderly zombies slowly surround them from every direction. Burning rooftops, abandoned vintage cars, collapsed wooden fences, smoke, autumn trees and spreading fire create a striking geometric composition viewed from directly above. The camera slowly rises higher while maintaining the exact overhead angle, revealing the true scale of the outbreak.\n\nThe sequence ends with a wide elevated cinematic view. The camera slowly pulls backward as the three survivors become tiny figures still running through the burning neighborhood while countless zombies wander across roads, front yards and houses beneath the warm golden afternoon sky.\n\nAudio features a tense cinematic orchestral score with deep cellos, low brass, restrained percussion, rising strings and subtle analog synthesizer textures, blended with realistic footsteps, heavy breathing, crackling fire, distant screams, wind, zombie groans and neighborhood ambience.\n\nAuthentic 1977 American cinema. Rich foreground, midground and background storytelling. Practical filmmaking. No HDR. No CGI. No digital sharpening. No modern objects.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/1977-boston-zombie-outbreak.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/1977-boston-zombie-outbreak.jpg",
+    "format": "video/webm",
+    "videoBytes": 2146535,
+    "videoSha256": "f187c0447e900cb86d5c2a82b7ddeacba2f262f0745c86322730f9219de97d2b"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}
