@@ -1,0 +1,43 @@
+{
+  "slug": "the-suit-was-still-listening",
+  "title": {
+    "en": "The Suit Was Still Listening",
+    "zh": "西装仍在聆听"
+  },
+  "description": {
+    "en": "30-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒西装仍在聆听提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@bmx_ai13",
+    "url": "https://x.com/bmx_ai13/status/2083124798461489228"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/bmx_ai13/status/2083124798461489228"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/bmx_ai13/status/2083124798461489228"
+  ],
+  "prompt": "Create a 30 second cinematic short film titled The Suit Was Still Listening, presented in 16:9 with synchronized dialogue, environmental sound, and original music. The film must feel completely live action, physically grounded, and captured on location, never glossy or synthetic.\n\nVisual language: a rain soaked neighborhood laundromat at midnight, warm amber fluorescent tubes inside, cold blue street light and moving car reflections outside, wet pavement, fogged windows, chipped enamel machines, baskets, detergent boxes, loose receipts, realistic skin texture, natural eye moisture, subtle fabric lint, imperfect hair, restrained film grain, gentle halation, lifted shadows, rich but believable color. Wardrobe creates bold editorial color blocking: Mara wears a cobalt trench over a cream blouse, Noah wears a rust knit polo, the teenage attendant wears faded green workwear, and an elderly customer wears a pale gray suit and dark hat. Use expressive medium close shots, tactile inserts, occasional low angles, clean profile compositions, and brief handheld movement that feels operated by a human. Preserve consistent faces, clothing, props, screen direction, reflections, hand anatomy, and spatial continuity. Use realistic speech timing, breathing, blinking, eye focus, and precise lip synchronization.\n\n0 to 3 seconds. Exterior wide shot through falling rain. A lonely laundromat glows on a dark corner. A black sedan turns slowly into the street. Camera makes a subtle forward creep. Music begins with muted upright bass, brushed snare, a low analog pulse, and the rhythmic churn of washers.\n\n3 to 6 seconds. Interior macro shot through a round washer door. A red scarf turns through soap and water. Cut to Mara opening a dryer. A tiny black transmitter falls from the lining of a cream suit and strikes the tile with a sharp metallic click. The score briefly drops out.\n\n6 to 10 seconds. Low medium two shot. Noah freezes beside a folding table. He says quietly, You said clean the suit. Mara studies the transmitter in her palm and replies, I did. You hid a heartbeat in the lining. Keep the delivery controlled and intimate, not theatrical.\n\n10 to 14 seconds. Tight insert on the teenage attendant checking an old signal meter beside the change machine. A green needle jumps. He looks toward the fogged front window and says, It is still transmitting. Camera racks focus from the meter to white headlights sliding across the glass.\n\n14 to 18 seconds. The sedan stops outside. The elderly customer continues folding a shirt without looking up. He says, Then he is already here. Hold on Mara as the moving headlights carve across her face. Let silence, rain, and machine motors carry the tension.\n\n18 to 22 seconds. Noah whispers, Back door. The old man calmly turns the deadbolt on the back exit and answers, Too obvious. Mara notices a delivery rider outside pushing a rolling laundry cart past the window. Use a fast sequence of close shots: her eyes, the transmitter, the cart wheel, the sedan mirror.\n\n22 to 27 seconds. Mara crosses naturally behind a row of machines, slips the transmitter into a sealed laundry bag on the moving cart through an open service hatch, and returns without drawing attention. Noah asks, What did you do. Mara watches the cart continue down the wet street and says, Gave him a cleaner story.\n\n27 to 30 seconds. Exterior telephoto view. The black sedan pulls away and follows the cart. Cut back inside to a symmetrical medium shot of the four characters framed by spinning washer doors. The red scarf circles behind Mara like a slow warning light. She sits opposite Noah and says, Now tell me who owns the suit. End on the transmitter signal fading from the attendant meter as the final bass note lands.\n\nSound design must include rain on glass, distant tires on wet road, washer motors, dryer buttons, fabric movement, the transmitter click, door lock, fluorescent hum, and soft room reflections around every voice. Dialogue must remain clean and naturally mixed above the music. Avoid visual distortion, artificial camera acceleration, floating objects, excessive shallow focus, oversharpening, plastic skin, extra fingers, unreadable signage, random background motion, or dreamlike effects.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/the-suit-was-still-listening/video-b6e1a1668eba65ec.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/the-suit-was-still-listening/poster-2075fb78ab72aa16.jpg",
+    "format": "video/webm",
+    "videoBytes": 1276132,
+    "videoSha256": "b6e1a1668eba65ec044c62114884e031588a9dc62acb47fc476310bc3594dd13",
+    "thumbnailBytes": 40530,
+    "thumbnailSha256": "2075fb78ab72aa1694c127538d5e40bbb1055338e10d8fbc4a02592c4a68fe79"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

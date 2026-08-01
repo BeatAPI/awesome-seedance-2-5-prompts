@@ -1,0 +1,43 @@
+{
+  "slug": "faceless-riders-highway-chase",
+  "title": {
+    "en": "Faceless Riders Highway Chase",
+    "zh": "无面骑手公路追逐"
+  },
+  "description": {
+    "en": "30-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒无面骑手公路追逐提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@rafalors",
+    "url": "https://x.com/rafalors/status/2083119527848751220"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/rafalors/status/2083119532202418489"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/rafalors/status/2083119527848751220"
+  ],
+  "prompt": "Use the provided references consistently across the full 30 seconds: Image 1 is the first faceless black-armored chaser rider; Image 2 is Kestrel's charcoal courier motorcycle with amber light strip; Image 3 is the dark chaser motorcycle with red taillight and no amber; Image 4 is Kestrel, the broad-shouldered slicked-back male hero in a single-shouldered charcoal jacket with an amber sash; Image 5 is the second faceless black-armored chaser variant. Kestrel stays in front and the two dark pursuit riders stay behind or beside him as visual pressure. Create an original high-speed dark-fantasy motorcycle pursuit scene, 30 seconds, very fast-paced, readable, designed as an edit-friendly trailer cut with rapid cinematic shots. No background music, no soundtrack music, no subtitles, no text, no logos.  Setting: elevated highway through a dense dystopian megacity, monolithic concrete arcologies, industrial haze, flat overcast daylight, no rain, imposing and orderly rather than chaotic. Empty roadway, brutal concrete barriers, smoke, sparks, glowing energy trails, and stylized road-impact flashes.  FAST 12-SHOT STRUCTURE:  SHOT 1, 0:00–0:02 — Cold open. A bright energy flare streaks past the camera toward the highway, motion-blurred, then blooms behind Kestrel's bike in a dramatic orange-black shockwave. Camera shakes. Kestrel is already in front, escaping.  SHOT 2, 0:02–0:04 — High aerial reveal. Three motorcycles tear along the elevated highway far below, Kestrel's amber light strip visible at the front, two matte-black pursuit bikes behind in staggered formation. Camera dive accelerates downward.  SHOT 3, 0:04–0:06 — Extreme low road-level shot. The hero bike blasts over the lens, amber strip streaking; two dark pursuit bikes thunder after him with red taillights and black armor. Heavy motion blur, road grit, heat shimmer.  SHOT 4, 0:06–0:08 — Close-up on Kestrel. Slicked-back wet ash-grey hair, sharp masculine face, amber sash whipping violently, gloved hand twisting the throttle. His eyes stay calm while light flashes bloom behind him.  SHOT 5, 0:08–0:11 — Rear chase cam. The left pursuit rider closes in tight and releases a bright warning energy streak. Kestrel drops his shoulder and leans the bike underneath it; the streak passes his shoulder and showers sparks from the concrete barrier.  SHOT 6, 0:11–0:14 — Side-by-side pressure. The right pursuit rider surges up beside Kestrel and forces him toward the lane edge. Kestrel kicks the side of his bike frame and snaps the bike sideways in a controlled drift, narrowly avoiding contact while staying ahead. The camera whip-pans with the movement.  SHOT 7, 0:14–0:17 — Front tracking angle looking backward. A heavier guided light trail launches from behind, weaving between the bikes with a bright trail. Kestrel cuts through a narrow gap between broken road plates. The guided light hits the road ahead and erupts into concrete dust, debris mist, and black smoke.  SHOT 8, 0:17–0:20 — Hero stunt beat. Kestrel and the charcoal motorcycle punch through the blast wash. The bike performs one clean slow-motion barrel-roll through smoke and flying road dust, amber strip glowing, then lands hard with sparks and instantly accelerates. Make the rotation clean and physically readable.  SHOT 9, 0:20–0:22 — Pursuit rider close-ups. Rapid cuts: faceless black mirrored visor reflecting Kestrel's amber light; armored gauntlet gripping throttle; red taillight streak; tire sliding through sparks. The two pursuit riders regroup behind him, still closing.  SHOT 10, 0:22–0:25 — Power reveal. Low side profile at extreme speed. Kestrel rises upright on the moving bike, balanced and confident, turning backward toward the two riders. Four compact golden magical sigils bloom around his shoulders and hands, spinning like hot geometric halos. The road and city blur around him.  SHOT 11, 0:25–0:28 — Climax escape. The golden sigils fire concentrated beams backward down the highway. The beams carve glowing lines through the haze and strike the road around the pursuing bikes, creating a wall of golden-orange light, smoke, sparks, and shockwave energy. The two pursuit riders disappear into the smoke and fall far behind, ending the chase. Keep it stylized, non-graphic, cinematic, and readable.  SHOT 12, 0:28–0:30 — Final hero exit. Medium rear tracking beside Kestrel. He drops back into the seat, leans low over the charcoal bike, gives a small confident smirk, then rockets away down the elevated highway. Smoke columns recede behind him. End with forward acceleration, no title card.  Visual style: original premium dark-fantasy action cinema, high quality Unreal Engine cinematic render, modern high-end fantasy game visual quality, not copying any existing franchise characters, armor, weapons, symbols, or scenes. Anamorphic lens, speed-ramped action, rapid cinematic cuts, whip-pan transitions, camera shake from road impacts, heavy motion blur, atmospheric haze, film grain, cinematic color grade, strong silhouettes, consistent character and vehicle design, dynamic but readable action, no rain.  Audio instruction: no background music, no soundtrack music. If audio is generated, use only sparse cinematic sound effects such as engine roars, wind rush, energy pulses, road-impact booms, tire skids, debris impacts, and magical beam crackle.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/faceless-riders-highway-chase/video-f2fc1e8469fd757a.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/faceless-riders-highway-chase/poster-979283be8611084d.jpg",
+    "format": "video/webm",
+    "videoBytes": 4168248,
+    "videoSha256": "f2fc1e8469fd757a483713efc2111b3f856702654ca7827f9687f3745593f2f1",
+    "thumbnailBytes": 42831,
+    "thumbnailSha256": "979283be8611084db3bc30666b5f2bf21590ebebee671dba64edca28642e7657"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

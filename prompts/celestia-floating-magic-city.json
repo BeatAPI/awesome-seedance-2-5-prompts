@@ -1,0 +1,43 @@
+{
+  "slug": "celestia-floating-magic-city",
+  "title": {
+    "en": "Celestia Floating Magic City",
+    "zh": "塞莱斯蒂亚浮空魔法城"
+  },
+  "description": {
+    "en": "30-second fantasy prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒塞莱斯蒂亚浮空魔法城提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "fantasy",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "4:3",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@kantakanta1233",
+    "url": "https://x.com/kantakanta1233/status/2083291892163506584"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/kantakanta1233/status/2083292481857479123"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/kantakanta1233/status/2083291892163506584"
+  ],
+  "prompt": "SUBJECTS:\nセレスティア（Celestia）、闇の魔導師 @ image1。銀白色から淡いラベンダーへとグラデーションする長い髪、幻想的に輝く紫色の瞳を持つ優雅な闇の魔法使い。発光する紫のクリスタル装飾が施されたゴシック調の黒いドレスをまとい、宙に浮かぶ紫のクリスタルコアを頂いた洗練された黒い魔法の杖を携える。\n\nENVIRONMENT:\n雲の上に浮かぶ壮大な魔法都市。浮遊島、石造りの空中橋、魔法使いの塔、巨大なクリスタル尖塔、空中に浮かぶ書店、魔法カフェ、飛行船、浮遊庭園、上向きに流れる幻想的な滝、浮遊ランタン、魔法の樹々が広がる幻想世界。\n\nCAMERA（全体）:\n全編を通してスピード感のあるシネマティックFPV視点。各カットでは「1つの主要カメラワーク」のみを採用し、演出を整理。カット間はホイップパンやモーションブラー・マッチカットで自然につなぎ、ハードカットは使用しない。\n\nSTYLE:\n最高品質のアニメシネマティックスタイル。超高品質イラスト、鮮やかなファンタジーライティング、美しいセルシェーディング、力強いアニメ線画、絵画的ハイライト、幻想的なブルーム、ボリューメトリックゴッドレイ、魔法のレンズフレア、AAA級ファンタジーアニメのオープニング品質。\n\nCOLOR LOGIC:\n漆黒、ミッドナイトブルー、バイオレット、ラベンダー、輝くマゼンタ、純白のハイライト、淡いシアンの環境光、暖かなゴールドのランタン光、エメラルドグリーンの植物。魔法エフェクトは深い紫を基調とする。\n\n━━━━━━━━━━━━━━━━━━━━━━\nTIMELINE（合計30秒）\n━━━━━━━━━━━━━━━━━━━━━━\n\n0:00-0:05【静止 → 爆発的始動】\nMAIN FX：巨大な魔法陣1つのみ\n\nセレスティアは時計塔の頂上で静かに立ち、マントと髪が風になびく。魔法の粒子が漂う中、杖を掲げると足元に巨大な魔法陣が展開する。\n\nCAMERA：\nゆっくりとしたオービット → 急激なスピードランプ\n\nTRANSITION：\nモーションブラー・マッチカットで屋根上チェイスへ\n\nSFX：\n魔力の低い唸り、クリスタル共鳴、魔力爆発、突風\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n0:05-0:10【疾走】\n\nMAIN FX：\n足元に生成される発光魔法足場のみ\n\n屋根の上を高速で駆け抜け、一歩踏み出すたびに足元へ魔法の足場が出現し、それを蹴って次々と跳躍する。他の魔法演出は重ねない。\n\nCAMERA：\nFPV追跡、足元中心のローアングルトラッキング\n\nTRANSITION：\n大きく跳躍しながら上方向へホイップパン\n\nSFX：\n魔法の足音、魔力バースト、風切り音\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n0:10-0:16【静止 → ポータル連鎖】\n\nMAIN FX：\n転移ポータル\n\n空中で約0.4秒だけスローモーション。周囲が静まり粒子だけがゆっくり漂う。その直後、高速で複数の転移ポータルを連続通過する。\n\nCAMERA：\nスローモーション静止 → ポータル回転に合わせた高速オービット\n\nTRANSITION：\nポータルの白い閃光で街への急降下へ\n\nSFX：\n（0.4秒ほぼ無音）\n→ ポータル共鳴、クリスタルベル、空間歪曲音\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n0:16-0:21【急降下魔法】\n\nMAIN FX：\n街全体を照らす巨大ルーン1つ\n\nランタンが並ぶ街路へ急降下しながら巨大魔法を発動。街全体が紫色の光で照らされる。蝶やリボンは背景演出程度に留める。\n\nCAMERA：\n急降下ショット＋クローズアップ＋ワイド俯瞰を交互に使用\n\nTRANSITION：\nスピードランプでラストスプリントへ\n\nSFX：\n多層魔法詠唱、クリスタルベル、魔法爆発\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n0:21-0:27【クライマックス】\n\nMAIN FX：\n巨大衝撃波\n\n最後の全力疾走。クリスタル尖塔へ跳躍し空中で一回転。着地と同時に杖を地面へ突き立て、都市全体へ巨大な魔力衝撃波が広がる。この瞬間のみ演出を最大化する。\n\nCAMERA：\n空中回転中はオービット → 着地後は都市全景へ大きく引く\n\nTRANSITION：\nワイドショットを維持しながら衝撃波の光が徐々に消えていく\n\nSFX：\n壮大な魔法クレッシェンド、クリスタル噴出音、オーケストラのインパクト\n\n━━━━━━━━━━━━━━━━━━━━━━\n\n0:27-0:30【余韻】\n\nMAIN FX：\n残光のみ\n\nセレスティアは尖塔の頂上に静かに立ち、衝撃波から舞い降りる光の粒子がゆっくり降り注ぐ。タイトルやロゴを配置できる余白として使える締め。\n\nCAMERA：\nゆっくりとしたプッシュイン → 静止\n\nSFX：\n消えていくクリスタル共鳴、静かな魔力の余韻",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/celestia-floating-magic-city/video-3d478d420944a020.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/celestia-floating-magic-city/poster-a58bb10119d6eee8.jpg",
+    "format": "video/webm",
+    "videoBytes": 3607016,
+    "videoSha256": "3d478d420944a020609933467db8f797eec9254b8d6ca420787393670f324c4d",
+    "thumbnailBytes": 53602,
+    "thumbnailSha256": "a58bb10119d6eee84c21abd86516bd0cd7451b00469f4febe7f2702a21eb56a5"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

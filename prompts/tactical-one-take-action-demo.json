@@ -1,0 +1,44 @@
+{
+  "slug": "tactical-one-take-action-demo",
+  "title": {
+    "en": "Tactical One-Take Action Demo",
+    "zh": "战术一镜到底动作演示"
+  },
+  "description": {
+    "en": "33-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "33 秒战术一镜到底动作演示提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "33s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@FaithAifilm",
+    "url": "https://x.com/FaithAifilm/status/2083205928602812560"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/FaithAifilm/status/2083206419202113729"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/FaithAifilm/status/2083205928602812560"
+  ],
+  "prompt": "SEEDANCE 2.5 — ACTION DEMO (15 Seconds | One Continuous Take)\nCharacter Lock\n\nAlex: Keep the exact same facial features, hairstyle, eye shape, and expression from the reference image. Different wardrobe: matte black tactical bomber jacket, charcoal compression shirt, dark tactical cargo pants, fingerless gloves, lightweight combat boots.\n\nEnemy: Athletic opponent in a dark gray tactical hoodie, black cargo pants, face partially covered.\nAudio\n\nNo Music\n\nFoley Only: footsteps, breathing, clothing movement, concrete scrapes, metal rattles, wind.\n00:00–00:03 | CHASE OPENING\n\nCamera: Chase Shot.\n\nMovement: Follow a moving subject quickly along the action route.\nSpeed: Fast, reactive, physically close.\n\nFraming: Keep Alex visible while allowing energetic reframing.\n\nEnd: Stay connected to Alex in motion.\n\nAction\n\nAlex bursts through an industrial alley while the enemy rapidly pursues. She darts between stacked cargo crates, vaults over a low barrier, and accelerates without slowing. The enemy mirrors every movement, staying only a few steps behind. Dust trails behind both runners.\n\nHighlight Camera\n\nDynamic handheld stabilization\n\nFast forward tracking\n\nMotion blur only on the background\n\nFocus remains locked on Alex's face\nFoley\nRunning footsteps • breathing • jacket movement • gravel • metal rattling\n00:03–00:06 | CLOSE-QUARTERS FOOTWORK\nCamera: Orbit Tracking Shot\n\nMovement: Fast 180° orbit while continuously pushing toward both characters.\nAction\n\nAlex pivots sharply into a defensive stance. The enemy advances. They exchange rapid guarded movements using blocks, sidesteps, redirects, and evasive footwork. Alex slips around the opponent with a smooth spin before creating space again. No visible injuries occur.\n\nHighlight Camera\nOrbit around both performers\n\nClose facial tracking\n\nQuick push-in during every defensive exchange\n\nFoley\nShoes sliding • fabric movement • glove contact • breathing\n\n00:06–00:09 | ENVIRONMENTAL MOVEMENT\n\nCamera: Low Gimbal Tracking\n\nMovement: Low-angle tracking beside Alex before rising smoothly.\nAction\nAlex slides beneath a metal beam, rebounds to her feet, then vaults onto a concrete platform. The enemy follows closely. Alex uses quick directional changes, forcing the opponent to overcommit before calmly repositioning.\n\nHighlight Camera\nLow-angle cinematic tracking\n\nFast vertical rise\n\nClose-up on determined eyes\nFoley\nConcrete scrape • landing • jacket movement • footsteps\n\n00:09–00:12 | FINAL EXCHANGE\n\nCamera: Handheld Hero Tracking\n\nMovement: Tight shoulder-level tracking with subtle camera shake for intensity.\n\nAction\n\nThe enemy rushes forward again. Alex calmly redirects the momentum using controlled defensive techniques before the opponent loses balance and slides safely to a stop several feet away. Alex remains composed, breathing steadily while never taking her eyes off the opponent.\n\nHighlight Camera\nTight close-ups\nFast reframing\n\nCinematic push toward Alex\nFoley\nFoot pivots • clothing movement • concrete slide • breathing • wind\n\n00:12–00:15 | HERO ENDING\n\nCamera: Slow Hero Push-In\nMovement: Smooth cinematic dolly toward Alex while slightly orbiting.\n\nAction\n\nThe enemy quietly walks away into the background. Alex stands alone beneath the evening light, adjusts her tactical jacket, looks directly into the camera, and gives a confident, calm expression.\n\nDialogue (Clear Pronunciation)\n\nAlex (looking directly into camera):\n\n\"This is Seedance Two Point Five... using CapCut Video Studio.\"\n\nAlex gives a slight confident nod as the screen naturally fades to black.\nHighlight Camera\nSlow cinematic push-in\n\nEye-level framing\nSharp focus on facial expression\n\nSoft depth of field\n\nFoley\nLight wind • jacket movement • distant ambience • calm breathing\nCinematic Settings\n\nPhotorealism Priority: 100%\n\nHuman Realism: 100%\n\nARRI Alexa 35\n\nCooke Anamorphic Lens\n\n4K UHD\n\n24 FPS\n\nHDR Lighting\n\nNatural Motion Blur\n\nFine Kodak Film Grain\n\nContinuous Single Take\nNo Cuts\nNo Music\nFoley Only",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/tactical-one-take-action-demo/video-637580523ff615f6.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/tactical-one-take-action-demo/poster-7d5546a04ca5355e.jpg",
+    "format": "video/webm",
+    "videoBytes": 2941192,
+    "videoSha256": "637580523ff615f6005c1eca490ea1b4e82d84e9485bd478f8ee2b94c3c8dd2d",
+    "thumbnailBytes": 64731,
+    "thumbnailSha256": "7d5546a04ca5355e067ff7cf91c7d63ccc2c5c2525604716b3d294b746e4622a"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

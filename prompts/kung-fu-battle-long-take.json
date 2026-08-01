@@ -1,0 +1,43 @@
+{
+  "slug": "kung-fu-battle-long-take",
+  "title": {
+    "en": "Kung Fu Battle Long Take",
+    "zh": "功夫大战长镜头"
+  },
+  "description": {
+    "en": "30-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒功夫大战长镜头提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "62:27",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ABCkenji",
+    "url": "https://x.com/ABCkenji/status/2083200851456495864"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/ABCkenji/status/2083200855520813113"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/ABCkenji/status/2083200851456495864"
+  ],
+  "prompt": "Use only the two attached character references.\n\nLIN: keep exactly the same face, youthful appearance, twin-bun hairstyle, red ribbons, white hoodie, red jacket with gold dragon embroidery, black pants, shoes, body proportions and colors.\n\nMASTER RYU: keep exactly the same elderly face, white eyebrows, long white beard, white hair, martial-arts robe, belt, pants, shoes, body proportions and colors.\n\nPreserve both identities, costumes and proportions from the first frame to the last. No redesign, no additional people, no duplication, no face changes, no costume changes.\n\nLOCATION AND LOOK\nAncient Chinese mountain temple courtyard at sunrise. Weathered stone paving, dark wooden temple buildings, stone lanterns, pine trees, thin morning mist and soft sunlight cutting through branches. Restrained saturation, deep blacks, warm highlights, realistic skin, fabric, dust and debris. The atmosphere is grounded and dramatic, like a premium live-action period action film. No fantasy energy, wire-fu, anime effects or supernatural movement.\n\nACTION LANGUAGE\nThe fight uses physically achievable Hong Kong-style kung fu choreography: fast continuous combinations, precise timing, close-range trapping, redirection of force, environmental awareness, comic-free seriousness, visible weight transfer and clean balance recovery. Every movement must connect logically to the next. No repeated animation, impossible flips, floating, sliding feet or empty air punches.\n\nLin fights with youthful aggression, speed and large committed attacks. Her expression moves from confidence to frustration and fierce concentration.\n\nRyu fights with calm economy. He avoids attacks by centimeters, uses tiny shifts, circular footwork, wrist control, hip rotation and redirection rather than brute force. His expression remains composed.\n\nCAMERA\nProfessional long-take choreography with invisible cuts. Mostly 35–40 mm lens. Smooth Steadicam tracking, lateral movement, controlled orbits and brief low-angle inserts. Keep screen direction and spatial geography clear. Both fighters must remain readable. Use close-ups only for decisive moments. No random zoom, excessive shake or disorienting cuts.\n\nTIMELINE\n\n0–4 sec\nWide shot. Lin and Ryu face each other six meters apart in the misty courtyard. Wind moves ribbons, hair and robes. The camera slowly pushes in. Lin lowers her center of gravity; Ryu remains relaxed.\n\n4–8 sec\nLin bursts forward. Dust kicks up under her shoes. She opens with a straight punch, palm strike and low sweep. Ryu slips each attack with minimal head, shoulder and waist movement. The camera tracks beside them, preserving both bodies in frame.\n\n8–13 sec\nLin continues without pause: spinning backfist, elbow, high roundhouse kick, landing step and rapid chain punches. Ryu parries once, redirects twice and evades the rest by centimeters. The camera performs a smooth half-orbit, keeping the temple axis and screen direction consistent.\n\n13–18 sec\nLin uses the environment. She steps onto a low stone bench, rebounds into a flying side kick, lands on the paving and immediately transitions into a spinning heel kick. Ryu ducks, turns and guides her momentum past him with one hand. The bench remains intact. Dust and fabric react naturally.\n\n18–23 sec\nClose-range exchange. Lin attacks with elbows, short punches, knee feints and a foot sweep. Ryu traps her wrist, releases, checks her elbow, pivots behind her line and taps her shoulder to disrupt balance. Lin recovers instantly and attacks again. The action is extremely fast but readable, with no pauses or repeated motions.\n\n23–27 sec\nThe fastest section. Lin throws a final relentless combination: body punch, palm, backfist, spinning kick and rising knee. Ryu answers with compact deflections, one low kick to break rhythm and one palm to redirect her center. Heavy impacts produce realistic cloth snaps, foot sounds and small stone fragments.\n\n27–30 sec\nLin commits to a powerful descending axe kick. At the last possible instant, Ryu steps inside, turns his hips and redirects her centerline with a precise palm. Lin lands safely, slides one meter and regains balance. Both stop. Dust settles. Leaves drift between them. They hold eye contact with silent mutual respect as the camera cranes backward to reveal the temple and mountains.\n\nQUALITY CONTROL\nFeature-film anatomy and physics. Correct hands and feet. No extra limbs, morphing, flicker, costume drift, face drift, body penetration, object popping, teleportation or environment changes. Maintain consistent lighting, direction, identities and wardrobe throughout.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/kung-fu-battle-long-take/video-9fe84b6dd82651d2.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/kung-fu-battle-long-take/poster-9f26f82d788ece21.jpg",
+    "format": "video/webm",
+    "videoBytes": 2044029,
+    "videoSha256": "9fe84b6dd82651d25312d14f147aab7d97aa806afc38889b071d38330cf9be4b",
+    "thumbnailBytes": 32058,
+    "thumbnailSha256": "9f26f82d788ece21761b9394e0d4767acc096a86d7ede9ad77e85277d3fa6805"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

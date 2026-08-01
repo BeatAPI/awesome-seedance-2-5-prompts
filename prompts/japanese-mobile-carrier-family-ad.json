@@ -1,0 +1,44 @@
+{
+  "slug": "japanese-mobile-carrier-family-ad",
+  "title": {
+    "en": "Japanese Mobile Carrier Family Ad",
+    "zh": "日本运营商家庭广告"
+  },
+  "description": {
+    "en": "15-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒日本运营商家庭广告提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "15s",
+  "aspectRatio": "427:240",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@tanabe_fragm",
+    "url": "https://x.com/tanabe_fragm/status/2083157170971955240"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/tanabe_fragm/status/2083157170971955240"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/tanabe_fragm/status/2083157170971955240"
+  ],
+  "prompt": "Duration: 15s | Aspect ratio: 16:9 | 24fps\nJapanese mobile carrier commercial. Family comedy. Eight beats, hard cuts.\n\nREFERENCES\n@Image 1 — character sheet: 昭一 / 健太 / ひなた (long-faced bloodline)\n@Image 2 — character sheet: 佳代 / 美穂 / あおい (round-faced bloodline)\n@Image 3 — group lineup of all six, showing relative heights\n\nSTYLE (applies to every beat)\nSetting: the dining room of an ordinary Japanese suburban house, early\nmorning. A wooden dining table set for six — toast, rice bowls, a teapot, a\nmilk carton — school bags on a chair, a kitchen counter behind, a wide window\nwith morning sun pouring in. Lived-in, slightly cluttered.\nLighting: bright natural morning sun through the window plus soft warm\ninterior light. High-key, clean, low contrast, cheerful.\nPalette: warm cream, pale wood, soft yellow.\nLens: 35mm, moderate depth of field so several faces stay readable at once.\nPhotorealistic, natural skin texture, no glamour lighting, no gloss.\nEveryone holds a plain modern smartphone with a blank dark screen — no apps,\nno icons, no interface, no brand marks.\nKeep all six faces exactly as in @Image 1, @Image 2, and @Image 3. Six clearly\ndifferent people who are unmistakably one family. No drift, no face blending.\n\nBEAT 1 (0-2.0s)\nWide shot of the whole table. All six sit around it, five staring at their\nphones with rising alarm, leaning in different directions and talking over\neach other. あおい (small girl, glossy black bob with a yellow clip, bright\nyellow T-shirt) is up on her knees on her chair, holding her phone out at\narm's length, then throws both arms up.\nCamera: WS, handheld drift across the table.\nDialogue — あおい, high bright child's voice, panicked: \"あー！写真送れない！\"\n\nBEAT 2 (2.0-3.8s)\nひなた (thin twelve-year-old, long black ponytail, grey zip-up hoodie) glares\ndown at her phone and jabs the screen twice with one finger, eyebrows drawn\ntogether. 健太's shoulder in soft foreground blur.\nCamera: MCU, quick push-in.\nDialogue — ひなた, flat exasperated pre-teen voice: \"うちのギガ、死んでる\"\n\nBEAT 3 (3.8-5.2s)\n健太 (tallest, softening waist, short thinning hair, navy polo shirt) sits\nacross the table with a slice of toast held in his teeth and both hands on his\nphone. His eyes go wide and his shoulders jump.\nCamera: MS, locked off.\nDialogue — 健太, muffled around the toast, startled: \"え、俺も？\"\n\nBEAT 4 (5.2-7.0s)\n美穂 (slim, glossy dark chestnut bob, navy-and-white striped top, denim jeans)\nstands at the end of the table, teapot in one hand, and plants the other hand\non her hip as she looks down at them with fond exasperation.\nCamera: MS from slightly low, gentle push-in.\nDialogue — 美穂, warm and dry, mid-forties woman: \"動画、見すぎたでしょ\"\n\nBEAT 5 (7.0-9.2s)\n昭一 (slim upright old man, white combed hair, gold-rimmed glasses, beige\ncardigan over a pale blue shirt) sits at the head of the table, perfectly calm\namid the noise. He raises a slim dark object to chest height and gazes at it\nwith quiet satisfaction, chin lifted.\nCamera: MCU, slow push-in.\nDialogue — 昭一, low unhurried elderly man, faintly smug: \"わしのは、ちゃんと動くぞ\"\n\nBEAT 6 (9.2-11.3s)\n佳代 (petite, graceful, silver-white layered hair, dusty rose blouse with a\nbeige apron) steps in beside him, teapot still in one hand, and calmly points\nat the object he is holding. Her face is deadpan and kind. He does not react\nyet.\nCamera: two-shot MS, locked off.\nDialogue — 佳代, gentle elderly woman, perfectly matter-of-fact:\n\"おじいさん、それリモコン\"\n\nBEAT 7 (11.3-13.0s)\nEveryone reacts at once. ひなた throws her head back, 健太 drops his toast,\n美穂 covers her mouth, あおい laughs with her whole body, 佳代 stays calm.\n昭一 slowly turns the object over in his hand and stares at it, frozen behind\nhis glasses.\nCamera: WS, handheld pull-out.\nDialogue: overlapping shrieks and laughter from the family. No words.\n\nBEAT 8 (13.0-15.0s)\nAll six now laughing together around the table in the morning light, leaning\ntoward each other, phones set down on the table. 昭一 finally laughs too and\nputs the remote control down.\nCamera: WS from slightly low, gentle push-in.\nVoiceover — calm warm male narrator, not on camera: \"家族で、わけあおう\"\n\nAUDIO\nA bright light comedic track under the whole spot, playful, building.\nKitchen ambience: a kettle, cutlery, a chair scraping. Overlapping family\nchatter throughout. A beat of near-silence right after 佳代's line at 11.3s,\nthen the laughter bursts in.\n\nAVOID\non-screen text, subtitles, captions, telops, logos, watermarks, visible phone\nscreens or app icons, real brand marks, six people with the same face,\ncharacters swapping faces between beats, wardrobe changing between beats,\nchildren looking older or adult-proportioned, cartoon poses, mugging at\ncamera, dark or moody lighting, stacked adjectives, mixed camera moves,\njitter, flicker.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-mobile-carrier-family-ad/video-c1725dc88a062536.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-mobile-carrier-family-ad/poster-24351c93f01c292b.jpg",
+    "format": "video/webm",
+    "videoBytes": 743930,
+    "videoSha256": "c1725dc88a062536a80cdb75e63ebf0aca624df46c437f7908ed156a9b08b15f",
+    "thumbnailBytes": 46669,
+    "thumbnailSha256": "24351c93f01c292b57b59ec56724a961a9a4423f5341ce798e31cf9059c05f7b"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

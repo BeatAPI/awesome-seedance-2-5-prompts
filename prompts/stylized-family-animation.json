@@ -1,0 +1,43 @@
+{
+  "slug": "stylized-family-animation",
+  "title": {
+    "en": "Stylized Family Animation",
+    "zh": "风格化家庭动画"
+  },
+  "description": {
+    "en": "30-second animation prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒风格化家庭动画提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "animation",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@jaynwabueze",
+    "url": "https://x.com/jaynwabueze/status/2083166430522921048"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/jaynwabueze/status/2083166434880839733"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/jaynwabueze/status/2083166430522921048"
+  ],
+  "prompt": "High-quality 3D animated cartoon, stylized modern family-animation film\nlook, oversized heads, huge expressive eyes, exaggerated proportions,\nsmooth rounded clay-like 3D surfaces, subsurface scattering skin, vibrant\nsaturated colors, warm cinematic animated lighting. NOT realistic, NOT\nlive action. 30 seconds, snappy comedic pacing.\n\nLOCATION: a bright office break room, cheerful cartoon kitchen counter,\na small round table, an open fridge door behind them. On the table sits a\nwhite plate holding nothing but crumbs and a smear of chocolate frosting.\n\nCHARACTERS (locked, no drift):\nMAYA — woman, oversized round head, curly dark hair, green blazer, huge\nsuspicious eyes, arms folded. Speaks English.\nDIEGO — tall skinny man, light blue shirt, enormous eyebrows, very\ndramatic hand gestures. Speaks Spanish.\nLUC — short round man, grey knit sweater, sweet innocent face, a tiny\nsmear of chocolate frosting on his cheek that he never notices. Speaks\nFrench.\n\nCOLOR 60:30:10 — 60% bright clean office whites and warm wood / 30% soft\nmint-green wall / 10% accent of Maya's green blazer and the chocolate\nfrosting.\n\n0–4s: wide shot. All three stand around the table staring down at the\nempty plate in dramatic silence. Slow push-in on the crumbs like a crime\nscene. Tense low strings.\n\n4–8s: MAYA leans in, eyes narrowing, and says in English: \"Okay. Which\none of you ate the last slice?\" Cut to her suspicious glare.\n\n8–13s: DIEGO throws both hands up theatrically, offended, and says in\nSpanish: \"¿Yo? ¡Yo ni siquiera como azúcar!\" He clutches his chest,\nscandalised.\n\n13–18s: LUC blinks innocently, shrugs with total sincerity, and says in\nFrench: \"Moi non plus. Je suis complètement innocent.\" The frosting is\nclearly visible on his cheek. Diego slowly turns and stares at him.\n\n18–23s: MAYA points at Luc's face without a word. Beat of silence. LUC\ntouches his cheek, looks at his finger, and freezes, eyes going enormous.\n\n23–27s: LUC, quietly, in French: \"...Bon. J'ai peut-être goûté un petit\nmorceau.\" Maya and Diego both explode in overlapping outrage.\n\n27–30s: Luc slowly licks the frosting off his finger anyway, completely\nunrepentant, as the other two throw their arms up. Freeze on his guilty\nlittle smile.\n\nCAMERA: slow push-in on the plate, then natural shot-reverse-shot coverage\ncutting to whoever speaks, a wide two-shot on the accusation, tight\nclose-up on Luc's frozen face, wide comedic final shot on all three.\n\nAUDIO: tense low comedic strings during the standoff, a dramatic sting on\nMaya's question, cartoon gasp from Diego, dead silence during the pointing\nbeat, overlapping outraged shouting at the end, one cheeky little\nxylophone note on the final lick. Each character's lips match their own\nline and language precisely. No background music over the dialogue.\n\nFORBIDDEN: no auto-generated subtitles, no background music bed, no voice\ncrossing to the wrong character, no design drift, no realistic or\nlive-action rendering, no named studio references, no readable text or\nlogos.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/stylized-family-animation/video-7936b1d3f39a03f0.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/stylized-family-animation/poster-92f62b18d476f20a.jpg",
+    "format": "video/webm",
+    "videoBytes": 1398864,
+    "videoSha256": "7936b1d3f39a03f0f3c6aae35df4504630b547a6fc186aa5b3a248be965ecb20",
+    "thumbnailBytes": 50663,
+    "thumbnailSha256": "92f62b18d476f20a57f3e7ee6c3db13f2e8cfe1e60466d06c7b4f9a3805ff744"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

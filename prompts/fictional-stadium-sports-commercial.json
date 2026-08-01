@@ -1,0 +1,44 @@
+{
+  "slug": "fictional-stadium-sports-commercial",
+  "title": {
+    "en": "Fictional Stadium Sports Commercial",
+    "zh": "虚构体育场商业广告"
+  },
+  "description": {
+    "en": "15-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒虚构体育场商业广告提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "15s",
+  "aspectRatio": "427:240",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@tanabe_fragm",
+    "url": "https://x.com/tanabe_fragm/status/2083148734268121401"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/tanabe_fragm/status/2083148734268121401"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/tanabe_fragm/status/2083148734268121401"
+  ],
+  "prompt": "Duration: 15s | Aspect ratio: 16:9 | 24fps Text-to-video. No reference images. Fictional players and fictional teams. STYLE (applies to every beat) A packed 60,000-seat stadium at night, final of a major international football tournament. Light rain falling through hard white floodlights. Deep green pitch, cut grass texture, wet and glossy, spray kicking up from every stride. Team in dark blue: shirts, shorts, and socks in deep navy blue, plain, no crests, no sponsor lettering. The player in focus wears the number 10. Opposing team in red: shirts in deep red with navy shorts, plain, no crests, no sponsor lettering. Lens: 85mm broadcast telephoto feel, shallow depth of field, heavy motion blur on the background while the player stays sharp. Rain streaks lit from behind. Camera flashes popping in the dark stands. Contrast: high. Palette: deep green, navy, hard white light. Photorealistic, real skin with sweat and rain, natural grain, broadcast football look. No slow-motion except where stated. Keep the same number 10 player throughout: a Japanese man in his mid- twenties, lean and wiry, short black hair soaked flat, tape on his left wrist. Same face, same build, same kit in every beat. BEAT 1 (0-3s) The number 10 receives the ball near the halfway line, turns, and accelerates into open space. Studs tear into wet grass, spray flying from his heels. Two red shirts turn to chase behind him. Camera: wide, tracking alongside him at grass level, moving with his speed. BEAT 2 (3-6s) He drives at two red defenders, pushes the ball past the first, takes a shoulder into his back, staggers half a step and keeps running. Rain in the floodlight beams above him. Camera: handheld chase from directly behind, close to his shoulders. BEAT 3 (6-9s) He reaches the edge of the penalty area, plants his left foot hard into the turf, hips opening, right leg drawn back to strike. Water bursts from under the planted boot. Defenders lunge in from both sides, too late. Camera: medium close-up, swinging around to his striking side. BEAT 4 (9-11.5s) Brief slow motion. The ball leaves his boot and rises, spinning, rain scattering off its surface, and clips past the goalkeeper's outstretched fingertips toward the top corner. The keeper is fully extended in mid-air. Camera: following the ball in a single continuous move toward the goal. BEAT 5 (11.5-13.5s) Real time returns. The ball hits the roof of the net and the netting snaps outward, water shaking loose from the cords. The keeper lands hard on the wet turf behind it. Camera: tight on the net, locked off. BEAT 6 (13.5-15s) The number 10 wheels away, arms flung wide, mouth open in a roar, sliding on his knees across the soaked grass. Behind him the entire stand erupts, a solid wall of blue, thousands of camera flashes firing at once. Camera: low and wide, pulling out to reveal the crowd. AUDIO A low continuous crowd rumble that builds through beats 1-3. A sharp clean strike sound on the ball at 9s, then the crowd noise drops away almost to silence during the slow motion. At 11.5s the net snaps and the stadium explodes into a sustained roar. Distant muffled commentary with no intelligible words. Rain, studs on wet turf, heavy breathing. AVOID on-screen text, scoreboards, broadcast graphics, subtitles, team crests, sponsor logos, watermarks, any real-world team or tournament branding, duplicated or disappearing ball, more than one ball in frame, ball changing direction unnaturally, extra or missing limbs, deformed hands or faces, face drift, kit colour changing between beats, stacked adjectives, mixed camera moves, jitter, flicker, ghosting.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/fictional-stadium-sports-commercial/video-cb329d9a303614d8.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/fictional-stadium-sports-commercial/poster-fb5ec1a394367b37.jpg",
+    "format": "video/webm",
+    "videoBytes": 693541,
+    "videoSha256": "cb329d9a303614d837f36f7eb7bf85f429f48651d53a0e592e0d25843d48d5e4",
+    "thumbnailBytes": 16311,
+    "thumbnailSha256": "fb5ec1a394367b37c962434c3f3ef1b938151d88600fec60952a15fbb073c0f2"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

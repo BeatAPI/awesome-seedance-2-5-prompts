@@ -14,8 +14,8 @@
   "duration": "30s",
   "aspectRatio": "16:9",
   "ingredients": [
-    "Image reference",
     "Text prompt",
+    "Image reference",
     "Audio or sound direction"
   ],
   "source": {
@@ -33,11 +33,13 @@
   ],
   "prompt": "30秒电影级青春竞速剧情短片,2d动画风格。主角是一个位少年车手,驾驶机车参加高规格比赛。整体风格热血、青春、情感强烈、电影感强,具有完整起承转合和清晰情绪弧线。全片 仅使用两种运镜:高速跟拍、慢动作环绕。台词极少,自然像记忆碎片一样出现,语气真挚、温柔、克制,不喊口号,不过度熔情。不要灾难感、不要负向表达、不要夸张科幻。重点突出青春竞 速中的爱、支撑、反击与成长。0秒到5秒黄昏赛道,高速激烈竞速开场。镜头紧贴地面高速跟拍少年机车,轮胎掠过赛道边线,机车轰鸣,风声凌厉,气氛紧张炽热。少年全神贯注,夕阳在车 身金属外壳上拉出锋利高光。5秒到9秒进入关键弯道后、少年被对手突然超越。高速跟拍继续推进,画面表现出排名下滑和节奏被打乱的压迫感。头盔内近景出现短暂失神、呼吸发紧、轻微动 摇。少年低声说:\"CanIstill catchup...\"9秒到14秒少年落在后方,呼吸加重,情绪跌入低谷。比赛没有停止,机车仍在高速前进。画面开始在高速骑行中闪回温暖记忆碎片:童年学车时,有 人从身后扶住他;父亲替他整理头盔,动作细致而安静;终点前,-一个温柔注视他的笑容;黄昏坡道上,并肩走过的背影。这些记忆都用金色逆光、柔和慢动作、碎片化感受呈现。14秒到18秒 音乐从压抑逐渐转向昂扬。记忆中传来克制而温柔的声音:\"Don't be afraid - I'm always here.\"\"Stay steady. And locokforward.\"少年眼神重新聚焦,呼吸慢慢稳定,情绪从动接转为坚定。18 秒到23秒少年重新找回信念,全力提速,精准切线反击。高速跟拍白表现机车压弯、出弯、逼近前车的力量感与控制力。少年低声而坚定地说:\"Iwon't stophere.\"23秒到27秒前方出现一段上 扬赛道,少年迎着夕阳全速冲刺。画面只保留呼吸声、引擎声和持续抬升的音乐,不再加入多余台词。机车借助惯性腾空而起,进入震撼慢动作。记忆深处最后传来一句带笑的温柔声音:\"Goo n.\"27秒到30秒摄影机围绕半空中的机车进行慢动作环绕特写。将热血、温柔、自由、向上飞跃的情绪推向高潮。身后开出繁花特效,随后出现seedance,参考 @图像1",
   "media": {
-    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/youth-motorcycle-racing-memory.webm",
-    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/youth-motorcycle-racing-memory.jpg",
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/youth-motorcycle-racing-memory/video-a17e473dda32cdc3.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/youth-motorcycle-racing-memory/poster-6907514780819ab5.jpg",
     "format": "video/webm",
     "videoBytes": 2614622,
-    "videoSha256": "a17e473dda32cdc3c24f502770880d179ba54bcdf549e2e0d5e6ce1f556ea76e"
+    "videoSha256": "a17e473dda32cdc3c24f502770880d179ba54bcdf549e2e0d5e6ce1f556ea76e",
+    "thumbnailBytes": 50112,
+    "thumbnailSha256": "6907514780819ab5d8d11c7458798785e3d0fb80857ca5697254858a1a574a31"
   },
   "rightsStatus": "source-attributed; redistribution-rights-not-verified"
 }

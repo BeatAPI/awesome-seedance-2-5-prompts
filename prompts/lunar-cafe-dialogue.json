@@ -1,0 +1,43 @@
+{
+  "slug": "lunar-cafe-dialogue",
+  "title": {
+    "en": "Lunar Cafe Dialogue",
+    "zh": "月球咖啡馆对话"
+  },
+  "description": {
+    "en": "30-second dialogue prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒月球咖啡馆对话提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "dialogue",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@digitalwindai",
+    "url": "https://x.com/digitalwindai/status/2083281155286085911"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/digitalwindai/status/2083281155286085911"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/digitalwindai/status/2083281155286085911"
+  ],
+  "prompt": "META\n\nSTYLE\nBlack-and-white 35mm arthouse cinema, 1960s European café-film look. High-contrast monochrome, soft film grain, gentle bloom on the lamps, shallow depth of field on close-ups.\n\nLIGHT\nNight interior lit only by practicals: hanging globe lamps, the espresso machine's glow, and cold light through the window from the lunar plain. Soft key from the window side, deep shadow in the corners, clear catch-lights in the eyes.\n\nCOLOR\nNone. Full grayscale, rich mid-grays on skin, no tint of any kind.\n\nTEXTURE\nFine grain. Chrome holds soft rolling reflections, glass refracts the lamps in small bright points, skin keeps visible pore-level texture with no smoothing.\n\nMOOD\nQuiet, intimate, unhurried — a conversation overheard in a place that is ordinary to the people in it.\n\nSCENE CONTEXT\nA near-empty late-night café on the surface of the moon. A man and a woman sit across a small round table beside the wide window, talking about the water. Neither of them ever looks outside.\n\nCHARACTERS\n\nThe woman: early thirties, dark bob haircut, intelligent face, dark turtleneck with the cuffs visible at her wrists, thin earrings, light coat over her chair. She sits camera-left. Identical in every shot.\n\nThe man: mid-thirties, dark slightly messy hair, light stubble, shadowed under-eyes, dark jacket over an open-collar light shirt, jacket sleeve visible at his wrists. He sits camera-right. Identical in every shot.\n\nLOCATION MAP\nForeground: their small round table. Her espresso cup and the single tall glass of water sit on her side, close to her right hand. His espresso cup and spoon sit on his side. Nothing else on the table.\nMidground: small round tables, worn tiled floor, hanging globe lamps, chrome espresso machine at the counter.\nBackground: a wide window along the wall beside them. Beyond the glass, a grey lunar plain with low craters, black sky, and Earth small and low near the horizon.\n\nFIRST FRAME / BLOCKING\nInterior medium two-shot, 47°, eye level. The woman sits camera-left, the man camera-right, the window and lunar plain behind them, café interior deeper in the room. Her hands are around her cup with the water glass beside it, his forearms rest on the table.\n\nFORMAT MODE\nTimed multishot with HARD CUTS only at 6.0s, 8.5s, 11.0s, 13.0s, 16.0s, 19.0s, 22.5s, 25.0s and 28.0s. The camera cuts only at these points.\n\nSTORYBOARD\n\nSHOT 1 (0.0–6.0s)\nMedium two-shot, 47°, faint 1–2 cm breathing drift.\nThe woman, eyes on him: \"Do you think people get more honest when they're tired?\"\nThe man answers late, eyes coming up off the table: \"No. Their lies just get less inventive.\"\n\nSHOT 2 (6.0–8.5s)\nExtreme close-up, 12°, of the woman's hands on her side of the table, dark turtleneck cuffs at her wrists. Her fingers leave her cup, lift the tall glass of water, and set it back down in the same place, the water rocking once.\nThe woman, speaking over the image: \"It's different tonight.\"\n\nSHOT 3 (8.5–11.0s)\nClose portrait of the man, 18°, eyes down.\nThe man: \"They changed the water.\"\n\nSHOT 4 (11.0–13.0s)\nExtreme close-up, 12°, of the man's hand on his side of the table, dark jacket sleeve at his wrist, turning his spoon a half-turn on the saucer.\nThe woman, speaking over the image from off-frame: \"Again?\"\n\nSHOT 5 (13.0–16.0s)\nMedium close-up of the man, 29°, lunar plain soft behind his shoulder, eyes still on his cup.\nThe man: \"The old one remembered too much.\"\n\nSHOT 6 (16.0–19.0s)\nClose-up of the woman, 18°. Her eyes come up and hold his.\nThe woman: \"Water can't remember people.\"\n\nSHOT 7 (19.0–22.5s)\nMedium close-up of the man, 29°. He swallows once, then looks up at her.\nThe man: \"Probably not. But people can't remember the past either.\"\n\nSHOT 8 (22.5–25.0s)\nMedium two-shot, 47°, lunar plain behind them. She leans in slightly.\nThe woman: \"Then what do we remember?\"\n\nSHOT 9 (25.0–28.0s)\nClose portrait of the man, 18°. One breath, then his eyes come up and hold hers.\nThe man: \"The last version we could live with.\"\n\nSHOT 10 (28.0–30.0s)\nClose-up of the woman, 18°, the lunar plain and black sky soft behind her through the glass. No dialogue. Her face stills, one slow blink, her eyes drop toward her cup and then drift slightly aside. The shot holds on her to the last frame, the image staying full and lit.\n\nPERFORMANCE\nBoth faces stay mostly still, so small movements read. Emotion comes through eyelids, brow corners, jaw and breath rather than expression. Blinks work as punctuation — withheld through the important lines, released after. She runs from light and half-joking, to quieter, to genuinely curious, to quiet recognition at the end. He runs from dry amusement, to flat matter-of-fact, to unguarded tiredness on the last line. Living eyes with catch-lights, natural skin, precise lip sync whenever a speaking face is in frame. Every line is delivered unhurried and complete inside its own shot.\n\nPHYSICS\nSteam curls off the cups and the espresso machine. Water rocks and settles in the glass. The cup meets the saucer with weight, the spoon rings faintly on chrome. Nothing beyond the window moves.\n\nAUDIO\nThe low hum of an enclosed room, a faint air-system whisper, the hiss of the espresso machine, a spoon against a saucer, a swallow of water. No music anywhere. Voices sit close and dry, as in a small room late at night.\n\nOUTPUT SETTINGS\nBlack and white throughout, real-time, no slow motion.\n\nPOSITIVE LOCKS\nThe image stays fully monochrome in every shot.\nThe woman speaks her five lines and the man speaks his five lines, exactly as assigned in the storyboard, and neither ever speaks the other's words.\nThe single glass of water stays on the woman's side of the table for the whole scene, and only she touches it.\nThe woman stays camera-left and the man camera-right in every two-shot.\nHands in the extreme close-ups are identified by sleeve — turtleneck cuff for her, jacket sleeve for him.\nThe table holds only two espresso cups on saucers, two spoons and one glass of water.\nThe interior reads clearly as a café — table, cups, lamps, counter, espresso machine.\nThe window shows a grey lunar plain, black sky and small distant Earth wherever it is visible, and nothing beyond the glass ever moves.\nBoth characters keep their exact appearance and seats across every shot.\nAll ten lines are spoken in full and finish inside their own shot.\nCuts land only at the stated seconds.\nThe video ends on the held close-up of the woman's face, the image full and lit to the final frame.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/lunar-cafe-dialogue/video-5ce98162dc4cdfe2.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/lunar-cafe-dialogue/poster-e5e89e003fd4382b.jpg",
+    "format": "video/webm",
+    "videoBytes": 1056831,
+    "videoSha256": "5ce98162dc4cdfe29d868213d32b53e90c5c9acdc4f6092f0a6684af46bd3f11",
+    "thumbnailBytes": 66363,
+    "thumbnailSha256": "e5e89e003fd4382b59b86ad7340974e9cc5621046a439dadcbb288845dc11789"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

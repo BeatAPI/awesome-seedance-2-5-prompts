@@ -14,9 +14,9 @@
   "duration": "15s",
   "aspectRatio": "4:3",
   "ingredients": [
+    "Text prompt",
     "Image reference",
-    "Video or motion reference",
-    "Text prompt"
+    "Video or motion reference"
   ],
   "source": {
     "kind": "x",
@@ -33,11 +33,13 @@
   ],
   "prompt": "【基础设定】一段女生不同场景跳“”拖拉机舞“”，并在中途完成丝滑转场的视频，真人写实质感。人物跳舞动作，位置关系严格参考 {{Mixed 3}} 复刻动作轨迹 ；\n\n0-3秒：将参考视频里面的主体替换成女生d72f88ea-9673-461d-9f75-87a4040f02e0，场景跟随变化；女生没有尾巴，首帧画面就是女主拿着短刀，高高举起手，跟参考视频的首帧动作完全一致\n\n3-6秒：女生通过一个舞蹈工作衔接特效转场变成exec-9219a05b-ee6d-4c5b-9176-edad734b296d ，场景跟随变化；女生继续参考视频的动作完成舞蹈\n\n6-9秒：女生通过一个舞蹈工作衔接特效转场变成exec-a1caf641-08fc-4f8d-b156-c084277123be，场景跟随变化；女生继续参考视频的动作完成舞蹈\n\n9-15秒：女生通过一个舞蹈工作衔接特效转场变成image，场景跟随变化；女生继续参考视频的动作完成舞蹈\n\n【限制】动作不漂移，不跳帧，不改变人物的数量和站位；全程画面只有一个女生在跳舞，不要肢体融合、重复肢体或主体消失。轮廓稳定。仅生成音效，不要生成背景音乐。女生全程没有尾巴",
   "media": {
-    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/tractor-dance-motion-transfer.webm",
-    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/tractor-dance-motion-transfer.jpg",
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/tractor-dance-motion-transfer/video-33b0883872d2d85d.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/tractor-dance-motion-transfer/poster-8e5ea10fc88f1b3c.jpg",
     "format": "video/webm",
     "videoBytes": 976660,
-    "videoSha256": "33b0883872d2d85d8cfaea90342975ee1e90f1ede529f6f8ed71c188e4d62253"
+    "videoSha256": "33b0883872d2d85d8cfaea90342975ee1e90f1ede529f6f8ed71c188e4d62253",
+    "thumbnailBytes": 32943,
+    "thumbnailSha256": "8e5ea10fc88f1b3cb0962bf0cad9b4e9240b5ce718a77b85b4a1e622098d507b"
   },
   "rightsStatus": "source-attributed; redistribution-rights-not-verified"
 }

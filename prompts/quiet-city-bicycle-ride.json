@@ -29,13 +29,15 @@
   "modelEvidenceUrls": [
     "https://x.com/noorwithwifi/status/2074956913075491029"
   ],
-  "prompt": "A young East Asian woman riding a bicycle through quiet city streets, casually exploring the neighborhood, cinematic, natural daylight, realistic, smooth camera movement. https://t.co/CLIgJpdpQX",
+  "prompt": "A young East Asian woman riding a bicycle through quiet city streets, casually exploring the neighborhood, cinematic, natural daylight, realistic, smooth camera movement.",
   "media": {
-    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/quiet-city-bicycle-ride.webm",
-    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/quiet-city-bicycle-ride.jpg",
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/quiet-city-bicycle-ride/video-222617624dd8efad.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/quiet-city-bicycle-ride/poster-75ba3ef6aead6c64.jpg",
     "format": "video/webm",
     "videoBytes": 1883212,
-    "videoSha256": "222617624dd8efadce9a76933d67ad6c3864a5f2ddd0db35b1af63f72b01f352"
+    "videoSha256": "222617624dd8efadce9a76933d67ad6c3864a5f2ddd0db35b1af63f72b01f352",
+    "thumbnailBytes": 85641,
+    "thumbnailSha256": "75ba3ef6aead6c6450473eb1bd988f4b14b7daac67c5d73b5eec4f9e3e54e945"
   },
   "rightsStatus": "source-attributed; redistribution-rights-not-verified"
 }

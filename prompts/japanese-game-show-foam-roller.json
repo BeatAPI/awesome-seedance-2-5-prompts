@@ -1,0 +1,44 @@
+{
+  "slug": "japanese-game-show-foam-roller",
+  "title": {
+    "en": "Japanese Game Show Foam Roller",
+    "zh": "日本综艺泡沫滚筒"
+  },
+  "description": {
+    "en": "15-second comedy prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒日本综艺泡沫滚筒提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "comedy",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@NexlowX",
+    "url": "https://x.com/NexlowX/status/2083281796351881692"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/NexlowX/status/2083283029342982511"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/NexlowX/status/2083281796351881692"
+  ],
+  "prompt": "Broadcast footage from a real 2000s–2010s Japanese sports entertainment program. Realistic TV broadcast footage reminiscent of a major Japanese obstacle course competition show. Full-scale sports coverage combining ENG cameras, crane cameras, wire cameras, and telephoto cameras. Natural handheld camera shake, zoom, pan, and tracking shots. Slightly soft footage characteristic of early HD broadcasts, natural broadcast noise, TV compression feel, realistic color reproduction. The venue features large lighting, spectator seating, announcer's booth, and the enthusiastic cheers of the heated audience. A tense atmosphere of anticipation and the challenger's seriousness permeate the entire competition venue. Fix the main subject completely to @[Image 1](image_1). Do not change the reference image's character's facial features, hairstyle, skin tone, body type, sense of age, expression, clothing, or identity from start to finish. Do not shift to a different person midway through generation. Maintain the hairstyle, face contour, eye and nose features, and body proportions. The outfit is based on the reference image and does not change even during the competition. 0–2 seconds [膝アップ紹介ショット / Knee-Up Introduction Shot] Challenger introduction via ENG camera. The character from @[Image 1](image_1) stands at the starting point, giving a natural smile and lightly waving to the camera. Applause and cheers rise from the venue. The background shows a massive obstacle course and spectator seating. A heated atmosphere as if the play-by-play announcer is introducing the challenger. Just before the starting buzzer sounds, the challenger turns forward and switches to a serious expression. 2–5 seconds [ワイドクレーンショット→追従カメラ / Wide Crane Shot → Tracking Camera] At the sound of the starting buzzer, they burst into a full sprint. They dive into the quad steps, nimbly navigating the diagonally placed footings on left and right with rhythmic steps. Arms swinging powerfully, conquering the obstacles with precise footwork. Roaring cheers from the spectator seats. Large lighting illuminates the entire course. 5–8 seconds [望遠トラッキングショット / Telephoto Tracking Shot] A big leap from the final footing, landing on the rolling hill (giant rotating roller). The roller begins spinning vigorously. The character from @[Image 1](image_1) spreads both arms wide to maintain balance, advancing cautiously yet swiftly. Their foot slips slightly, eliciting a murmur from the spectator seats. 8–11 seconds [高速サイドトラッキングショット / High-Speed Side Tracking Shot] The roller's rotation speeds up. The character from @[Image 1](image_1) desperately presses forward, but their right foot slips, causing their body to sway dramatically left and right. They swing their arms widely to regain balance. Realistic friction expression as the shoes skid across the roller surface. The commentary ramps up in excitement all at once. 11–13 seconds [斜め前方ダイナミックショット / Diagonal Front Dynamic Shot] They jump to leap to the next footing. However, the rotating roller catches their landing foot, causing their body to lose balance dramatically. They stretch both arms out to steady themselves but can't hold on, falling straight into the water hazard area. Screams and cheers mix from the spectator seats. 13–15 seconds [インパクトフォーカスショット / Impact Focus Shot] The character from @[Image 1](image_1) plummets spectacularly into the water hazard area, sending up a massive splash. They surface from the water, catching their breath with a rueful smile. Soaked to the skin yet showing a refreshingly sportsmanlike expression. Applause and cheers come from the spectator seats, as the play-by-play announcer wraps up the challenge in an excited voice. Video Quality・Style Faithfully recreate a 2000s–2010s Japanese sports program. Realistic ENG cameras, crane cameras, wire cameras, telephoto lenses for full-scale TV coverage. Natural zoom, pan, tracking shots. The soft texture of early HD broadcasts, natural broadcast noise, TV compression feel, color reproduction like live-action footage. Immersive feel from large lighting, realistic spectator seating, commentary, and cheers. Progresses throughout in real-time broadcast pacing, with no slow-motion effects used at all. Most Important Matters Maintain 100% of the character from @[Image 1](image_1)'s identity. Retain the face, hairstyle, body type, skin tone, sense of age, and clothing until the end. No becoming a different person, face deformation, or body type changes allowed. Do not display telops, program logos, watermarks, or subtitles. Do not display real program logos or trademarks. Realistic broadcast quality as if televising an actual Japanese obstacle course competition program. Camera work should resemble actual sports coverage, maintaining natural zoom, pan, and tracking shots.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-game-show-foam-roller/video-fa4c5269025df3df.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-game-show-foam-roller/poster-29b656a2da94c5ab.jpg",
+    "format": "video/webm",
+    "videoBytes": 1391274,
+    "videoSha256": "fa4c5269025df3dfa2d3539ce619977f8a708d7cc35303873692abc2d63fd93a",
+    "thumbnailBytes": 40149,
+    "thumbnailSha256": "29b656a2da94c5ab821c2b2989e614d0f16da5aff585b80a037ef3f992b0213b"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

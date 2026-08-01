@@ -32,11 +32,13 @@
   ],
   "prompt": "immersive surreal cinematic film, hyper-detailed, true-to-life lighting and shadows mixed with impossible physics, rich motion detail, volumetric god rays, anamorphic lenses, subtle film grain, masterpiece quality. Immersive multi-shot story with precise timestamp control and native spatial audio:\n\n[0-6s] Extreme first-person POV standing on the edge of a floating cliff made of soft glowing moss. Below is an endless ocean of gigantic, super-fluffy cotton-candy clouds — each cloud the size of a mountain, impossibly soft and billowing like living marshmallows. Soft male voice, calm but trembling: “I’ve dreamed of this place my entire life.”\n\n[6-12s] He jumps. Seamless first-person freefall into the giant fluffy clouds. Instead of falling through, he sinks slowly like diving into warm foam. The clouds part and reshape around him into soft tunnels of pink, gold and lavender. Impossible physics: gravity flips gently mid-fall. Soft voice (awed): “They’re soft… they’re alive…”\n\n[12-18s] He emerges inside a vast floating world made entirely of living clouds and translucent crystal islands. Giant fluffy cloud whales swim slowly through the sky. Soft glowing staircases of solid mist rise and fall. He lands on a cloud bridge that bounces like a trampoline under his feet. Camera orbits him as the entire sky breathes and shifts colors.\n\n[18-25s] He starts running and the cloud bridge launches him into the air. First-person flight through the impossible sky: weaving between mountain-sized fluffy clouds that open like flowers, diving through glowing mist waterfalls that turn into liquid starlight, racing alongside cloud whales that leave trails of sparkling dust. Reality bends — the horizon folds into a spiral.\n\n[25-30s] Final wide crane shot as he soars higher and higher until the entire cloud world forms a giant glowing heart shape around him. Soft voice (peaceful, almost whispering): “I was never falling… I was coming home.”\n\nHyper-detailed, breathtaking surreal world-building, perfect motion continuity, emotional story of discovery and belonging, immersive first-person hybrid style, native dual-channel audio (soft wind, distant whale-like hums, ethereal music swell, intimate dialogue), pure dream logic, viral awe factor.",
   "media": {
-    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/cloud-world-first-person-freefall.webm",
-    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/cloud-world-first-person-freefall.jpg",
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/cloud-world-first-person-freefall/video-b41800afd8095d36.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/cloud-world-first-person-freefall/poster-bac0717f00e2f652.jpg",
     "format": "video/webm",
     "videoBytes": 1545548,
-    "videoSha256": "b41800afd8095d3654ca4720631ac557fd7e3d7acdc45930a844058284e9cd5f"
+    "videoSha256": "b41800afd8095d3654ca4720631ac557fd7e3d7acdc45930a844058284e9cd5f",
+    "thumbnailBytes": 56723,
+    "thumbnailSha256": "bac0717f00e2f65246f37021b17b6350812c7199c3be65ecc38844ede99bf626"
   },
   "rightsStatus": "source-attributed; redistribution-rights-not-verified"
 }

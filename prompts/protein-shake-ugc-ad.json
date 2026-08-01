@@ -1,0 +1,44 @@
+{
+  "slug": "protein-shake-ugc-ad",
+  "title": {
+    "en": "Protein Shake UGC Ad",
+    "zh": "蛋白奶昔 UGC 广告"
+  },
+  "description": {
+    "en": "21-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "21 秒蛋白奶昔 UGC 广告提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "21s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ivannaneuro_ai",
+    "url": "https://x.com/ivannaneuro_ai/status/2083193349549314298"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/ivannaneuro_ai/status/2083193599013839189"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/ivannaneuro_ai/status/2083193349549314298"
+  ],
+  "prompt": "REFS: @image1 = 主角色参考（角色一致性：面部、发型、体型、服装），@image2 = 产品参考（Quest 巧克力蛋白奶昔 325 毫升纸盒包装）。全程保持两个参考的所有特征完全一致。\n\n全球风格说明:\n- 灯光哲学: 单一光源——厨房大窗的上午散射日光从镜头左侧进入，白墙回弹作补光，全程不变。\n- 色彩分级: 中性低饱和，肤色暖中性，黑位轻提，对比平缓；主色象牙白、浅橡木、黑，唯一点缀色是包装的深紫。\n- 场所: 城市公寓的明亮厨房。白色橱柜，浅橡木台面，窗台一盆绿植，台面上一只装满冰块的高玻璃杯和一个玻璃罐。上午十点，窗外阴天散射光。\n- 环境音: 安静的房间声，冰块在杯中轻响，远处街道低频。\n- 角色:\n  - 角色一:\n    视觉锚点: 宽松白色纯棉圆领 T 恤（落肩，下摆微皱）+ 黑色高腰无缝紧身裤 + 左锁骨下方细线条纹身 + 鼻梁与上颊的密集雀斑 + 长及肩胛骨的铜红色自然波浪散发 + 右手腕细金链手链 + 双耳小金色耳钉\n    声音: 温暖中音，轻微东欧口音，对话式语速，未经修饰的日常语气\n\n特效:\n- 效果: 无附加特效。全程 100% 实时速度，手持自然微抖，手机镜头轻微果冻效应。\n- 变换弧线: 无。\n\n镜头:\n- 镜头类型: 起幅为手持自拍中近景，收幅为台面固定机位中景。\n- 机位角度: 角度按顺序连续变化，绝不跳跃——起始高角度俯拍（手机举过头顶，向下约 35 度），随手臂下降平滑过渡到平视，最后被放在台面上成为低角度仰拍（向上约 20 度，画面带 8 度自然倾斜）。\n- 机位运动: 全程同一部手机、同一个镜头、无剪切。前段手持自拍，手臂伸展；中段她把手机斜靠在台面的玻璃罐上，画面随之短暂晃动、下沉并稳定；后段完全固定。景别变化由她的手臂与产品的远近产生。\n\n动作:\n- 动作序列:\n  - 节拍一 (0-3.5 秒):\n    动态构图: 高角度俯拍中近景，能看到她的头顶、锁骨和身后的浅橡木地板。\n    视觉动作: 她刚训练完站在厨房里，手臂高举拿着手机，仰头看向镜头，眉毛轻抬，短促鼻吸一口气后开口。散发向后垂落，碎发在窗光里透出铜色边缘。\n  - 节拍二 (3.5-7.5 秒):\n    动态构图: 手臂下降，画面平滑过渡到平视中景；纸盒从画面下缘升入，占据下三分之一。\n    视觉动作: 她另一只手从台面拿起 Quest 巧克力蛋白奶昔纸盒（依照 @image2），手腕摇晃两下，盒内液体发出沉闷晃动声。手指绕住紫色盒身，标签正面朝向镜头。\n  - 节拍三 (7.5-10 秒):\n    动态构图: 她把手机斜靠在台面的玻璃罐上，画面短暂晃动、下沉，最后稳定为低角度仰拍中景，带 8 度倾斜，台面边缘压住画面下缘。\n    视觉动作: 手机与台面接触发出轻微碰撞声。双手空出，她拧开白色瓶盖，塑封环发出清脆的断裂声。此处无台词，只有动作声。\n  - 节拍四 (10-15 秒):\n    动态构图: 固定低角度仰拍；玻璃杯位于画面下三分之一的前景，她的脸在上方。\n    视觉动作: 她把奶昔倒进装满冰块的玻璃杯，浓稠的巧克力液流冲开冰块并挂在杯壁上，冰块碰撞作响。她端起杯子喝一口，喉咙吞咽，眼睛微微睁大，嘴角先扬起再回落。\n  - 节拍五 (15-20 秒):\n    动态构图: 固定低角度仰拍中景；纸盒被立在玻璃杯旁的台面上，标签正对镜头。\n    视觉动作: 她把身体略微俯向镜头，下巴微收，直视镜头说完最后一句，停住一拍，轻轻耸一下肩，然后伸手向镜头去关掉录制，手掌在最后一帧靠近镜头。\n\n- 对白:\n  角色一（温暖中音，轻微东欧口音），仰头看镜头，短促鼻吸，然后说: 'Four PM. And I want chocolate. Every single day.' 停顿。\n  角色一 举起纸盒摇晃两下，然后说: 'So this is what I drink now — thirty grams of protein, one gram of sugar.'\n  角色一 咽下一口，肩膀放松，然后说: 'And it tastes like an actual milkshake.'\n  角色一 俯身靠近镜头，然后说: 'Chocolate — handled. What's your quest?'\n\n技术:\n- 一镜到底: 全程无剪切，单一连续镜头，总时长 20 秒。\n- 音频: 原生同期声，英语口型同步。\n- 画幅: 9:16 竖屏。",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/protein-shake-ugc-ad/video-90e9dabd8ffdfc9c.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/protein-shake-ugc-ad/poster-03b884cc1da9837f.jpg",
+    "format": "video/webm",
+    "videoBytes": 1733066,
+    "videoSha256": "90e9dabd8ffdfc9ceab8be4396d1e4755ca7869be83b38dd0f41f86ee3e616ab",
+    "thumbnailBytes": 55422,
+    "thumbnailSha256": "03b884cc1da9837f2e82a3dfbb6f29231e988d79f8a4b64cca7d22e0396d699a"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

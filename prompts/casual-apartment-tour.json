@@ -1,0 +1,44 @@
+{
+  "slug": "casual-apartment-tour",
+  "title": {
+    "en": "Casual Apartment Tour",
+    "zh": "休闲公寓参观"
+  },
+  "description": {
+    "en": "29-second vlog prompt paired with a source-verified creator example and its output video.",
+    "zh": "29 秒休闲公寓参观提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "vlog",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "29s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@jaynwabueze",
+    "url": "https://x.com/jaynwabueze/status/2083215236157358255"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/jaynwabueze/status/2083215240154530250"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/jaynwabueze/status/2083215236157358255"
+  ],
+  "prompt": "Vertical phone video, 30 seconds. A friend films a casual apartment tour\n\non a smartphone, walking behind and beside her. Natural indoor daylight,\n\nhandheld sway, clean modern phone footage. Not cinematic, no color grade,\n\nno professional lighting.\n\nSUBJECT: a woman in her late 20s @image1, warm deep brown skin, long dark box\n\nbraids pulled half-up, gold hoop earrings, cream knit top, beige wide-leg\n\ntrousers, relaxed and cheerful. Consistent appearance throughout.\n\nLOCATION: a bright, styled modern apartment, cream walls, oak floors, large\n\nwindows with sheer curtains, houseplants, textured cushions, brass\n\naccents, a boucle armchair, an arched mirror.\n\n0–7s: she walks ahead into the living room, turning back toward the camera\n\nwith a laugh, with this voice @voice1: \"Okay fine, we're doing this. Welcome in.\"\n\n7–15s: the camera pans off her to sweep across the living room, her voice\n\ncontinuing off-frame: \"This is where I basically live. That light in the\n\nafternoon is... unreal.\"\n\n15–23s: she walks toward the dining area, the camera following behind her,\n\nthen she turns and gestures at the wall: \"This part used to be completely\n\nbare. It looked like nobody lived here.\"\n\n23–30s: she leans against the counter, smiling at the camera: \"Got a\n\ndesign team in and they nailed it first try. I Didn't have to explain myself\n\ntwice.\" She laughs and waves the camera off.\n\nAUDIO: room ambience, footsteps on wood, warm natural speech with pauses\n\nand laughter, faint street sound. No music.\n\nFORBIDDEN: no gimbal stabilization, no color grading, no film grain, no\n\nstudio lighting, no subtitles, no music.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/casual-apartment-tour/video-ffc6a2c4af0c11ee.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/casual-apartment-tour/poster-af8e69dea4dd12a9.jpg",
+    "format": "video/webm",
+    "videoBytes": 2286176,
+    "videoSha256": "ffc6a2c4af0c11ee23263c4f97b7ea051acf97d76847f75b855b7801cea090e4",
+    "thumbnailBytes": 36318,
+    "thumbnailSha256": "af8e69dea4dd12a997354d5053c5af570c8f1a116bb4350a90993c8a9043b2fa"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

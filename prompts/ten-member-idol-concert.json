@@ -1,0 +1,43 @@
+{
+  "slug": "ten-member-idol-concert",
+  "title": {
+    "en": "Ten-Member Idol Concert",
+    "zh": "十人偶像演唱会"
+  },
+  "description": {
+    "en": "30-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒十人偶像演唱会提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@WORLDCOINPEPE",
+    "url": "https://x.com/WORLDCOINPEPE/status/2083199858928955627"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/WORLDCOINPEPE/status/2083207911304786324"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/WORLDCOINPEPE/status/2083199858928955627"
+  ],
+  "prompt": "An outdoor live performance by a 10-member idol group at night. The atmosphere is at its peak, with flashy stage effects and fireworks lighting up the venue. They are performing a song called “Peperon.” The word “Peperon” itself has no particular meaning—it’s just something that somehow feels fun and catchy to say. Add playful, nonsensical lyrics that fit that vibe.\n\nThe chorus repeatedly chants “Peperon!” in a call-and-response style. As the idols get more and more excited, the fans respond by chanting “Peperon!” louder and louder. The camera work should be dynamic and varied, sometimes pulling back to wide shots and sometimes focusing closely on individual members. Include drone-like aerial shots and shots from behind the performers to create a visually exciting and immersive live concert experience.\n\nThe outfits should share a cohesive overall design, while each member has a different hairstyle and outfit color to give them individual personality. Their costumes should feel idol-like, with frilly skirts. The center member wears a pink outfit. Only the center member wears a headband, with the word “ANZU” written on it.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/ten-member-idol-concert/video-37890e3d802442e7.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/ten-member-idol-concert/poster-e67755f51593d4da.jpg",
+    "format": "video/webm",
+    "videoBytes": 3370832,
+    "videoSha256": "37890e3d802442e7b7941d93e2c3551433180e7f11c31bc6efc140799e473879",
+    "thumbnailBytes": 127824,
+    "thumbnailSha256": "e67755f51593d4dadeeddd69aa7c4b682eb0516221e3505527f6fa216196b858"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

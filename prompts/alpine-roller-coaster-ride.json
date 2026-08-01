@@ -1,0 +1,43 @@
+{
+  "slug": "alpine-roller-coaster-ride",
+  "title": {
+    "en": "Alpine Roller-Coaster Ride",
+    "zh": "阿尔卑斯山过山车"
+  },
+  "description": {
+    "en": "30-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒阿尔卑斯山过山车提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "427:240",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@PromptSin",
+    "url": "https://x.com/PromptSin/status/2083274044603007392"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/PromptSin/status/2083274057009725670"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/PromptSin/status/2083274044603007392"
+  ],
+  "prompt": "Create a spectacular 30-second photorealistic cinematic sequence of a massive red-and-gold steel roller coaster racing through towering alpine mountains, valleys, cliffs and waterfalls. 16:9, synchronized stereo audio, relentless pacing and realistic physics. Maintain the same six-car train, track, riders, weather and landscape throughout.\n\n0–4s: Immediate front-row hook at the edge of a near-vertical drop. Hold briefly, then plunge into the valley as riders scream and the camera dives with the train.\n\n4–8s: Front-row POV racing above rocks, across a waterfall bridge and through a corkscrew between mountain walls.\n\n8–12s: FPV drone chase behind the train as it climbs a ridge and enters a giant inverted loop. The drone flies through the loop’s centre.\n\n12–16s: Side-mounted close-up of the same riders experiencing strong G-forces. Consistent faces, natural hair and locked restraints. One rider shouts: “This is insane!”\n\n16–20s: Helicopter-wide shot revealing the coaster across several peaks. The train dives under a stone arch, crosses a ravine and climbs toward a snowy summit.\n\n20–24s: Rear-facing POV showing riders and twisting track as the train enters two corkscrews and a fast banked turn.\n\n24–27s: Low cliffside shot. The train blasts past with a Doppler effect and enters a dark mountain tunnel.\n\n27–30s: Tunnel POV, roaring wheels and echoing screams. The train bursts into sunlight and crosses a final inversion above a huge waterfall. Finish with a dramatic drone pullback.\n\nPremium cinematic realism, alpine sunlight, volumetric mist, accurate speed, gravity and momentum. Continuous wheel rumble, wind, rail impacts, tunnel echoes and synchronized screams. Preserve the exact train, six cars, riders, restraints and track continuity. No branding, derailment, injuries, broken track, duplicated cars, subtitles or music.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/alpine-roller-coaster-ride/video-f3f0e16bdf419f53.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/alpine-roller-coaster-ride/poster-a3cd3e06527c8d4c.jpg",
+    "format": "video/webm",
+    "videoBytes": 1679679,
+    "videoSha256": "f3f0e16bdf419f53669d39baee3270e0d36b7d7c0a2011d4f9ce6126dd399fd1",
+    "thumbnailBytes": 34856,
+    "thumbnailSha256": "a3cd3e06527c8d4c0cb8360e3e1ddbb137b3c21274cfa484cc6149114dcfb325"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

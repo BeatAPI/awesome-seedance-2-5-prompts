@@ -1,0 +1,43 @@
+{
+  "slug": "mecha-motorcycle-high-speed-dash",
+  "title": {
+    "en": "Mecha Motorcycle High-Speed Dash",
+    "zh": "机甲摩托高速冲刺"
+  },
+  "description": {
+    "en": "30-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒机甲摩托高速冲刺提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@mumaren_2",
+    "url": "https://x.com/mumaren_2/status/2083194831569121554"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/mumaren_2/status/2083194835121701349"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/mumaren_2/status/2083194831569121554"
+  ],
+  "prompt": "[Timestamped Script & Storyboard]\n[00:00 - 00:08] [High-Speed ​​Dash] — Cutting Through the Wind | Action / Physics Directive: The camera flies in close pursuit, positioned just behind and to the side of the mecha-motorcycle as it races through a downpour. Its wide, rapidly spinning tires kick up massive sheets of water several meters high, while the blue plasma exhaust trail etches a long streak of light against the rainy night. Subtext: Convey a sense of extreme speed to the AI; focus the visual composition on the physical interaction between the rain, reflections on the wet road, and the engine exhaust. [00:09 - 00:16] [Extreme Evasion] — Center of Gravity Shift | Action / Physics Directive: The camera instantly shifts to a high-angle overhead shot. A series of exploding, wrecked vehicles suddenly blocks the path ahead; the mecha-motorcycle leans sharply—almost scraping the ground—as its tires generate dazzling orange sparks from friction, executing a tight \"S-curve\" to perfectly weave around the burning wreckage. Subtext: Illustrate the shift in the mecha's center of gravity during high-speed movement, highlighting the gravitational feedback and spark effects resulting from extreme tire-to-ground friction. [00:17 - 00:24] [Mid-Air Reconfiguration] — Mechanical Transformation | Action / Physics Directive: The mecha-motorcycle launches off a broken bridge section into the air, with the camera leaping up to track it in a circling shot. While airborne, the motorcycle's shell rapidly flips, deconstructs, and reassembles; the wheels retract into thrusters, and the chassis unfolds to extend steel limbs, instantly transforming from motorcycle mode into a heavy, humanoid combat mecha. Subtext: Showcase the aesthetic of heavy industrial machinery; emphasize the precision interlocking and sense of mass as parts combine, avoiding any \"noodle-like\" soft-body deformation. [00:25 - 00:30] [Heavy Landing] — A Moment of Power | Action / Physics Directive: The camera rapidly descends to a low-angle, close-up shot looking up at the mecha's face. The humanoid mech drops to one knee, slamming heavily onto the roadway. The impact of its immense tonnage causes the bridge surface to shatter in a spiderweb pattern, while the resulting shockwave instantly clears away the surrounding rain in an expanding ring. The mech slowly lifts its head; a crimson tactical eye-light flares to life, fixing a direct, unblinking stare at the camera. Subtext of the shot: It creates a visually explosive \"Superhero Landing,\" using the shattered pavement and the blast of displaced air to convey the mech's terrifying weight and destructive power to the audience.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/mecha-motorcycle-high-speed-dash/video-0082047bc7d78f35.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/mecha-motorcycle-high-speed-dash/poster-50538e334f7d8fbd.jpg",
+    "format": "video/webm",
+    "videoBytes": 2446416,
+    "videoSha256": "0082047bc7d78f351d8fd834212ff27b48302a2a31ea5a8797f6a7ba865f6d78",
+    "thumbnailBytes": 38103,
+    "thumbnailSha256": "50538e334f7d8fbdc694b374f50db9c55719685f25431040661faadf96bfa801"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

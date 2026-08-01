@@ -1,0 +1,43 @@
+{
+  "slug": "giant-and-dragon-lake-battle",
+  "title": {
+    "en": "Giant and Dragon Lake Battle",
+    "zh": "巨人与巨龙湖畔大战"
+  },
+  "description": {
+    "en": "40-second fantasy prompt paired with a source-verified creator example and its output video.",
+    "zh": "40 秒巨人与巨龙湖畔大战提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "fantasy",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "40s",
+  "aspectRatio": "7:6",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@hedo_ist",
+    "url": "https://x.com/hedo_ist/status/2083219828471382503"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/hedo_ist/status/2083219828471382503"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/hedo_ist/status/2083219828471382503"
+  ],
+  "prompt": "A colossal giant appears, striding through a lake; the ground shakes with every step, sending massive amounts of water splashing.\n\nA flying dragon appears, performing aerial acrobatics; the giant tries to catch it with his arms, but the dragon manages to dodge the giant's attempts to stomp on it.\n\nA fast-paced action scene with realistic cinematography.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/giant-and-dragon-lake-battle/video-b1a38b4d11848024.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/giant-and-dragon-lake-battle/poster-23af6fb01be4ba94.jpg",
+    "format": "video/webm",
+    "videoBytes": 1912838,
+    "videoSha256": "b1a38b4d1184802465b1651bd76ca379bdf8ad2a34dc44f75d6d701158959a1b",
+    "thumbnailBytes": 39959,
+    "thumbnailSha256": "23af6fb01be4ba94bc974849c26b0ffc59d0ce80e3487283de03809088f6de8c"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

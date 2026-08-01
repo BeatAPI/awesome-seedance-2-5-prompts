@@ -1,0 +1,43 @@
+{
+  "slug": "flooded-botanical-archive-climb",
+  "title": {
+    "en": "Flooded Botanical Archive Climb",
+    "zh": "水淹植物档案馆攀爬"
+  },
+  "description": {
+    "en": "30-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒水淹植物档案馆攀爬提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@bmx_ai13",
+    "url": "https://x.com/bmx_ai13/status/2083276955634589734"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/bmx_ai13/status/2083276955634589734"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/bmx_ai13/status/2083276955634589734"
+  ],
+  "prompt": "Scene and Mood: A lone figure climbs upward through a flooding vertical botanical archive tower during a night storm, glass tiers shattering and cascading water below, forcing a desperate ascent toward the glass dome roof as lightning flickers outside. Frame Map: Shot 1, seconds 0 to 6, subject small in the lower third of a tall vertical tower interior, tiers of glass terrariums stacked upward through the frame, water sheeting down from above. Shot 2, seconds 6 to 12, subject center frame climbing a metal service ladder bolted to the tower's inner wall, glass tiers visible left and right, water pouring past. Shot 3, seconds 12 to 18, subject in the right third crossing a narrow catwalk as a glass panel shatters in the left third behind them. Shot 4, seconds 18 to 24, subject small in the lower third reaching the dome's base, storm sky and glowing drifting spores filling the top two thirds through the glass ceiling above. Shot 5, seconds 24 to 30, subject silhouetted center frame bursting through the dome into open night air, lightning lighting the wider tower silhouette below. Subject Lock: One adult figure, lean build, soaked dark hair plastered to the forehead, a heavy canvas work jacket dark with water over a plain thermal shirt, fingerless work gloves, mud and plant matter smeared on one forearm. Posture straining and climbing throughout, gaze fixed upward, hands gripping rungs, rails, and glass edges with visible strain. Same face, hair, jacket, and build locked across all five shots, no change at any cut. Cross Frame Rules: Only one figure occupies every frame across the runtime, nothing else enters or crosses. Screen position shifts per the Frame Map, but soaked jacket state and climbing posture carry unbroken across every cut. Movement: Shot 1, subject wades through knee deep water at the tower's base then grips a ladder rung and begins climbing at second 4, water sheeting down past the shoulders, loose leaves and broken glass drifting past in the current below. Shot 2, subject climbs rung over rung, jacket heavy and dragging, a terrarium panel cracks audibly at second 9 sending a spray of water sideways past the frame. Shot 3, subject sprints across the catwalk at second 14, a glass tier shatters behind them at second 16 releasing a wall of water and debris that just misses their trailing foot. Shot 4, subject reaches the dome's base at second 20, presses both palms flat against the glass overhead, glowing spores drifting slowly against the dark storm clouds beyond it. Shot 5, subject drives a shoulder through the weakened dome glass at second 26, bursting into open air as lightning flashes and rain drives sideways, glass fragments scattering outward around them. Last Frame: Subject holds silhouetted center frame at the dome's broken edge, chest heaving, one hand still braced on the shattered frame, storm clouds and a bright lightning flash filling the upper half, the flooded tower's tiered silhouette dropping away below into darkness. No on screen text, no captions, no signage typography, no rendered text in the frame. World Plate: A tall cylindrical botanical archive tower at night during a storm, tiers of glass terrariums stacked vertically and lit faintly from within by dim growth lamps, water sheeting down the tower's interior walls, a narrow metal ladder and catwalk system running up the center. A glass dome caps the tower, storm clouds and lightning visible through it, faint bioluminescent spores drifting in the air near the ceiling. Sound Bed: Diegetic only, rushing water and heavy dripping throughout, metal rungs clanging under gripped hands, glass cracking and shattering at intervals, distant thunder rolling, wind howling as the dome breaks, heavy strained breathing and grunts of effort, rain hammering the outer glass, a final gust of wind once the dome opens. Capture Realism: Depth via suspended water mist and falling spray between the figure and the tiered glass planes behind them. Moisture without shine, soaked jacket and hair read matte and heavy, not glossy. Per zone specular kill on skin, wet skin reads diffuse, no beauty light glow. Contrast curve, controlled highlights on the lightning and growth lamps, lifted but not crushed shadow on the figure, mid tones held cool and desaturated throughout. Camera Capture: Wide latitude cinema capture, vintage 2x anamorphic character on Shots 1 through 3 at 35mm, handheld with restrained breath, shifting to clean spherical character on Shots 4 and 5 at 24mm, wider and harder shake against wind, fine 35mm grain, desaturated rendition crushed toward deep green and steel blue, 24fps natural 180 degree shutter blur, 30s total across five hard cut shots.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/flooded-botanical-archive-climb/video-4bcec3aa5dba7b43.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/flooded-botanical-archive-climb/poster-50bb64896e50c266.jpg",
+    "format": "video/webm",
+    "videoBytes": 1909369,
+    "videoSha256": "4bcec3aa5dba7b439555d7c77c0f08b3be32d367e04c4bc2dd701d9a749dacd2",
+    "thumbnailBytes": 76442,
+    "thumbnailSha256": "50bb64896e50c2664a5d0dd51e65d3c5dc93b98d1f2110e7283067c431bd9178"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

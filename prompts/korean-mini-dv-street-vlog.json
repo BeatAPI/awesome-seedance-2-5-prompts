@@ -1,0 +1,43 @@
+{
+  "slug": "korean-mini-dv-street-vlog",
+  "title": {
+    "en": "Korean Mini-DV Street Vlog",
+    "zh": "韩国街头 Mini-DV Vlog"
+  },
+  "description": {
+    "en": "30-second vlog prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒韩国街头 Mini-DV Vlog提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "vlog",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Strength04_X",
+    "url": "https://x.com/Strength04_X/status/2083131866580672827"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Strength04_X/status/2083131866580672827"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Strength04_X/status/2083131866580672827"
+  ],
+  "prompt": "Main Subject:\nYoung Korean woman, early 20s, natural everyday appearance, oversized faded t-shirt tucked into shorts, hair tied up in a claw clip, minimal makeup, realistic skin texture, cheerful relaxed personality.\nLocation: Small house window facing a quiet residential alley, mid-morning. Wooden window frame, a bucket of soapy water on the ledge, potted plants nearby, soft sunlight. No commercial elements.\nVisual Style: Ultra-realistic documentary realism, unscripted domestic feeling, soft natural morning light.\nCamera Style: Early 2000s consumer DV camcorder aesthetic, handheld shake, autofocus hunting between her and the glass reflections, faded soft contrast, mild sensor noise. No stabilization.\nTimeline (30 sec):\n00:00–00:03 → She dips a cloth into the soapy bucket, then wrings it out over the ledge.\n00:03–00:06 → She wipes the window in slow circular motions, streaks of soap catching the light.\n00:06–00:09 → She pauses, then says to camera \"이거 완전 뿌옇게 됐었어\" (\"This got really foggy\").\n00:09–00:12 → She rinses the cloth again, then continues wiping the lower corner of the glass.\n00:12–00:15 → She steps back to check her work, tilting her head side to side.\n00:15–00:18 → She notices a smudge, then leans in to rub it out more carefully.\n00:18–00:21 → She wipes her hands on a towel, then looks at camera saying \"이제 깨끗하다\" (\"It's clean now\").\n00:21–00:24 → She admires the clear view through the glass, smiling softly.\n00:24–00:27 → A light breeze moves the curtain nearby; she glances at it, amused.\n00:27–00:30 → She looks at camera saying \"다음 창문도 해야지\" (\"I should do the next window too\"), walking off as it fades.\nAudio: Cloth squeaking on glass, water dripping, faint birds, distant street sounds. Her dialogue as noted above. No music.\nGoal: A quiet, satisfying weekend chore moment grounded, warm, believable.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/korean-mini-dv-street-vlog/video-460634e42be498c5.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/korean-mini-dv-street-vlog/poster-e6dffaa00544e903.jpg",
+    "format": "video/webm",
+    "videoBytes": 1971297,
+    "videoSha256": "460634e42be498c5d7a3567788da978f871875d710cda51f73c615177770faa0",
+    "thumbnailBytes": 72285,
+    "thumbnailSha256": "e6dffaa00544e903c660fb9e655ed9d092fafc03f35748a4a08238317aeae2ca"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

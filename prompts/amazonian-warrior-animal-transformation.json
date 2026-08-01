@@ -1,0 +1,43 @@
+{
+  "slug": "amazonian-warrior-animal-transformation",
+  "title": {
+    "en": "Amazonian Warrior Animal Transformation",
+    "zh": "亚马逊战士动物变形"
+  },
+  "description": {
+    "en": "30-second fantasy prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒亚马逊战士动物变形提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "fantasy",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@raza8542121",
+    "url": "https://x.com/raza8542121/status/2083129360672776304"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/raza8542121/status/2083129360672776304"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/raza8542121/status/2083129360672776304"
+  ],
+  "prompt": "Authentic live-action cinematic footage captured as a continuous one-shot sequence on Arri Alexa 65 with Panavision Ultra Vista anamorphic lenses on real Kodak Vision3 35mm film. Ultra-photorealistic Hollywood adventure film aesthetic with natural film grain, cinematic depth of field, realistic handheld camera inertia, dynamic tracking shots, physically accurate motion blur, volumetric golden-hour sunlight, atmospheric jungle mist, practical lighting, realistic water simulation, authentic environmental interaction, and absolutely no CGI or game-engine appearance.\n\nA powerful Amazonian tribal warrior with weathered bronze skin, long braided black hair decorated with jungle feathers, athletic muscular build, worn leather tribal clothing, and intense recognizable eyes sprints through a dense rainforest while the camera performs an energetic low-angle tracking shot weaving between giant roots, rocks, vines, and tropical vegetation. He bursts out onto the edge of a colossal waterfall and leaps into the air as the camera dives beside him. During freefall his body organically transforms into a gigantic Amazon river crocodile with realistic skeletal restructuring, growing scales, extending jaws, muscular limbs, and a powerful tail before crashing into the river below.\n\nThe camera follows underwater in one continuous movement as the crocodile powers through crystal-clear water, scattering schools of fish and passing submerged trees and ancient stone ruins. While swimming at high speed, the crocodile seamlessly transforms into a massive Amazon giant catfish with smooth biological morphing, retracting limbs, sleek skin, broad fins, powerful tail propulsion, and continuous identity preservation. The giant catfish accelerates through flooded jungle ruins before its body thickens and organically transforms into a colossal emerald anaconda with shimmering green scales, enormous muscular coils, and realistic serpentine movement as it glides through submerged temples and rises onto the rainforest floor.\n\nThe colossal anaconda rapidly slithers through dense jungle while the camera performs fast ground-level tracking through mud, roots, and foliage. As it launches over a fallen tree, it seamlessly transforms into a powerful black jaguar with sleek black fur, muscular feline anatomy, realistic shoulder movement, explosive sprinting speed, and intense recognizable eyes. The jaguar races through the rainforest before reaching a towering cliff where it leaps into open air. During the jump, its body organically transforms into a majestic giant harpy eagle as black fur becomes feathers, forelegs expand into enormous wings, hind legs become massive talons, and the eagle catches an air current before soaring high above the endless Amazon canopy.\n\nThe camera transitions into an FPV-style aerial pursuit as the harpy eagle flies between clouds toward an ancient mountain temple surrounded by waterfalls. The eagle folds its wings into a dramatic dive toward the summit. During the dive, feathers organically become skin, wings become human arms, talons become feet, and the original Amazonian warrior fully reforms with perfect facial identity, braided hair, and worn tribal clothing. He lands powerfully on the temple platform, rises slowly, and looks directly into the camera while the camera performs a slow cinematic push-in. Behind him, endless rainforest, waterfalls, drifting mist, and golden sunlight create an epic final hero shot before a slow fade to black.\n\nMaintain one continuous uninterrupted shot, seamless transitions, consistent character identity, realistic anatomy, believable body weight, physically accurate transformations, natural cloth simulation, hair physics, feather dynamics, water interaction, foliage collision, perfect environmental continuity, Hollywood blockbuster cinematography, ultra-photorealistic live action, no jump cuts, no visual glitches, no cartoon style, no artificial CGI, maximum cinematic realism.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/amazonian-warrior-animal-transformation/video-457affc3886e4839.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/amazonian-warrior-animal-transformation/poster-d4092128e07e1187.jpg",
+    "format": "video/webm",
+    "videoBytes": 3405724,
+    "videoSha256": "457affc3886e4839a06a8986dd13f3d3eedd756ecef81bf151614701362ca4df",
+    "thumbnailBytes": 49316,
+    "thumbnailSha256": "d4092128e07e11876ef42a924a346f75b6e03f4f0da60f4589eec042b965a267"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

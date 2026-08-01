@@ -1,0 +1,43 @@
+{
+  "slug": "fantasy-palace-romance-drama",
+  "title": {
+    "en": "Fantasy Palace Romance Drama",
+    "zh": "奇幻宫殿爱情剧"
+  },
+  "description": {
+    "en": "30-second fantasy prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒奇幻宫殿爱情剧提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "fantasy",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Just_sharon7",
+    "url": "https://x.com/Just_sharon7/status/2083122179693232612"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Just_sharon7/status/2083122179693232612"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Just_sharon7/status/2083122179693232612"
+  ],
+  "prompt": "A 30-second vertical 9:16 photorealistic fantasy palace romance drama about Princess Elara, who wakes up after being murdered and discovers she has returned to the night before her death. In a storm-lit royal palace, she confronts Prince Cassian, the man she believed betrayed her, only to uncover a deeper conspiracy and a magical fated bond between them. As the throne is threatened by a corrupt council, Elara and Cassian must overcome betrayal, unite as reluctant allies, and fight to reclaim the crown together.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/fantasy-palace-romance-drama/video-b088c21af7168025.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/fantasy-palace-romance-drama/poster-17ab2033bb8a981d.jpg",
+    "format": "video/webm",
+    "videoBytes": 1943421,
+    "videoSha256": "b088c21af7168025b934ffb23907e5a2e55f1c8091f49b7a62a3b33b511c53bb",
+    "thumbnailBytes": 38974,
+    "thumbnailSha256": "17ab2033bb8a981dffe580c18919e2fbf3c6f71d8f70ec61b63e1177130c8a94"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

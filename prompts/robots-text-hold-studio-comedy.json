@@ -1,0 +1,43 @@
+{
+  "slug": "robots-text-hold-studio-comedy",
+  "title": {
+    "en": "Robots Text-Hold Studio Comedy",
+    "zh": "机器人举字牌摄影棚喜剧"
+  },
+  "description": {
+    "en": "20-second comedy prompt paired with a source-verified creator example and its output video.",
+    "zh": "20 秒机器人举字牌摄影棚喜剧提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "comedy",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "20s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@BrentLynch",
+    "url": "https://x.com/BrentLynch/status/2083278991948128425"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/BrentLynch/status/2083278991948128425"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/BrentLynch/status/2083278991948128425"
+  ],
+  "prompt": "Use the supplied image as the exact opening frame. Preserve the woman, all three robots, the cat, wardrobe, studio layout, laptop, desk, signs, lighting, and facial identities. Photorealistic professional social-media video. Fast pacing, precise lip-sync, lively choreography, playful comedy, polished pop-music-video energy. No character duplication, no new characters, no warped anatomy, no unreadable faces, and no visual style shift.\n\n0.0–2.0 SEC — INSTANT VIRAL HOOK\n\nA punchy electronic-pop beat begins immediately with handclaps and a bright synth stab. The camera performs a quick smooth push toward the woman. She leans toward the lens, points directly at the viewer, and excitedly says:\n\nWOMAN:\n“Okay—Seedance Three Point Oh rumors are getting WILD!”\nThe robots’ eyes flash rhythmically. The cat snaps its head toward camera with perfect comic timing.\n\n2.0–5.0 SEC — RAPID BANTER\n\nQuick whip-pan to the largest robot.\n\nLARGE ROBOT, cheerful synthetic voice:\n“Confirmed news?”\n\nQuick whip-pan to the smaller robot.\nSMALL ROBOT:\n“Reliable leaks?”\n\nThe cat lifts one paw and delivers a perfectly timed cute meow.\n\nCAT, tiny processed voice:\n“Trust me, bro!”\nEveryone freezes for half a beat, then reacts with exaggerated surprise.\n\n5.0–9.0 SEC — FUNNY SETUP\n\nThe camera swings back to the woman as she bounces in her chair to the beat, animated and feisty.\nWOMAN:\n“I know Two Point Five just came out—but the Trust Me Bros tell me it’s going to be AMAZING!”\n\nOne robot slowly turns toward another with a skeptical expression.\n\nROBOT:\n“Our source has a podcast.”\n\nThe cat nods seriously. The woman gives the camera a mischievous “case closed” expression.\n\n9.0–16.5 SEC — CATCHY MUSIC-VIDEO CHORUS\nThe beat explodes into a high-energy bubblegum electro-pop chorus. The woman stands and performs a simple synchronized dance with the robots: two side steps, shoulder bounce, point upward, then point toward the “SEEDANCE 3.0” screen. The cat dances safely on the desk with tiny rhythmic paw movements and head bobs. Dynamic but controlled camera orbit, quick close-ups, clean motion, perfect continuity.\n\nALL SING, catchy layered chorus:\n“Seedance Three Point Oh!\nNews, rumors, leaks—let’s go!\nTwo Point Five is brand-new, though—\nBut trust me, bro… Three Point Oh!”\n\nDuring “news, rumors, leaks,” each robot points toward the matching words on the background display. The cat meows on the final beat like a musical ad-lib.\n16.5–20.0 SEC — COMEDIC BUTTON\n\nMusic drops to a playful bass pulse. Tight close-up on the woman and cat.\n\nWOMAN, whispering dramatically:\n“Is any of this confirmed?”\n\nThe cat stares straight into camera.\n\nCAT:\n“Absolutely not.”\nAll three robots throw their arms up and shout:\nROBOTS:\n“POST IT!”\nThe woman bursts into laughter as everyone hits a final synchronized pose. End on a crisp freeze-frame with the readable background text:\n“SEEDANCE 3.0 — NEWS • RUMORS • LEAKS.”\n\nAUDIO: High-energy original electro-pop track, punchy drums, bright synths, playful robotic vocal accents, clean dialogue, strong lip-sync, and cute cat vocalization. No copyrighted melody.\n\nVISUAL QUALITY: Premium influencer content, realistic studio lighting, natural hair and fabric movement, expressive faces, smooth cinematic camera motion, sharp readable signage, no glitches, no morphing, no extra limbs, no character swaps.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/robots-text-hold-studio-comedy/video-79fdcec3211e1023.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/robots-text-hold-studio-comedy/poster-b3e7988ff4b3d0d8.jpg",
+    "format": "video/webm",
+    "videoBytes": 1810689,
+    "videoSha256": "79fdcec3211e1023a45229326f597190287f57e2a1238bb807c5110e9377fae4",
+    "thumbnailBytes": 87007,
+    "thumbnailSha256": "b3e7988ff4b3d0d8adc7438992fde578ed50e239ce774c561c795177e040cfd5"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

@@ -14,8 +14,8 @@
   "duration": "30s",
   "aspectRatio": "16:9",
   "ingredients": [
-    "Image reference",
     "Text prompt",
+    "Image reference",
     "Audio or sound direction"
   ],
   "source": {
@@ -33,11 +33,13 @@
   ],
   "prompt": "一镜到底,镜头平稳跟随一个穿黑色大衣的人(参考 @图像1)从左向右穿过六个相连的不同色调、不同氛围的房间。每个房间结构相同:白墙、人字拼浅色木地板、法式双开落地 窗、白纱帘,参考 @图像2但窗外风景和室内氛围完全不同。主角全程匀速走动,穿过墙壁上敞开的每一扇门。0-5秒,第一个房间,主题为美漫打斗,主角进入屋内与人物 @图像3 )打斗,人物落败;5-10秒,第二个房间,主题为温暖,毛毡风格,窗外场景为向日葵田 @图像4),室内光线暖橙柔光,有一个画家正在画向日葵 @图像5)。主角进入后也变成 毛毡风格;10-15秒,第三个房间,主题为悲伤,整个画面为黑白漫画定格动画风格,窗外阴雨,室内光线冷灰低沉,一个人独自坐在空房间中央地板上,低头抱膝,身旁一只手机亮着无人接听 的通话界面。主角进入房间后关上房间的灯,马上开灯,房间内变为彩色,瞬间生长出满屋鲜花;15-20秒,第四个房间,主题为欢乐,整个场景为浸泡在海里的房间,参考 @图像6,主角 游进房间,身旁有美丽的珊瑚礁和鱼群;20-25秒,第五个房间,主题为惊喜,窗外场景漫天烟花夜空,参考 @图像7,室内光线彩色闪烁映射,主角被卷入欢呼气氛。25-30秒,最后主角 来到一个空白房间,站在中央打了个响指,同时音效为响指声,画面整体黑屏,中间出现\"seedance\"字样,参考 @图像8 。整体电影质感,高级时装广告风格,光线完全由窗外场景决定形 成强烈情绪反差,画面无文字。",
   "media": {
-    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/six-rooms-style-journey.webm",
-    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/six-rooms-style-journey.jpg",
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/six-rooms-style-journey/video-905d121060413ed9.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/six-rooms-style-journey/poster-bc99ab07bfae5cad.jpg",
     "format": "video/webm",
     "videoBytes": 1983751,
-    "videoSha256": "905d121060413ed93d8a51c501cc016f206fd10553c691b6a84da6c8abb7773d"
+    "videoSha256": "905d121060413ed93d8a51c501cc016f206fd10553c691b6a84da6c8abb7773d",
+    "thumbnailBytes": 78358,
+    "thumbnailSha256": "bc99ab07bfae5cadccb60a225b86ece44638459899c5cb22c974ac5ed9e6c923"
   },
   "rightsStatus": "source-attributed; redistribution-rights-not-verified"
 }

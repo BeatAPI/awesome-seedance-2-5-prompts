@@ -1,0 +1,43 @@
+{
+  "slug": "flooded-village-survival-thriller",
+  "title": {
+    "en": "Flooded Village Survival Thriller",
+    "zh": "洪水村庄生存惊悚"
+  },
+  "description": {
+    "en": "37-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "37 秒洪水村庄生存惊悚提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "37s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@rahulnanda86",
+    "url": "https://x.com/rahulnanda86/status/2083216901426286728"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/rahulnanda86/status/2083216901426286728"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/rahulnanda86/status/2083216901426286728"
+  ],
+  "prompt": "Ultra-realistic survival thriller set in a flooded Indian village under heavy overcast skies. Brown floodwater fills narrow lanes between submerged houses, broken fences, floating debris and tin roofs barely above water. The tone is grounded, tense and cinematic, with natural panic, handheld urgency and no exaggerated monster-movie feel. The crocodile must feel heavy, real and terrifying — a large aggressive crocodile cutting fast through the muddy water.\n\nShot 1, 0–5s: A young Indian woman swims desperately through chest-deep floodwater between half-submerged village houses. She is exhausted and panicked. Behind her, a large crocodile surges through the water, gaining fast, its eyes and ridged back visible before it lunges closer.\n\nShot 2, 5–9s: A young Indian man stands on a slippery floating tin roof and screams, “Haath do! Haath do!” He drops to his knees and reaches down. The woman stretches toward him as the crocodile rushes in from behind. He grabs her wrist and drags her upward at the last second just as the crocodile leaps, jaws snapping where her legs were.\n\nShot 3, 9–15s: Both scramble onto the roof, soaked and slipping, barely balancing on the unstable metal sheet. The woman clings to the man in terror. Suddenly the crocodile slams into the roof from the edge or below with brutal force. A huge metallic bang echoes across the floodwater. The roof jolts violently and nearly throws them off. They struggle to stay upright, realizing they are still trapped.\n\nShot 4, 15–19s: The man and woman struggle to balance on the partially floating tin roof as it shifts beneath them. They look down and realize the whole sheet is unstable and beginning to sink on one side. The crocodile circles around them in the water, occasionally brushing the edge and making the roof wobble.\n\nShot 5, 19–24s: A rescue helicopter appears overhead through mist and rain haze. Rotor wash whips the floodwater and rattles the roof. The man and woman wave frantically with both hands, screaming for help. For the first time, hope enters the scene.\n\nShot 6, 24–27s: The crocodile crashes into the roof again, much harder. One side buckles inward and dips lower into the water. Both almost lose footing and slip, barely catching themselves as the roof groans and bends under their weight.\n\nShot 7, 27–30s: The helicopter crew throws down a rescue ladder toward them. It swings wildly in the wind above the unstable roof. The man and woman turn toward it, trying to steady themselves and move closer while the crocodile keeps circling below. End on the ladder finally dropping within reach as the roof tilts dangerously.\n\nSound: heavy breathing, muddy splashes, distant storm ambience, crocodile surge, panicked shouting, giant metallic impacts, helicopter blades, rotor wash, metal groaning, water slapping and rising panic.\n\nExtension Video Prompt — 15 SECONDS\n\nDirect continuation of uploaded video. Same flooded village, same roof, same helicopter and crocodile. This final section should feel chaotic, wet, dangerous and emotionally brutal. The rescue is almost happening, then gets ripped away at the last second.\n\nShot 1, 0–5s: The man and woman carefully move across the slippery tilted tin roof toward the swinging rescue ladder. Every step is dangerous. The roof is wet, unstable and partly sinking. The woman reaches first while the man steadies her from behind.\n\nShot 2, 5–9s: The woman finally grabs the ladder and hangs onto it. The helicopter lifts it slightly. At that exact moment, the crocodile smashes into the roof with full force. The entire roof collapses and folds downward. The man loses balance completely and drops into the floodwater as the structure breaks apart beneath him.\n\nShot 3, 9–12s: Half-submerged chaos. The woman is now hanging from the ladder above the water, screaming in horror. Below her, the man splashes frantically in the muddy floodwater among broken tin sheets and debris, trying to stay above the surface.\n\nShot 4, 12–15s: Underwater and half-submerged perspective. We see the man’s legs thrashing in murky brown water. Through the distorted water, the crocodile moves directly toward him with deadly speed. Above, we hear the woman screaming helplessly while hanging from the ladder. Cut immediately before impact.\n\nSound: helicopter roar, screaming metal, collapse splash, panicked yelling, water churning, crocodile surge, girl screaming from above.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/flooded-village-survival-thriller/video-ea51c42d0d305c4a.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/flooded-village-survival-thriller/poster-28b22140d698c1d3.jpg",
+    "format": "video/webm",
+    "videoBytes": 3535066,
+    "videoSha256": "ea51c42d0d305c4a77f76f52a1af422440f3bc24f503602049a6be542f171dcb",
+    "thumbnailBytes": 55056,
+    "thumbnailSha256": "28b22140d698c1d3d70133d397205b7bb8a5f276721ab5ff9a0cd8de267599a8"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

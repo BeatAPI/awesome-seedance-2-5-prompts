@@ -1,0 +1,43 @@
+{
+  "slug": "bazaar-chase-cinematic",
+  "title": {
+    "en": "Bazaar Chase Cinematic",
+    "zh": "巴扎追逐电影镜头"
+  },
+  "description": {
+    "en": "30-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒巴扎追逐电影镜头提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ahmetmertugrul",
+    "url": "https://x.com/ahmetmertugrul/status/2083262080627384716"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/ahmetmertugrul/status/2083262080627384716"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/ahmetmertugrul/status/2083262080627384716"
+  ],
+  "prompt": "A 30-second continuous-feel action chase, cinematic realism, 35mm film grain, warm late-afternoon light cutting through dusty air, teal-and-orange grade, shallow depth of field, no 3D, no cartoon, no VFX.\n\n0-6s: Low handheld tracking shot behind a man in his late 20s with short dark hair and light stubble, wearing a worn olive-green bomber jacket over a white t-shirt, dark jeans and black boots, sprinting into a crowded historic spice bazaar; hanging lanterns and vendor stalls blur past; the camera shakes with his footsteps.\n\n6-12s: Whip pan back to reveal two pursuers in black pushing through the crowd; speed ramp — brief slow motion as he vaults a fruit cart, oranges scattering mid-air and catching the light, then snap back to full speed.\n\n12-19s: The camera swings ahead of him into a narrow alley in a smooth steadicam glide; he topples a rack of copper pots behind him; sunlight flares through gaps in the awnings; the pursuers gain ground as soft bokeh in the background.\n\n19-26s: He bursts through hanging carpets onto a rooftop terrace; the camera cranes up behind him to reveal a golden-hour city skyline over the water; he leaps a rooftop gap in slow motion, fully silhouetted against the sun.\n\n26-30s: Hard cut to a low-angle landing; he rolls, rises into frame breathing hard, glances back over his shoulder; freeze on his determined eyes as the city noise drops to near silence.\n\nKeep the exact same character in every shot: late-20s man, short dark hair, light stubble, olive-green bomber jacket, white t-shirt, dark jeans, black boots. Sound: footsteps, crowd murmur, clattering metal, heavy breathing.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/bazaar-chase-cinematic/video-4c4c03bfa22830cc.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/bazaar-chase-cinematic/poster-14de0d5123fdfc27.jpg",
+    "format": "video/webm",
+    "videoBytes": 2352678,
+    "videoSha256": "4c4c03bfa22830cc0af22ee1e16b38fd30c6767d55f68e39d0102c07b607256a",
+    "thumbnailBytes": 37498,
+    "thumbnailSha256": "14de0d5123fdfc272d75c269c6b8e8c8c7beb84e1d90bb6657ce1ad709f7af23"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

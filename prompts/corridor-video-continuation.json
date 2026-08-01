@@ -1,0 +1,44 @@
+{
+  "slug": "corridor-video-continuation",
+  "title": {
+    "en": "Corridor Video Continuation",
+    "zh": "走廊视频续写"
+  },
+  "description": {
+    "en": "65-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "65 秒走廊视频续写提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "video-extension",
+  "mode": "video-to-video",
+  "duration": "65s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Video or motion reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Framer_X",
+    "url": "https://x.com/Framer_X/status/2083213461824410026"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/Framer_X/status/2083213586814705937"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Framer_X/status/2083213461824410026"
+  ],
+  "prompt": "The man steps into the corridor and slowly walks forward.\n\n[Cut] [Medium tracking shot, side angle] The man looks around nervously as he walks.\n\n[Cut] [Wide tracking shot, front angle] The man continues walking between the rows of capsules.\n\n[Cut] [Close-up, low angle] His bare feet step across the wet floor.\n\n[Cut] [Medium close-up, eye level] The man stops and looks at something in shock.\n\n[Cut] [Medium shot, straight-on angle] An unconscious woman lies inside a capsule, connected to tubes.\n\n[Cut] [Wide shot, low angle] A massive black spider-like robot appears at the end of the corridor. It has a rounded armored body, several long mechanical legs, glowing red circular eyes, hanging cables, and fleshy tentacles extending from its face.\n\n[Cut] [Medium shot, rear angle] The man notices the giant robotic creature and freezes.\n\n[Cut] [Close-up, eye level] The man looks frightened.\n\n[Cut] [Low-angle close-up] The robot’s red eyes glow as its fleshy facial tentacles move beneath its armored head.\n\n[Cut] [Wide shot, low angle] The heavy spider-like robot moves toward him on its long mechanical legs.\n\n[Cut] [Medium tracking shot, side angle] The man turns and runs away.\n\n[Cut] [Wide tracking shot, rear angle] The black robotic creature chases him through the lab, its long legs striking the floor behind him.\n\n[Cut] [Wide tracking shot, front angle] The man runs toward a large closed door.\n\n[Cut] [Medium shot, rear angle] He reaches the door and desperately tries to open it.\n\n[Cut] [Mediu close-up, eye level] The man turns around in fear.\n\n[Cut] [Wide shot, low angle] The huge armored robot approaches with its red eyes glowing and its fleshy tentacles hanging from its face as the man stands trapped against the door.\n\n[Cut] The robot suddenly attacks the man. Cut to black.\n\nNo music.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/corridor-video-continuation/video-15d773e393d0b933.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/corridor-video-continuation/poster-0b8ca59b60d76759.jpg",
+    "format": "video/webm",
+    "videoBytes": 5064069,
+    "videoSha256": "15d773e393d0b93387dfbb0b0ecea36bcfe9ea1f7c6993e558f7c067eaeb51b4",
+    "thumbnailBytes": 76025,
+    "thumbnailSha256": "0b8ca59b60d767597268c05f4ce038650437c89bf283e93b65227620e2571148"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

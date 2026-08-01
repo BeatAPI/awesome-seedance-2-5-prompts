@@ -14,8 +14,8 @@
   "duration": "30s",
   "aspectRatio": "7:3",
   "ingredients": [
-    "Image reference",
     "Text prompt",
+    "Image reference",
     "Audio or sound direction"
   ],
   "source": {
@@ -33,11 +33,13 @@
   ],
   "prompt": "Characters: The Mother — pale ancient dragon, roughly twenty feet long, elephant-sized, feather-like white scales, antlered horns, amber-gold eyes, white whiskers, four clawed limbs, bursting out into a violent, sweeping assault across the camp. Camp marauders (multiple, throughout) — wolf-helm warriors, dark fur-trimmed hide armor, distinct appearance, headbutted, throwing smoke grenades, caught in fire, set aflame, and one attempting to shoot her before being seized.\n\nWeapon: Marauder muskets — one fired at the Mother before its wielder is seized. Multiple smoke grenades — pins pulled, thrown at the Mother, releasing purple smoke.\n\nLocation: Leviathan Skull Encampment interior — colossal fossilized beast skull looming behind the action, firepits scattered through the camp, snow-covered ground, warm firelight against cold blue-grey stone.\n\nScene context: Six-shot sequence, handheld throughout. Subject of every shot is the Mother's escalating rampage through the camp. Shot one: the Mother bursting out and headbutting several marauders. Shot two: marauders pulling smoke grenade pins and throwing them, purple smoke erupting. Shot three: the Mother curling back and smashing into a firepit, fire splashing across one of the smoke clouds. Shot four: the purple smoke igniting, marauders running and screaming while burning. Shot five: the Mother seizing a marauder attempting to shoot her. Shot six: she leaps and smashes him through the fossilized skull looming behind her. Geography locked: the Mother moves through the camp in a continuous rampage, the firepit and skull positioned within her path throughout.\n\nDusk. Interior firelit, cold exterior light beyond. Handheld throughout. Anamorphic 21:9, asymmetrical framing.\n\nWide shot, the Mother bursting out, headbutting marauders. She surges forward through the camp, swinging her head in wide arcs, cracking skulls and sending several marauders sprawling with each violent headbutt.\n\nMedium shot, marauders pulling grenade pins and throwing them. Several marauders yank pins from smoke grenades in a panicked scramble and hurl them at the Mother — the grenades burst open, thick plumes of purple smoke erupting outward and billowing across the space between them.\n\nWide shot, the Mother curling back and smashing into a firepit. She twists her body and slams into a nearby firepit, sending a massive splash of fire and embers erupting outward, engulfing one of the drifting clouds of purple smoke.\n\nWide shot, the purple smoke igniting into flame. The ignited smoke bursts violently, catching several marauders in the blast — they stagger and run, engulfed in fire, screaming as they stumble through the camp.\n\nClose on the Mother, seizing a marauder mid-aim. A marauder raises his musket and fires at her — before the shot can find purchase, she snatches him up in her jaws or claws in one swift motion.\n\nWide shot, the Mother leaping and smashing him through the skull. She launches upward and hurls him bodily into the fossilized skull looming behind her, the impact shattering bone and driving him straight through the ancient structure.\n\nSound design: the crack of skulls and bodies hitting the ground with each headbutt, the metallic pop and hiss of grenades releasing purple smoke, the roaring whoosh of fire erupting from the smashed firepit, a violent ignition as the purple smoke catches flame, panicked screaming from marauders engulfed in fire, the musket's crack, a wet seizing grab, the heavy impact and shattering crunch as the Mother smashes him through the skull, no music.\n\nPlease add a lot more shots to add to the chaos, shaky camera, intense battle scene, quick angle changes, intense.\n\nUse these images as references and suggestions. Make sure you're cutting every few seconds from different angles, and there's just a general air of chaos and battle (they're firing at the dragon with their muskets)\n\nNo music. quick editing.",
   "media": {
-    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/white-dragon-camp-rampage.webm",
-    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/white-dragon-camp-rampage.jpg",
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/white-dragon-camp-rampage/video-434d48d20cd5ed86.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/white-dragon-camp-rampage/poster-271c2e9d93a81a45.jpg",
     "format": "video/webm",
     "videoBytes": 2212251,
-    "videoSha256": "434d48d20cd5ed86f0b2e8a86aef9b6c210f444db85383911d0249a54dec99dc"
+    "videoSha256": "434d48d20cd5ed86f0b2e8a86aef9b6c210f444db85383911d0249a54dec99dc",
+    "thumbnailBytes": 34305,
+    "thumbnailSha256": "271c2e9d93a81a452a5aacfbb448a00f1a04b84116ba05900572084babac2e21"
   },
   "rightsStatus": "source-attributed; redistribution-rights-not-verified"
 }

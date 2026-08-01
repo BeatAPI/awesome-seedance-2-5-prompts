@@ -1,0 +1,43 @@
+{
+  "slug": "handcrafted-illustrated-animation",
+  "title": {
+    "en": "Handcrafted Illustrated Animation",
+    "zh": "手工绘本动画"
+  },
+  "description": {
+    "en": "20-second animation prompt paired with a source-verified creator example and its output video.",
+    "zh": "20 秒手工绘本动画提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "animation",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "20s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AiMeowing",
+    "url": "https://x.com/AiMeowing/status/2083260086215184449"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/AiMeowing/status/2083260108234965245"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/AiMeowing/status/2083260086215184449"
+  ],
+  "prompt": "Create a 15-second handcrafted illustrated drawing animation using the uploaded artwork as the exact final composition. The entire scene is created from a completely blank warm ivory sketchbook page. The camera remains perfectly locked in a straight-on view. The style combines hand-drawn illustration, ink sketching, marker coloring and subtle paper-cut layering. Every element is drawn by an invisible artist in real time, transforming the blank page into the final artwork. The animation feels emotional, satisfying and cinematic, as if an illustrator is bringing a story to life page by page.\n\n0.0–1.5s\nBegin with a completely blank textured sketchbook page. Soft pencil guidelines appear with loose construction strokes. A few erased sketch marks remain visible. A graphite pencil draws the first outline of the cat's head using confident hand movements. Tiny graphite dust and imperfect sketch lines remain visible.\n\n1.5–3.5s\nThe cat's face is completed gradually. Eyes, nose, mouth, whiskers and ears are drawn one feature at a time. Black ink traces over the pencil lines with natural pressure variation. White areas fill first, then the black fur is painted with rich brush strokes. The yellow eye is colored last, becoming the first focal point.\n\n3.5–5.5s\nThe cat's body, raised paw, collar and heart pendant are illustrated piece by piece. Every stroke appears naturally as if drawn by hand. Small ink splatters and paper texture remain visible. The cat gives one tiny blink after being completed.\n\n5.5–7.0s\nThe stack of books grows from the bottom upward. One book appears after another with rough pencil outlines first, then ink, then flat color fills. Each title is handwritten naturally across the spine. The flower pot, vase, coffee mug and decorative elements are drawn individually around the composition.\n\n7.0–10.5s\nThe speech bubble is sketched into place. The sentence appears as authentic handwritten lettering, one letter after another, following the movement of an invisible pen. Each line writes continuously with realistic pauses between words. The signboard, checklist, black poster and every remaining text element are written by hand one sentence at a time. Check marks are added individually. Pink accent words are colored last with marker strokes.\n\n10.5–12.5s\nThe geometric decorations, moon, sun, stars, dots, plants and background shapes are drawn rapidly around the composition, balancing the artwork. Thin guide lines disappear naturally as if erased after the final ink settles.\n\n12.5–15.0s\nThe invisible artist signs \"@AiMeowing\" in one smooth handwritten motion. The entire illustration subtly comes alive. The cat slowly winks, gently raises its paw in a small greeting, the coffee mug releases a tiny curl of steam, the plants sway slightly and a few paper particles drift across the page. Hold the finished illustration for the final 0.7 seconds.\n\nAnimation style:\nPremium handmade illustration process, authentic pencil sketch, graphite construction lines, ink inking, marker coloring, textured paper, realistic hand-drawn lettering, visible drawing order, cinematic storytelling, satisfying progressive illustration, slight stop-motion imperfections, subtle paper grain, soft studio lighting, emotionally warm, editorial illustration.\n\nAvoid camera movement, zooming, morphing, duplicated objects, floating elements, changing composition, changing colors, replacing fonts, CGI effects, smooth digital animation, warped anatomy, altered text layout or extra objects.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/handcrafted-illustrated-animation/video-105ff8a6759b0dca.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/handcrafted-illustrated-animation/poster-0d53a400b6e2a7eb.jpg",
+    "format": "video/webm",
+    "videoBytes": 1634062,
+    "videoSha256": "105ff8a6759b0dca1d3dadba08a882f2959e4fc47d507e2534790995e2d1c463",
+    "thumbnailBytes": 95819,
+    "thumbnailSha256": "0d53a400b6e2a7eb4c06f5bc67b36f3edf3710c8f88cafeafe6d7a8a06f449f6"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

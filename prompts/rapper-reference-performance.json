@@ -1,0 +1,44 @@
+{
+  "slug": "rapper-reference-performance",
+  "title": {
+    "en": "Rapper Reference Performance",
+    "zh": "说唱歌手参考图表演"
+  },
+  "description": {
+    "en": "30-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒说唱歌手参考图表演提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "30s",
+  "aspectRatio": "360:479",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@EHuanglu",
+    "url": "https://x.com/EHuanglu/status/2083246033761694117"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/EHuanglu/status/2083246033761694117"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/EHuanglu/status/2083246033761694117"
+  ],
+  "prompt": "@Image1 is the absolute reference for THE RAPPER and completely replaces every previous performer reference. Preserve his exact identity: middle-aged man with a high receding hairline, short salt-and-pepper hair, thick dark eyebrows, dark eyes and a full beard with strongly defined white-gray sections. Preserve his stocky build, black-white-dark-green horizontally striped T-shirt with black chest pocket, sand-colored knee-length chino shorts and chunky off-white sneakers. No changes to his face, body, hair, beard, clothes or proportions.\n\nA 30-second single continuous live stadium rap performance captured horizontally on an iPhone from the front audience section. Authentic handheld fan footage: physical hand tremor, operator breathing, imperfect reframing, rolling shutter, digital-zoom softness, momentary autofocus hunting and compressed phone-microphone sound. No cuts.\n\nThe first frame already shows THE RAPPER full-body on the right third at the end of a stage runway. A huge sold-out stadium surrounds him. Exactly four adult backup dancers wait several meters behind him. Emerald, white and black LED graphics echo the stripes of his shirt. The stage floor remains solid, flat and continuous.\n\nA heavy original grime beat begins: deep sub-bass, dry kick, snapping snare and minimal low synth. The iPhone rapidly pinches from 1× to a shaky 5× digital zoom, briefly overshoots, then locks onto THE RAPPER in a full-body composition. Focus stays wide enough to preserve his feet and choreography.\n\nHe begins rapping with a low-mid, forceful cadence and exact lip synchronization:\n\nTHE RAPPER:\n“Walk in steady, put the weight on the beat,\nEvery bar lands, every move stays clean.\nHands up high when the bass comes down,\nI don’t chase the wave—I shake the whole ground!”\n\nOnly these words are spoken. Each line is delivered in one controlled breath.\n\nOn the first bar he performs two violent shoulder hits, a chest pop and a sharp forearm lock. His shirt and beard react naturally to momentum.\n\nOn the second bar he executes fast heel-toe pivots, crosses one foot behind the other and glides sideways while keeping his heavy body convincingly grounded. The camera operator struggles to keep his sneakers in frame, corrects downward and catches the complete footwork.\n\nOn the third bar the four dancers join in perfect synchronization. THE RAPPER leads a hard sequence: right stomp, left stomp, elbows strike outward, torso snaps backward, hands shoot overhead. Every movement lands precisely on a kick or snare.\n\nThe instrumental cuts for one beat. He holds a deep wide stance, eyes fixed on the upper tiers. His chest rises with one visible breath.\n\nHe shouts the final line while performing a rapid three-step, a controlled 180° pivot and one enormous downward arm strike. On “GROUND,” he stomps once. The bass returns with a massive impact; the LED floor sends a broad solid emerald light wave across the stage.\n\nThe entire stadium copies his movement. The phone shakes from thousands of spectators stomping together. He breaks into a confident grin but continues bouncing in time, pointing from one side of the stadium to the other.\n\nThe operator zooms rapidly back through 3× and 1× to 0.5× ultra-wide while turning 160° away from the stage in one continuous handheld sweep. Exposure briefly pumps, then recovers.\n\nFinish on the full stadium bowl: tens of thousands of people across every tier performing the same shoulder-hit and stomp combination, emerald wrist lights moving in broad geometric waves, stage remaining on the far-left edge. Audio continues with the crowd chanting “SHAKE THE GROUND,” live bass vibration and realistic phone compression. Rich emerald and white light, warm skin and deep blacks. Clear air without haze, smoke, confetti, mist, sparks or airborne particles.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/rapper-reference-performance/video-091ca43d11d292c6.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/rapper-reference-performance/poster-a5fa8e5b5b2be101.jpg",
+    "format": "video/webm",
+    "videoBytes": 1767749,
+    "videoSha256": "091ca43d11d292c62d2c17fae6df957b9c37658decba77cb0fe89b98b4d4f5a0",
+    "thumbnailBytes": 35168,
+    "thumbnailSha256": "a5fa8e5b5b2be1013a3fbcc808d74c0b1b2d730096735be9db127b564fc27393"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

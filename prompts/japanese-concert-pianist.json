@@ -30,13 +30,15 @@
   "modelEvidenceUrls": [
     "https://x.com/tanabe_fragm/status/2083085216449741212"
   ],
-  "prompt": "次は以下のシンプルなプロンプトで試してみました。\n\n「日本人の女性ピアニストが演奏会で演奏している。いま良い箇所に入ったところ」\n\nSeedance 2.0独特のメリハリのある動きが減り、より滑らかな動きや表情になったような気がします。 https://t.co/vA3BxQW8lh",
+  "prompt": "日本人の女性ピアニストが演奏会で演奏している。いま良い箇所に入ったところ",
   "media": {
-    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-concert-pianist.webm",
-    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-concert-pianist.jpg",
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-concert-pianist/video-8f7e8938dd78f0bf.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-concert-pianist/poster-571b644e3c8c55b5.jpg",
     "format": "video/webm",
     "videoBytes": 942266,
-    "videoSha256": "8f7e8938dd78f0bf37dba96d852b70870f1730279c44d502ce537168efb4312f"
+    "videoSha256": "8f7e8938dd78f0bf37dba96d852b70870f1730279c44d502ce537168efb4312f",
+    "thumbnailBytes": 44332,
+    "thumbnailSha256": "571b644e3c8c55b53a5c5b242bd9c3b0e47d201a0fc391c40ed653d44c6c5001"
   },
   "rightsStatus": "source-attributed; redistribution-rights-not-verified"
 }

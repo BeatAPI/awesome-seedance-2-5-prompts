@@ -1,0 +1,43 @@
+{
+  "slug": "trojan-war-selfie-vlog",
+  "title": {
+    "en": "Trojan War Selfie Vlog",
+    "zh": "特洛伊战争自拍 Vlog"
+  },
+  "description": {
+    "en": "30-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒特洛伊战争自拍 Vlog提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "427:240",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@bmx_ai13",
+    "url": "https://x.com/bmx_ai13/status/2083206301585203218"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/bmx_ai13/status/2083206301585203218"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/bmx_ai13/status/2083206301585203218"
+  ],
+  "prompt": "Scene and Mood: A modern, camera ready woman films a casual selfie style vlog update while the Trojan War rages in full chaos behind her, her ironic commentary colliding harder and harder against real explosions, smoke, and clashing soldiers until the danger finally cracks her calm.\n\nFrame Map: Shot 1 (0 to 6s), extended arm selfie framing, her face and shoulders fill the left two thirds of frame, x=40%, foreground, chest up. Right third and background hold the smoking battlefield, distant soldiers clashing, burning siege structures. Shot 2 (6 to 14s), same selfie framing, camera whip shakes as a nearby impact throws dust into frame, her face still anchored left center. Shot 3 (14 to 22s), slightly wider selfie angle, x=45%, more of the background battlefield visible behind her right shoulder, chariots cutting across the midground. Shot 4 (22 to 30s), tight selfie close up, x=50%, face fills 70% of frame height, background reduced to a soft focus wash of firelight and smoke.\n\nSubject Lock: Long dark wavy hair, olive skin, sharp contoured features, gold hoop earrings, a dust smudged white linen wrap top, holding a matte black phone at arms length toward her own face throughout. Body angled three quarter toward the lens, weight shifting between feet as the ground shakes. Expression starts polished and bright for camera, cracks into wide eyed reaction at the nearby impact, recovers into a knowing smirk by the close. Free hand touches her hair or braces on nothing as she",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/trojan-war-selfie-vlog/video-77d18ea220e9c867.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/trojan-war-selfie-vlog/poster-33da1cdcfba39060.jpg",
+    "format": "video/webm",
+    "videoBytes": 887997,
+    "videoSha256": "77d18ea220e9c867ab812866bfae0fb3cdb6ebe82fde8a3b8a54e9b612281e96",
+    "thumbnailBytes": 24949,
+    "thumbnailSha256": "33da1cdcfba390600fc4e91bd071db27244aa77478ce31fbab7274b76df72368"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

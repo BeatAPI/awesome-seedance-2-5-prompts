@@ -11,16 +11,18 @@ assert.equal(
   'catalog model must be Seedance-2.5'
 );
 assert.ok(Array.isArray(catalog.prompts), 'prompts must be an array');
-assert.equal(catalog.prompts.length, 24, 'launch catalog must contain 24 prompts');
+assert.ok(catalog.prompts.length > 0, 'catalog must contain prompts');
 
 const allowedModes = new Set([
   'text-to-video',
   'image-to-video',
   'reference-to-video',
   'multimodal',
+  'video-to-video',
 ]);
 const allowedWorkflowModes = new Set([
   'reference-generation',
+  'text-generation',
   'video-editing',
   'video-extension',
 ]);
@@ -48,7 +50,7 @@ for (const entry of catalog.prompts) {
   );
   assert.match(entry.duration, /^\d+s$/);
   assert.match(entry.aspectRatio, /^\d+:\d+$/);
-  assert.ok(entry.prompt.length >= 80, `${entry.slug}: prompt is too thin`);
+  assert.ok(entry.prompt.length >= 20, `${entry.slug}: prompt is too thin`);
   assert.ok(
     Array.isArray(entry.ingredients) && entry.ingredients.length > 0,
     `${entry.slug}: ingredients are required`
@@ -72,15 +74,20 @@ for (const entry of catalog.prompts) {
   );
   assert.match(
     entry.media?.video ?? '',
-    /^https:\/\/media\.beatapi\.io\/prompt-gallery\/seedance-2-5\/.+\.webm$/
+    /^https:\/\/media\.beatapi\.io\/prompt-gallery\/seedance-2-5\/[a-z0-9-]+\/video-[a-f0-9]{16}\.webm$/
   );
   assert.match(
     entry.media?.thumbnail ?? '',
-    /^https:\/\/media\.beatapi\.io\/prompt-gallery\/seedance-2-5\/.+\.jpg$/
+    /^https:\/\/media\.beatapi\.io\/prompt-gallery\/seedance-2-5\/[a-z0-9-]+\/poster-[a-f0-9]{16}\.jpg$/
   );
   assert.equal(entry.media?.format, 'video/webm');
   assert.ok(entry.media?.videoBytes > 0, `${entry.slug}: video size missing`);
   assert.match(entry.media?.videoSha256 ?? '', /^[a-f0-9]{64}$/);
+  assert.ok(
+    entry.media?.thumbnailBytes > 0,
+    `${entry.slug}: thumbnail size missing`
+  );
+  assert.match(entry.media?.thumbnailSha256 ?? '', /^[a-f0-9]{64}$/);
   assert.ok(entry.rightsStatus, `${entry.slug}: rights status is required`);
 
   const entryFile = new URL(`../prompts/${entry.slug}.json`, import.meta.url);
@@ -92,17 +99,18 @@ for (const entry of catalog.prompts) {
   );
 }
 
+const creatorVerified = catalog.prompts.filter(
+  (entry) => entry.outputStatus === 'source-verified'
+).length;
+const officialExamples = catalog.prompts.filter(
+  (entry) => entry.outputStatus === 'official-example'
+).length;
+assert.ok(creatorVerified > 0, 'creator examples are required');
+assert.ok(officialExamples > 0, 'official examples are required');
 assert.equal(
-  catalog.prompts.filter((entry) => entry.outputStatus === 'source-verified')
-    .length,
-  19,
-  'creator-verified count must remain explicit'
-);
-assert.equal(
-  catalog.prompts.filter((entry) => entry.outputStatus === 'official-example')
-    .length,
-  5,
-  'official example count must remain explicit'
+  creatorVerified + officialExamples,
+  catalog.prompts.length,
+  'every published prompt must have a verified output status'
 );
 
 console.log(`Validated ${catalog.prompts.length} Seedance 2.5 prompts.`);

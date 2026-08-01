@@ -7,9 +7,10 @@ import {
 } from 'node:fs/promises';
 import path from 'node:path';
 
-const sourceRepo =
-  process.env.SEEDANCE_2_5_SOURCE_REPO ??
-  '/Users/kkkk/Desktop/awesome-ai prompts';
+const sourceRepo = process.env.SEEDANCE_2_5_SOURCE_REPO;
+if (!sourceRepo) {
+  throw new Error('SEEDANCE_2_5_SOURCE_REPO is required');
+}
 const sourceFile = path.join(
   sourceRepo,
   'prompts/seedance-2-5-prompts.json'
@@ -21,8 +22,6 @@ const repositoryUrl =
   'https://github.com/BeatAPI/awesome-seedance-2-5-prompts';
 const galleryUrl = 'https://beatapi.io/prompts';
 const galleryZhUrl = 'https://beatapi.io/zh/prompts';
-const cdnPrefix =
-  'https://media.beatapi.io/prompt-gallery/seedance-2-5';
 
 const zhTitles = {
   'filter-double-comes-alive-comedy': '美颜滤镜分身成真喜剧',
@@ -49,6 +48,51 @@ const zhTitles = {
   'youth-motorcycle-racing-memory': '青春机车竞速回忆',
   'nine-language-flower-relay': '九种语言鲜花接力',
   'peking-opera-craft-inheritance': '京剧手艺传承',
+  'celestia-floating-magic-city': '塞莱斯蒂亚浮空魔法城',
+  'thousand-year-static-landscape': '千年静止机位风景变迁',
+  'japanese-game-show-foam-roller': '日本综艺泡沫滚筒',
+  'lunar-cafe-dialogue': '月球咖啡馆对话',
+  'robots-text-hold-studio-comedy': '机器人举字牌摄影棚喜剧',
+  'flooded-botanical-archive-climb': '水淹植物档案馆攀爬',
+  'alpine-roller-coaster-ride': '阿尔卑斯山过山车',
+  'bazaar-chase-cinematic': '巴扎追逐电影镜头',
+  'handcrafted-illustrated-animation': '手工绘本动画',
+  'blonde-warrior-battlefield': '金发女战士战场',
+  'rapper-reference-performance': '说唱歌手参考图表演',
+  'desert-hoverboard-ruin-run': '沙漠悬浮板遗迹穿越',
+  'giant-and-dragon-lake-battle': '巨人与巨龙湖畔大战',
+  'flooded-village-survival-thriller': '洪水村庄生存惊悚',
+  'casual-apartment-tour': '休闲公寓参观',
+  'corridor-video-continuation': '走廊视频续写',
+  'underground-london-techno-club': '伦敦地下 Techno 俱乐部',
+  'blue-disc-anime-hero-battle': '蓝色圆盘动漫英雄大战',
+  'trojan-war-selfie-vlog': '特洛伊战争自拍 Vlog',
+  'tactical-one-take-action-demo': '战术一镜到底动作演示',
+  'kung-fu-battle-long-take': '功夫大战长镜头',
+  'ten-member-idol-concert': '十人偶像演唱会',
+  'grand-bazaar-stunt-chase': '大巴扎特技追逐',
+  'mecha-motorcycle-high-speed-dash': '机甲摩托高速冲刺',
+  'protein-shake-ugc-ad': '蛋白奶昔 UGC 广告',
+  'hyperspeed-fpv-portal-journey': '超高速 FPV 传送门之旅',
+  'wizard-of-oz-scarecrow-plan': '绿野仙踪稻草人计划',
+  'rainy-neon-thriller': '雨夜霓虹惊悚片',
+  'stylized-family-animation': '风格化家庭动画',
+  'painterly-underwater-wreck-chase': '绘画风水下沉船追逐',
+  'japanese-mobile-carrier-family-ad': '日本运营商家庭广告',
+  'parisian-city-girl-vlog': '巴黎都市女孩 Vlog',
+  'mechanical-war-bull-battle': '机械战牛大战',
+  'fictional-stadium-sports-commercial': '虚构体育场商业广告',
+  'randomized-graffiti-dance-mv': '随机涂鸦舞蹈 MV',
+  'occult-solo-anime-short': '神秘学独角动画短片',
+  'korean-mini-dv-street-vlog': '韩国街头 Mini-DV Vlog',
+  'retro-y2k-pop-duo-music-video': '复古 Y2K 流行双人 MV',
+  'live-action-dance-comparison': '真人舞蹈对比',
+  'amazonian-warrior-animal-transformation': '亚马逊战士动物变形',
+  'the-suit-was-still-listening': '西装仍在聆听',
+  'fantasy-palace-romance-drama': '奇幻宫殿爱情剧',
+  'faceless-riders-highway-chase': '无面骑手公路追逐',
+  'rainy-temple-martial-arts-epic': '雨中寺庙武术史诗',
+  'aquatic-brand-concept-journey': '水世界品牌概念之旅',
 };
 
 const ingredientLabels = {
@@ -74,13 +118,16 @@ const categoryLabels = {
   vlog: 'vlog',
 };
 
-function basename(value) {
-  return value.split('/').pop();
-}
-
-function mediaUrl(value) {
-  return `${cdnPrefix}/${basename(value)}`;
-}
+const sourceCategoryMap = {
+  action: 'cinematic-action',
+  advertising: 'brand-film',
+  experimental: 'cinematic-story',
+  historical: 'cinematic-story',
+  lifestyle: 'vlog',
+  music: 'music-video',
+  sports: 'brand-film',
+  thriller: 'cinematic-story',
+};
 
 function titleCase(value) {
   return value
@@ -90,7 +137,8 @@ function titleCase(value) {
 }
 
 function buildEntry(record) {
-  const categoryName = categoryLabels[record.category] ?? record.category;
+  const category = sourceCategoryMap[record.category] ?? record.category;
+  const categoryName = categoryLabels[category] ?? category;
   const statusLabel =
     record.output_status === 'official-example'
       ? 'an attributed official showcase'
@@ -105,7 +153,7 @@ function buildEntry(record) {
       en: `${record.duration_seconds.toFixed(0)}-second ${categoryName} prompt paired with ${statusLabel} and its output video.`,
       zh: `${record.duration_seconds.toFixed(0)} 秒${zhTitles[record.slug] ?? categoryName}提示词，保留来源、完整 Prompt 与对应输出视频。`,
     },
-    category: record.category,
+    category,
     workflowMode: record.workflow_mode,
     mode: record.generation_mode,
     duration: `${Math.round(record.duration_seconds)}s`,
@@ -125,11 +173,13 @@ function buildEntry(record) {
     modelEvidenceUrls: record.model_evidence_urls,
     prompt: record.prompt,
     media: {
-      video: mediaUrl(record.local_video),
-      thumbnail: mediaUrl(record.local_thumbnail),
+      video: record.public_video_url,
+      thumbnail: record.public_thumbnail_url,
       format: 'video/webm',
       videoBytes: record.video_bytes,
       videoSha256: record.video_sha256,
+      thumbnailBytes: record.thumbnail_bytes,
+      thumbnailSha256: record.thumbnail_sha256,
     },
     rightsStatus: record.rights_status,
   };
@@ -332,10 +382,6 @@ const catalog = {
   prompts: entries,
 };
 await writeFile(catalogFile, `${JSON.stringify(catalog, null, 2)}\n`);
-await writeFile(
-  new URL('../README.md', import.meta.url),
-  englishReadme(entries)
-);
 await writeFile(
   new URL('../README.zh-CN.md', import.meta.url),
   chineseReadme(entries)

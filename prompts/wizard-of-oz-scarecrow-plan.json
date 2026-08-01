@@ -1,0 +1,43 @@
+{
+  "slug": "wizard-of-oz-scarecrow-plan",
+  "title": {
+    "en": "Wizard of Oz Scarecrow Plan",
+    "zh": "绿野仙踪稻草人计划"
+  },
+  "description": {
+    "en": "15-second fantasy prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒绿野仙踪稻草人计划提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "fantasy",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "54:31",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@samaote",
+    "url": "https://x.com/samaote/status/2083175924477096246"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/samaote/status/2083175924477096246"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/samaote/status/2083175924477096246"
+  ],
+  "prompt": "**The Wonderful Wizard of Oz — The Scarecrow’s Clever Plan**\n\nHyperrealistic cinematic fantasy, ultra-detailed 8K HDR, lifelike characters, realistic skin, fabric, straw, polished metal, fur, wood, water, and environmental textures. Bright natural afternoon lighting, cinematic depth of field, realistic shadows, subtle filmic contrast, smooth camera movement, physically accurate motion, premium live-action storybook aesthetic.\n\n**Characters:**\n\n* **Dorothy** — a brave twelve-year-old girl with braided brown hair tied with blue ribbons, fair skin, a blue-and-white gingham dress over a light blouse, pale blue socks, and polished red shoes.\n* **Scarecrow** — a friendly straw-filled figure wearing a faded blue shirt, patched brown trousers, a worn floppy hat, and a rope belt. Loose straw is visible around his cuffs, collar, and trouser legs.\n* **Tin Woodman** — a polished silver metal traveler with realistic articulated joints, subtle reflections, and a small woodcutting axe.\n* **Cowardly Lion** — a large golden lion with highly detailed fur, expressive amber eyes, and nervous but endearing body language.\n\n**Environment:**\n\nA bright afternoon on a winding yellow-brick road surrounded by tall green cornfields. A narrow stream crosses the road beneath a small wooden bridge that has partially collapsed. Broken boards lie near the water, while several long wooden fence posts rest beside the cornfield. The stream flows gently from screen left to screen right.\n\n**Story and Cinematography:**\n\nOpen with a wide establishing shot showing Dorothy and her three companions walking along the yellow-brick road toward the damaged bridge. The corn sways softly in the breeze, sunlight reflects on the stream, and birds move through the distant sky.\n\nCut to a medium group shot from one side of the road. Dorothy stops at the broken bridge. The Tin Woodman steps forward and studies the damaged boards while holding his axe. The Cowardly Lion approaches the edge, looks down at the water, then quickly steps back with a worried expression and refuses to jump.\n\nThe Scarecrow quietly examines the bridge and surrounding area. Use a close-up of his thoughtful face, followed by an over-the-shoulder shot as he notices several long fence posts lying beside the cornfield. He points toward them excitedly, revealing his clever idea.\n\nThe Tin Woodman walks to the fence posts and carefully chops through the loose bindings with two controlled axe strikes. Show realistic metal movement, wood fibers, dust, and small pieces of rope falling naturally. Dorothy and the Scarecrow help guide two sturdy posts toward the stream.\n\nIn a wide side shot, the group places both posts across the narrow gap to create a temporary bridge. Keep the stream, damaged bridge, road, and characters in consistent positions. The posts should remain visible and stable in every following shot.\n\nDorothy carefully crosses first, balancing with her arms slightly raised. Use a smooth side-tracking shot as she steps across the posts and reaches the opposite bank safely.\n\nThe Tin Woodman crosses next while holding one post steady and carrying his axe in the other hand. His polished metal body reflects the sky, cornfields, and yellow road.\n\nThe Cowardly Lion approaches the temporary bridge, lowers his ears, and hesitates. Use a close-up of his anxious eyes and paws. He closes his eyes, takes a nervous breath, then runs quickly across the posts. His paws land heavily but naturally, causing the posts to flex slightly without breaking.\n\nOnce everyone reaches the opposite side, Dorothy turns toward the Scarecrow and warmly praises his intelligence. The Scarecrow smiles proudly, straightens his posture, and adjusts his floppy hat.\n\nEnd with a wide rear three-quarter shot as Dorothy, the Scarecrow, Tin Woodman, and Cowardly Lion continue together along the yellow-brick road through the green cornfields. The camera slowly rises while they walk toward the distant horizon.\n\n**Audio:**\n\nNo music. Natural environmental sounds only: birds, soft wind moving through the corn, flowing water, wooden boards shifting, rope snapping, axe striking wood, metal footsteps, lion paws, fabric movement, and footsteps on yellow bricks.\n\n**Continuity and Generation Rules:**\n\nMaintain identical character faces, proportions, outfits, colors, materials, props, and scale throughout the entire video. Keep Dorothy’s braids, dress, and red shoes unchanged. Keep the Scarecrow’s clothing patches, straw placement, hat, and rope belt consistent. Keep the Tin Woodman’s metal design and axe identical. Keep the Cowardly Lion’s fur color, mane, facial features, and body size consistent.\n\nPreserve clear spatial continuity between the yellow-brick road, cornfield, broken bridge, stream, fence posts, and character positions. The stream must always flow in the same direction. Maintain consistent screen direction and respect the 180-degree rule throughout all dialogue, reaction shots, crossings, and group scenes.\n\nNo character duplication, no changing costumes, no disappearing props, no morphing faces, no deformed anatomy, no extra limbs, no floating objects, no unstable bridge geometry, no redesign of the environment, no text, no subtitles, no logo, no watermark.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/wizard-of-oz-scarecrow-plan/video-8d9bc52c7c69f53a.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/wizard-of-oz-scarecrow-plan/poster-6e34dd1a50759c24.jpg",
+    "format": "video/webm",
+    "videoBytes": 1323841,
+    "videoSha256": "8d9bc52c7c69f53ac5b8ce763ea5e12236ed7da78930163c9d5d1ad899be8fc4",
+    "thumbnailBytes": 67891,
+    "thumbnailSha256": "6e34dd1a50759c247fbe2ab6380a33af2d33c3063ff1e93d46cb2051fff25a8d"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

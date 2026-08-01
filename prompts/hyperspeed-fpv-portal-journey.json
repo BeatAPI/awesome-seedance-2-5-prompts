@@ -1,0 +1,43 @@
+{
+  "slug": "hyperspeed-fpv-portal-journey",
+  "title": {
+    "en": "Hyperspeed FPV Portal Journey",
+    "zh": "超高速 FPV 传送门之旅"
+  },
+  "description": {
+    "en": "30-second fantasy prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒超高速 FPV 传送门之旅提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "fantasy",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@johnAGI168",
+    "url": "https://x.com/johnAGI168/status/2083178644130640005"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/johnAGI168/status/2083178644130640005"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/johnAGI168/status/2083178644130640005"
+  ],
+  "prompt": "【风格】高速FPV一镜到底穿越（Hyperspeed FPV One-Take Portal Travel），虚幻引擎5写实渲染，8K，运动模糊拉满，每次穿越用\"冲进物体/被吸入\"做无缝转场，禁止黑屏硬切，竖屏9:16\n\n【时长】30秒\n\n【角色】同一位亚洲女性（每个世界换形态换装，但脸100%锁定，观众能一眼认出是同一个人）\n\n【核心机制】镜头是一颗永不停下的高速飞行体，全程向前冲，每约2秒穿过一个\"传送口\"(瞳孔/水面/火焰/裂缝/门)进入下一个截然不同的世界，一镜到底不断\n\n[00:00-00:01] 怼脸极特写：她的眼睛猛地睁开，镜头急速推入瞳孔，被吸进黑洞般的瞳孔深处。\n\n[00:01-00:03] 冲出瞳孔→热带雨林瀑布，她抓着藤蔓从瀑布后荡出，水花糊镜头。\n\n[00:03-00:05] 穿过水花→赛博朋克霓虹雨夜，她穿发光机甲踩在飞行摩托上贴脸掠过镜头。\n\n[00:05-00:07] 冲进一块霓虹广告牌→深海，她一身鲛人鳞尾与巨鲸并肩下潜，气泡upward飞过。\n\n[00:07-00:09] 钻进鲸鱼喷出的气柱→金色沙漠风暴，她骑改装越野车碾过沙丘腾空。\n\n[00:09-00:11] 冲进扬起的沙墙→零重力空间站，她太空服漂浮翻转，地球在她背后转。\n\n[00:11-00:13] 钻进舷窗反光→古代宫殿，她红衣长袖凌空甩袖起舞，红绸缠满整个画面。\n\n[00:13-00:15] 冲进红绸漩涡→活火山口，她跃过喷发的熔岩，火星拖成流星线。\n\n[00:15-00:17] 穿过火星→极光雪原，她策一匹白马狂奔，雪雾在马蹄下炸开。\n\n[00:17-00:19] 钻进雪雾→蒸汽朋克钟楼内部，齿轮咬合，她踩着转动的巨齿轮跳跃。\n\n[00:19-00:21] 冲进钟表齿轮缝→末日废土，她持长刀在沙暴中回身劈开镜头前的什么。\n\n[00:21-00:23] 刀光劈开画面→水墨江湖，一切变黑白水墨，她一袭白衣立于竹尖，墨点飞溅。\n\n[00:23-00:25] 钻进一滴墨→未来都市天际线，她张开机械双翼从摩天楼顶一跃而下俯冲。\n\n[00:25-00:28] 俯冲穿过云层→所有世界的碎片像玻璃一样向中心坍缩,汇成一个亮点。\n\n[00:28-00:30] 亮点收缩回她的瞳孔——镜头猛地拉回到开头那张脸,她眨了一下眼,嘴角一勾。画面定格,可无缝接回第0秒。\n\n音效：全程无BGM，只有高频呼啸风声+每次穿越\"轰\"的一声穿透音+材质环境音(水/火/风/金属)，最后眨眼一声轻响戛然而止。\n\n【导演备注】1.节奏铁律：镜头全程向前高速冲，绝不停顿、绝不减速停留，每个世界只停留约2秒立刻穿入下一个；2.转场铁律：每次切换必须用\"冲进/穿过一个具体物体\"完成无缝转场(瞳孔/水花/气柱/沙墙/红绸/火星/墨滴)，禁止黑屏、禁止闪白、禁止叠化；3.身份锁定：@图1脸部五官全程100%一致，只换服装形态，观众每个世界都要能认出是同一个她；4.物理真实：水花、沙、火星、雪雾、红绸都要真实惯性和运动模糊；5.首尾帧对齐做无缝循环。\n\n【负面提示词】黑屏转场，闪白，叠化，镜头停顿减速，换脸，五官漂移，认不出同一人，真实地标品牌，可读文字，水印，塑料CG，卡顿掉帧，多余手指，未成年人形象。",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/hyperspeed-fpv-portal-journey/video-4065f5eaa6f51ed4.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/hyperspeed-fpv-portal-journey/poster-8f0af0fed2882237.jpg",
+    "format": "video/webm",
+    "videoBytes": 3238705,
+    "videoSha256": "4065f5eaa6f51ed47654d6e07deb1098582f7ec3b023604dd59e6a149e7b3b04",
+    "thumbnailBytes": 38549,
+    "thumbnailSha256": "8f0af0fed2882237724a8a77b02f6cf4d2995db774facad18ebbfad6db0aa04e"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

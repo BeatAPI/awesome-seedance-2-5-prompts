@@ -1,0 +1,43 @@
+{
+  "slug": "aquatic-brand-concept-journey",
+  "title": {
+    "en": "Aquatic Brand Concept Journey",
+    "zh": "水世界品牌概念之旅"
+  },
+  "description": {
+    "en": "29-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "29 秒水世界品牌概念之旅提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "29s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@johnAGI168",
+    "url": "https://x.com/johnAGI168/status/2071429324394332446"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/johnAGI168/status/2071429324394332446"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/johnAGI168/status/2071429324394332446"
+  ],
+  "prompt": "电影级品牌概念短片。 @图像1 为首帧,画面微微晃动,镜头逐渐推近,来到窗外快速后退的树影,对影后退速度越来愈 快,突然切到 @图像2 速度突然放缓,镜头顺着溪流缓缓前进,鸟语花香。镜头下移,来到水下,音效有水中气泡的声 @图像3 @图像4 音,一群橙色的水母从镜头前优美地游过 镜头缓缓后拉,有一群小鱼晃过镜头后从水里穿到窗内 少女左看右看,在观赏小鱼镜头缓缓后拉,画面虚焦,随后又又重新对焦画面变清晰,跟随音乐节奏切换:中式园林花窗 @图像5光线转圈、教堂玻璃彩窗、飞机舷窗、弯顶天窗、黑枫窗、百叶窗、欧洲老虎窗、门上猫眼、相机取景框、鸟类眼 睛、人类眼睛特写。画面停留在人类眼睛特写,随后眼睛闭上,画面黑屏,再突然一睁眼,眼睛中央出现\"seedance\"带重音",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/aquatic-brand-concept-journey/video-2be6b0e0afb0a2e4.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/aquatic-brand-concept-journey/poster-1d927ab2c8760355.jpg",
+    "format": "video/webm",
+    "videoBytes": 2724839,
+    "videoSha256": "2be6b0e0afb0a2e4361daa6035a03d868c9640dae36a0007b20055fc9c319349",
+    "thumbnailBytes": 86559,
+    "thumbnailSha256": "1d927ab2c876035540c1cdd6e5be8a874359b2dea31d1f43902b0d0b7ae29b55"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

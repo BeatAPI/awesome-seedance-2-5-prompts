@@ -30,13 +30,15 @@
   "modelEvidenceUrls": [
     "https://x.com/tanabe_fragm/status/2083085216449741212"
   ],
-  "prompt": "A cinematic Japanese slice-of-life scene.Two young Japanese women (age 20 and 22) are sitting together and chatting happily. They are close friends having a relaxed conversation. Their lips move naturally with synchronized dialogue (accurate lip sync).Scene: a quiet residential street in Japan in the late afternoon. Warm golden sunlight, gentle breeze, peaceful everyday https://t.co/RSPCXsDmIm: cinematic Japanese film style composition, medium two-shot, natural framing, slightly handheld camera, slow cinematic https://t.co/nJknidgmTP: soft natural sunlight, realistic skin tones, subtle film color grading.Visual style: Japanese indie film aesthetics, shallow depth of field, soft background blur, realistic acting.Dialogue (spoken in Japanese, natural lip sync):Woman 1: 「今日ほんとうにあたたかいね。春って感じしない？」Woman 2: 「うん、こういう日に外で話すの気持ちいいよね。」Woman 1: 「最近どう？大学はいそがしい？」Woman 2: 「ちょっといそがしいけど、こうやって話すと元気出る。」They smile, laugh lightly, and continue their casual conversation.Ultra realistic, cinematic storytelling, natural acting, 4K film look.",
+  "prompt": "A cinematic Japanese slice-of-life scene.Two young Japanese women (age 20 and 22) are sitting together and chatting happily. They are close friends having a relaxed conversation. Their lips move naturally with synchronized dialogue (accurate lip sync).Scene: a quiet residential street in Japan in the late afternoon. Warm golden sunlight, gentle breeze, peaceful everyday atmosphere. Camera: cinematic Japanese film style composition, medium two-shot, natural framing, slightly handheld camera, slow cinematic movement. Lighting: soft natural sunlight, realistic skin tones, subtle film color grading.Visual style: Japanese indie film aesthetics, shallow depth of field, soft background blur, realistic acting.Dialogue (spoken in Japanese, natural lip sync):Woman 1: 「今日ほんとうにあたたかいね。春って感じしない？」Woman 2: 「うん、こういう日に外で話すの気持ちいいよね。」Woman 1: 「最近どう？大学はいそがしい？」Woman 2: 「ちょっといそがしいけど、こうやって話すと元気出る。」They smile, laugh lightly, and continue their casual conversation.Ultra realistic, cinematic storytelling, natural acting, 4K film look.",
   "media": {
-    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-street-lip-sync-comparison.webm",
-    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-street-lip-sync-comparison.jpg",
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-street-lip-sync-comparison/video-04ded47d83bcf914.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-street-lip-sync-comparison/poster-20ee3fbcebc970f6.jpg",
     "format": "video/webm",
     "videoBytes": 1287944,
-    "videoSha256": "04ded47d83bcf914a6c4f8dfc3b5a3bd857bd9098fe6bb9b4c29fd6a9ec037f8"
+    "videoSha256": "04ded47d83bcf914a6c4f8dfc3b5a3bd857bd9098fe6bb9b4c29fd6a9ec037f8",
+    "thumbnailBytes": 69213,
+    "thumbnailSha256": "20ee3fbcebc970f62860782bc1981b57dcca65256bb5b3537d8ae7ab57b7a291"
   },
   "rightsStatus": "source-attributed; redistribution-rights-not-verified"
 }

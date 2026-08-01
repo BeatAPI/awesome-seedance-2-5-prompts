@@ -32,11 +32,13 @@
   ],
   "prompt": "CAMERA / LOOK: Handheld mini DV camcorder footage filmed by the subject herself. Slight hand shake, occasional focus hunting, imperfect framing, natural zoom adjustments, soft tape-like image quality, subtle grain, realistic auto-exposure shifts from bright kitchen morning light. Natural skin tones, mild motion blur, authentic consumer camcorder aesthetic.\nSTYLE: Cozy coffee-prep vlog with gentle ASMR elements. Relaxed pacing, minimal dialogue, candid moments. Focus on satisfying sounds: bean grinder whirring, portafilter tamping, steam wand hissing, cup clinking, milk frothing.\nSUBJECT: Young man in his mid-20s, plain t-shirt, hair slightly tousled, minimal accessories. Calm, focused energy while making his morning coffee.\nSETTING: Small kitchen counter with an espresso machine on a bright morning. Natural daylight, coffee beans and a mug nearby, quiet atmosphere.\nSTORYBOARD:\n→ (3s, propped medium shot) Places camera on the counter, switches on the machine. \"Morning coffee, the proper way.\"\n→ (3s, overhead shot) Grinds fresh coffee beans, fine grounds falling into the portafilter.\n→ (3s, close-up) Tamps the grounds down firmly and evenly.\n→ (3s, handheld shot) Locks the portafilter into the machine. \"Here we go.\"\n→ (3s, detail shot) Espresso streams slowly into a small cup. No dialogue.\n→ (3s, medium shot) Pours cold milk into a small steel pitcher. \"Time for the milk.\"\n→ (3s, macro shot) Steam wand hissing as it froths the milk.\n→ (3s, propped shot) Pours frothed milk carefully over the espresso, forming light layers.\n→ (3s, warm ending shot) Holds the finished cup, takes a small sip, satisfied smile. \"That's exactly what I needed.\"\n→ (3s, final shot) Reaches toward camera, still holding the cup. \"See you later.\" Hand covers lens as recording ends.\nAUDIO NOTES: Natural kitchen ambience — grinder whirring, tamping, steam hissing, milk pouring should be clearly audible. Dialogue quiet and casual.\nREALISM NOTES: Authentic body language, natural blinking, genuine focused smiles, occasional careful pauses while pouring, imperfect framing, focus breathing, bright morning light shifts. Should resemble a genuine personal coffee vlog on a consumer camcorder, not a commercial or AI-generated production.",
   "media": {
-    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/morning-coffee-mini-dv-vlog.webm",
-    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/morning-coffee-mini-dv-vlog.jpg",
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/morning-coffee-mini-dv-vlog/video-6b0d9143344bae80.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/morning-coffee-mini-dv-vlog/poster-d0a0ba9e51881160.jpg",
     "format": "video/webm",
     "videoBytes": 1253688,
-    "videoSha256": "6b0d9143344bae80827f7e73ffd8d37ba6f745448d3291cf1a6e03826756592c"
+    "videoSha256": "6b0d9143344bae80827f7e73ffd8d37ba6f745448d3291cf1a6e03826756592c",
+    "thumbnailBytes": 50521,
+    "thumbnailSha256": "d0a0ba9e51881160e709eef7cc505fc540cbadb11361ec74471bf92122e276a2"
   },
   "rightsStatus": "source-attributed; redistribution-rights-not-verified"
 }
