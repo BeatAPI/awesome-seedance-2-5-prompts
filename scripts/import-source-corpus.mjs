@@ -20,8 +20,8 @@ const catalogFile = new URL('../prompts/catalog.json', import.meta.url);
 
 const repositoryUrl =
   'https://github.com/BeatAPI/awesome-seedance-2-5-prompts';
-const galleryUrl = 'https://beatapi.io/prompts';
-const galleryZhUrl = 'https://beatapi.io/zh/prompts';
+const galleryUrl = 'https://beatapi.io/seedance-2-5-prompts';
+const galleryZhUrl = 'https://beatapi.io/zh/seedance-2-5-prompts';
 
 const zhTitles = {
   'filter-double-comes-alive-comedy': '美颜滤镜分身成真喜剧',
@@ -210,7 +210,7 @@ function englishReadme(entries) {
 An open, source-transparent collection of Seedance 2.5 Prompt–Video pairs,
 curated by [BeatAPI](https://beatapi.io).
 
-**[Browse the Prompt Gallery hub](${galleryUrl})** ·
+**[Open the Seedance 2.5 Prompt Gallery](${galleryUrl})** ·
 **[中文说明](./README.zh-CN.md)** ·
 **[Submit a prompt](${repositoryUrl}/issues/new?template=prompt.yml)**
 
@@ -298,7 +298,7 @@ function chineseReadme(entries) {
 这是由 [BeatAPI](https://beatapi.io) 维护的 Seedance 2.5 Prompt–Video
 开源目录。
 
-**[打开 Prompt Gallery](${galleryZhUrl})** ·
+**[打开 Seedance 2.5 提示词画廊](${galleryZhUrl})** ·
 **[提交 Prompt](${repositoryUrl}/issues/new?template=prompt.yml)**
 
 ## 首批内容

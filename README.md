@@ -7,6 +7,7 @@
 Source-backed Seedance 2.5 video prompts with WebM examples and creator
 attribution, curated by [BeatAPI](https://beatapi.io).
 
+**[Open the Seedance 2.5 Prompt Gallery](https://beatapi.io/seedance-2-5-prompts)** ·
 **[中文说明](./README.zh-CN.md)** ·
 **[Contribute a prompt](https://github.com/BeatAPI/awesome-seedance-2-5-prompts/issues/new?template=prompt.yml)**
 

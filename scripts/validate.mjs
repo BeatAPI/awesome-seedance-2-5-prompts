@@ -3,6 +3,23 @@ import { readFile } from 'node:fs/promises';
 
 const file = new URL('../prompts/catalog.json', import.meta.url);
 const catalog = JSON.parse(await readFile(file, 'utf8'));
+const [englishReadme, chineseReadme] = await Promise.all([
+  readFile(new URL('../README.md', import.meta.url), 'utf8'),
+  readFile(new URL('../README.zh-CN.md', import.meta.url), 'utf8'),
+]);
+
+assert.ok(
+  englishReadme.includes(
+    '[Open the Seedance 2.5 Prompt Gallery](https://beatapi.io/seedance-2-5-prompts)'
+  ),
+  'English README must link directly to the Seedance 2.5 gallery'
+);
+assert.ok(
+  chineseReadme.includes(
+    '[打开 Seedance 2.5 提示词画廊](https://beatapi.io/zh/seedance-2-5-prompts)'
+  ),
+  'Chinese README must link directly to the localized Seedance 2.5 gallery'
+);
 
 assert.equal(catalog.version, 1, 'catalog version must be 1');
 assert.equal(

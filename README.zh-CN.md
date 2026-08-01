@@ -3,7 +3,7 @@
 这是由 [BeatAPI](https://beatapi.io) 维护的 Seedance 2.5 Prompt–Video
 开源目录。
 
-**[打开 Prompt Gallery](https://beatapi.io/zh/prompts)** ·
+**[打开 Seedance 2.5 提示词画廊](https://beatapi.io/zh/seedance-2-5-prompts)** ·
 **[提交 Prompt](https://github.com/BeatAPI/awesome-seedance-2-5-prompts/issues/new?template=prompt.yml)**
 
 ## 首批内容
