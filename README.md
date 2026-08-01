@@ -7,13 +7,14 @@
 Source-backed Seedance 2.5 video prompts with WebM examples and creator
 attribution, curated by [BeatAPI](https://beatapi.io).
 
-**[Open the Seedance 2.5 Prompt Gallery](https://beatapi.io/seedance-2-5-prompts)** ·
 **[中文说明](./README.zh-CN.md)** ·
 **[Contribute a prompt](https://github.com/BeatAPI/awesome-seedance-2-5-prompts/issues/new?template=prompt.yml)**
 
 ## Prompt gallery
 
 <!-- GENERATED_VIDEO_GALLERY_START -->
+
+**Browse by use case:** [Stories & Films](./prompts/use-cases/stories-films.md) · [Action & Fantasy](./prompts/use-cases/action-fantasy.md) · [Ads & Products](./prompts/use-cases/ads-products.md) · [Music & Performance](./prompts/use-cases/music-performance.md) · [Vlog & Social](./prompts/use-cases/vlog-social.md)
 
 ### 1. Vietnamese Mythic Sea Battle
 

@@ -1,7 +1,8 @@
-import { readFile, writeFile } from 'node:fs/promises';
+import { mkdir, readdir, readFile, unlink, writeFile } from 'node:fs/promises';
 
 const readmeFile = new URL('../README.md', import.meta.url);
 const catalogFile = new URL('../prompts/catalog.json', import.meta.url);
+const useCasesDir = new URL('../prompts/use-cases/', import.meta.url);
 
 const startMarker = '<!-- GENERATED_VIDEO_GALLERY_START -->';
 const endMarker = '<!-- GENERATED_VIDEO_GALLERY_END -->';
@@ -17,6 +18,35 @@ const animatedPreviewOrder = [
   'morning-coffee-mini-dv-vlog',
 ];
 const animatedPreviewSlugs = new Set(animatedPreviewOrder);
+const useCases = [
+  {
+    slug: 'stories-films',
+    label: 'Stories & Films',
+    categories: [
+      'cinematic-story',
+      'dialogue',
+      'documentary',
+      'animation',
+      'horror',
+    ],
+  },
+  {
+    slug: 'action-fantasy',
+    label: 'Action & Fantasy',
+    categories: ['cinematic-action', 'fantasy'],
+  },
+  { slug: 'ads-products', label: 'Ads & Products', categories: ['brand-film'] },
+  {
+    slug: 'music-performance',
+    label: 'Music & Performance',
+    categories: ['music-video', 'dance', 'performance'],
+  },
+  {
+    slug: 'vlog-social',
+    label: 'Vlog & Social',
+    categories: ['vlog', 'comedy'],
+  },
+];
 
 function escapeHtml(value) {
   return value
@@ -45,16 +75,16 @@ function sourceHandleFor(entry) {
   return entry.source.name;
 }
 
-function renderEntry(entry, index) {
+function renderEntry(entry, index, heading = '###', assetPrefix = '.') {
   const title = titleFor(entry);
   const isAnimated = animatedPreviewSlugs.has(entry.slug);
   const preview = isAnimated
-    ? `./assets/readme-previews/${entry.slug}.webp`
+    ? `${assetPrefix}/assets/readme-previews/${entry.slug}.webp`
     : entry.media.thumbnail;
   const category = entry.category.replaceAll('-', ' ');
   const sourceName = sourceHandleFor(entry);
 
-  return `### ${index + 1}. ${title}
+  return `${heading} ${index + 1}. ${title}
 
 <a href="${entry.media.video}">
   <img src="${preview}" alt="${escapeHtml(title)} video preview" width="700" />
@@ -99,10 +129,37 @@ const entries = catalogEntries
     return a.index - b.index;
   })
   .map(({ entry }) => entry);
+for (const entry of entries) {
+  const matchingUseCases = useCases.filter((useCase) =>
+    useCase.categories.includes(entry.category)
+  );
+  if (matchingUseCases.length !== 1) {
+    throw new Error(
+      `${entry.slug}: category ${entry.category} must map to exactly one use case`
+    );
+  }
+}
+
+function useCaseDocument(useCase) {
+  const categorySet = new Set(useCase.categories);
+  const useCaseEntries = entries.filter((entry) => categorySet.has(entry.category));
+  return `# Seedance 2.5 ${useCase.label} prompts
+
+[Back to all ${entries.length} prompts](../../README.md)
+
+${useCaseEntries.map((entry, index) => renderEntry(entry, index, '##', '../..')).join('\n\n')}
+`;
+}
+
+const useCaseLinks = useCases
+  .map((useCase) => `[${useCase.label}](./prompts/use-cases/${useCase.slug}.md)`)
+  .join(' · ');
 
 const gallery = `${startMarker}
 
-${entries.map(renderEntry).join('\n\n')}
+**Browse by use case:** ${useCaseLinks}
+
+${entries.map((entry, index) => renderEntry(entry, index)).join('\n\n')}
 
 ${endMarker}
 
@@ -131,8 +188,31 @@ if (process.argv.includes('--check')) {
   if (nextReadme !== readme) {
     throw new Error('README gallery is out of date; run npm run readme:build');
   }
+  for (const useCase of useCases) {
+    const file = new URL(`${useCase.slug}.md`, useCasesDir);
+    const actual = await readFile(file, 'utf8');
+    const expected = useCaseDocument(useCase);
+    if (actual !== expected) {
+      throw new Error(`${file.pathname} is out of date; run npm run readme:build`);
+    }
+  }
   console.log(`README gallery is current (${entries.length} videos).`);
 } else {
+  await mkdir(useCasesDir, { recursive: true });
+  const expectedUseCaseFiles = new Set(
+    useCases.map((useCase) => `${useCase.slug}.md`)
+  );
+  const staleUseCaseFiles = (await readdir(useCasesDir)).filter(
+    (file) => file.endsWith('.md') && !expectedUseCaseFiles.has(file)
+  );
+  await Promise.all(
+    staleUseCaseFiles.map((file) => unlink(new URL(file, useCasesDir)))
+  );
   await writeFile(readmeFile, nextReadme);
+  await Promise.all(
+    useCases.map((useCase) =>
+      writeFile(new URL(`${useCase.slug}.md`, useCasesDir), useCaseDocument(useCase))
+    )
+  );
   console.log(`Updated README with ${entries.length} video prompts.`);
 }

@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict';
-import { readFile } from 'node:fs/promises';
+import { readdir, readFile } from 'node:fs/promises';
 
 const file = new URL('../prompts/catalog.json', import.meta.url);
 const catalog = JSON.parse(await readFile(file, 'utf8'));
@@ -8,11 +8,12 @@ const [englishReadme, chineseReadme] = await Promise.all([
   readFile(new URL('../README.zh-CN.md', import.meta.url), 'utf8'),
 ]);
 
-assert.ok(
+assert.equal(
   englishReadme.includes(
     '[Open the Seedance 2.5 Prompt Gallery](https://beatapi.io/seedance-2-5-prompts)'
   ),
-  'English README must link directly to the Seedance 2.5 gallery'
+  false,
+  'English README should leave the gallery entry to the repository Website link'
 );
 assert.ok(
   chineseReadme.includes(
@@ -29,6 +30,40 @@ assert.equal(
 );
 assert.ok(Array.isArray(catalog.prompts), 'prompts must be an array');
 assert.ok(catalog.prompts.length > 0, 'catalog must contain prompts');
+assert.equal(
+  (englishReadme.match(/^### \d+\./gm) ?? []).length,
+  catalog.prompts.length,
+  'README should display every catalog prompt'
+);
+const useCaseSlugs = [
+  'stories-films',
+  'action-fantasy',
+  'ads-products',
+  'music-performance',
+  'vlog-social',
+];
+assert.deepEqual(
+  (await readdir(new URL('../prompts/use-cases/', import.meta.url)))
+    .filter((file) => file.endsWith('.md'))
+    .sort(),
+  useCaseSlugs.map((slug) => `${slug}.md`).sort(),
+  'README should expose exactly five use-case shortcuts'
+);
+for (const useCase of useCaseSlugs) {
+  assert.ok(
+    englishReadme.includes(`](./prompts/use-cases/${useCase}.md)`),
+    `README should link to the ${useCase} use case`
+  );
+  const useCaseSource = await readFile(
+    new URL(`../prompts/use-cases/${useCase}.md`, import.meta.url),
+    'utf8'
+  );
+  assert.match(useCaseSource, /^# Seedance 2\.5 .+ prompts/m);
+  assert.ok(
+    (useCaseSource.match(/^## \d+\./gm) ?? []).length > 0,
+    `${useCase} use case should contain prompts`
+  );
+}
 
 const allowedModes = new Set([
   'text-to-video',
