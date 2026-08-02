@@ -2,7 +2,12 @@ import { mkdir, readdir, readFile, unlink, writeFile } from 'node:fs/promises';
 
 const readmeFile = new URL('../README.md', import.meta.url);
 const catalogFile = new URL('../prompts/catalog.json', import.meta.url);
+const pageSize = 25;
+const featuredCount = 30;
+const pagesDir = new URL('../prompts/pages/', import.meta.url);
+const categoriesDir = new URL('../prompts/categories/', import.meta.url);
 const useCasesDir = new URL('../prompts/use-cases/', import.meta.url);
+const catalogIndexFile = new URL('../prompts/README.md', import.meta.url);
 
 const startMarker = '<!-- GENERATED_VIDEO_GALLERY_START -->';
 const endMarker = '<!-- GENERATED_VIDEO_GALLERY_END -->';
@@ -139,6 +144,27 @@ for (const entry of entries) {
     );
   }
 }
+const categoryNames = [...new Set(entries.map((entry) => entry.category))].sort();
+
+function pageDocument(pageEntries, pageIndex) {
+  const start = pageIndex * pageSize;
+  return `# Seedance 2.5 prompts — page ${pageIndex + 1}
+
+[Back to the featured gallery](../../README.md) · [Catalog index](../README.md)
+
+${pageEntries.map((entry, index) => renderEntry(entry, start + index, '##', '../..')).join('\n\n')}
+`;
+}
+
+function categoryDocument(category) {
+  const categoryEntries = entries.filter((entry) => entry.category === category);
+  return `# Seedance 2.5 ${category.replaceAll('-', ' ')} prompts
+
+[Back to the featured gallery](../../README.md) · [Catalog index](../README.md)
+
+${categoryEntries.map((entry, index) => renderEntry(entry, index, '##', '../..')).join('\n\n')}
+`;
+}
 
 function useCaseDocument(useCase) {
   const categorySet = new Set(useCase.categories);
@@ -155,11 +181,32 @@ const useCaseLinks = useCases
   .map((useCase) => `[${useCase.label}](./prompts/use-cases/${useCase.slug}.md)`)
   .join(' · ');
 
+const catalogIndex = `# Browse all ${entries.length} Seedance 2.5 prompts
+
+[Back to the featured gallery](../README.md)
+
+## Use cases
+
+${useCases.map((useCase) => `- [${useCase.label}](./use-cases/${useCase.slug}.md)`).join('\n')}
+
+## Pages
+
+${Array.from({ length: Math.ceil(entries.length / pageSize) }, (_, index) =>
+  `- [Page ${index + 1}](./pages/${index + 1}.md) — prompts ${index * pageSize + 1}–${Math.min((index + 1) * pageSize, entries.length)}`
+).join('\n')}
+
+## Categories
+
+${categoryNames.map((category) => `- [${category.replaceAll('-', ' ')}](./categories/${category}.md)`).join('\n')}
+`;
+
 const gallery = `${startMarker}
 
 **Browse by use case:** ${useCaseLinks}
 
-${entries.map((entry, index) => renderEntry(entry, index)).join('\n\n')}
+**[Browse all ${entries.length} prompts](./prompts/README.md)**
+
+${entries.slice(0, featuredCount).map((entry, index) => renderEntry(entry, index)).join('\n\n')}
 
 ${endMarker}
 
@@ -188,17 +235,34 @@ if (process.argv.includes('--check')) {
   if (nextReadme !== readme) {
     throw new Error('README gallery is out of date; run npm run readme:build');
   }
-  for (const useCase of useCases) {
-    const file = new URL(`${useCase.slug}.md`, useCasesDir);
+  const generatedFiles = [
+    [catalogIndexFile, catalogIndex],
+    ...Array.from({ length: Math.ceil(entries.length / pageSize) }, (_, index) => [
+      new URL(`${index + 1}.md`, pagesDir),
+      pageDocument(entries.slice(index * pageSize, (index + 1) * pageSize), index),
+    ]),
+    ...categoryNames.map((category) => [
+      new URL(`${category}.md`, categoriesDir),
+      categoryDocument(category),
+    ]),
+    ...useCases.map((useCase) => [
+      new URL(`${useCase.slug}.md`, useCasesDir),
+      useCaseDocument(useCase),
+    ]),
+  ];
+  for (const [file, expected] of generatedFiles) {
     const actual = await readFile(file, 'utf8');
-    const expected = useCaseDocument(useCase);
     if (actual !== expected) {
       throw new Error(`${file.pathname} is out of date; run npm run readme:build`);
     }
   }
   console.log(`README gallery is current (${entries.length} videos).`);
 } else {
-  await mkdir(useCasesDir, { recursive: true });
+  await Promise.all([
+    mkdir(pagesDir, { recursive: true }),
+    mkdir(categoriesDir, { recursive: true }),
+    mkdir(useCasesDir, { recursive: true }),
+  ]);
   const expectedUseCaseFiles = new Set(
     useCases.map((useCase) => `${useCase.slug}.md`)
   );
@@ -209,10 +273,22 @@ if (process.argv.includes('--check')) {
     staleUseCaseFiles.map((file) => unlink(new URL(file, useCasesDir)))
   );
   await writeFile(readmeFile, nextReadme);
+  await writeFile(catalogIndexFile, catalogIndex);
   await Promise.all(
-    useCases.map((useCase) =>
-      writeFile(new URL(`${useCase.slug}.md`, useCasesDir), useCaseDocument(useCase))
-    )
+    [
+      ...Array.from({ length: Math.ceil(entries.length / pageSize) }, (_, index) =>
+        writeFile(
+          new URL(`${index + 1}.md`, pagesDir),
+          pageDocument(entries.slice(index * pageSize, (index + 1) * pageSize), index)
+        )
+      ),
+      ...categoryNames.map((category) =>
+        writeFile(new URL(`${category}.md`, categoriesDir), categoryDocument(category))
+      ),
+      ...useCases.map((useCase) =>
+        writeFile(new URL(`${useCase.slug}.md`, useCasesDir), useCaseDocument(useCase))
+      ),
+    ]
   );
-  console.log(`Updated README with ${entries.length} video prompts.`);
+  console.log(`Updated README with ${Math.min(featuredCount, entries.length)} featured prompts and generated views for all ${entries.length}.`);
 }

@@ -1,0 +1,43 @@
+{
+  "slug": "turkish-eggs-mini-dv-recipe-vlog-107610",
+  "title": {
+    "en": "Turkish Eggs Mini-DV Recipe Vlog",
+    "zh": "土耳其鸡蛋 Mini-DV 食谱 Vlog"
+  },
+  "description": {
+    "en": "30-second vlog prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒土耳其鸡蛋 Mini-DV 食谱 Vlog提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "vlog",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@buraktuyan",
+    "url": "https://x.com/buraktuyan/status/2083502111401107610"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/buraktuyan/status/2083502114714640454"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/buraktuyan/status/2083502111401107610"
+  ],
+  "prompt": "Create a 30-second home-video recipe vlog showing a young woman from London in her mid-20s making Turkish eggs in her small, sunlit kitchen. She wears relaxed home clothes, has her hair loosely tied back, and films everything herself with a consumer mini-DV camcorder. Some shots are handheld; others are recorded after she props the camera on the counter. Keep the footage candid and imperfect: gentle camera shake, occasional focus hunting, slightly awkward framing, natural zoom adjustments, subtle grain, mild motion blur, and automatic exposure changes caused by the bright morning light.\n\nFollow this exact sequence:\n\n0–3s: In a propped medium shot, she places a bowl on the counter, looks toward the camera, and says quietly, “Let’s make Turkish eggs.”\n\n3–6s: Overhead close-up as she combines thick yoghurt, finely grated garlic, and a pinch of salt, stirring until smooth. Clearly hear the spoon moving around the bowl.\n\n6–9s: Handheld detail shot as she spoons the garlic yoghurt onto a shallow plate and spreads it into soft, imperfect swirls.\n\n9–12s: Close-up beside a saucepan of gently simmering water. She cracks an egg into a small bowl and says, “Keep the water gentle.”\n\n12–15s: Overhead shot as she carefully slides the egg into the water. The white naturally curls around the yolk; the water never boils aggressively.\n\n15–18s: Macro-style detail of butter melting in a small pan. She adds pul biber, creating a vivid orange-red mixture that blooms and audibly sizzles. No dialogue.\n\n18–21s: Handheld close-up as she removes two softly poached eggs, lets them drain briefly, and places them over the garlic yoghurt.\n\n21–24s: Extreme close-up as she pours the sizzling pul-biber butter across the eggs, creating rich red-orange streaks over the white yoghurt.\n\n24–27s: Warm, propped shot. She adds fresh dill, tears off a piece of crusty bread, and breaks open one egg, revealing the flowing golden yolk. She says, “Look at that.”\n\n27–30s: Handheld finishing shot. She scoops up yoghurt, egg, and chilli butter with the bread, takes a bite, smiles genuinely, and says, “Best breakfast.” She then reaches forward and covers the lens.\n\nPrioritise intimate food sounds: yoghurt stirring, garlic scraping, simmering water, egg cracking, butter sizzling, ceramic clinks, and bread tearing. Dialogue should sound quiet and casually captured through the camcorder microphone. Preserve realistic imperfections such as irregular poached-egg whites, small splashes, messy spoon marks, brief pauses, natural blinking, and exposure shifts. It must look like a genuine personal breakfast vlog.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/turkish-eggs-mini-dv-recipe-vlog-107610/video-2503ba98404071af.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/turkish-eggs-mini-dv-recipe-vlog-107610/poster-987c0e2c3109c70d.jpg",
+    "format": "video/webm",
+    "videoBytes": 3567672,
+    "videoSha256": "2503ba98404071afa3589fb1267ea759b8cb4e059f487635fdeb7858eaed45ad",
+    "thumbnailBytes": 67697,
+    "thumbnailSha256": "987c0e2c3109c70dd8be2fd9ea5d94a420cb2dc0c5641c40d7d24b40d4782505"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

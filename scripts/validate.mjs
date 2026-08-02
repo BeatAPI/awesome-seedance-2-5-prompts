@@ -29,12 +29,37 @@ assert.equal(
   'catalog model must be Seedance-2.5'
 );
 assert.ok(Array.isArray(catalog.prompts), 'prompts must be an array');
-assert.ok(catalog.prompts.length > 0, 'catalog must contain prompts');
+assert.ok(catalog.prompts.length >= 100, 'catalog must contain at least 100 prompts');
+const featuredCount = 30;
 assert.equal(
   (englishReadme.match(/^### \d+\./gm) ?? []).length,
-  catalog.prompts.length,
-  'README should display every catalog prompt'
+  Math.min(featuredCount, catalog.prompts.length),
+  'README should display a bounded featured gallery'
 );
+assert.ok(
+  englishReadme.includes(`Browse all ${catalog.prompts.length} prompts`),
+  'README should link to the full generated catalog'
+);
+const pageSize = 25;
+const pageCount = Math.ceil(catalog.prompts.length / pageSize);
+for (let page = 1; page <= pageCount; page += 1) {
+  const pageSource = await readFile(
+    new URL(`../prompts/pages/${page}.md`, import.meta.url),
+    'utf8'
+  );
+  assert.equal(
+    (pageSource.match(/^## \d+\./gm) ?? []).length,
+    Math.min(pageSize, catalog.prompts.length - (page - 1) * pageSize),
+    `page ${page} should contain the expected prompt slice`
+  );
+}
+for (const category of new Set(catalog.prompts.map((entry) => entry.category))) {
+  const categorySource = await readFile(
+    new URL(`../prompts/categories/${category}.md`, import.meta.url),
+    'utf8'
+  );
+  assert.match(categorySource, /^# Seedance 2\.5 .+ prompts/m);
+}
 const useCaseSlugs = [
   'stories-films',
   'action-fantasy',

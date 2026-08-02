@@ -1,0 +1,44 @@
+{
+  "slug": "cartoon-bulldog-versus-live-boxer-029228",
+  "title": {
+    "en": "Cartoon Bulldog Versus Live Boxer",
+    "zh": "卡通斗牛犬大战真人拳手"
+  },
+  "description": {
+    "en": "24-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "24 秒卡通斗牛犬大战真人拳手提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "reference-generation",
+  "mode": "image-to-video",
+  "duration": "24s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@BaBELL81",
+    "url": "https://x.com/BaBELL81/status/2083562978730029228"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/BaBELL81/status/2083563316945813878"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/BaBELL81/status/2083562978730029228"
+  ],
+  "prompt": "Create an intense 24-second boxing sequence in 10 shots.\n\nThe bulldog remains a hand-drawn 2D character inspired by 1969 American TV cartoons, keeping the same face, proportions, red gloves, and striped shorts. Never make him realistic. The human boxer remains fully photorealistic.\n\nStyle: heated live sports documentary broadcast. Handheld ringside cameras, reactive pans, imperfect reframing, small zoom corrections, natural shake, motion blur, focus breathing, faded 35mm colors, soft lens bloom, subtle gate weave, and naturally changing film grain. No frozen grain or fixed texture.\n\nStrong white spotlights illuminate the ring. The crowd is darker but visible and constantly reacting. Crowd cheering continues from the first frame to the last: shouting, applause, whistles, and stomping. Reactions grow louder after major punches. An excited male English commentator speaks continuously. No music.\n\nEach numbered shot is one continuous camera take. The camera may pan, track, dolly, or reframe, but must not jump to a new position inside the same shot.\n\nComic effects must resemble authentic 1969 American comics: imperfect hand-drawn lines, thick black outlines, red, yellow, white, and black colors, halftone dots, faded ink, and slight print misregistration.\n\nUse effects sparingly:\nSPEED LINES on fast punches.\nOne-frame SMEAR FRAME on the strongest punches.\nSmall IMPACT BURSTS on selected hits.\nIMPACT FLASH and SHOCKWAVE RING only on the decisive counter and final uppercut.\nWOBBLE LINES and yellow rotating stars only when the human is badly dazed.\n\nUse only these comic sound effects on major clean hits:\nTHWACK! POW! SMACK! WHAM! CRACK!\n\nSHOT 1 — 0.0–2.0\nHigh-angle view of the packed arena. The ring is under strong spotlights. Both fighters wait in opposite corners. The bell rings, the crowd erupts, and both walk toward the center as the camera pushes closer.\n\nSHOT 2 — 2.0–4.0\nSlightly elevated wide shot from outside the ring with ropes in the foreground. The referee steps back. Both fighters raise their guards, circle, and test distance. The handheld camera tracks right.\n\nSHOT 3 — 4.0–6.2\nLow canvas-level angle. The bulldog throws a jab with brief SPEED LINES. The human narrowly avoids it and counters with a jab that the bulldog blocks. Quick natural pan. No comic text.\n\nSHOT 4 — 6.2–8.8\nSlightly high-angle shot through the ropes. The human attacks with a combination. A left jab lands with a small IMPACT BURST and THWACK! A right straight follows with POW!, a brief IMPACT FLASH, and a small burst. A left hook lands with only a subtle impact mark. The camera tracks as the bulldog retreats.\n\nSHOT 5 — 8.8–11.2\nClose handheld shot from the opposite side. The human keeps pressing with short punches. The bulldog blocks several and absorbs one body shot. The camera urgently reframes. The bulldog answers with a short face hook using a small red IMPACT BURST and SMACK!\n\nSHOT 6 — 11.2–14.0\nOver-the-shoulder from behind the human. The human throws a powerful right straight. The bulldog slips underneath. The camera pans with the missed glove. Without cutting, the bulldog plants his feet, rotates, and launches a right counterpunch with SPEED LINES and a one-frame SMEAR FRAME.\n\nSHOT 7 — 14.0–16.8\nTight ringside impact shot. The bulldog’s right straight lands on the human’s cheek in very brief slow motion. His cheek compresses and sweat flies. At contact, show a large IMPACT BURST, white IMPACT FLASH, radial lines, short SHOCKWAVE RING, and WHAM! The effects vanish immediately. Return to normal speed as the human staggers backward. The crowd explodes.\n\nSHOT 8 — 16.8–19.2\nSlightly elevated ringside shot. The human is badly dazed but standing. WOBBLE LINES and three yellow stars briefly appear. The bulldog lands one body punch without text, then a short face hook with SPEED LINES, a small burst, and SMACK!\n\nSHOT 9 — 19.2–21.5\nLow diagonal ringside angle. The bulldog throws a compact uppercut with a one-frame SMEAR FRAME. It lands under the chin with IMPACT FLASH, red-yellow IMPACT BURST, short SHOCKWAVE RING, and CRACK! The human falls into the ropes, drops to one knee, and collapses safely. The referee stops the fight. The bulldog steps back. Yellow stars fade.\n\nSHOT 10 — 21.5–24.0\nFinal slightly high-angle wide shot. The referee brings the bulldog to the center and raises one arm. Red-and-white paper streamers fly into the ring. Vintage photographers fire flashbulbs and strong white strobes. The crowd remains standing, shouting, clapping, whistling, and waving hats. The handheld camera slowly pushes closer until the final frame.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/cartoon-bulldog-versus-live-boxer-029228/video-ca3142256c322af3.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/cartoon-bulldog-versus-live-boxer-029228/poster-7adccc2afffcde48.jpg",
+    "format": "video/webm",
+    "videoBytes": 2728710,
+    "videoSha256": "ca3142256c322af39064d7cab3f527904c9863a3f614be661a1b5c6273a84d1b",
+    "thumbnailBytes": 68180,
+    "thumbnailSha256": "7adccc2afffcde48feb1b8cec6e7feb4afe1e4b1fffefa182c76cb179573d467"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

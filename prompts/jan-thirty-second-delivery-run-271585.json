@@ -1,0 +1,43 @@
+{
+  "slug": "jan-thirty-second-delivery-run-271585",
+  "title": {
+    "en": "Jan Thirty-Second Delivery Run",
+    "zh": "Jan 的三十二秒送货行动"
+  },
+  "description": {
+    "en": "36-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "36 秒Jan 的三十二秒送货行动提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "36s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@janmexico",
+    "url": "https://x.com/janmexico/status/2083592314132271585"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/janmexico/status/2083592315893903801"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/janmexico/status/2083592314132271585"
+  ],
+  "prompt": "Jan: tall slim, round red glasses, earpiece right ear, gloves, harness.\nTone: IMAX anamorphic 2x, golden hour. Hard low sun on wet concrete, deep blue shadows, backlight, horizontal blue flares, saturated epic grade. Never grey or flat.\nCAMERA: low angle nearly every beat. Crash zooms, straight tracking, tilts. NEVER orbit or arc. Smooth motion, natural blur, 24fps, no stop motion. Jan never looks into the lens.\nAUDIO: Renteria only by radio, thin, tinny, filtered, click each side. Jan answers out loud. SFX only: wind, rotor, rope, fabric. NO MUSIC, no subtitles.\n0-6s Ground-level low angle, sun flare on puddles. Crash zoom to Jan's hands snapping the case shut, tilt up to earpiece and face, front to camera. Renteria, urgent: \"Treinta segundos, Jan. Cincuenta referencias. Una sola toma. Tienes que mandarlo ya.\"\n6-9s Low angle into the sun, camera tracks back ahead of Jan. He lifts the case: \"Enterado. Voy por el.\" and runs.\n9-12s Water-level low angle. Jan sprints over the camera, jumps a duct, gold spray on the lens. Renteria: \"Cuando te subas, abres tu Capcot y lo generas ya.\"\n12-15s Low angle on Duarte, rim lit. Crash zoom: \"Pense que llegabas mas tarde.\"\n15-18s Low angle, helicopter drops into a low hover, rotor wash blasting gold spray. Jan steps up through the door.\n18-21s Cabin, over the shoulder behind Jan. He opens the case revealing the laptop, screen square to camera. Push in as he presses Generate.\n21-25s Jan clips a rappel line to his harness, grips it with both gloved hands, kicks off the skid and swings out over the facade. Camera whips down with him into a fast controlled descent, boots striking the glass, sunlight tearing past.\n25-30s Epic finale. Mid descent Jan yanks a second rope hard. The giant banner bursts open beside him and unrolls floor by floor, snapping taut. He lands on his feet in the plaza. Crash zoom out to a vast skyline wide, the full banner reading ESTO ES SEEDANCE 2.5 above him, helicopter rising into the sunburst.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/jan-thirty-second-delivery-run-271585/video-77c0ad66c83880b2.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/jan-thirty-second-delivery-run-271585/poster-c59ca7e3fbdd4955.jpg",
+    "format": "video/webm",
+    "videoBytes": 3794174,
+    "videoSha256": "77c0ad66c83880b213dac3e3a9e52b48f904df1ddcb8eadb2da94a7d24525948",
+    "thumbnailBytes": 40181,
+    "thumbnailSha256": "c59ca7e3fbdd49558bad84e3f59c1f06ef5d8fadde57ca75894cb1b56fae7c0f"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

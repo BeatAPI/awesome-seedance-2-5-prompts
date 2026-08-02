@@ -1,0 +1,43 @@
+{
+  "slug": "1970s-mediterranean-woman-documentary-685471",
+  "title": {
+    "en": "1970s Mediterranean Woman Documentary",
+    "zh": "1970 年代地中海女性纪录片"
+  },
+  "description": {
+    "en": "15-second documentary prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒1970 年代地中海女性纪录片提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "documentary",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@hey_am_cherry",
+    "url": "https://x.com/hey_am_cherry/status/2083561941004685471"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/hey_am_cherry/status/2083562105186418695"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/hey_am_cherry/status/2083561941004685471"
+  ],
+  "prompt": "Style:\nAuthentic late-1970s Mediterranean documentary captured on vintage 16mm Kodak film, naturally faded colors, subtle film grain, real optical imperfections, slight gate weave, shoulder-mounted handheld camera with imperfect human movement, soft vintage lenses, warm afternoon sunlight, realistic skin texture, no cinematic polish, feels like forgotten archival footage discovered decades later.\n\n0–3 seconds:\nA close handheld tracking shot follows a young woman in her 20s walking slowly through a narrow seaside alley lined with whitewashed houses, hanging linen curtains gently moving in the ocean breeze. She wears a simple linen dress, a woven shoulder bag, and naturally messy hair with no makeup. Instead of posing, she lightly brushes her fingertips across the textured walls while quietly observing everyday life around her.\n\n3–7 seconds:\nThe camera naturally falls slightly behind her as she enters a tiny open courtyard where local people casually gather. An elderly man repairs a bicycle, someone waters colorful plants from a balcony above, laundry sways overhead, and a sleepy orange cat crosses directly in front of the lens. The camera subtly adjusts to avoid the cat, creating an authentic human reaction.\n\n7–11 seconds:\nA young child runs toward a rolling wooden toy that passes close to her feet. She instinctively bends down, catches it with one hand, smiles warmly, and hands it back without stopping her walk. The child laughs and runs away. No one performs for the camera; everything feels naturally observed.\n\n11–15 seconds:\nShe reaches a small overlook facing the sparkling sea. Instead of stopping dramatically, she casually rests one elbow on an old stone railing while watching distant fishing boats. A gust of wind lifts loose strands of hair across her face. She gently moves them aside and continues walking out of frame as the handheld camera hesitates for a second before slowly following behind.\n\nImage Quality:\nUltra-photorealistic vintage documentary, authentic analog exposure, realistic human motion, organic focus breathing, imperfect framing, Kodak 16mm archival texture, subtle light leaks, soft highlight bloom, natural skin pores, no AI smoothness, 4:3 aspect ratio.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/1970s-mediterranean-woman-documentary-685471/video-17bdf822c7c08f99.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/1970s-mediterranean-woman-documentary-685471/poster-fbf5658f7edc5e8b.jpg",
+    "format": "video/webm",
+    "videoBytes": 1352176,
+    "videoSha256": "17bdf822c7c08f99e2a11026767c43549ec0da5dfd7e2ab0f198d6515ece7374",
+    "thumbnailBytes": 49777,
+    "thumbnailSha256": "fbf5658f7edc5e8b453883bf601cc665817aad550c014c0227776dbc53203e1f"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

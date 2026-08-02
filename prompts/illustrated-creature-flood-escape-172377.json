@@ -1,0 +1,43 @@
+{
+  "slug": "illustrated-creature-flood-escape-172377",
+  "title": {
+    "en": "Illustrated Creature Flood Escape",
+    "zh": "绘本生物洪水逃亡"
+  },
+  "description": {
+    "en": "30-second animation prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒绘本生物洪水逃亡提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "animation",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AiMeowing",
+    "url": "https://x.com/AiMeowing/status/2083332412558172377"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/AiMeowing/status/2083332417650385211"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/AiMeowing/status/2083332412558172377"
+  ],
+  "prompt": "Lock the original illustration completely. Preserve the exact art style, brushwork, textures, material rendering, color palette, creature proportions, facial expressions, lighting, composition, and every character design exactly as shown. Never change the visual style. Every creature must remain identical in every shot. No text, watermark, logo, or signature. One continuous story. Motion always progresses forward. No creature moves backward. Use cinematic pacing with hard cuts, speed ramps, bullet time, dynamic tracking, volumetric water, realistic physics, motion blur, subtle film grain, dramatic lighting, lens droplets, cinematic depth of field, bold camera language, emotional facial animation, and seamless transitions.\n\n0-3s\n\nWithout warning, the peaceful group suddenly notices every bird exploding into the sky. Tiny ripples appear beneath their feet. A deep rumble grows louder. Extreme close-up of frightened eyes. Fast push-in toward the rabbit. Hard cut to a gigantic wall of water rising behind them. Lightning-fast whip pan reveals the impossible tsunami racing toward the camera. Deep bass hit.\n\n3-6s\n\nThe wave crashes over everyone. Water engulfs the frame. Camera tumbles underwater with bubbles, debris, flowers, leaves and sunlight cutting through the current. Every creature is separated naturally by the force. Slow-motion for one second before time accelerates again.\n\n6-10s\n\nRapid cross-cut survival sequence. The rabbit paddles frantically with long ears floating behind. The lion powers through the waves with strong strokes. The rhino kicks heavily while struggling to stay above water. The giant blue triceratops swims like a massive whale. Frogs leap from floating debris. Tiny creatures cling to drifting branches. Cats desperately paddle while trying not to sink. Dynamic handheld water-level camera alternating with overhead drone shots.\n\n10-15s\n\nThe current becomes more violent. Floating logs collide. The turtle spins helplessly in a whirlpool before escaping. The sheep nearly slips beneath the surface until the lion nudges it upward. The black cat loses its grip and disappears beneath a wave. Silence for half a second except muffled underwater sound.\n\n15-20s\n\nThe gray kitten dives underwater searching. Cinematic underwater tracking follows the kitten weaving between drifting plants and bubbles. A frightened turtle struggles below. The kitten reaches it, grabs its shell with tiny paws and guides it upward toward sunlight breaking through the surface.\n\n20-25s\n\nBoth burst above the water. The exhausted kitten climbs onto the turtle's shell. The turtle begins swimming steadily through the endless flood while the kitten balances carefully, soaked but relieved. Around them every animal continues fighting the current in its own unique way. Long aerial tracking shot follows their path.\n\n25-28s\n\nThe current slowly weakens. One by one the surviving animals regroup behind the turtle. The rabbit swims beside it. Frogs hop onto floating wood. The lion keeps everyone together. The enormous blue triceratops shields the smaller creatures from remaining waves. Warm sunlight finally pierces the storm clouds.\n\n28-30s\n\nA majestic vertical drone shot rises high into the sky. The flood forms beautiful winding rivers across the landscape. At the center, the tiny kitten sits safely on the turtle's shell leading the group forward while every surviving creature follows behind. The music swells into an emotional orchestral finale. Hold the final frame like an animated movie poster as golden light reflects across the water.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/illustrated-creature-flood-escape-172377/video-1e799988479e3f91.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/illustrated-creature-flood-escape-172377/poster-ed6b60e54ff6e89e.jpg",
+    "format": "video/webm",
+    "videoBytes": 4534196,
+    "videoSha256": "1e799988479e3f91bd96704f3455efcea723c2ce5663f5907a9d942593de3782",
+    "thumbnailBytes": 159033,
+    "thumbnailSha256": "ed6b60e54ff6e89e6b2e12a44ffdc1b477c22c88ce9f23ad39a2f8a7ca138359"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

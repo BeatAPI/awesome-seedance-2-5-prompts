@@ -1,0 +1,43 @@
+{
+  "slug": "fighter-jet-battleship-strike-814869",
+  "title": {
+    "en": "Fighter Jet Battleship Strike",
+    "zh": "战斗机突袭战列舰"
+  },
+  "description": {
+    "en": "30-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒战斗机突袭战列舰提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Artedeingenio",
+    "url": "https://x.com/Artedeingenio/status/2083573043322814869"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/Artedeingenio/status/2083573046309191997"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Artedeingenio/status/2083573043322814869"
+  ],
+  "prompt": "30-second cinematic aerial action spectacle, breathtaking high-budget feature film, ultra-dynamic editing, fluid aerial choreography, premium cinematic visuals, seamless kinetic camera movement, aggressive speed ramps, rapid match cuts, whip pans, rotating camera moves, dramatic perspective shifts, cinematic lens distortion, volumetric storm clouds, ocean spray, glowing tracer lights, smoke trails, sparks, flying debris, colossal scale, emotionally epic, no dialogue.\n\n0–5s\nDark storm clouds gather above a vast open ocean.\nA colossal armored battleship cuts through enormous waves.\nFar above, a lone high-performance fighter aircraft emerges from the clouds.\nExtreme close-ups.\nPilot visor.\nHands on the controls.\nJet intake vibrating.\nRadar display glowing.\nThe camera alternates between immense aerial vistas and intimate cockpit shots.\nComplete silence.\n\n5–10s\nThe fighter rolls onto its wing and dives toward the ocean.\nThe camera races only meters from the aircraft before instantly switching to first-person cockpit views, impossible wing-mounted perspectives, sweeping aerial fly-bys and dramatic low-angle shots skimming above the waves.\nThe ship rapidly grows larger.\nThe engines reach full power.\n\n10–15s\nA breathtaking aerial montage.\nThe fighter slices between towering smoke columns and dense clouds.\nBright streams of tracer light streak across the sky.\nThe aircraft performs impossible barrel rolls, high-G turns and vertical climbs while the camera continuously rotates around the fuselage.\nSpeed ramps amplify every maneuver.\n\n15–20s\nThe fighter skims just above the ocean surface.\nTowering walls of spray rise behind it.\nIt climbs sharply over the battleship's deck in one uninterrupted shot.\nThe camera dives beneath the aircraft, then whips upward through drifting smoke, sparks and sunlight breaking through the storm.\nEverything feels impossibly fast.\n\n20–25s\nThe sequence reaches maximum intensity.\nThe aircraft circles the massive vessel at incredible speed.\nTowering water plumes erupt around the ship.\nClouds swirl overhead.\nThe camera jumps between ultra-wide aerial compositions, intimate cockpit close-ups, spinning chase shots, dramatic slow-motion fly-bys and impossible orbiting movements around both aircraft and ship.\nEvery cut increases the spectacle.\n\n25–30s\nEverything suddenly slows.\nThe fighter climbs vertically through the storm clouds into brilliant sunlight.\nFar below, the gigantic battleship disappears beneath drifting mist and shimmering ocean reflections.\nThe camera pulls rapidly upward into an immense aerial shot revealing endless sky and sea stretching to the horizon.\n\nHard cut to black.\n\nSound design: soaring cinematic orchestra, thunderous percussion, deep brass, roaring jet engines, rushing wind, ocean waves crashing against steel, atmospheric echoes, powerful fly-by whooshes, subtle sonic booms, cinematic bass swells, brief silence before the final climb, overwhelming orchestral finale.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/fighter-jet-battleship-strike-814869/video-6bbb04034c77e629.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/fighter-jet-battleship-strike-814869/poster-c81a2be0acecc27c.jpg",
+    "format": "video/webm",
+    "videoBytes": 1508768,
+    "videoSha256": "6bbb04034c77e629c1bbfa63e0a874d67b9ae60c5c6af5dc635cce6957b84e60",
+    "thumbnailBytes": 34611,
+    "thumbnailSha256": "c81a2be0acecc27ccc3ce66b52a8037a9c0de40caffcb8f27b9048c3739985ab"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

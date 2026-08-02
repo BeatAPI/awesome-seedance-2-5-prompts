@@ -1,0 +1,43 @@
+{
+  "slug": "obsidian-giant-transformation-531249",
+  "title": {
+    "en": "Obsidian Giant Transformation",
+    "zh": "黑曜石巨人变形"
+  },
+  "description": {
+    "en": "30-second fantasy prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒黑曜石巨人变形提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "fantasy",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@jaynwabueze",
+    "url": "https://x.com/jaynwabueze/status/2083524542488531249"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/jaynwabueze/status/2083524547739787466"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/jaynwabueze/status/2083524542488531249"
+  ],
+  "prompt": "Multi-shot 30-second cinematic sequence, hard cuts as marked.\nPhotorealistic 8K, ARRI Alexa large-format character, prime lenses, 35mm\ngrain, professional grade, 180° shutter motion blur, IMAX-scale VFX.\nTHE WOMAN: late 20s, long dark hair, deep red silk evening dress,\nbarefoot. Calm, unafraid.\nTHE CREATURE (original design): SHE IS THE CREATURE. Not a separate\nbeing. Her own body grows and armors. Obsidian-black interlocking plates\nsheathing her limbs and torso, molten orange fissures glowing between\nevery plate, elongated arms, a crown of jagged back-swept horns, amber\neyes. Human posture and proportions kept, scaled to 90 metres.\nTRANSFORMATION PHASES, in strict order:\nP1 hairline fractures of orange light open across her skin.\nP2 the fissures widen, embers pour upward off her shoulders.\nP3 obsidian plates surface through her skin and lock into place, dress\nburning away into ash.\nP4 she grows upward and outward from her own standing body, feet planted,\nweight driving into the ground, horns pushing through last.\nLOCATION: dense modern city, wide granite plaza, glass towers all sides,\ndusk, empty streets, abandoned cars, streetlights flickering on.\nCOLOR 60:30:10 — 60% cool blue-grey dusk glass and stone / 30% deep\nshadow / 10% molten orange fissures and embers.\n0–4s | SHOT 1 | 24mm wide, low ground-level, slow dolly in. She stands\nalone centre-plaza, wind moving her hair and dress. City silent.\nCUT.\n4–7s | SHOT 2 | 100mm macro insert. Her hand and collarbone. First\nhairline cracks of orange light spread across the skin (P1). No movement\notherwise.\nCUT.\n7–10s | SHOT 3 | 40mm, low behind her, slight dutch. Fissures widen,\nembers stream upward off her shoulders (P2), granite fracturing in a ring\naround her bare feet.\nCUT.\n10–17s | SHOT 4 | THE GROWTH. NO CUT IN THIS SHOT. 35mm, locked on her\nface at eye level, camera craning upward at exactly her rate of growth so\nher face stays centre-frame the entire time. Obsidian plates surface and\nlock across her face and shoulders (P3), amber ignites in her eyes, horns\npush back through her hair (P4). Her feet never leave the ground. The\ncamera never loses her face.\nCUT.\n17–21s | SHOT 5 | 21mm worm's-eye, camera on the street between abandoned\ncars. Her colossal foot plants, buckling the road, cars flipping in the\nshockwave. Scale reveal.\nCUT.\n21–25s | SHOT 6 | 50mm aerial, slow helicopter orbit. Full colossus\nagainst the skyline, embers and dust swirling, molten light pulsing in her\nplating.\nCUT.\n25–28s | SHOT 7 | 85mm, camera mounted on a glass tower facing her. Her\narm swings through the facade, curtain wall shearing away in slabs,\ncamera whip-panning down with the falling glass.\nCUT.\n28–30s | SHOT 8 | 24mm aerial, rising crane pull-back. She stands amid the\nbroken skyline, dust rolling outward, molten fissures pulsing.\nPHYSICS: her mass increases continuously, granite fracturing radially from\nher feet; steel groans and buckles before it fails; glass falls as sheets\nthat shatter on impact; concrete shears in slabs, not crumbs; dust rolls\nin heavy waves; embers ride heat currents upward.\nAUDIO: wind and low city hum, a deep bone-crack as the fissures open, a\nsustained rising roar through the growth, groaning steel, sheeting glass,\nthunderous impacts, settling dust.\nHARD LOCKS: the creature is the transformed woman, one continuous being.\nNothing emerges from the ground. No second creature. She never levitates,\nfloats, or leaves the ground at any moment. Feet planted throughout the\ntransformation. She never vanishes from frame between shots. No people\nvisible anywhere.\nFORBIDDEN: no levitation, no separate monster, no ground emergence, no\ngore or flesh tearing, no franchise creatures, no design drift, no\nsubtitles, no background music, no readable text or logos.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/obsidian-giant-transformation-531249/video-4efc1ad07cdde5e2.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/obsidian-giant-transformation-531249/poster-3be6d948a87d799f.jpg",
+    "format": "video/webm",
+    "videoBytes": 1989337,
+    "videoSha256": "4efc1ad07cdde5e26815daed01ad8dc632b632789713df46352e2d1cce502687",
+    "thumbnailBytes": 50565,
+    "thumbnailSha256": "3be6d948a87d799f96e221d1fec98b16f8d43c95390308639fe49e5f59a9e2b0"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

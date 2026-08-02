@@ -1,0 +1,43 @@
+{
+  "slug": "devastated-city-continuous-escape-880148",
+  "title": {
+    "en": "Devastated City Continuous Escape",
+    "zh": "废墟城市连续逃亡"
+  },
+  "description": {
+    "en": "30-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒废墟城市连续逃亡提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Runaway_Rhino",
+    "url": "https://x.com/Runaway_Rhino/status/2083557520421880148"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/Runaway_Rhino/status/2083557853764206903"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Runaway_Rhino/status/2083557520421880148"
+  ],
+  "prompt": "Photorealistic 30-second continuous one-shot: no cuts, hidden edits, dissolves or teleportation — every apparent shot change is one unbroken physical camera move around the same man.\nA bruised, exhausted man in his early 30s - dirty dark wool coat, torn shirt, muddy trousers - sprints through a devastated European city at cold dawn: wet asphalt, smoke, drifting ash, distant fires, ruined architecture. Keep his face, clothes, injuries and body identical throughout. Dead-serious acting: ragged breathing, fear, slipping boots, pumping arms. He ignores the surreal chaos, fixed on something ahead.\n[0s] The camera holds at puddle level beside his boots hammering through black rainwater, spray striking the lens. As he blasts past, it starts a half-beat late, pulling back and rising into a tight frontal track at chest height, his eyes just above center. Behind him civilians flee through smoke; a cathedral-sized shadow moves beneath the street.\n[4s] A seam of light splits the buildings on his left. The camera eases around his left shoulder in one slow 90° arc, falling rubble crossing the near plane, landing on his clean left profile. Buildings unzip vertically like fabric, revealing a turbulent ocean suspended behind them; a colossal whale swims between rooftops while cars and rubble fall upward into the clouds. He stays in normal gravity.\n[9s] The air ahead fills with suspended glass shards, each showing a different version of the same street: burning, flooded, frozen, abandoned. The camera drops to hip height beside him in a low side track; shards streak past the lens.\n[12s] A city bus crashes behind him and bursts into thousands of black birds instead of debris. The flock sweeps across the lens; when it clears the camera is behind him, one continuous move.\n[14s] The camera settles into a wide rear track. The street ahead bends upward like a strip of film until buildings stand vertically above the horizon; people, bicycles and wreckage slide across walls; giant concrete hands push through the asphalt on both sides. He leaps a widening fracture, landing with full physical weight. The camera lags half a beat on the jump, then closes back in.\n[20s] The sun splits open like a mechanical iris, revealing stars, eclipses and turning planets. The light draws the camera up in one weighted crane arc, rising past his shoulder to a brief top-down beat over him. Flaming debris falls; soldiers run across the sky as if it were solid ground; a train passes vertically between towers.\n[23s] The crane carries its momentum down ahead of him, slowing into a tight frontal close-up, his eyes just above center against the burning sky, embers streaking between lens and face. Keep him sharply readable, emotionally central.\n[25s] He reaches a small untouched dining table in the middle of the ruined street; a girl of about eight sits calmly beside a tiny birthday cake, one candle burning. He slides to his knees, catches himself against the table, looks into her eyes; terror becomes relief. The camera decelerates with him, easing wider and sinking to table height, nearly stopping for the first time - a faint breath of motion - landing on a two-shot, candle between them.\n[28s] Together they blow out the candle. The instant the flame dies, all destruction and cosmic events freeze, then transform seamlessly into the same street on a quiet ordinary morning: intact buildings, soft sunlight, distant birds, no other people, their exact poses preserved. The camera holds; an almost imperceptible push settles on the thin candle smoke rising between them.\nVISUAL LANGUAGE: prestige war-film realism fused with surreal cosmic imagery - photorealistic, never cartoonish or game-like. Cold blue-grey dawn dominates, dirty amber firelight secondary; the candle is the only warm accent. Volumetric smoke, wet surfaces, pore-level skin, sweat, mud, blood, visible breath, real contact shadows.\nAUDIO: no dialogue, narration, music or subtitles. Footsteps, splashing water, strained breathing, alarms, artillery, collapsing masonry, whale calls from the sky, reversed metal groans, flapping birds, grinding concrete, deep celestial resonance. When the candle dies, all catastrophic sound stops instantly: one exhale, morning birds, a faint ceramic rattle.\nCAMERA: one unbroken physical path, a weighted rig with real mass - every move triggered by the scene, easing in and out, landing on a held composition. Immersive wide-angle look becoming intimate; deep parallax, subtle lens breathing, natural focus pulls, filmic motion blur. Maintain forward direction and geography; neve",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/devastated-city-continuous-escape-880148/video-de8617eb1bdd04fc.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/devastated-city-continuous-escape-880148/poster-65d8e375c9137381.jpg",
+    "format": "video/webm",
+    "videoBytes": 2687057,
+    "videoSha256": "de8617eb1bdd04fc08530bbe814ce3c90d1e34400b1ff2ec54c711239e35c861",
+    "thumbnailBytes": 54597,
+    "thumbnailSha256": "65d8e375c913738129fa5431c729d2aee821b5e6da2738ca73ca0c88532fbb0d"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

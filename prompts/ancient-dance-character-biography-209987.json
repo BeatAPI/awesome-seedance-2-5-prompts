@@ -1,0 +1,46 @@
+{
+  "slug": "ancient-dance-character-biography-209987",
+  "title": {
+    "en": "Ancient Dance Character Biography",
+    "zh": "古风舞者人物传记"
+  },
+  "description": {
+    "en": "30-second performance prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒古风舞者人物传记提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "performance",
+  "workflowMode": "reference-generation",
+  "mode": "multimodal",
+  "duration": "30s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "Text prompt",
+    "Image reference",
+    "Video or motion reference",
+    "Audio or sound direction"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@MrLarus",
+    "url": "https://x.com/MrLarus/status/2083558691895209987"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/MrLarus/status/2083560269964271693"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/MrLarus/status/2083558691895209987"
+  ],
+  "prompt": "【任务】\n生成完整 30 秒中国古风人物小传短片。\n严格按照时间轴、多模态素材映射、人物隔离和参考音频执行，不自由修改镜头与剧情。\n\n【参考绑定】\n- Depth 视频：只控制约 0–5s、10–18s、25–30s 三段核心舞蹈\n- 多视角头像 + 全身图：只锁定主舞女\n- 九宫格：按编号调用妆造、乐器与剪影镜头，禁止串格\n- 场景图：全片保持同一个古风雅室\n- 参考 BGM：作为唯一音乐，从 0s 播放至 30s\n\n【人物隔离】\n主舞女、古筝女和琵琶女必须是三位不同角色。\nGrid 1–3：只出现主舞女\nGrid 4–5：只出现古筝女\nGrid 6–7：只出现琵琶女\nGrid 8–9：以主舞女剪影为主\n配角造型更素、光线更收，不抢主角。\n\n【参考时间轴】\n0–5s：主舞女舞蹈起势\n5–6.5s：描眉\n6.5–8s：抿唇\n8–10s：插发簪\n10–18s：主舞女舞蹈中段\n18–19.5s：古筝女全景\n19.5–20.5s：古筝手部特写\n20.5–21.5s：琵琶女全景\n21.5–22s：琵琶手部特写\n22–23.5s：纱帘剪影全景\n23.5–25s：纱帘剪影特写\n25–30s：主舞女舞蹈收势\n\n【画面要求】\n真实古风雅室，以烛火和宫灯作为主要光源。\n皮肤保留自然纹理，不要磨皮、塑料感和均匀棚拍光。\n飘带、发簪、纱帘与琴弦保持真实材质和运动惯性。\n所有动作重拍与镜头切换尽量跟随参考 BGM。\n\n【总要求】\n总时长 30 秒。\n人物、动作、场景、镜头和音乐沿着同一条时间轴推进。\n结尾回到主舞女，不使用配角或空镜收尾。\n禁止串脸、镜头错序、音乐错位、自由改剧情、字幕、Logo 和水印。",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/ancient-dance-character-biography-209987/video-d5324de181277991.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/ancient-dance-character-biography-209987/poster-708d0c55440def06.jpg",
+    "format": "video/webm",
+    "videoBytes": 2610520,
+    "videoSha256": "d5324de1812779917af2585c8f8aac3cdbd32eccc7a129b5b2c03bd870ae1f48",
+    "thumbnailBytes": 52977,
+    "thumbnailSha256": "708d0c55440def06b46bb452dca47342b014438bbdc87cb4197e7f7bb5ff1ad6"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

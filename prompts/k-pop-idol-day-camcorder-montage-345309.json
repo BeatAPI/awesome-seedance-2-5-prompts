@@ -1,0 +1,43 @@
+{
+  "slug": "k-pop-idol-day-camcorder-montage-345309",
+  "title": {
+    "en": "K-Pop Idol Day Camcorder Montage",
+    "zh": "K-Pop 偶像一日录像机蒙太奇"
+  },
+  "description": {
+    "en": "15-second vlog prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒K-Pop 偶像一日录像机蒙太奇提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "vlog",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@doctorwasif",
+    "url": "https://x.com/doctorwasif/status/2083418162331345309"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/doctorwasif/status/2083418162331345309"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/doctorwasif/status/2083418162331345309"
+  ],
+  "prompt": "**CAMERA:**\nDV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself throughout each location, occasionally propped briefly for hands-free moments. Hand shake, misaligned framing, delayed focus pulls, clumsy zooms, occasional face cut-off framing, imperfect shots. Camcorder never appears on screen.\n\n**LOOK:**\nSoft, slightly blurry tape quality, faint tape noise, bloomed highlights, flickering auto-exposure, muted contrast, realistic skin tones — lighting shifts naturally per location (warm dorm light → cool van light → studio fluorescents → bright stage lights).\n\n**STYLE:**\nFast-paced time-lapse montage feel — quick cuts stitched together across locations, sped-up transitional movement between them. Instead of synced dialogue, her voice plays as reflective voiceover narration over the visuals, tying the day together. Energy builds progressively from sleepy morning to high-adrenaline stage finish.\n\n**Character**\n\nCHASE — Korean idol , 20s. Long straight black hair, elegant yet lovely Korean features, dewy glass skin, coral pink lips, big eyes. Outfit changes naturally per location: cozy loungewear at the dorm, casual comfortable clothes in the van, modest athletic wear in the practice room, and a stage outfit for the final segment — each fully covering arms and torso.\n\n**Setting Progression**\n\nDorm room (morning) → van interior (daytime) → practice room (afternoon) → backstage/stage (night).\n\n**Storyboard (voiceover narration over visuals)**\n\n1. *(~2s, dorm, propped camera, sleepy morning light)* She stretches, rubbing her eyes, hair messy. VOICEOVER (CHASE): \"Every day starts the same way — way too early.\"\n\n2. *(~2s, dorm, handheld, quick motion)* She moves through her morning routine in fast, sped-up cuts — brushing hair, grabbing a bag. VOICEOVER (CHASE): \"Get ready, grab everything, and go.\"\n\n3. *(~2s, van interior, handheld, window light)* She sits by the window, phone in hand, soft daylight passing over her face. VOICEOVER (CHASE): \"The van's basically my second home at this point.\"\n\n4. *(~1.5s, van, macro insert)* Close-up on her hand adjusting a playlist on her phone, light flickering through the window. No narration — ambient road sound only.\n\n5. *(~2s, practice room, handheld, energetic)* She's mid-movement rehearsing choreography, camera catching quick glimpses of the mirror wall. VOICEOVER (CHASE): \"Then it's hours of practice till my legs give out.\"\n\n6. *(~2s, practice room, propped camera, water break)* She wipes sweat, drinks water, breathless but smiling. VOICEOVER (CHASE): \"But somehow I never get tired of this part.\"\n\n7. *(~2s, backstage, handheld, quick transition)* Hair and makeup blur past in quick cuts, staff moving around her, adrenaline building. VOICEOVER (CHASE): \"And then suddenly, it's showtime.\"\n\n8. *(~2s, stage, wide-to-close, high energy finish)* Bright stage lights, her silhouette stepping out as the camera catches a final glimpse before cutting to black. VOICEOVER (CHASE): \"This is the part that makes all of it worth it.\"",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/k-pop-idol-day-camcorder-montage-345309/video-b986009c7aa079a7.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/k-pop-idol-day-camcorder-montage-345309/poster-427ba91e0531cba1.jpg",
+    "format": "video/webm",
+    "videoBytes": 1324578,
+    "videoSha256": "b986009c7aa079a753f38d00770315791c92148dc15015969c593485214cf25f",
+    "thumbnailBytes": 39664,
+    "thumbnailSha256": "427ba91e0531cba12f08d9d1c7080ae653d00826d9197f958f63cf5300a54763"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

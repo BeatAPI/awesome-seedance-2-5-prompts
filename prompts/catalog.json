@@ -1,9 +1,1311 @@
 {
   "version": 1,
   "model": "Seedance-2.5",
-  "updatedAt": "2026-08-01",
+  "updatedAt": "2026-08-02",
   "repository": "https://github.com/BeatAPI/awesome-seedance-2-5-prompts",
   "prompts": [
+    {
+      "slug": "korean-city-day-vlog-993075",
+      "title": {
+        "en": "Korean City Day Vlog",
+        "zh": "韩国城市一日 Vlog"
+      },
+      "description": {
+        "en": "30-second vlog prompt paired with a source-verified creator example and its output video.",
+        "zh": "30 秒韩国城市一日 Vlog提示词，保留来源、完整 Prompt 与对应输出视频。"
+      },
+      "category": "vlog",
+      "workflowMode": "text-generation",
+      "mode": "text-to-video",
+      "duration": "30s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Text prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@aivoxyy",
+        "url": "https://x.com/aivoxyy/status/2083596849768993075"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/aivoxyy/status/2083596849768993075"
+      ],
+      "modelEvidenceUrls": [
+        "https://x.com/aivoxyy/status/2083596849768993075"
+      ],
+      "prompt": "Main subject: young Korean woman, early 20s, natural everyday appearance, faded charcoal-grey sleeveless crop top, loose high-waisted light-wash jeans, black canvas sneakers, black cord necklace, black wavy hair in a messy side ponytail with wispy bangs. Realistic skin texture, minimal makeup, warm and approachable personality. Maintain consistent identity, clothing, hairstyle, and appearance throughout the entire video. Location: Authentic Korean residential neighborhood during a calm late morning. Narrow concrete alleys, low-rise homes, small terraces, potted plants, laundry lines, bicycles, utility poles, overhead wires, mature trees casting moving shadows, quiet residential atmosphere. No stores, advertisements, cafés, crowds, or commercial activity. Visual Style: Ultra-realistic documentary realism. Genuine candid behavior. Natural body language. Unscripted slice-of-life feeling. Strong environmental authenticity. Rich real-world details and believable human motion. Camera Style: Early-2000s consumer DV camcorder aesthetic. Friend casually recording everyday moments. Heavy handheld shake, imperfect framing, frequent autofocus hunting, lens breathing, exposure pumping when moving between sun and shade, occasional motion blur, subtle rolling shutter, mild digital compression artifacts, faded colors, soft contrast, slight sensor noise. No stabilization. No cinematic camera moves. No modern color grading.\n\n00:00–00:02 Outside a small house entrance. She sits on a low concrete wall adjusting her ponytail with both hands raised. A light breeze moves loose strands of hair. She smiles naturally while the camera struggles to hold focus.\n\n00:02–00:04 The camera follows her into a narrow alley lined with potted plants and concrete walls. She notices a stray cat approaching and crouches down. Framing drifts off-center as the operator tries to keep up.\n\n00:04–00:06 She gently pets and feeds the cat. Autofocus repeatedly shifts between her face and the animal. Morning sunlight flickers through leaves overhead.\n\n00:06–00:08 Small front yard beside her house. She hangs laundry on a clothesline while fabrics sway in the breeze. Exposure changes as clouds briefly pass overhead.\n\n00:08–00:10 On a quiet terrace with a ceramic coffee cup. She sits comfortably watching the neighborhood, occasionally brushing hair behind her ear. Loose handheld side angle with natural camera drift.\n\n00:10–00:12 Close side profile. Someone off-camera greets her. She turns, raises her hand, smiles warmly, and casually says, \"Annyeong.\" The camera catches the moment slightly late.\n\n00:12–00:15 Walking slowly down a tree-lined residential lane holding her coffee cup. She notices the camera, gives a small genuine smile, then looks away and continues walking.\n\n00:15–00:18 A short flight of worn concrete steps between two low houses. She climbs them one-handed, coffee cup in the other, and pauses to steady a leaning potted plant with her foot. The operator lags a beat behind and the frame tilts hard before correcting. Heavy exposure pumping as she moves from deep shade into open sun at the top of the steps.\n\n00:18–00:20 Narrow alley in full late-morning sun. She stops at a green plastic watering can left by a doorway, picks it up, and waters a row of chili plants and a spider plant along the wall. Water darkens the concrete. Autofocus hunts between the falling water and her hands.\n\n00:20–00:22 An older neighbor passes pushing a small metal handcart. She steps aside, gives a short polite bow, and says a brief warm greeting. The neighbor answers in indistinct background chatter and continues on. The camera swings to follow the cart, then swings back to her, badly framed and slightly late.\n\n00:22–00:24 She crouches at a low wall where the same stray cat has reappeared, sitting in a patch of sun. She holds out one hand, the cat ignores her, and she laughs quietly and stands. Camera drops to knee height and the horizon goes crooked. Motion blur as it lifts again.\n\n00:24–00:26 She wheels an old bicycle out from where it leans against a utility pole, checks the front tyre with her thumb, then leaves it and keeps walking. Overhead wires cut across the bright sky in the top of the frame. Lens breathing as the operator tries to zoom and gives up.\n\n00:26–00:28 Back at the small front yard. The laundry from earlier moves in a stronger breeze now. She reaches up and straightens one sleeve on the line, then stands there a moment looking at the neighborhood, coffee cup empty in her other hand. Soft dappled tree shadow moves across her face and the wall behind her.\n\n00:28–00:30 She turns toward the camera at the house entrance, notices it is still recording, raises her hand in a small casual wave and shakes her head slightly, half-smiling, as if telling the operator to stop filming. Recording cuts abruptly to black mid-motion as if the camcorder was switched off.\n\nAudio: Natural ambient sound only — morning birds, distant motorcycles, light wind, leaves rustling, faint neighborhood chatter, cat sounds, footsteps on concrete, fabric moving on clotheslines, water pouring onto concrete, bicycle chain ticking, handcart wheels on rough ground, subtle residential ambience. No music. No sound design. No narration.\n\nGoal: Authentic Korean neighborhood life captured like a forgotten home video from the early 2000s — candid, imperfect, realistic, warm, and deeply believable.",
+      "media": {
+        "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/korean-city-day-vlog-993075/video-629787f47dd0f835.webm",
+        "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/korean-city-day-vlog-993075/poster-01e06acfd1e65253.jpg",
+        "format": "video/webm",
+        "videoBytes": 2759963,
+        "videoSha256": "629787f47dd0f8355f4326d678c57120c25c11808ef8bc058a3d13b8ee62af10",
+        "thumbnailBytes": 80654,
+        "thumbnailSha256": "01e06acfd1e652535525117f9a782c77c71e3aec12b1dfc3bda9bae052e02688"
+      },
+      "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+    },
+    {
+      "slug": "underground-rap-performance-studio-129750",
+      "title": {
+        "en": "Underground Rap Performance Studio",
+        "zh": "地下说唱摄影棚表演"
+      },
+      "description": {
+        "en": "30-second music video prompt paired with a source-verified creator example and its output video.",
+        "zh": "30 秒地下说唱摄影棚表演提示词，保留来源、完整 Prompt 与对应输出视频。"
+      },
+      "category": "music-video",
+      "workflowMode": "reference-generation",
+      "mode": "multimodal",
+      "duration": "30s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Text prompt",
+        "Image reference",
+        "Video or motion reference",
+        "Audio or sound direction"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@digitalwindai",
+        "url": "https://x.com/digitalwindai/status/2083594010271129750"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/digitalwindai/status/2083594010271129750"
+      ],
+      "modelEvidenceUrls": [
+        "https://x.com/digitalwindai/status/2083594010271129750"
+      ],
+      "prompt": "REFERENCE SCOPE\n\n@ IMAGE1 defines only the artist’s identity and wardrobe. Preserve her face, platinum-white blunt bob, round black sunglasses, slim athletic build, long narrow black coat, oversized white T-shirt, short black technical shorts, heavy black boots, and the small white H on the front left chest.\n\n@ IMAGE2 defines the studio: matte black floor and walls, monumental angled white acoustic structures, large white ceiling panels separated by deep cosmic gaps with restrained violet-blue nebulae, and the sculptural cube-like rear wall.\n\n@ IMAGE3 defines the exact first frame: composition, symmetry, camera position, artist scale and darkness. The ceiling must follow @ IMAGE2.\n\n@ VIDEO1 is the sole fixed audio reference and exact performance-timing reference. Ignore its black visual track.\n\nAUDIO\n\nKeep the audio from @ VIDEO1 unchanged at its original timestamps from beginning to end.\n\nAll cuts and camera changes affect only the image. They must not alter the audio timing.\n\nDo not generate any new audio, vocals, voices, sound effects, ambience, room tone, impacts or transition sounds.\n\nDIRECTION\n\nCreate a cinematic photorealistic underground female rap performance video, 16:9, 1080p.\n\nKeep the artist recognizable and dominant. Her movements feel natural and confident: brief stillness, loose asymmetric gestures, weight shifts, torso turns, short purposeful steps and occasional approaches toward the lens.\n\nNo repetitive foot tapping, stomping or looping gestures.\n\nUse lively human handheld camera work: pushes, recoils, brief impact jolts, small tilts, slight overshoots and quick corrections. Keep her face readable. Avoid continuous random shaking and smooth floating gimbal movement.\n\nSHOT STRUCTURE\n\n0–4 SECONDS — OPENING\n\nStart exactly on @ IMAGE3 with no pre-roll or alternate opening frame.\n\nShe prepares in darkness with her mouth closed. The studio wakes suddenly in one synchronized lighting event.\n\nThe camera immediately makes one fast physical rush-in with natural motion blur, reaching a tight frontal medium close-up as the performance begins. No cut before this moment.\n\n4–8 SECONDS — FRONTAL CLOSE PERFORMANCE\n\nTight frontal medium close-up. She performs directly toward the lens with natural varied gestures.\n\nThe camera stays close, reacting to her forward movement with short pushes and recoils. Ceiling panels clearly shift between dark, dim and bright groups.\n\nHARD CUT.\n\n8–12 SECONDS — LOW-ANGLE PERFORMANCE\n\nLow wide-angle medium shot near the floor. She remains large in frame, takes one purposeful step and leans toward the lens.\n\nUse one strong handheld jolt, a brief horizon tilt and a fast correction.\n\nWHIP CUT motivated by her movement.\n\n12–16 SECONDS — SIDE STRUCTURE\n\nThree-quarter side performance beside one monumental white acoustic structure.\n\nThe camera tracks diagonally closer while she turns toward the lens. The nearby structure shifts subtly once and the ceiling lighting continues changing.\n\nHARD CUT.\n\n16–20 SECONDS — EXTREME CLOSE PERFORMANCE\n\nFrontal close-up with strong proximity.\n\nThe camera pushes close, recoils, briefly moves off-axis and recovers her face. Her performance remains natural, intense and varied.\n\nEnd with a clean hard cut. No palm covering or touching the lens.\n\n20–24 SECONDS — CUBE WALL PERFORMANCE\n\nClose angled performance in front of the exact sculptural cube rear wall from image2.\n\nThe cube relief moves in broad connected mechanical waves with visible depth, weight and changing shadows. Nothing detaches or flies.\n\nThe camera stays close and handheld while she performs in front of the moving wall.\n\nHARD CUT.\n\n24–30 SECONDS — FINAL CLIMAX\n\nClose hero performance at the exact cube rear wall. Move progressively closer throughout this final shot.\n\nThe cube wall, side structures and ceiling lighting reach their strongest controlled kinetic state while the studio remains physically intact.\n\nThe camera becomes more energetic with brief jolts, forward pressure and quick corrections, while keeping her face clear and dominant.\n\nNear the end, she smoothly removes her sunglasses and reveals beautiful realistic eyes with subtle natural violet irises. No glow, emitted light or supernatural effects.\n\nShe holds direct eye contact for the final beat while the studio continues moving softly behind her.\n\nEnd in a tight close portrait. No fade, no zoom-out and no empty environment shot.\n\nLOCKS\n\nFollow the stated shot order and framing.\n\nKeep the artist visible, recognizable and dominant in every shot.\n\nUse @ sound1  only as the fixed audio and performance-timing reference.\n\nDo not include written lyrics anywhere in the generated video.\n\nNo additional audio of any kind.\n\nNo portal, black hole, fantasy reveal, studio destruction, flying cubes or detached fragments.",
+      "media": {
+        "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/underground-rap-performance-studio-129750/video-7327a9c0e01a4edb.webm",
+        "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/underground-rap-performance-studio-129750/poster-a8583e0e1e75fef3.jpg",
+        "format": "video/webm",
+        "videoBytes": 1971082,
+        "videoSha256": "7327a9c0e01a4edbf2620c017afd921e7a384b28258619371bad11122e012dd8",
+        "thumbnailBytes": 44582,
+        "thumbnailSha256": "a8583e0e1e75fef328aabb1dc7bcd94a5f32134ce1be8a030fc00f34ab8aa72e"
+      },
+      "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+    },
+    {
+      "slug": "italian-coast-wakeboarding-splash-433442",
+      "title": {
+        "en": "Italian Coast Wakeboarding Splash",
+        "zh": "意大利海岸尾波滑水"
+      },
+      "description": {
+        "en": "32-second brand film prompt paired with a source-verified creator example and its output video.",
+        "zh": "32 秒意大利海岸尾波滑水提示词，保留来源、完整 Prompt 与对应输出视频。"
+      },
+      "category": "brand-film",
+      "workflowMode": "text-generation",
+      "mode": "text-to-video",
+      "duration": "32s",
+      "aspectRatio": "7:3",
+      "ingredients": [
+        "Text prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@hedo_ist",
+        "url": "https://x.com/hedo_ist/status/2083593369964433442"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/hedo_ist/status/2083593373512839197"
+      ],
+      "modelEvidenceUrls": [
+        "https://x.com/hedo_ist/status/2083593369964433442"
+      ],
+      "prompt": "People are out on the terrace during the summer when, suddenly, someone appears wakeboarding and splashing the crowd;\n\nthe athlete laughs heartily while performing stunts and jumping over yachts speeding by.\n\nA fun, fast-paced action scene.",
+      "media": {
+        "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/italian-coast-wakeboarding-splash-433442/video-dcbf8625a8d83951.webm",
+        "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/italian-coast-wakeboarding-splash-433442/poster-1559afd05ea7f394.jpg",
+        "format": "video/webm",
+        "videoBytes": 4143336,
+        "videoSha256": "dcbf8625a8d839517bd0858c9515bc7153a4b5cb6e3adf09680e7e259990f8c6",
+        "thumbnailBytes": 114015,
+        "thumbnailSha256": "1559afd05ea7f394e0f007c8a9e11c43a9e2a6d4edcaa27fb783a73ba30d4807"
+      },
+      "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+    },
+    {
+      "slug": "jan-thirty-second-delivery-run-271585",
+      "title": {
+        "en": "Jan Thirty-Second Delivery Run",
+        "zh": "Jan 的三十二秒送货行动"
+      },
+      "description": {
+        "en": "36-second cinematic action prompt paired with a source-verified creator example and its output video.",
+        "zh": "36 秒Jan 的三十二秒送货行动提示词，保留来源、完整 Prompt 与对应输出视频。"
+      },
+      "category": "cinematic-action",
+      "workflowMode": "text-generation",
+      "mode": "text-to-video",
+      "duration": "36s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Text prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@janmexico",
+        "url": "https://x.com/janmexico/status/2083592314132271585"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/janmexico/status/2083592315893903801"
+      ],
+      "modelEvidenceUrls": [
+        "https://x.com/janmexico/status/2083592314132271585"
+      ],
+      "prompt": "Jan: tall slim, round red glasses, earpiece right ear, gloves, harness.\nTone: IMAX anamorphic 2x, golden hour. Hard low sun on wet concrete, deep blue shadows, backlight, horizontal blue flares, saturated epic grade. Never grey or flat.\nCAMERA: low angle nearly every beat. Crash zooms, straight tracking, tilts. NEVER orbit or arc. Smooth motion, natural blur, 24fps, no stop motion. Jan never looks into the lens.\nAUDIO: Renteria only by radio, thin, tinny, filtered, click each side. Jan answers out loud. SFX only: wind, rotor, rope, fabric. NO MUSIC, no subtitles.\n0-6s Ground-level low angle, sun flare on puddles. Crash zoom to Jan's hands snapping the case shut, tilt up to earpiece and face, front to camera. Renteria, urgent: \"Treinta segundos, Jan. Cincuenta referencias. Una sola toma. Tienes que mandarlo ya.\"\n6-9s Low angle into the sun, camera tracks back ahead of Jan. He lifts the case: \"Enterado. Voy por el.\" and runs.\n9-12s Water-level low angle. Jan sprints over the camera, jumps a duct, gold spray on the lens. Renteria: \"Cuando te subas, abres tu Capcot y lo generas ya.\"\n12-15s Low angle on Duarte, rim lit. Crash zoom: \"Pense que llegabas mas tarde.\"\n15-18s Low angle, helicopter drops into a low hover, rotor wash blasting gold spray. Jan steps up through the door.\n18-21s Cabin, over the shoulder behind Jan. He opens the case revealing the laptop, screen square to camera. Push in as he presses Generate.\n21-25s Jan clips a rappel line to his harness, grips it with both gloved hands, kicks off the skid and swings out over the facade. Camera whips down with him into a fast controlled descent, boots striking the glass, sunlight tearing past.\n25-30s Epic finale. Mid descent Jan yanks a second rope hard. The giant banner bursts open beside him and unrolls floor by floor, snapping taut. He lands on his feet in the plaza. Crash zoom out to a vast skyline wide, the full banner reading ESTO ES SEEDANCE 2.5 above him, helicopter rising into the sunburst.",
+      "media": {
+        "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/jan-thirty-second-delivery-run-271585/video-77c0ad66c83880b2.webm",
+        "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/jan-thirty-second-delivery-run-271585/poster-c59ca7e3fbdd4955.jpg",
+        "format": "video/webm",
+        "videoBytes": 3794174,
+        "videoSha256": "77c0ad66c83880b213dac3e3a9e52b48f904df1ddcb8eadb2da94a7d24525948",
+        "thumbnailBytes": 40181,
+        "thumbnailSha256": "c59ca7e3fbdd49558bad84e3f59c1f06ef5d8fadde57ca75894cb1b56fae7c0f"
+      },
+      "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+    },
+    {
+      "slug": "fighter-jet-battleship-strike-814869",
+      "title": {
+        "en": "Fighter Jet Battleship Strike",
+        "zh": "战斗机突袭战列舰"
+      },
+      "description": {
+        "en": "30-second cinematic action prompt paired with a source-verified creator example and its output video.",
+        "zh": "30 秒战斗机突袭战列舰提示词，保留来源、完整 Prompt 与对应输出视频。"
+      },
+      "category": "cinematic-action",
+      "workflowMode": "text-generation",
+      "mode": "text-to-video",
+      "duration": "30s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Text prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@Artedeingenio",
+        "url": "https://x.com/Artedeingenio/status/2083573043322814869"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/Artedeingenio/status/2083573046309191997"
+      ],
+      "modelEvidenceUrls": [
+        "https://x.com/Artedeingenio/status/2083573043322814869"
+      ],
+      "prompt": "30-second cinematic aerial action spectacle, breathtaking high-budget feature film, ultra-dynamic editing, fluid aerial choreography, premium cinematic visuals, seamless kinetic camera movement, aggressive speed ramps, rapid match cuts, whip pans, rotating camera moves, dramatic perspective shifts, cinematic lens distortion, volumetric storm clouds, ocean spray, glowing tracer lights, smoke trails, sparks, flying debris, colossal scale, emotionally epic, no dialogue.\n\n0–5s\nDark storm clouds gather above a vast open ocean.\nA colossal armored battleship cuts through enormous waves.\nFar above, a lone high-performance fighter aircraft emerges from the clouds.\nExtreme close-ups.\nPilot visor.\nHands on the controls.\nJet intake vibrating.\nRadar display glowing.\nThe camera alternates between immense aerial vistas and intimate cockpit shots.\nComplete silence.\n\n5–10s\nThe fighter rolls onto its wing and dives toward the ocean.\nThe camera races only meters from the aircraft before instantly switching to first-person cockpit views, impossible wing-mounted perspectives, sweeping aerial fly-bys and dramatic low-angle shots skimming above the waves.\nThe ship rapidly grows larger.\nThe engines reach full power.\n\n10–15s\nA breathtaking aerial montage.\nThe fighter slices between towering smoke columns and dense clouds.\nBright streams of tracer light streak across the sky.\nThe aircraft performs impossible barrel rolls, high-G turns and vertical climbs while the camera continuously rotates around the fuselage.\nSpeed ramps amplify every maneuver.\n\n15–20s\nThe fighter skims just above the ocean surface.\nTowering walls of spray rise behind it.\nIt climbs sharply over the battleship's deck in one uninterrupted shot.\nThe camera dives beneath the aircraft, then whips upward through drifting smoke, sparks and sunlight breaking through the storm.\nEverything feels impossibly fast.\n\n20–25s\nThe sequence reaches maximum intensity.\nThe aircraft circles the massive vessel at incredible speed.\nTowering water plumes erupt around the ship.\nClouds swirl overhead.\nThe camera jumps between ultra-wide aerial compositions, intimate cockpit close-ups, spinning chase shots, dramatic slow-motion fly-bys and impossible orbiting movements around both aircraft and ship.\nEvery cut increases the spectacle.\n\n25–30s\nEverything suddenly slows.\nThe fighter climbs vertically through the storm clouds into brilliant sunlight.\nFar below, the gigantic battleship disappears beneath drifting mist and shimmering ocean reflections.\nThe camera pulls rapidly upward into an immense aerial shot revealing endless sky and sea stretching to the horizon.\n\nHard cut to black.\n\nSound design: soaring cinematic orchestra, thunderous percussion, deep brass, roaring jet engines, rushing wind, ocean waves crashing against steel, atmospheric echoes, powerful fly-by whooshes, subtle sonic booms, cinematic bass swells, brief silence before the final climb, overwhelming orchestral finale.",
+      "media": {
+        "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/fighter-jet-battleship-strike-814869/video-6bbb04034c77e629.webm",
+        "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/fighter-jet-battleship-strike-814869/poster-c81a2be0acecc27c.jpg",
+        "format": "video/webm",
+        "videoBytes": 1508768,
+        "videoSha256": "6bbb04034c77e629c1bbfa63e0a874d67b9ae60c5c6af5dc635cce6957b84e60",
+        "thumbnailBytes": 34611,
+        "thumbnailSha256": "c81a2be0acecc27ccc3ce66b52a8037a9c0de40caffcb8f27b9048c3739985ab"
+      },
+      "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+    },
+    {
+      "slug": "cartoon-bulldog-versus-live-boxer-029228",
+      "title": {
+        "en": "Cartoon Bulldog Versus Live Boxer",
+        "zh": "卡通斗牛犬大战真人拳手"
+      },
+      "description": {
+        "en": "24-second brand film prompt paired with a source-verified creator example and its output video.",
+        "zh": "24 秒卡通斗牛犬大战真人拳手提示词，保留来源、完整 Prompt 与对应输出视频。"
+      },
+      "category": "brand-film",
+      "workflowMode": "reference-generation",
+      "mode": "image-to-video",
+      "duration": "24s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Text prompt",
+        "Image reference"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@BaBELL81",
+        "url": "https://x.com/BaBELL81/status/2083562978730029228"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/BaBELL81/status/2083563316945813878"
+      ],
+      "modelEvidenceUrls": [
+        "https://x.com/BaBELL81/status/2083562978730029228"
+      ],
+      "prompt": "Create an intense 24-second boxing sequence in 10 shots.\n\nThe bulldog remains a hand-drawn 2D character inspired by 1969 American TV cartoons, keeping the same face, proportions, red gloves, and striped shorts. Never make him realistic. The human boxer remains fully photorealistic.\n\nStyle: heated live sports documentary broadcast. Handheld ringside cameras, reactive pans, imperfect reframing, small zoom corrections, natural shake, motion blur, focus breathing, faded 35mm colors, soft lens bloom, subtle gate weave, and naturally changing film grain. No frozen grain or fixed texture.\n\nStrong white spotlights illuminate the ring. The crowd is darker but visible and constantly reacting. Crowd cheering continues from the first frame to the last: shouting, applause, whistles, and stomping. Reactions grow louder after major punches. An excited male English commentator speaks continuously. No music.\n\nEach numbered shot is one continuous camera take. The camera may pan, track, dolly, or reframe, but must not jump to a new position inside the same shot.\n\nComic effects must resemble authentic 1969 American comics: imperfect hand-drawn lines, thick black outlines, red, yellow, white, and black colors, halftone dots, faded ink, and slight print misregistration.\n\nUse effects sparingly:\nSPEED LINES on fast punches.\nOne-frame SMEAR FRAME on the strongest punches.\nSmall IMPACT BURSTS on selected hits.\nIMPACT FLASH and SHOCKWAVE RING only on the decisive counter and final uppercut.\nWOBBLE LINES and yellow rotating stars only when the human is badly dazed.\n\nUse only these comic sound effects on major clean hits:\nTHWACK! POW! SMACK! WHAM! CRACK!\n\nSHOT 1 — 0.0–2.0\nHigh-angle view of the packed arena. The ring is under strong spotlights. Both fighters wait in opposite corners. The bell rings, the crowd erupts, and both walk toward the center as the camera pushes closer.\n\nSHOT 2 — 2.0–4.0\nSlightly elevated wide shot from outside the ring with ropes in the foreground. The referee steps back. Both fighters raise their guards, circle, and test distance. The handheld camera tracks right.\n\nSHOT 3 — 4.0–6.2\nLow canvas-level angle. The bulldog throws a jab with brief SPEED LINES. The human narrowly avoids it and counters with a jab that the bulldog blocks. Quick natural pan. No comic text.\n\nSHOT 4 — 6.2–8.8\nSlightly high-angle shot through the ropes. The human attacks with a combination. A left jab lands with a small IMPACT BURST and THWACK! A right straight follows with POW!, a brief IMPACT FLASH, and a small burst. A left hook lands with only a subtle impact mark. The camera tracks as the bulldog retreats.\n\nSHOT 5 — 8.8–11.2\nClose handheld shot from the opposite side. The human keeps pressing with short punches. The bulldog blocks several and absorbs one body shot. The camera urgently reframes. The bulldog answers with a short face hook using a small red IMPACT BURST and SMACK!\n\nSHOT 6 — 11.2–14.0\nOver-the-shoulder from behind the human. The human throws a powerful right straight. The bulldog slips underneath. The camera pans with the missed glove. Without cutting, the bulldog plants his feet, rotates, and launches a right counterpunch with SPEED LINES and a one-frame SMEAR FRAME.\n\nSHOT 7 — 14.0–16.8\nTight ringside impact shot. The bulldog’s right straight lands on the human’s cheek in very brief slow motion. His cheek compresses and sweat flies. At contact, show a large IMPACT BURST, white IMPACT FLASH, radial lines, short SHOCKWAVE RING, and WHAM! The effects vanish immediately. Return to normal speed as the human staggers backward. The crowd explodes.\n\nSHOT 8 — 16.8–19.2\nSlightly elevated ringside shot. The human is badly dazed but standing. WOBBLE LINES and three yellow stars briefly appear. The bulldog lands one body punch without text, then a short face hook with SPEED LINES, a small burst, and SMACK!\n\nSHOT 9 — 19.2–21.5\nLow diagonal ringside angle. The bulldog throws a compact uppercut with a one-frame SMEAR FRAME. It lands under the chin with IMPACT FLASH, red-yellow IMPACT BURST, short SHOCKWAVE RING, and CRACK! The human falls into the ropes, drops to one knee, and collapses safely. The referee stops the fight. The bulldog steps back. Yellow stars fade.\n\nSHOT 10 — 21.5–24.0\nFinal slightly high-angle wide shot. The referee brings the bulldog to the center and raises one arm. Red-and-white paper streamers fly into the ring. Vintage photographers fire flashbulbs and strong white strobes. The crowd remains standing, shouting, clapping, whistling, and waving hats. The handheld camera slowly pushes closer until the final frame.",
+      "media": {
+        "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/cartoon-bulldog-versus-live-boxer-029228/video-ca3142256c322af3.webm",
+        "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/cartoon-bulldog-versus-live-boxer-029228/poster-7adccc2afffcde48.jpg",
+        "format": "video/webm",
+        "videoBytes": 2728710,
+        "videoSha256": "ca3142256c322af39064d7cab3f527904c9863a3f614be661a1b5c6273a84d1b",
+        "thumbnailBytes": 68180,
+        "thumbnailSha256": "7adccc2afffcde48feb1b8cec6e7feb4afe1e4b1fffefa182c76cb179573d467"
+      },
+      "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+    },
+    {
+      "slug": "1970s-mediterranean-woman-documentary-685471",
+      "title": {
+        "en": "1970s Mediterranean Woman Documentary",
+        "zh": "1970 年代地中海女性纪录片"
+      },
+      "description": {
+        "en": "15-second documentary prompt paired with a source-verified creator example and its output video.",
+        "zh": "15 秒1970 年代地中海女性纪录片提示词，保留来源、完整 Prompt 与对应输出视频。"
+      },
+      "category": "documentary",
+      "workflowMode": "text-generation",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "9:16",
+      "ingredients": [
+        "Text prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@hey_am_cherry",
+        "url": "https://x.com/hey_am_cherry/status/2083561941004685471"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/hey_am_cherry/status/2083562105186418695"
+      ],
+      "modelEvidenceUrls": [
+        "https://x.com/hey_am_cherry/status/2083561941004685471"
+      ],
+      "prompt": "Style:\nAuthentic late-1970s Mediterranean documentary captured on vintage 16mm Kodak film, naturally faded colors, subtle film grain, real optical imperfections, slight gate weave, shoulder-mounted handheld camera with imperfect human movement, soft vintage lenses, warm afternoon sunlight, realistic skin texture, no cinematic polish, feels like forgotten archival footage discovered decades later.\n\n0–3 seconds:\nA close handheld tracking shot follows a young woman in her 20s walking slowly through a narrow seaside alley lined with whitewashed houses, hanging linen curtains gently moving in the ocean breeze. She wears a simple linen dress, a woven shoulder bag, and naturally messy hair with no makeup. Instead of posing, she lightly brushes her fingertips across the textured walls while quietly observing everyday life around her.\n\n3–7 seconds:\nThe camera naturally falls slightly behind her as she enters a tiny open courtyard where local people casually gather. An elderly man repairs a bicycle, someone waters colorful plants from a balcony above, laundry sways overhead, and a sleepy orange cat crosses directly in front of the lens. The camera subtly adjusts to avoid the cat, creating an authentic human reaction.\n\n7–11 seconds:\nA young child runs toward a rolling wooden toy that passes close to her feet. She instinctively bends down, catches it with one hand, smiles warmly, and hands it back without stopping her walk. The child laughs and runs away. No one performs for the camera; everything feels naturally observed.\n\n11–15 seconds:\nShe reaches a small overlook facing the sparkling sea. Instead of stopping dramatically, she casually rests one elbow on an old stone railing while watching distant fishing boats. A gust of wind lifts loose strands of hair across her face. She gently moves them aside and continues walking out of frame as the handheld camera hesitates for a second before slowly following behind.\n\nImage Quality:\nUltra-photorealistic vintage documentary, authentic analog exposure, realistic human motion, organic focus breathing, imperfect framing, Kodak 16mm archival texture, subtle light leaks, soft highlight bloom, natural skin pores, no AI smoothness, 4:3 aspect ratio.",
+      "media": {
+        "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/1970s-mediterranean-woman-documentary-685471/video-17bdf822c7c08f99.webm",
+        "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/1970s-mediterranean-woman-documentary-685471/poster-fbf5658f7edc5e8b.jpg",
+        "format": "video/webm",
+        "videoBytes": 1352176,
+        "videoSha256": "17bdf822c7c08f99e2a11026767c43549ec0da5dfd7e2ab0f198d6515ece7374",
+        "thumbnailBytes": 49777,
+        "thumbnailSha256": "fbf5658f7edc5e8b453883bf601cc665817aad550c014c0227776dbc53203e1f"
+      },
+      "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+    },
+    {
+      "slug": "ancient-dance-character-biography-209987",
+      "title": {
+        "en": "Ancient Dance Character Biography",
+        "zh": "古风舞者人物传记"
+      },
+      "description": {
+        "en": "30-second performance prompt paired with a source-verified creator example and its output video.",
+        "zh": "30 秒古风舞者人物传记提示词，保留来源、完整 Prompt 与对应输出视频。"
+      },
+      "category": "performance",
+      "workflowMode": "reference-generation",
+      "mode": "multimodal",
+      "duration": "30s",
+      "aspectRatio": "9:16",
+      "ingredients": [
+        "Text prompt",
+        "Image reference",
+        "Video or motion reference",
+        "Audio or sound direction"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@MrLarus",
+        "url": "https://x.com/MrLarus/status/2083558691895209987"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/MrLarus/status/2083560269964271693"
+      ],
+      "modelEvidenceUrls": [
+        "https://x.com/MrLarus/status/2083558691895209987"
+      ],
+      "prompt": "【任务】\n生成完整 30 秒中国古风人物小传短片。\n严格按照时间轴、多模态素材映射、人物隔离和参考音频执行，不自由修改镜头与剧情。\n\n【参考绑定】\n- Depth 视频：只控制约 0–5s、10–18s、25–30s 三段核心舞蹈\n- 多视角头像 + 全身图：只锁定主舞女\n- 九宫格：按编号调用妆造、乐器与剪影镜头，禁止串格\n- 场景图：全片保持同一个古风雅室\n- 参考 BGM：作为唯一音乐，从 0s 播放至 30s\n\n【人物隔离】\n主舞女、古筝女和琵琶女必须是三位不同角色。\nGrid 1–3：只出现主舞女\nGrid 4–5：只出现古筝女\nGrid 6–7：只出现琵琶女\nGrid 8–9：以主舞女剪影为主\n配角造型更素、光线更收，不抢主角。\n\n【参考时间轴】\n0–5s：主舞女舞蹈起势\n5–6.5s：描眉\n6.5–8s：抿唇\n8–10s：插发簪\n10–18s：主舞女舞蹈中段\n18–19.5s：古筝女全景\n19.5–20.5s：古筝手部特写\n20.5–21.5s：琵琶女全景\n21.5–22s：琵琶手部特写\n22–23.5s：纱帘剪影全景\n23.5–25s：纱帘剪影特写\n25–30s：主舞女舞蹈收势\n\n【画面要求】\n真实古风雅室，以烛火和宫灯作为主要光源。\n皮肤保留自然纹理，不要磨皮、塑料感和均匀棚拍光。\n飘带、发簪、纱帘与琴弦保持真实材质和运动惯性。\n所有动作重拍与镜头切换尽量跟随参考 BGM。\n\n【总要求】\n总时长 30 秒。\n人物、动作、场景、镜头和音乐沿着同一条时间轴推进。\n结尾回到主舞女，不使用配角或空镜收尾。\n禁止串脸、镜头错序、音乐错位、自由改剧情、字幕、Logo 和水印。",
+      "media": {
+        "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/ancient-dance-character-biography-209987/video-d5324de181277991.webm",
+        "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/ancient-dance-character-biography-209987/poster-708d0c55440def06.jpg",
+        "format": "video/webm",
+        "videoBytes": 2610520,
+        "videoSha256": "d5324de1812779917af2585c8f8aac3cdbd32eccc7a129b5b2c03bd870ae1f48",
+        "thumbnailBytes": 52977,
+        "thumbnailSha256": "708d0c55440def06b46bb452dca47342b014438bbdc87cb4197e7f7bb5ff1ad6"
+      },
+      "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+    },
+    {
+      "slug": "devastated-city-continuous-escape-880148",
+      "title": {
+        "en": "Devastated City Continuous Escape",
+        "zh": "废墟城市连续逃亡"
+      },
+      "description": {
+        "en": "30-second cinematic action prompt paired with a source-verified creator example and its output video.",
+        "zh": "30 秒废墟城市连续逃亡提示词，保留来源、完整 Prompt 与对应输出视频。"
+      },
+      "category": "cinematic-action",
+      "workflowMode": "text-generation",
+      "mode": "text-to-video",
+      "duration": "30s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Text prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@Runaway_Rhino",
+        "url": "https://x.com/Runaway_Rhino/status/2083557520421880148"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/Runaway_Rhino/status/2083557853764206903"
+      ],
+      "modelEvidenceUrls": [
+        "https://x.com/Runaway_Rhino/status/2083557520421880148"
+      ],
+      "prompt": "Photorealistic 30-second continuous one-shot: no cuts, hidden edits, dissolves or teleportation — every apparent shot change is one unbroken physical camera move around the same man.\nA bruised, exhausted man in his early 30s - dirty dark wool coat, torn shirt, muddy trousers - sprints through a devastated European city at cold dawn: wet asphalt, smoke, drifting ash, distant fires, ruined architecture. Keep his face, clothes, injuries and body identical throughout. Dead-serious acting: ragged breathing, fear, slipping boots, pumping arms. He ignores the surreal chaos, fixed on something ahead.\n[0s] The camera holds at puddle level beside his boots hammering through black rainwater, spray striking the lens. As he blasts past, it starts a half-beat late, pulling back and rising into a tight frontal track at chest height, his eyes just above center. Behind him civilians flee through smoke; a cathedral-sized shadow moves beneath the street.\n[4s] A seam of light splits the buildings on his left. The camera eases around his left shoulder in one slow 90° arc, falling rubble crossing the near plane, landing on his clean left profile. Buildings unzip vertically like fabric, revealing a turbulent ocean suspended behind them; a colossal whale swims between rooftops while cars and rubble fall upward into the clouds. He stays in normal gravity.\n[9s] The air ahead fills with suspended glass shards, each showing a different version of the same street: burning, flooded, frozen, abandoned. The camera drops to hip height beside him in a low side track; shards streak past the lens.\n[12s] A city bus crashes behind him and bursts into thousands of black birds instead of debris. The flock sweeps across the lens; when it clears the camera is behind him, one continuous move.\n[14s] The camera settles into a wide rear track. The street ahead bends upward like a strip of film until buildings stand vertically above the horizon; people, bicycles and wreckage slide across walls; giant concrete hands push through the asphalt on both sides. He leaps a widening fracture, landing with full physical weight. The camera lags half a beat on the jump, then closes back in.\n[20s] The sun splits open like a mechanical iris, revealing stars, eclipses and turning planets. The light draws the camera up in one weighted crane arc, rising past his shoulder to a brief top-down beat over him. Flaming debris falls; soldiers run across the sky as if it were solid ground; a train passes vertically between towers.\n[23s] The crane carries its momentum down ahead of him, slowing into a tight frontal close-up, his eyes just above center against the burning sky, embers streaking between lens and face. Keep him sharply readable, emotionally central.\n[25s] He reaches a small untouched dining table in the middle of the ruined street; a girl of about eight sits calmly beside a tiny birthday cake, one candle burning. He slides to his knees, catches himself against the table, looks into her eyes; terror becomes relief. The camera decelerates with him, easing wider and sinking to table height, nearly stopping for the first time - a faint breath of motion - landing on a two-shot, candle between them.\n[28s] Together they blow out the candle. The instant the flame dies, all destruction and cosmic events freeze, then transform seamlessly into the same street on a quiet ordinary morning: intact buildings, soft sunlight, distant birds, no other people, their exact poses preserved. The camera holds; an almost imperceptible push settles on the thin candle smoke rising between them.\nVISUAL LANGUAGE: prestige war-film realism fused with surreal cosmic imagery - photorealistic, never cartoonish or game-like. Cold blue-grey dawn dominates, dirty amber firelight secondary; the candle is the only warm accent. Volumetric smoke, wet surfaces, pore-level skin, sweat, mud, blood, visible breath, real contact shadows.\nAUDIO: no dialogue, narration, music or subtitles. Footsteps, splashing water, strained breathing, alarms, artillery, collapsing masonry, whale calls from the sky, reversed metal groans, flapping birds, grinding concrete, deep celestial resonance. When the candle dies, all catastrophic sound stops instantly: one exhale, morning birds, a faint ceramic rattle.\nCAMERA: one unbroken physical path, a weighted rig with real mass - every move triggered by the scene, easing in and out, landing on a held composition. Immersive wide-angle look becoming intimate; deep parallax, subtle lens breathing, natural focus pulls, filmic motion blur. Maintain forward direction and geography; neve",
+      "media": {
+        "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/devastated-city-continuous-escape-880148/video-de8617eb1bdd04fc.webm",
+        "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/devastated-city-continuous-escape-880148/poster-65d8e375c9137381.jpg",
+        "format": "video/webm",
+        "videoBytes": 2687057,
+        "videoSha256": "de8617eb1bdd04fc08530bbe814ce3c90d1e34400b1ff2ec54c711239e35c861",
+        "thumbnailBytes": 54597,
+        "thumbnailSha256": "65d8e375c913738129fa5431c729d2aee821b5e6da2738ca73ca0c88532fbb0d"
+      },
+      "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+    },
+    {
+      "slug": "handmade-doll-boxer-swarm-594949",
+      "title": {
+        "en": "Handmade Doll Boxer Swarm",
+        "zh": "手工玩偶拳手围攻"
+      },
+      "description": {
+        "en": "30-second animation prompt paired with a source-verified creator example and its output video.",
+        "zh": "30 秒手工玩偶拳手围攻提示词，保留来源、完整 Prompt 与对应输出视频。"
+      },
+      "category": "animation",
+      "workflowMode": "reference-generation",
+      "mode": "image-to-video",
+      "duration": "30s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Text prompt",
+        "Image reference"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@byarlooo",
+        "url": "https://x.com/byarlooo/status/2083551727970594949"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/byarlooo/status/2083553934342250837"
+      ],
+      "modelEvidenceUrls": [
+        "https://x.com/byarlooo/status/2083551727970594949"
+      ],
+      "prompt": "Then used this prompt with Seedance 2.5, 720p 30s:\nUse @Image 5 as storyboard to drive the whole animation.\nUse @Image 1 only for the boxer doll's final identity: chibi felt-and-paper doll, big pale wool afro with dark undercut, thick drawn eyebrows, round blush cheeks, tattooed arms, painted floral shirt, oversized red boxing gloves.\nUse @Image 2 only for the boxer's head and face detail: pale wool hair, big drawn eyes, painted neck and face tattoos.\nUse @Image 3 only for the crowd of funny handmade dolls: chunky painted paper-and-wool figures with round heads, dot eyes, kid and animal faces.\nUse @Image 4 only for additional funny handmade dolls: spiky-haired kids, blue-haired doll, a red cat-monster, blush-cheeked figures.\nACTION-CAMERA: Bouncy stop-motion timing with slight stutter and pops, snappy boxing moves, squash and stretch on impacts, little hops and recoils; playful handheld-style camera with quick pushes, whip-pans and low hero angles, hard cuts on the action, no slow motion.\nSTYLE: Stop-motion handmade craft animation; chunky felt, wool and painted-paper dolls with visible fibers, brush strokes and glue, shot like a tabletop diorama against a soft pale studio background with faint hand-drawn city posters, warm even light, 35mm to 50mm shallow depth of field, tiny dust motes.\nVISUALFX: Practical craft only; small felt-fluff puffs and paper-scrap bursts on hits, wobbling dolls, a few drawn motion smears; no glossy energy effects, no glow, keep everything handmade.\nSOUNDFX: Playful upbeat percussion and toy-piano; soft felt thumps, squeaky doll wobbles, paper crumples, comedic boings, tiny crowd murmurs, and cartoon impact pops on each punch.\n\nMOTION:\nP01-P02: Guard then swarm: the little felt boxer bounces on the spot with red gloves up, glaring, as a colorful crowd of funny handmade dolls shuffles and presses in around him from both sides.\nP03-P04: Dodge then counter: he ducks low under a big doll's swinging felt arm, then snaps a straight red-glove jab into another doll's face with a paper-scrap pop and a squash-and-stretch recoil.\nP05-P06: Uppercut then down: he springs up with a big wobbling uppercut that launches one doll into the air, then lands as it flops flat on its back and the others hop backward.\nP07-P08: Regroup then pose: the crowd bunches up and piles in again around the tiny boxer, who spins through them and plants himself with both red gloves raised in a triumphant pose as funny dolls scatter and wobble, holding the little hero shot before the cut.",
+      "media": {
+        "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/handmade-doll-boxer-swarm-594949/video-282199aef2aa862c.webm",
+        "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/handmade-doll-boxer-swarm-594949/poster-4ae50c2531b5ed41.jpg",
+        "format": "video/webm",
+        "videoBytes": 2305417,
+        "videoSha256": "282199aef2aa862c993f4252adaf3a0838245ac0e6f6e8ea184d42e5cb662012",
+        "thumbnailBytes": 69178,
+        "thumbnailSha256": "4ae50c2531b5ed417bdb2497da34ea9067b1cac2550816ab28830752b1a08846"
+      },
+      "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+    },
+    {
+      "slug": "planetarium-gravity-distortion-288542",
+      "title": {
+        "en": "Planetarium Gravity Distortion",
+        "zh": "天文馆重力扭曲"
+      },
+      "description": {
+        "en": "15-second cinematic story prompt paired with a source-verified creator example and its output video.",
+        "zh": "15 秒天文馆重力扭曲提示词，保留来源、完整 Prompt 与对应输出视频。"
+      },
+      "category": "cinematic-story",
+      "workflowMode": "text-generation",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Text prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@sebatheepan",
+        "url": "https://x.com/sebatheepan/status/2083546568125288542"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/sebatheepan/status/2083546568125288542"
+      ],
+      "modelEvidenceUrls": [
+        "https://x.com/sebatheepan/status/2083546568125288542"
+      ],
+      "prompt": "An elderly night janitor cleans an abandoned Art Deco planetarium during a thunderstorm. The projected moon becomes physically real and drags the entire auditorium into its gravity. [0–1.5s] Shot 1: Macro shot of mop water trembling in its bucket although the floor is still. [1.5–3s] Shot 2: Wide tracking shot follows the janitor beneath the dark planetarium dome. [3–4.5s] Shot 3: Close-up as the dormant star projector switches on by itself. [4.5–6s] Shot 4: Overhead shot: a perfect moon appears on the dome, shedding fine silver dust. [6–7.5s] Shot 5: The janitor’s flashlight beam bends upward toward the moon. [7.5–9s] Shot 6: Close-up of auditorium seats vibrating as loose screws rise from their mountings. [9–10.5s] Shot 7: Low-angle shot as the projected moon swells into a solid cratered sphere descending from the ceiling. [10.5–12s] Shot 8: The janitor falls upward, catching a brass handrail before leaving the floor. [12–13.5s] Shot 9: Popcorn, tickets and cleaning cloths spiral around the moon in orbital rings. [13.5–15s] Shot 10: Camera rolls ninety degrees as gravity rotates through the auditorium. [15–16.5s] Shot 11: Mop water climbs from the bucket as a transparent floating ribbon. [16.5–18s] Shot 12: Wide shot as seats tear loose and orbit without colliding with the janitor. [18–19.5s] Shot 13: The dome surface fractures into a convincing infinite star field. [19.5–21s] Shot 14: A miniature eclipse shadow begins crossing the moon and freezing everything it touches. [21–22.5s] Shot 15: The janitor swings between floating seats toward the emergency dome lever. [22.5–24s] Shot 16: Close-up: his fingertips catch the lever as the handrail tears loose. [24–25.5s] Shot 17: He pulls it; mechanical shutters race across the dome and extinguish the artificial sun. [25.5–27s] Shot 18: The moon implodes silently into streams of silver dust and collapsing orbital debris. [27–28.5s] Shot 19: Gravity returns; seats slam into place while the janitor lands safely in his rolling bucket. [28.5–30s] Shot 20: Quiet final close-up: he discovers a marble-sized moon in his pocket while the water in his bucket produces a tiny tide. Global style: Photoreal celestial surrealism, physically accurate dust and fluid behavior, deep blacks, silver-blue moonlight, Art Deco brass, realistic collision physics, coherent janitor identity. Effects must originate from the projector, affect real objects, then collapse into the miniature moon. No text, extra people or unexplained teleportation.",
+      "media": {
+        "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/planetarium-gravity-distortion-288542/video-d597d1e126b2e270.webm",
+        "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/planetarium-gravity-distortion-288542/poster-db4d467136601cb2.jpg",
+        "format": "video/webm",
+        "videoBytes": 977684,
+        "videoSha256": "d597d1e126b2e27077f36c261f99637d42071d44af2e057836ae577d6ca9d0fa",
+        "thumbnailBytes": 50728,
+        "thumbnailSha256": "db4d467136601cb284c17c7dd94ca8be46ecf5d57111e2fda0b39a1047f584e8"
+      },
+      "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+    },
+    {
+      "slug": "cybernetic-freefall-armor-624470",
+      "title": {
+        "en": "Cybernetic Freefall Armor",
+        "zh": "赛博装甲自由落体"
+      },
+      "description": {
+        "en": "30-second cinematic action prompt paired with a source-verified creator example and its output video.",
+        "zh": "30 秒赛博装甲自由落体提示词，保留来源、完整 Prompt 与对应输出视频。"
+      },
+      "category": "cinematic-action",
+      "workflowMode": "reference-generation",
+      "mode": "image-to-video",
+      "duration": "30s",
+      "aspectRatio": "7:3",
+      "ingredients": [
+        "Text prompt",
+        "Image reference"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@opener_ai",
+        "url": "https://x.com/opener_ai/status/2083542433078624470"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/opener_ai/status/2083542436148854864"
+      ],
+      "modelEvidenceUrls": [
+        "https://x.com/opener_ai/status/2083542433078624470"
+      ],
+      "prompt": "IDENTITY: @Image1 supplies identity only — face, long black hair, low-brim cap, glossy black bodysuit, segmented cybernetic right arm, circuit tattoos, heeled boots. Frame is one continuous open-sky environment edge to edge. Cuts every 2-3s, no shot over 3s, one camera movement per shot. 0-2s | Worm-eye far below, whip tilt up as she pushes off the spire ledge. [Cut] 2-4s | Macro on her heel leaving the lip, static. [Cut] 4-6s | Top-down on her back, falling with her, hair rips straight up. [Cut] 6-8s | Boot macro, black plates streak in and latch over her shins, static. [Cut] 8-10s | Side track, thigh and hip plates snap shut. [Cut] 10-12s | Cybernetic arm macro, forearm plating extends over it, static. [Cut] 12-15s | Wide, chest harness clamps on, two stabilizer fins fold from her back, push-in. [Cut] 15-17s | Face close-up, a thin dark visor slides from the cap brim over her eyes, locked. [Cut] 17-20s | Extreme wide, geared figure punches the cloud layer, twin vapor spirals. [Cut] 20-23s | Head-down delta dive, fins biting air, hard push-in on her back. [Cut] 23-26s | Ground-level low angle, she swells in frame fast. [Cut] 26-28s | She lands in a deep crouch, cybernetic arm braced on stone, cracks radiate 4m in a spider-web pattern. [Cut] 28-30s | 0.4x slow motion, concentric shockwave ripple distorts the air outward, dust erupts to waist height, she rises into a recovery stance. GEAR: plates arrive as fast streaks from off-frame, each locking with a latch snap and a thin amber seam that fades in 0.4s and lights her skin. Assembly runs 6-17s, one region per shot. PHYSICS: terminal velocity, hair and fabric dragged upward, motion blur on background only, subject sharp, faster after 17s. AUDIO: wind roar climbing, latch snap on each lock, sub-bass on every cut, half beat of silence at 25.5s, air-pressure boom at 26s, rumble tail. STYLE: painterly anime illustration matching @Image1, cel-and-gradient shading, cool desaturated sky.",
+      "media": {
+        "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/cybernetic-freefall-armor-624470/video-597d62b1a0c6e7b7.webm",
+        "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/cybernetic-freefall-armor-624470/poster-143674445f046081.jpg",
+        "format": "video/webm",
+        "videoBytes": 1527620,
+        "videoSha256": "597d62b1a0c6e7b7c028f4cb094265df5a821721e65a0ff6cad8463336800b02",
+        "thumbnailBytes": 29746,
+        "thumbnailSha256": "143674445f046081228edf06e195d921cd2cec8ddb099ffdd4bcc34585de7a5d"
+      },
+      "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+    },
+    {
+      "slug": "trainee-days-camcorder-montage-251247",
+      "title": {
+        "en": "Trainee Days Camcorder Montage",
+        "zh": "练习生岁月录像机蒙太奇"
+      },
+      "description": {
+        "en": "15-second vlog prompt paired with a source-verified creator example and its output video.",
+        "zh": "15 秒练习生岁月录像机蒙太奇提示词，保留来源、完整 Prompt 与对应输出视频。"
+      },
+      "category": "vlog",
+      "workflowMode": "text-generation",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Text prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@doctorwasif",
+        "url": "https://x.com/doctorwasif/status/2083539372478251247"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/doctorwasif/status/2083539372478251247"
+      ],
+      "modelEvidenceUrls": [
+        "https://x.com/doctorwasif/status/2083539372478251247"
+      ],
+      "prompt": "**CAMERA:**\nDV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself throughout each location, occasionally propped briefly for hands-free moments. Hand shake, misaligned framing, delayed focus pulls, clumsy zooms, occasional face cut-off framing, imperfect shots. Camcorder never appears on screen.\n\n**LOOK:**\nSoft, slightly blurry tape quality, faint tape noise, bloomed highlights, flickering auto-exposure, muted contrast, realistic skin tones — lighting shifts per location (dim early-morning dorm → fluorescent vocal room → mirror-lit practice room → stark evaluation room lighting).\n\n**STYLE:**\nNostalgic, determined montage feel — younger, rawer energy than her current polished vlogs, evoking a flashback to trainee days. Quick cuts stitched across locations, reflective voiceover narration plays over the visuals instead of synced dialogue. Mood shifts from tired to focused to nervous, ending on quiet resolve.\n\n**Character**\n\nCHASE — Korean trainee (ref image), late teens/early 20s (younger, flashback version of herself). Long straight black hair, often in a simple ponytail or braid, minimal to no makeup, tired but determined eyes. Wearing simple practice clothes — a plain long-sleeve top and joggers or sweats, fully covering arms and torso, no jewelry.\n\n**Setting Progression**\n\nTrainee dorm room (early morning) → vocal lesson room (morning) → dance practice room (afternoon) → evaluation room (evening).\n\n**Storyboard (15s, 5 cuts)**\n\n1. *(~3s, dorm, propped camera, dim early light)* She wakes up before sunrise, rubbing her eyes, quietly getting ready in the dark so as not to wake roommates. VOICEOVER (CHASE): \"Back then, mornings started before the sun even came up.\"\n\n2. *(~3s, vocal room, handheld, fluorescent light)* She stands at a mic, sheet in hand, focused and a little nervous, mouthing through warmups. VOICEOVER (CHASE): \"Every note mattered — you never knew who was listening.\"\n\n3. *(~3s, practice room, handheld, mirror wall)* She's mid-motion rehearsing choreography, sweat forming, repeating a step over and over. VOICEOVER (CHASE): \"I must have run that same eight-count a hundred times.\"\n\n4. *(~3s, practice room, macro insert)* Close-up on her feet repeating the same step, breathing audible, tape blur softening the motion. No narration — ambient practice room sound only.\n\n5. *(~3s, evaluation room, wide-to-close, tense finish)* She stands nervously in front of unseen evaluators, hands clasped, taking a steadying breath before the camera holds on her face. VOICEOVER (CHASE): \"That was the version of me that started all of this.\"",
+      "media": {
+        "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/trainee-days-camcorder-montage-251247/video-de374f7beeb0bd28.webm",
+        "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/trainee-days-camcorder-montage-251247/poster-7011a4dd253a97e3.jpg",
+        "format": "video/webm",
+        "videoBytes": 761538,
+        "videoSha256": "de374f7beeb0bd28217d27b9012cb8ce09643727031dc35811606836b9d79026",
+        "thumbnailBytes": 56473,
+        "thumbnailSha256": "7011a4dd253a97e336ebe22ebb53c1ce09f80a19e97808537b48534f00081949"
+      },
+      "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+    },
+    {
+      "slug": "painterly-tsunami-destruction-sequence-047131",
+      "title": {
+        "en": "Painterly Tsunami Destruction Sequence",
+        "zh": "绘画风海啸毁灭场景"
+      },
+      "description": {
+        "en": "29-second cinematic action prompt paired with a source-verified creator example and its output video.",
+        "zh": "29 秒绘画风海啸毁灭场景提示词，保留来源、完整 Prompt 与对应输出视频。"
+      },
+      "category": "cinematic-action",
+      "workflowMode": "reference-generation",
+      "mode": "image-to-video",
+      "duration": "29s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Text prompt",
+        "Image reference"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@Framer_X",
+        "url": "https://x.com/Framer_X/status/2083538430987047131"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/Framer_X/status/2083538553481703648"
+      ],
+      "modelEvidenceUrls": [
+        "https://x.com/Framer_X/status/2083538430987047131"
+      ],
+      "prompt": "\"[00:00-00:02] [Close up shot] A police officer stares ahead in shock.\n\n[00:02-00:04][Over-the-shoulder wide shot] A massive tsunami rises beyond the pier in front of him. The camera slowly moves closer to the wave.\n\n[00:04-00:06] [Wide tracking shot, rear angle] The officer turns around and runs down the pier toward the city.\n\n[00:06-00:08] [Aerial wide shot, high angle] The man runs quickly toward the city as the enormous tsunami follows him and crashes into the city.\n\n[00:08-00:30] 8 Different shots of the tsunami destroying the city, with people running, screaming, and trying to survive.\n\n[SOUND] Strictly only naturally occurring sound and foley, no music allowed.\n\nSemi-realistic painterly animation style with soft brushwork, textured shading, muted colors and a cinematic hand-painted look.\"",
+      "media": {
+        "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/painterly-tsunami-destruction-sequence-047131/video-dfa08d4d31cde8dc.webm",
+        "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/painterly-tsunami-destruction-sequence-047131/poster-b9ac9fa4d85fa38b.jpg",
+        "format": "video/webm",
+        "videoBytes": 2829002,
+        "videoSha256": "dfa08d4d31cde8dcf6a604b62441604a7bab0719e882f9b4e6e23b3f480d3a37",
+        "thumbnailBytes": 68320,
+        "thumbnailSha256": "b9ac9fa4d85fa38bcfbc52d28660664b4547dc8b5b1539ac4aee1fc1e276573a"
+      },
+      "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+    },
+    {
+      "slug": "obsidian-giant-transformation-531249",
+      "title": {
+        "en": "Obsidian Giant Transformation",
+        "zh": "黑曜石巨人变形"
+      },
+      "description": {
+        "en": "30-second fantasy prompt paired with a source-verified creator example and its output video.",
+        "zh": "30 秒黑曜石巨人变形提示词，保留来源、完整 Prompt 与对应输出视频。"
+      },
+      "category": "fantasy",
+      "workflowMode": "text-generation",
+      "mode": "text-to-video",
+      "duration": "30s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Text prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@jaynwabueze",
+        "url": "https://x.com/jaynwabueze/status/2083524542488531249"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/jaynwabueze/status/2083524547739787466"
+      ],
+      "modelEvidenceUrls": [
+        "https://x.com/jaynwabueze/status/2083524542488531249"
+      ],
+      "prompt": "Multi-shot 30-second cinematic sequence, hard cuts as marked.\nPhotorealistic 8K, ARRI Alexa large-format character, prime lenses, 35mm\ngrain, professional grade, 180° shutter motion blur, IMAX-scale VFX.\nTHE WOMAN: late 20s, long dark hair, deep red silk evening dress,\nbarefoot. Calm, unafraid.\nTHE CREATURE (original design): SHE IS THE CREATURE. Not a separate\nbeing. Her own body grows and armors. Obsidian-black interlocking plates\nsheathing her limbs and torso, molten orange fissures glowing between\nevery plate, elongated arms, a crown of jagged back-swept horns, amber\neyes. Human posture and proportions kept, scaled to 90 metres.\nTRANSFORMATION PHASES, in strict order:\nP1 hairline fractures of orange light open across her skin.\nP2 the fissures widen, embers pour upward off her shoulders.\nP3 obsidian plates surface through her skin and lock into place, dress\nburning away into ash.\nP4 she grows upward and outward from her own standing body, feet planted,\nweight driving into the ground, horns pushing through last.\nLOCATION: dense modern city, wide granite plaza, glass towers all sides,\ndusk, empty streets, abandoned cars, streetlights flickering on.\nCOLOR 60:30:10 — 60% cool blue-grey dusk glass and stone / 30% deep\nshadow / 10% molten orange fissures and embers.\n0–4s | SHOT 1 | 24mm wide, low ground-level, slow dolly in. She stands\nalone centre-plaza, wind moving her hair and dress. City silent.\nCUT.\n4–7s | SHOT 2 | 100mm macro insert. Her hand and collarbone. First\nhairline cracks of orange light spread across the skin (P1). No movement\notherwise.\nCUT.\n7–10s | SHOT 3 | 40mm, low behind her, slight dutch. Fissures widen,\nembers stream upward off her shoulders (P2), granite fracturing in a ring\naround her bare feet.\nCUT.\n10–17s | SHOT 4 | THE GROWTH. NO CUT IN THIS SHOT. 35mm, locked on her\nface at eye level, camera craning upward at exactly her rate of growth so\nher face stays centre-frame the entire time. Obsidian plates surface and\nlock across her face and shoulders (P3), amber ignites in her eyes, horns\npush back through her hair (P4). Her feet never leave the ground. The\ncamera never loses her face.\nCUT.\n17–21s | SHOT 5 | 21mm worm's-eye, camera on the street between abandoned\ncars. Her colossal foot plants, buckling the road, cars flipping in the\nshockwave. Scale reveal.\nCUT.\n21–25s | SHOT 6 | 50mm aerial, slow helicopter orbit. Full colossus\nagainst the skyline, embers and dust swirling, molten light pulsing in her\nplating.\nCUT.\n25–28s | SHOT 7 | 85mm, camera mounted on a glass tower facing her. Her\narm swings through the facade, curtain wall shearing away in slabs,\ncamera whip-panning down with the falling glass.\nCUT.\n28–30s | SHOT 8 | 24mm aerial, rising crane pull-back. She stands amid the\nbroken skyline, dust rolling outward, molten fissures pulsing.\nPHYSICS: her mass increases continuously, granite fracturing radially from\nher feet; steel groans and buckles before it fails; glass falls as sheets\nthat shatter on impact; concrete shears in slabs, not crumbs; dust rolls\nin heavy waves; embers ride heat currents upward.\nAUDIO: wind and low city hum, a deep bone-crack as the fissures open, a\nsustained rising roar through the growth, groaning steel, sheeting glass,\nthunderous impacts, settling dust.\nHARD LOCKS: the creature is the transformed woman, one continuous being.\nNothing emerges from the ground. No second creature. She never levitates,\nfloats, or leaves the ground at any moment. Feet planted throughout the\ntransformation. She never vanishes from frame between shots. No people\nvisible anywhere.\nFORBIDDEN: no levitation, no separate monster, no ground emergence, no\ngore or flesh tearing, no franchise creatures, no design drift, no\nsubtitles, no background music, no readable text or logos.",
+      "media": {
+        "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/obsidian-giant-transformation-531249/video-4efc1ad07cdde5e2.webm",
+        "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/obsidian-giant-transformation-531249/poster-3be6d948a87d799f.jpg",
+        "format": "video/webm",
+        "videoBytes": 1989337,
+        "videoSha256": "4efc1ad07cdde5e26815daed01ad8dc632b632789713df46352e2d1cce502687",
+        "thumbnailBytes": 50565,
+        "thumbnailSha256": "3be6d948a87d799f96e221d1fec98b16f8d43c95390308639fe49e5f59a9e2b0"
+      },
+      "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+    },
+    {
+      "slug": "children-and-dragons-picnic-chaos-175096",
+      "title": {
+        "en": "Children and Dragons Picnic Chaos",
+        "zh": "孩子与巨龙的野餐混战"
+      },
+      "description": {
+        "en": "15-second animation prompt paired with a source-verified creator example and its output video.",
+        "zh": "15 秒孩子与巨龙的野餐混战提示词，保留来源、完整 Prompt 与对应输出视频。"
+      },
+      "category": "animation",
+      "workflowMode": "text-generation",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Text prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@AiMeowing",
+        "url": "https://x.com/AiMeowing/status/2083516822054175096"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/AiMeowing/status/2083516834754494697"
+      ],
+      "modelEvidenceUrls": [
+        "https://x.com/AiMeowing/status/2083516822054175096"
+      ],
+      "prompt": "Lock the original artwork completely. Preserve the exact illustration style, brushwork, textures, materials, color palette, lighting, creature proportions, facial expressions, environment, and character designs. Never change the art style or introduce new designs. Keep every dragon and child identical throughout. No text or watermark. One continuous forward-moving story. Begin with motion from frame one. Use cinematic hard cuts, speed ramps, whip pans, dynamic tracking, FPV fly-throughs, overhead drone shots, bullet time where appropriate, volumetric clouds, realistic fire physics, motion blur, depth of field, subtle film grain, debris, feathers, sparks, smoke, expressive facial animation, and seamless transitions.\n\n0-2s\n\nCold open. The children happily eat while the giant dragon lazily sniffs the food. The baby dragons taste tiny bites, instantly make disgusted faces, stare at each other, then suddenly leap onto the table together. Fast push-in, comedic bass hit.\n\n2-4s\n\nThe babies explode into chaos. Plates, bread and vegetables fly everywhere. One dragon flips a table with its tail, another steals a roast, another scatters books while the giant dragon watches with an embarrassed smile. Rapid whip pans and handheld camera.\n\n4-6s\n\nThe giant dragon opens both wings. The babies launch from its back and burst through the castle ceiling into the sky. FPV camera follows them weaving between towers before soaring into bright clouds. Epic orchestral rise.\n\n6-9s\n\nHigh-speed aerial sequence. The baby dragons dive through clouds, barrel roll, narrowly miss cliffs, then suddenly spot a peaceful sheep meadow below. Bullet-time pause on their excited faces before they dive.\n\n9-12s\n\nThey swoop low across the meadow. Tiny controlled bursts of fire instantly roast food over campfire-style racks beside the flock without harming people. The dragons eagerly grab the freshly cooked feast, stuffing themselves with exaggerated joyful expressions. Smoke, sparks, golden firelight and fast tracking shots.\n\n12-15s\n\nNow completely full, the dragons happily fly back through sunset clouds carrying roasted food. They glide into the castle and land beside the giant dragon. The children laugh instead of getting angry. The babies proudly share their food with everyone. The giant dragon smiles warmly as the camera cranes upward, ending on a cozy wide cinematic family shot.",
+      "media": {
+        "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/children-and-dragons-picnic-chaos-175096/video-9ba2f4f7b5730c0b.webm",
+        "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/children-and-dragons-picnic-chaos-175096/poster-3c2a5097f6d53590.jpg",
+        "format": "video/webm",
+        "videoBytes": 1519104,
+        "videoSha256": "9ba2f4f7b5730c0bf6452a07b0e51df2da1af27cc0a0064f4be5fa45874f3dbf",
+        "thumbnailBytes": 147486,
+        "thumbnailSha256": "3c2a5097f6d535906e5e9b65e7ca285328379bba3ca33709c1de23b973558be5"
+      },
+      "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+    },
+    {
+      "slug": "turkish-eggs-mini-dv-recipe-vlog-107610",
+      "title": {
+        "en": "Turkish Eggs Mini-DV Recipe Vlog",
+        "zh": "土耳其鸡蛋 Mini-DV 食谱 Vlog"
+      },
+      "description": {
+        "en": "30-second vlog prompt paired with a source-verified creator example and its output video.",
+        "zh": "30 秒土耳其鸡蛋 Mini-DV 食谱 Vlog提示词，保留来源、完整 Prompt 与对应输出视频。"
+      },
+      "category": "vlog",
+      "workflowMode": "text-generation",
+      "mode": "text-to-video",
+      "duration": "30s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Text prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@buraktuyan",
+        "url": "https://x.com/buraktuyan/status/2083502111401107610"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/buraktuyan/status/2083502114714640454"
+      ],
+      "modelEvidenceUrls": [
+        "https://x.com/buraktuyan/status/2083502111401107610"
+      ],
+      "prompt": "Create a 30-second home-video recipe vlog showing a young woman from London in her mid-20s making Turkish eggs in her small, sunlit kitchen. She wears relaxed home clothes, has her hair loosely tied back, and films everything herself with a consumer mini-DV camcorder. Some shots are handheld; others are recorded after she props the camera on the counter. Keep the footage candid and imperfect: gentle camera shake, occasional focus hunting, slightly awkward framing, natural zoom adjustments, subtle grain, mild motion blur, and automatic exposure changes caused by the bright morning light.\n\nFollow this exact sequence:\n\n0–3s: In a propped medium shot, she places a bowl on the counter, looks toward the camera, and says quietly, “Let’s make Turkish eggs.”\n\n3–6s: Overhead close-up as she combines thick yoghurt, finely grated garlic, and a pinch of salt, stirring until smooth. Clearly hear the spoon moving around the bowl.\n\n6–9s: Handheld detail shot as she spoons the garlic yoghurt onto a shallow plate and spreads it into soft, imperfect swirls.\n\n9–12s: Close-up beside a saucepan of gently simmering water. She cracks an egg into a small bowl and says, “Keep the water gentle.”\n\n12–15s: Overhead shot as she carefully slides the egg into the water. The white naturally curls around the yolk; the water never boils aggressively.\n\n15–18s: Macro-style detail of butter melting in a small pan. She adds pul biber, creating a vivid orange-red mixture that blooms and audibly sizzles. No dialogue.\n\n18–21s: Handheld close-up as she removes two softly poached eggs, lets them drain briefly, and places them over the garlic yoghurt.\n\n21–24s: Extreme close-up as she pours the sizzling pul-biber butter across the eggs, creating rich red-orange streaks over the white yoghurt.\n\n24–27s: Warm, propped shot. She adds fresh dill, tears off a piece of crusty bread, and breaks open one egg, revealing the flowing golden yolk. She says, “Look at that.”\n\n27–30s: Handheld finishing shot. She scoops up yoghurt, egg, and chilli butter with the bread, takes a bite, smiles genuinely, and says, “Best breakfast.” She then reaches forward and covers the lens.\n\nPrioritise intimate food sounds: yoghurt stirring, garlic scraping, simmering water, egg cracking, butter sizzling, ceramic clinks, and bread tearing. Dialogue should sound quiet and casually captured through the camcorder microphone. Preserve realistic imperfections such as irregular poached-egg whites, small splashes, messy spoon marks, brief pauses, natural blinking, and exposure shifts. It must look like a genuine personal breakfast vlog.",
+      "media": {
+        "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/turkish-eggs-mini-dv-recipe-vlog-107610/video-2503ba98404071af.webm",
+        "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/turkish-eggs-mini-dv-recipe-vlog-107610/poster-987c0e2c3109c70d.jpg",
+        "format": "video/webm",
+        "videoBytes": 3567672,
+        "videoSha256": "2503ba98404071afa3589fb1267ea759b8cb4e059f487635fdeb7858eaed45ad",
+        "thumbnailBytes": 67697,
+        "thumbnailSha256": "987c0e2c3109c70dd8be2fd9ea5d94a420cb2dc0c5641c40d7d24b40d4782505"
+      },
+      "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+    },
+    {
+      "slug": "world-war-i-air-combat-film-449091",
+      "title": {
+        "en": "World War I Air Combat Film",
+        "zh": "第一次世界大战空战电影"
+      },
+      "description": {
+        "en": "29-second cinematic story prompt paired with a source-verified creator example and its output video.",
+        "zh": "29 秒第一次世界大战空战电影提示词，保留来源、完整 Prompt 与对应输出视频。"
+      },
+      "category": "cinematic-story",
+      "workflowMode": "text-generation",
+      "mode": "text-to-video",
+      "duration": "29s",
+      "aspectRatio": "827:360",
+      "ingredients": [
+        "Text prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@df_reno",
+        "url": "https://x.com/df_reno/status/2083482898129449091"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/df_reno/status/2083482949471895902"
+      ],
+      "modelEvidenceUrls": [
+        "https://x.com/df_reno/status/2083482898129449091"
+      ],
+      "prompt": "【30 秒一战空战 严格分层镜头版提示词（逐镜头标注摄影参数 + 前景 / 中景 / 背景三层光影，防过拟合）\n30 秒高镜头密度一战空中格斗完整故事线，激烈战场硝烟氛围，一战高空漫天混战场景，超大画幅宽银幕，粗颗粒复古胶片质感，黄褐色复古战场影调，21:9 宽银幕，画面全程动态流畅无卡顿，每一个镜头严格区分前景 / 中景 / 背景三层景深，前后景焦距完全不同，杜绝平面前后景同焦画面，彻底避免 AI 过拟合同质化效果。德国双翼战机\n￼\n德国战机2\n，英国双翼战机\n￼\n英国战机\n，德军飞行员\n￼\n德飞行员\n，英国飞行员\n￼\n英飞行员\n。\n0-2s：大远景高空俯视 焦距：14mm 光圈：f/5.6。前景：浓密高空硝烟缓慢流动擦过镜头下缘；中景：两架主角双翼战机（德方战机\n￼\n德国战机2\n在后，英方战机在前\n￼\n英国战机\n）一起在云缝里高速俯冲，后机死死咬住前机尾后；背景：数十架一战士战机群在远方天空各处缠斗，拉出密密麻麻白色航迹，厚重铅灰色积云铺满整个天空。自然光硬侧光，光线从侧上方斜切下来，硝烟边缘被阳光打透成半透明金色。\n2-4s：驾驶舱中景跟拍 焦距：75mm 光圈：f/2.0。前景：螺旋桨转动拉出动态模糊气流从镜头前扫过；中景：德方飞行员\n￼\n德飞行员\n坐在驾驶舱里猛推操纵杆，头盔风镜反射出前方英方战机轮廓；背景：战机帆布蒙皮机身结构、高空远处模糊的云团轮廓层次虚化。侧逆光打亮飞行员肩线，驾驶舱内部保留暗部细节，浅景深背景完全虚化。\n4-7s：机身侧面跟拍中近景 焦距：50mm 光圈：f/2.8。前景：高速气流卷动机翼蒙布线头抖动擦过画面边缘；中景：两架飞机机翼几乎贴在一起，德方战机机枪口连续喷吐出枪口焰，亮白色曳光弹线条连续擦过英方战机机翼蒙皮表面；背景：远处空中其他战机开火的微弱枪口焰光点零散分布在硝烟里。侧顶硬光，机枪开火瞬间枪口焰在机身蒙皮上投下跳动的光斑。\n7-10s：机翼破口大特写 焦距：180mm 光圈：f/1.4。前景：飞溅的金属蒙皮碎屑在镜头前景慢动作划过；中景：英方战机机翼表面被机枪子弹击中，帆布蒙皮撕开破口漏出内部钢丝骨架，缕缕白烟从破口处冒出来；背景：远处蓝天和云层被浅景深完全虚化成柔和色块。侧光精准打亮破口边缘撕裂的帆布纤维纹理，暗部保留阴影层次，极致浅景深。\n10-13s：飞行员近景特写 焦距：85mm 光圈：f/1.8。前景：高速气流吹动飞行服领口在画面左下角微微晃动；中景：英方飞行员猛拉杆回头看向后方，脸上紧绷全神贯注，快速扳动操纵杆做极限规避动作；背景：驾驶舱风窗外飞速流过的云层完全虚化。侧光半打亮飞行员半张脸，另一半落在硬朗阴影里，浅景深背景完全模糊，突出人物紧绷情绪。\n13-17s：极限规避低角度环绕镜头 焦距：24mm 光圈：f/4。前景：地面炸起的橙色硝烟烟尘从画面底部向上翻涌；中景：英方战机侧身几乎 90 度侧翻，大角度转向从德方战机射击窗口里快速滑脱，机翼下方掠过地面一战战壕铁丝网轮廓；背景：远方地平线处数十个地面炸开的硝烟烟柱缓缓升起。侧逆光把战机机身勾出完整金色轮廓，低角度让机身在天空里极具冲击力，中景深只把机身主体拍实，远景硝烟层次自然虚化。\n17-21s：高空拉升大远景 焦距：20mm 光圈：f/8。前景：半透明硝烟云团从镜头前缓缓飘过；中景：两架主角飞机一追（德方战机）一绕（英方战机）在高空云团里拉出交叉的白烟轨迹；背景：整片天空布满上百条战斗机拉出的白色航迹线，无数小黑点大小的战机在远景各处互相厮杀，庞大混乱的一战空战战场全貌完整铺开。顶光漫射下硝烟层次丰富，大景深完整收纳前景中景背景三层全部清晰的战场空间，画面纵深感拉满。\n21-24s：迎头对冲低角度仰拍 焦距：35mm 光圈：f/2.8。前景：两架飞机高速旋转的螺旋桨扇叶边缘虚化形成动态扇面；中景：双机同时迎头对冲相向飞行，机身快速向镜头逼近，距离飞速缩短；背景：后方整片高空混战的机群轮廓全部虚化散焦。正仰拍逆光，机身被阳光完全勾勒出黑色剪影，只透出机翼轮廓的半透明帆布纹理，前景螺旋桨动态模糊增加速度感。\n24-27s：隔舱对视大特写 焦距：100mm 光圈：f/1.4。前景：驾驶舱风窗外晃动的气流波纹虚化在镜头前；中景：两名飞行员隔着呼啸气流在驾驶舱里互相对视一瞬，时间微微放慢；背景：两侧飞速向后流走的天空和云团完全虚化成运动模糊拖影。侧软光只打亮两名飞行员半张脸，背景极致虚化，浅景深把所有注意力锁在人物眼神对视的瞬间。\n27-29s：贴脸擦身极高速跟拍 焦距：40mm 光圈：f/3.5。前景：机翼尖擦过的气流扰动在画面边缘形成动态扭曲波纹；中景：两架战机几乎贴脸擦肩而过，机翼尖差几厘米就会相撞，气流吹动机翼表面蒙布剧烈抖动；背景：两侧向后飞速退去的混战战机全部拉出动态运动拖影。追焦跟拍全程只有两架主角战机机身完全锐利，前后运动物体全部带自然运动模糊，速度感拉满。\n29-30s：两机反向散开收束大远景 焦距：21mm 光圈：f/5.6。前景：最后一缕高空硝烟缓缓从画面中间飘过；中景：两架反向飞远的双翼机背对着彼此向天空两个方向散开，身后留下两道漫长的白烟航迹，黄昏阳光把机身轮廓镀上一层金边；背景：远方天空仍在持续厮杀的整个战场，漫天航迹和硝烟构成庞大的一战空战史诗全景。黄昏暖橙色侧逆光斜照整个画面，烟的边缘是金的，云层底部是暖橙色，远处战场硝烟带着冷蓝灰调，冷暖对比宽银幕史诗感拉满。\n全局约束：全程动作节奏紧凑激烈，一战战机细节完全写实，没有任何现代喷气式飞机，无多余字幕无多余文字，胶片颗粒均匀自然，所有镜头的光圈焦距参数对应生成正确景深分层，严格杜绝前后景同焦平面的扁平化画面，完全避免过拟合 AI 同质化效果。镜头要自然，不要生硬。】全片不要有音乐，不要有文字。",
+      "media": {
+        "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/world-war-i-air-combat-film-449091/video-90a8c64845259b38.webm",
+        "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/world-war-i-air-combat-film-449091/poster-7a1096c79a6d13e4.jpg",
+        "format": "video/webm",
+        "videoBytes": 2395838,
+        "videoSha256": "90a8c64845259b38038907dffc485ba1911f7b4e61ddad06f1953e6c20ff75e7",
+        "thumbnailBytes": 28963,
+        "thumbnailSha256": "7a1096c79a6d13e4b0a629ab335177d44f079925939c2921318cb51c9bf6425d"
+      },
+      "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+    },
+    {
+      "slug": "vietnam-city-scooter-long-take-216517",
+      "title": {
+        "en": "Vietnam City Scooter Long Take",
+        "zh": "越南城市踏板车长镜头"
+      },
+      "description": {
+        "en": "30-second cinematic story prompt paired with a source-verified creator example and its output video.",
+        "zh": "30 秒越南城市踏板车长镜头提示词，保留来源、完整 Prompt 与对应输出视频。"
+      },
+      "category": "cinematic-story",
+      "workflowMode": "text-generation",
+      "mode": "text-to-video",
+      "duration": "30s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Text prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@noman23761",
+        "url": "https://x.com/noman23761/status/2083479371621216517"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/noman23761/status/2083479402973651024"
+      ],
+      "modelEvidenceUrls": [
+        "https://x.com/noman23761/status/2083479371621216517"
+      ],
+      "prompt": "\"30-second cinematic photorealistic video, continuous long tracking shot with only one hard cut at the end. Natural overcast daylight, realistic physics, smooth handheld camera movement, high detail, 4K.\n\n0-12s: Medium shot of a young East Asian man in his mid-20s with short black hair, plain gray t-shirt, walking slowly and contemplatively toward the camera on a busy Vietnamese city sidewalk. Scooters parked and moving, street shops, trees, pedestrians and vendors in the background. He has a slightly sad, thoughtful expression. Camera tracks backward smoothly, keeping him centered.\n\n12-18s: He reaches a black scooter parked on the side of the road, opens the under-seat compartment, takes out a black helmet, carefully puts it on and tightens the chin strap. Then mounts the scooter.\n\n18-24s: Side tracking shot transitioning to rear view as he starts the scooter and rides into the intersection among other scooters and cars. Natural traffic motion and realistic bike physics.\n\nHard cut at 24s.\n\n24-30s: Aftermath of the accident. Extreme close-up of the same man lying injured on the asphalt, eyes closed, blood stains near his head, black helmet lying nearby. Then slow overhead drone shot revealing the overturned scooter, more blood on the road, and a circle of bystanders gathering around looking down in shock.30-second cinematic photorealistic video, continuous long tracking shot with only one hard cut at the end. Natural overcast daylight, realistic physics, smooth handheld camera movement, high detail, 4K.\n\n0-12s: Medium shot of a young East Asian man in his mid-20s with short black hair, plain gray t-shirt, walking slowly and contemplatively toward the camera on a busy Vietnamese city sidewalk. Scooters parked and moving, street shops, trees, pedestrians and vendors in the background. He has a slightly sad, thoughtful expression. Camera tracks backward smoothly, keeping him centered.\n\n12-18s: He reaches a black scooter parked on the side of the road, opens the under-seat compartment, takes out a black helmet, carefully puts it on and tightens the chin strap. Then mounts the scooter.\n\n18-24s: Side tracking shot transitioning to rear view as he starts the scooter and rides into the intersection among other scooters and cars. Natural traffic motion and realistic bike physics.\n\nHard cut at 24s.\n\n24-30s: Aftermath of the accident. Extreme close-up of the same man lying injured on the asphalt, eyes closed, blood stains near his head, black helmet lying nearby. Then slow overhead drone shot revealing the overturned scooter, more blood on the road, and a circle of bystanders gathering around looking down in shock.\"\n\nSeedance 2.5 really cooked on this one. Share your thoughts in the comment section below!",
+      "media": {
+        "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/vietnam-city-scooter-long-take-216517/video-6b644fc5f97d874e.webm",
+        "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/vietnam-city-scooter-long-take-216517/poster-0fbd08dc7588028d.jpg",
+        "format": "video/webm",
+        "videoBytes": 2957962,
+        "videoSha256": "6b644fc5f97d874e843d46dfe3c383784c46cb77a177294c85ab3cb40ccb10f9",
+        "thumbnailBytes": 65350,
+        "thumbnailSha256": "0fbd08dc7588028d2424a95f0589dd5d0e2d0664a92a0a7c2442ff06849e2f78"
+      },
+      "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+    },
+    {
+      "slug": "continuous-body-control-dance-test-900903",
+      "title": {
+        "en": "Continuous Body-Control Dance Test",
+        "zh": "连续身体控制舞蹈测试"
+      },
+      "description": {
+        "en": "30-second dance prompt paired with a source-verified creator example and its output video.",
+        "zh": "30 秒连续身体控制舞蹈测试提示词，保留来源、完整 Prompt 与对应输出视频。"
+      },
+      "category": "dance",
+      "workflowMode": "text-generation",
+      "mode": "text-to-video",
+      "duration": "30s",
+      "aspectRatio": "9:16",
+      "ingredients": [
+        "Text prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@noman23761",
+        "url": "https://x.com/noman23761/status/2083478189028900903"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/noman23761/status/2083478214685388928"
+      ],
+      "modelEvidenceUrls": [
+        "https://x.com/noman23761/status/2083478189028900903"
+      ],
+      "prompt": "Every movement is precisely synchronized to the beat. The dancer alternates between quick hip pulses, controlled hip drops, figure-eight hip rolls, and rapid side-to-side shakes. Motion remains smooth, physically accurate, and continuous with realistic muscle dynamics and balanced body mechanics. Professional dance performance, energetic, expressive, high-quality motion capture style.\n\nI'm planning to run more experiments with different choreography styles and prompts. Curious to see how it compares with other video models using the same prompt.",
+      "media": {
+        "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/continuous-body-control-dance-test-900903/video-ce32b9dcf44a7daf.webm",
+        "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/continuous-body-control-dance-test-900903/poster-337e62e08b39fe2a.jpg",
+        "format": "video/webm",
+        "videoBytes": 2159496,
+        "videoSha256": "ce32b9dcf44a7dafcfc181188ecfdc04441b7eadb003a223fa50adba71a0e903",
+        "thumbnailBytes": 43584,
+        "thumbnailSha256": "337e62e08b39fe2af7ac98ddf421c41d10063328298cd094f4864a12a0f19cd5"
+      },
+      "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+    },
+    {
+      "slug": "dark-fantasy-anime-flythrough-opening-591666",
+      "title": {
+        "en": "Dark-Fantasy Anime Flythrough Opening",
+        "zh": "暗黑奇幻动画穿越片头"
+      },
+      "description": {
+        "en": "24-second animation prompt paired with a source-verified creator example and its output video.",
+        "zh": "24 秒暗黑奇幻动画穿越片头提示词，保留来源、完整 Prompt 与对应输出视频。"
+      },
+      "category": "animation",
+      "workflowMode": "text-generation",
+      "mode": "text-to-video",
+      "duration": "24s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Text prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@yachimat_manga",
+        "url": "https://x.com/yachimat_manga/status/2083477858337591666"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/yachimat_manga/status/2083477860447355247"
+      ],
+      "modelEvidenceUrls": [
+        "https://x.com/yachimat_manga/status/2083477858337591666"
+      ],
+      "prompt": "type: anime_opening_continuous_camera_flythrough style: visual: dark fantasy anime, cel-shaded 2D, high contrast, full-color Japanese anime motion_quality: 24fps, 作画枚数多め, メリハリのあるスピードランプ tone: stylish, dramatic, kinetic, elegant, ominous direction: > 日本のフルカラーアニメのオープニング。 高速なカット割りの代わりに、一筆書きのような連続カメラワークで、 複数のキャラクターを次々と捉えていく。 カメラは右へ左へ、上下へ、奥へ手前へと飛び回るローラーコースターPOVで、 一切止まらず、各キャラクターの最も映える瞬間を連続的につないでいく。 各キャラクターのポーズ・表情・背景・空間演出は、 そのキャラクターの性格、武器、属性、感情の核、物語上の役割から 最も魅力的に見える形をAIが自律的に判断して構成すること。 camera: motion: fast forward dolly with lateral drifts, rollercoaster POV, fluid aerial movement core_rule: > no hard cuts, no static frames, no fades. 全編を通して一続きのワンカットとして成立させること。 speed_ramps: > キャラクターのリビール直前に減速し、決めの瞬間で一瞬だけ視認性を確保し、 通過と同時に再加速する。 lens_feel: dynamic anime cinematography, dramatic perspective shifts, strong parallax final_exception: > ラストのクライマックスキャラクター、または集合決めカットの直前のみ、 重みを出すために初めてカメラの運動を極端に緩める、 もしくは短く静止してもよい。 environment_logic: base_space: 無限に広がる異空間ヴォイド variation_rule: > 各キャラクターのリビール区間ごとに、そのキャラクターの属性、感情、 象徴、戦闘スタイル、役割に最も合う環境要素をAIが選んで構成すること。 同じ空間を繰り返さず、毎回異なる空間的印象をつくること。 ただし全体としてはひとつの連続した異空間を飛行している感覚を保つこと。 palette_options: - deep crimson (#5A0000–#8B0000) + cyan mint accents + black shadows - midnight blue void + white petals + silver light - blood red mist + black feathers + gold rim light - violet smoke + shattered glass + cold cyan - 上記をベースに、各キャラクターに合わせて自由に再解釈してよい floating_elements_pool: - petals - feathers - blades - ribbons - chains - shattered glass - ash - sparks - torn paper - ink splashes - crystals - smoke - water droplets - leaves lighting: > dramatic rim light, deep shadows。 光源設計はキャラクターの性格や役割に応じて変えること。 支配的なキャラには逆光や王者のような縁光、 儚いキャラには拡散光、 狂気のあるキャラには不安定な明滅光など、 感情の印象を光で補強すること。 input_characters: description: > 以下にキャラクターのリストを与える。 人数は固定しない。2人でも10人以上でも対応可能。 各キャラクターについて、名前・性格・武器・属性・役割・感情の核・象徴モチーフなどを参照し、 そのキャラらしさが最大化する一瞬を構成すること。 format_example: - name: Character Name role: protagonist / rival / villain / mentor / key figure / support personality: \"\" weapon_or_power: \"\" attribute_or_theme: \"\" emotional_core: \"\" symbolism: \"\" priority: high / medium / low reveal_planning: global_rule: > 入力された全キャラクターを、物語の高まりが自然に増していく順に並べ替えてよい。 基本的には、軽め・不穏・謎めいた導入から始まり、 中盤で躍動感と情報量を増し、 終盤で主人公・対立軸・ラスボス・最重要人物へ向けて熱量を上げること。 per_character_rule: > 各キャラクターごとに以下を自動で設計すること： 1. pose: 静止ではなく「動きの最中の一瞬」 2. expression: 感情の核が伝わる表情 3. framing: 最も映えるカメラ距離・角度 4. background_variant: そのキャラに対応した空間演出 5. foreground_wipe: 次のキャラへつなぐ前景通過物 6. motion_relation: カメラに対して向かってくる / すれ違う / 見下ろす / 落下する / 回転する 等 uniqueness_rule: > 各キャラクターで、体勢、シルエット、画面構図、視線方向、背景モチーフ、 前景の抜け、動きのベクトルを被らせないこと。 連続して似た演出を使わないこと。 duration_rule: > 各キャラクターの見せ尺は均一でなくてよい。 priority が高いキャラクターほど、わずかに長く、印象的に見せること。 低優先キャラは短く鋭く見せ、高優先キャラは減速を強めて存在感を出すこと。 character_processing_loop: instruction: > 入力されたキャラクター配列を上から順に機械的に処理するのではなく、 オープニング映像として最も気持ちよく流れる順番に再構成してよい。 それぞれについて以下を判断して映像化すること。 for_each_character: decide: - このキャラは支配的か受動的か - 攻撃 / 防御 / 逃走 / 佇み / 観察 / 詠唱 / 指揮 のどれが最も似合うか - 武器や能力をどう一瞬で象徴的に見せるか - 視線、手、指、髪、衣装、武器のどこを強調すべきか - カメラがそのキャラに向かうべきか、横切るべきか、追い抜くべきか - そのキャラに最も合う背景と前景モチーフは何か output: - pose - expression - framing - background_variant - foreground_wipe - transition_vector transitions: between_reveals: > 花弁、羽根、刃、リボン、鎖、ガラス片、煙、灰、インクなどが 必ずレンズ手前を至近距離で横切り、それをワイプ代わりにして次のキャラへつなぐこと。 rule: > 必ず「前景がレンズを横切る → 空間が変化する → 次のキャラが現れる」 という流れを守ること。 continuity: > 前景ワイプは単なる切り替えではなく、 カメラが本当に次の空間へ飛び込んでいく感覚を生むように使うこと。 climax_logic: final_focus_rule: > 最後の区間では、最重要キャラクター （主人公 / ラスボス / キーパーソン / 物語の中心人物）に到達すること。 そのキャラは他よりも重く、強く、象徴的に見せること。 ending_options: - 最重要キャラクター単体でカメラが初めて止まり、一枚絵として決まる - 主人公の先に最大の敵が現れ、緊張感のある静止に入る - 最重要キャラのあと、短く複数人の集合構図へ流れ込み、一枚絵で締める final_image_rule: > ラストはポスターのように成立する構図にすること。 それまでの流動性と対比して、最後にだけ「止まる意味」があるように演出すること。 output_goal: > 結果として、全体が一本の連続したアニメOPショットとして成立し、 各キャラクターが短時間でも明確に識別でき、 しかも一人ずつ違う魅力で刻み込まれること。 単なる紹介映像ではなく、「この作品世界の熱量と因縁」が伝わること。 negative: - hard cuts - static camera (except final climax hold) - fades - text - logos - subtitles - photorealism - 3DCG look - repetitive poses - repeated environments - flat staging",
+      "media": {
+        "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/dark-fantasy-anime-flythrough-opening-591666/video-5bb0becf20c97614.webm",
+        "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/dark-fantasy-anime-flythrough-opening-591666/poster-dc04b427b06df0e5.jpg",
+        "format": "video/webm",
+        "videoBytes": 2364649,
+        "videoSha256": "5bb0becf20c97614cbfb655f43c0cf3e4cba7f73932f79c0f2d0d1587cf56a03",
+        "thumbnailBytes": 58171,
+        "thumbnailSha256": "dc04b427b06df0e5ca51527f6e2ad5fe0cd68612fd7f445e9d81ada06083ad09"
+      },
+      "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+    },
+    {
+      "slug": "three-a-m-french-nightlife-pov-399523",
+      "title": {
+        "en": "Three A.M. French Nightlife POV",
+        "zh": "凌晨三点法国夜生活 POV"
+      },
+      "description": {
+        "en": "30-second documentary prompt paired with a source-verified creator example and its output video.",
+        "zh": "30 秒凌晨三点法国夜生活 POV提示词，保留来源、完整 Prompt 与对应输出视频。"
+      },
+      "category": "documentary",
+      "workflowMode": "text-generation",
+      "mode": "text-to-video",
+      "duration": "30s",
+      "aspectRatio": "9:16",
+      "ingredients": [
+        "Text prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@patrickassale",
+        "url": "https://x.com/patrickassale/status/2083470287954399523"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/patrickassale/status/2083510766959800371"
+      ],
+      "modelEvidenceUrls": [
+        "https://x.com/patrickassale/status/2083470287954399523"
+      ],
+      "prompt": "A 30 second ultra realistic handheld POV video set in France at around 3 am, outside a busy bar and nightlife street. The camera is the point of view of a young woman filming one handed on an iPhone. We never see the phone itself at any point. The footage must feel like raw, authentic amateur nightlife footage with natural iPhone aesthetics.\n\nIt is very late. People are leaving bars, smoking outside, waiting for Ubers, talking too loudly, eating kebabs, laughing in tired, sloppy groups. The mood in the street is a mix of drunken energy and visible exhaustion. Faces look tired, makeup is slightly worn, outfits are a bit messy after a long night. The pavement is slightly wet and reflects neon signs, headlights, and warm bar lights. The air feels cold and heavy. The whole scene must feel intensely real, socially awkward, and uncomfortable.\n\nThe camera operator is a woman, and her friend is another young woman walking a few steps ahead of her, visibly angry. The camera follows her in a shaky, one-handed handheld way. The tension is already there from the first second. The argument is about the friend disappearing with a guy inside the bar and leaving the camera operator alone for nearly an hour, which made her miss the last train and feel abandoned. This is the core of the argument.\n\nThe friend suddenly turns around while still walking and says in natural French from France:\n\n“Tu vas me suivre encore longtemps comme ça ?”\n\nThe woman behind the camera replies, irritated and hurt:\n\n“Bah ouais, parce que tu m’as laissée toute seule comme une conne pendant une heure.”\n\nThe friend rolls her eyes, tired and defensive:\n\n“Oh ça va, j’étais pas ‘avec un mec’, on parlait, c’est bon.”\n\nThe camera gets a little closer as the woman filming answers immediately:\n\n“Mais arrête, tu m’as complètement lâchée. J’te cherchais partout.”\n\nThe friend stops walking and turns fully toward the camera now, angry but exhausted:\n\n“J’allais pas te tenir la main toute la soirée non plus.”\n\nA few people nearby start glancing at them. Someone exits a bar laughing, a smoker looks over, a taxi passes in the background. The world keeps moving around them, but the argument becomes the emotional center of the scene.\n\nThe woman filming replies, more intense now:\n\n“C’est pas ça le problème, le problème c’est que t’as disparu sans rien dire. J’ai raté le dernier train à cause de toi.”\n\nThe friend laughs bitterly in disbelief:\n\n“À cause de moi ? Sérieux ? T’es incapable de te débrouiller toute seule ?”\n\nThe camera jolts slightly from the emotional reaction. The breathing of the woman filming becomes more noticeable. Her voice gets sharper:\n\n“Mais t’abuses en fait. Tu fais toujours ça. Tu penses qu’à toi.”\n\nThe friend steps closer, now visibly losing patience:\n\n“Et toi tu fais quoi là ? Tu me filmes en pleine rue comme une malade.”\n\nThe woman behind the camera replies immediately:\n\n“Parce que tu racontes n’importe quoi !”\n\nThe friend reaches toward the camera, not to grab a visible phone, but clearly trying to push it away from her face. The image jerks sideways hard from the contact.\n\n“Enlève ça de ma tête !”\n\nThe camera operator snaps back:\n\n“Me touche pas !”\n\nNow the tension breaks completely. The friend, furious and emotionally overwhelmed, shouts:\n\n“Mais ferme-la un peu !”\n\nThe woman filming fires back:\n\n“Sinon quoi ?!”\n\nThere is a half-second pause. Heavy breathing. Eye contact directly into the lens. Then the friend lunges.\n\nShe pushes into the camera operator. The footage becomes chaotic and violent, shaking hard as the woman filming loses balance. She lets out a shocked cry:\n\n“Putain !”\n\nThe camera stumbles backward and drops toward the ground. As it falls, we catch blurred fragments: legs, jackets, streetlights, pavement, people turning around, someone shouting:\n\n“Eh oh ! Ça va pas ou quoi ?!”\n\nThe friend jumps onto her as both fall out of balance. The camera lands badly on the ground, still recording for a split second, partly blocked by clothing or the ground. We hear struggling, overlapping voices, panic, and nearby people reacting. Then the video abruptly cuts.\n\nThe entire performance must feel spontaneous, messy, and completely believable. Natural interruptions, overlapping dialogue, breath, hesitation, frustration, and tiny realistic body movements are essential. The acting must feel like a real late night argument between two exhausted friends, not a scripted drama. No cinematic polish, no stylized fight choreography, no slow motion, no music, no visible phone, no artificial lighting setup, and no glamorous performance. It must feel like a real one handed iPhone recording captured in the heat of the moment.",
+      "media": {
+        "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/three-a-m-french-nightlife-pov-399523/video-3b60e3c265f54dd5.webm",
+        "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/three-a-m-french-nightlife-pov-399523/poster-6e8569c12bf99389.jpg",
+        "format": "video/webm",
+        "videoBytes": 2775437,
+        "videoSha256": "3b60e3c265f54dd50b95d79e5fc27fd005d92c00bf996e5655fa9c01a4985232",
+        "thumbnailBytes": 60918,
+        "thumbnailSha256": "6e8569c12bf99389d7567eacdd8bb0f9e440e1e46f77d30568ff1a40a7099043"
+      },
+      "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+    },
+    {
+      "slug": "watercolor-aquarium-octopus-journey-962531",
+      "title": {
+        "en": "Watercolor Aquarium Octopus Journey",
+        "zh": "水彩水族馆章鱼之旅"
+      },
+      "description": {
+        "en": "30-second animation prompt paired with a source-verified creator example and its output video.",
+        "zh": "30 秒水彩水族馆章鱼之旅提示词，保留来源、完整 Prompt 与对应输出视频。"
+      },
+      "category": "animation",
+      "workflowMode": "text-generation",
+      "mode": "text-to-video",
+      "duration": "30s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Text prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@jAlpha_create",
+        "url": "https://x.com/jAlpha_create/status/2083433664889962531"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/jAlpha_create/status/2083433836227313715"
+      ],
+      "modelEvidenceUrls": [
+        "https://x.com/jAlpha_create/status/2083433664889962531"
+      ],
+      "prompt": "【使用プロンプト】\nモード：画像動画変換／30秒・16:9・音声ON\n\n参照画像の絵柄・線の細さ・彩色・通路と水槽の配置を厳密に保つ。人物は登場させない。\n細い手描きのペン線、水彩の滲みを残した淡い彩色。深いパウダーブルーの光。カット無しの30秒ワンショット。\nタコは赤橙色で大きな目。水槽の幅の半分ほどの胴体を最後まで保つ。猫は茶トラでタコより小さい。水は水槽の中のまま、床は乾いている。\nカメラ：タコの移動に合わせて右へゆっくりトラッキング。\n\n0-4秒 タコが水槽から流れ落ち床に着地。奥から猫が歩いてくる。\n4-9秒 タコがモップに巻きついて化ける。猫が通過。目だけが猫を追う。\n9-13秒 猫が去る。タコがほどけて床を滑って進む。\n13-19秒 ぬいぐるみ棚に飛び込んで固まる。猫が首をかしげて見る。微動だにしない。\n19-23秒 棚から降りて廊下の角を曲がる。\n23-27秒 隣のタコ水槽をよじ登って中へ滑り込む。\n27-30秒 先住のタコと並んで腕をからめる。会いに来ただけ。止め絵。\n\n音：ピチカート弦の忍び足コメディ曲。化けた瞬間は無音、猫が去るとBGM再開。",
+      "media": {
+        "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/watercolor-aquarium-octopus-journey-962531/video-cb3254ef61621e2b.webm",
+        "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/watercolor-aquarium-octopus-journey-962531/poster-78d387b6fd099506.jpg",
+        "format": "video/webm",
+        "videoBytes": 2104636,
+        "videoSha256": "cb3254ef61621e2b4a34124cd615a267867f05188dcd45f6607823df508b53a3",
+        "thumbnailBytes": 94326,
+        "thumbnailSha256": "78d387b6fd099506a1bc98b70e879b83f0862e3c742e0b3fa30211c922fe9189"
+      },
+      "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+    },
+    {
+      "slug": "vertical-smartphone-lifestyle-vlog-333367",
+      "title": {
+        "en": "Vertical Smartphone Lifestyle Vlog",
+        "zh": "竖屏手机生活方式 Vlog"
+      },
+      "description": {
+        "en": "30-second vlog prompt paired with a source-verified creator example and its output video.",
+        "zh": "30 秒竖屏手机生活方式 Vlog提示词，保留来源、完整 Prompt 与对应输出视频。"
+      },
+      "category": "vlog",
+      "workflowMode": "text-generation",
+      "mode": "text-to-video",
+      "duration": "30s",
+      "aspectRatio": "9:16",
+      "ingredients": [
+        "Text prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@liaojitao",
+        "url": "https://x.com/liaojitao/status/2083432555752333367"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/liaojitao/status/2083432555752333367"
+      ],
+      "modelEvidenceUrls": [
+        "https://x.com/liaojitao/status/2083432555752333367"
+      ],
+      "prompt": "Create a 30-second, 9:16 vertical smartphone VLOG with cinematic photorealism, following a young adult Asian woman through one day in a coastal city.\n\nThe two reference images depict the same woman. Use the multi-angle facial reference to preserve her facial features, skin tone, shoulder-length black hair, pearl stud earrings, and delicate pearl necklace. Use the full-body three-view reference to preserve her body proportions, pale sage-green floral embroidered halter top, white satin ankle-length skirt, and beige strappy heels.\n\nOnly this one main character should appear throughout the video. Keep her face, hairstyle, outfit, jewelry, age, and body proportions consistent in every shot. Do not change her clothes or age. The reference images are character sheets only. The final video must never show a triptych, collage, dividing lines, studio background, or multiple copies of the same woman.\n\nThe overall video should feel like a relaxed day-in-the-life VLOG filmed on her own phone: natural and intimate, with subtle handheld breathing motion, realistic skin and fabric physics, and lighting that gradually shifts from warm morning white to golden sunset and cool nighttime blue.\n\nUse clean, decisive hard cuts. Each time segment should focus on one main action, with natural continuity between scenes.\n\n0–4 seconds:\nA bright apartment in the morning. In a medium close-up, she walks toward a floor-to-ceiling window and opens the sheer curtains. Morning sunlight falls across her face and white skirt. The camera gently rises from table height and slowly moves closer.\n\n4–8 seconds:\nA close-up mirror VLOG shot. Looking at herself in the mirror, she gently adjusts the hair around one ear and touches her pearl earring. She then looks toward the camera and gives a subtle smile. The mirror reflection must be physically correct and must not create a second person.\n\n8–12 seconds:\nAn open-plan kitchen. Coffee pours into a clear glass, followed by a quick cut to her leaning against the counter, lifting the drink, and taking a small sip. Sunlight glints across the rim of the glass and her satin skirt. Her movements feel natural and unhurried.\n\n12–16 seconds:\nShe picks up a simple ivory shoulder bag and leaves the apartment. A handheld tracking shot follows her into the elevator. The doors close, then hard cut to her walking through the ground-floor lobby and outside. Her gait, shoes, and the movement of her skirt must remain natural and stable.\n\n16–20 seconds:\nA street in a coastal city. Begin briefly from a low angle, capturing her footsteps and the movement of her skirt, then rise into a side-tracking medium shot. A gentle sea breeze moves her hair. The street is bright, with a few softly blurred pedestrians in the background, but no one blocks or duplicates the main character.\n\n20–24 seconds:\nA seaside café. From an over-the-shoulder angle, she sits beside the window and works on design sketches on her laptop, with a cup of coffee nearby. She pauses, looks out toward the sea, and then turns back toward the camera. Her hands, fingers, laptop, and tabletop objects must remain anatomically and structurally correct.\n\n24–27 seconds:\nA seaside promenade during golden hour. She holds up her phone and walks forward while filming herself. The camera makes a gentle half-circle movement around her. Sunlight shines through the ends of her hair, the breeze lifts her skirt slightly, and the sea reflects the golden light behind her. She looks relaxed and at ease.\n\n27–30 seconds:\nBack in the apartment at night. She places the phone near the window and leaves it recording in a fixed position. The city and coastline lights are softly blurred behind her. She walks into frame, sets down her shoulder bag, turns back and smiles gently at the camera, then reaches toward the lens to end the recording. Fade naturally to black.\n\nUse only synchronized environmental sounds: curtains brushing, coffee pouring, a glass lightly touching the counter, footsteps, an elevator chime, coastal street ambience, quiet café background noise, sea waves, and subtle nighttime room tone.\n\nNo dialogue. No voice-over. No background music. No subtitles. No title cards. No logos. No watermarks. No readable text.\n\nAvoid identity drift, changes in facial structure, longer hair, changes in outfit color or design, additional jewelry, duplicated people, malformed limbs or fingers, disappearing shoes, fabric clipping, incorrect mirror reflections, sudden zooms, exaggerated slow motion, cartoon-like rendering, excessive skin smoothing, or garbled text.",
+      "media": {
+        "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/vertical-smartphone-lifestyle-vlog-333367/video-013a95b8cb0dd2bc.webm",
+        "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/vertical-smartphone-lifestyle-vlog-333367/poster-09ec94cc2974d92c.jpg",
+        "format": "video/webm",
+        "videoBytes": 1776765,
+        "videoSha256": "013a95b8cb0dd2bcf0c7dc8feab6869b25ce4280d8edcb36c44bd92922a1e146",
+        "thumbnailBytes": 34066,
+        "thumbnailSha256": "09ec94cc2974d92cd8108ec6ecdc15c3daa901b698fa70bba648b87775cbd6b2"
+      },
+      "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+    },
+    {
+      "slug": "wuxia-inn-dumpling-duel-209926",
+      "title": {
+        "en": "Wuxia Inn Dumpling Duel",
+        "zh": "武侠客栈饺子对决"
+      },
+      "description": {
+        "en": "30-second cinematic action prompt paired with a source-verified creator example and its output video.",
+        "zh": "30 秒武侠客栈饺子对决提示词，保留来源、完整 Prompt 与对应输出视频。"
+      },
+      "category": "cinematic-action",
+      "workflowMode": "reference-generation",
+      "mode": "image-to-video",
+      "duration": "30s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Text prompt",
+        "Image reference"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@johnAGI168",
+        "url": "https://x.com/johnAGI168/status/2083430135152209926"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/johnAGI168/status/2083430135152209926"
+      ],
+      "modelEvidenceUrls": [
+        "https://x.com/johnAGI168/status/2083430135152209926"
+      ],
+      "prompt": "【风格】武侠电影级动作喜剧（Wuxia Action Comedy），古风客栈实景，8K，达芬奇高级调色，升格慢动作与快剪结合，真实布料与木屑物理，横屏16:9\n【时长】30秒\n【场景】古风江湖客栈大堂，木桌长凳、红灯笼、蒸笼冒热气，梁柱交错，光从窗棂斜射带浮尘\n【角色】女侠A @图1（红衣冷艳，用剑）、女侠B @图2（青衣飒爽，用双筷/软鞭），两人武艺相当\n\n[00:00-00:02] 钩子·同时出手\n蒸笼掀开——热气散去，只剩孤零零一个白胖包子。两只手\"唰\"地同时探向它，在包子上方一寸僵住。镜头拉近两人对视，杀气骤起。\n音效：蒸汽\"嘶\"声，一声兵刃出鞘。\n\n[00:02-00:06] 拔剑·桌面开打\nA拔剑挑翻整张桌子腾空，B踩着飞起的长凳跃上房梁，包子被气浪震到空中。碗筷茶壶四散飞溅。\n\n[00:06-00:11] 空中争夺（升格）\n包子在半空划弧，两人凌空交手，A剑尖挑、B筷子夹，包子在刀光间被抢来抢去，谁也没碰实，热气还在包子上冒。\n\n[00:11-00:16] 客栈大乱\n战场蔓延，两人踩桌翻梁、灯笼被削落、木屑纷飞，其他\"食客\"抱头躲桌下。包子始终在两人争夺中心悬着不落。\n\n[00:16-00:21] 决胜一击（升格特写）\nA与B同时使出绝招，剑气与鞭影在包子两侧交汇——包子被劲气托着高高弹起，两人各自摆出接杀造型，屏息等它落下。\n\n[00:21-00:26] 神反转\n镜头跟着下落的包子——一只慵懒的橘猫\"喵\"地从桌上跃起，在半空一口叼住包子，稳稳落地，当着两人的面吧唧吧唧吃完，舔爪。\n音效：所有打斗音效戛然而止，一声\"喵~\"，乌鸦飞过。\n\n[00:26-00:30] 傻眼收尾（定格）\nA和B保持着帅气的接杀姿势僵在原地，剑和筷子还举着，齐刷刷看向吃饱打嗝的猫，表情裂开。\n字幕（砸出）：「有些仗，打赢了也没用。」\n音效：一记喜剧\"咚\"，猫满足地打了个嗝。\n\n【导演备注】1.反差铁律：打斗越是天崩地裂、招式越华丽正经，最后被猫截胡的落差越好笑；2.身份锁定：A=@图1红衣用剑、B=@图2青衣用筷/鞭，脸/服装全程一致；3.节奏：2秒对峙→拔剑→空中争夺→大乱→决胜→猫反转，动作段用快剪+关键处升格；4.物理真实：包子热气、木屑、灯笼、布料惯性、猫的重量都要真实，武侠不卡通；5.包子必须全程在画面中心被争夺，是视觉焦点和笑点核心；6.不见血、不伤人，纯招式对拆。\n【负面提示词】卡通武侠，塑料CG，换脸，两人身份/武器混淆，包子中途消失，猫出现得太早，血腥伤人，多余手指，字幕提前，水印，真实品牌logo，画面糊乱，未成年人形象。",
+      "media": {
+        "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/wuxia-inn-dumpling-duel-209926/video-1a9b667046018d97.webm",
+        "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/wuxia-inn-dumpling-duel-209926/poster-680db7851fe9f9d4.jpg",
+        "format": "video/webm",
+        "videoBytes": 2699457,
+        "videoSha256": "1a9b667046018d9726fc2046d9e6bcfcccc00c673a77e91294bd0500a8dc1de4",
+        "thumbnailBytes": 29994,
+        "thumbnailSha256": "680db7851fe9f9d41e1d4cd51fd0cb54a8d5cd0fddcf59e0eee973466fcc3f16"
+      },
+      "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+    },
+    {
+      "slug": "steampunk-momotaro-thirty-second-story-896854",
+      "title": {
+        "en": "Steampunk Momotaro Thirty-Second Story",
+        "zh": "蒸汽朋克桃太郎三十秒故事"
+      },
+      "description": {
+        "en": "30-second cinematic story prompt paired with a source-verified creator example and its output video.",
+        "zh": "30 秒蒸汽朋克桃太郎三十秒故事提示词，保留来源、完整 Prompt 与对应输出视频。"
+      },
+      "category": "cinematic-story",
+      "workflowMode": "text-generation",
+      "mode": "text-to-video",
+      "duration": "30s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Text prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@ChiakiAkagi",
+        "url": "https://x.com/ChiakiAkagi/status/2083420580267896854"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/ChiakiAkagi/status/2083420580267896854"
+      ],
+      "modelEvidenceUrls": [
+        "https://x.com/ChiakiAkagi/status/2083420580267896854"
+      ],
+      "prompt": "CapCut-Seedance2.5簡単プロンプトが凄い\n\n桃太郎を作る。誕生から鬼退治完了までを30秒で。\n実写版。\n演出:\n照明を暗くしてコントラストを強く。\n彩度を低くして青のフィルターで色温度を統一。\nスチームパンクの世界感。\n冷たい人間関係。セリフは日本語。",
+      "media": {
+        "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/steampunk-momotaro-thirty-second-story-896854/video-b7488aa4cf16ef72.webm",
+        "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/steampunk-momotaro-thirty-second-story-896854/poster-f5aed8ec7256e27b.jpg",
+        "format": "video/webm",
+        "videoBytes": 2150385,
+        "videoSha256": "b7488aa4cf16ef729c5f78be7de0660618497efd204c8ee434e5629b02a87263",
+        "thumbnailBytes": 50123,
+        "thumbnailSha256": "f5aed8ec7256e27b7f37b2dca32ef53b9c22ac73980b8b4f8619817d5793b2a2"
+      },
+      "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+    },
+    {
+      "slug": "k-pop-idol-day-camcorder-montage-345309",
+      "title": {
+        "en": "K-Pop Idol Day Camcorder Montage",
+        "zh": "K-Pop 偶像一日录像机蒙太奇"
+      },
+      "description": {
+        "en": "15-second vlog prompt paired with a source-verified creator example and its output video.",
+        "zh": "15 秒K-Pop 偶像一日录像机蒙太奇提示词，保留来源、完整 Prompt 与对应输出视频。"
+      },
+      "category": "vlog",
+      "workflowMode": "text-generation",
+      "mode": "text-to-video",
+      "duration": "15s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Text prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@doctorwasif",
+        "url": "https://x.com/doctorwasif/status/2083418162331345309"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/doctorwasif/status/2083418162331345309"
+      ],
+      "modelEvidenceUrls": [
+        "https://x.com/doctorwasif/status/2083418162331345309"
+      ],
+      "prompt": "**CAMERA:**\nDV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself throughout each location, occasionally propped briefly for hands-free moments. Hand shake, misaligned framing, delayed focus pulls, clumsy zooms, occasional face cut-off framing, imperfect shots. Camcorder never appears on screen.\n\n**LOOK:**\nSoft, slightly blurry tape quality, faint tape noise, bloomed highlights, flickering auto-exposure, muted contrast, realistic skin tones — lighting shifts naturally per location (warm dorm light → cool van light → studio fluorescents → bright stage lights).\n\n**STYLE:**\nFast-paced time-lapse montage feel — quick cuts stitched together across locations, sped-up transitional movement between them. Instead of synced dialogue, her voice plays as reflective voiceover narration over the visuals, tying the day together. Energy builds progressively from sleepy morning to high-adrenaline stage finish.\n\n**Character**\n\nCHASE — Korean idol , 20s. Long straight black hair, elegant yet lovely Korean features, dewy glass skin, coral pink lips, big eyes. Outfit changes naturally per location: cozy loungewear at the dorm, casual comfortable clothes in the van, modest athletic wear in the practice room, and a stage outfit for the final segment — each fully covering arms and torso.\n\n**Setting Progression**\n\nDorm room (morning) → van interior (daytime) → practice room (afternoon) → backstage/stage (night).\n\n**Storyboard (voiceover narration over visuals)**\n\n1. *(~2s, dorm, propped camera, sleepy morning light)* She stretches, rubbing her eyes, hair messy. VOICEOVER (CHASE): \"Every day starts the same way — way too early.\"\n\n2. *(~2s, dorm, handheld, quick motion)* She moves through her morning routine in fast, sped-up cuts — brushing hair, grabbing a bag. VOICEOVER (CHASE): \"Get ready, grab everything, and go.\"\n\n3. *(~2s, van interior, handheld, window light)* She sits by the window, phone in hand, soft daylight passing over her face. VOICEOVER (CHASE): \"The van's basically my second home at this point.\"\n\n4. *(~1.5s, van, macro insert)* Close-up on her hand adjusting a playlist on her phone, light flickering through the window. No narration — ambient road sound only.\n\n5. *(~2s, practice room, handheld, energetic)* She's mid-movement rehearsing choreography, camera catching quick glimpses of the mirror wall. VOICEOVER (CHASE): \"Then it's hours of practice till my legs give out.\"\n\n6. *(~2s, practice room, propped camera, water break)* She wipes sweat, drinks water, breathless but smiling. VOICEOVER (CHASE): \"But somehow I never get tired of this part.\"\n\n7. *(~2s, backstage, handheld, quick transition)* Hair and makeup blur past in quick cuts, staff moving around her, adrenaline building. VOICEOVER (CHASE): \"And then suddenly, it's showtime.\"\n\n8. *(~2s, stage, wide-to-close, high energy finish)* Bright stage lights, her silhouette stepping out as the camera catches a final glimpse before cutting to black. VOICEOVER (CHASE): \"This is the part that makes all of it worth it.\"",
+      "media": {
+        "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/k-pop-idol-day-camcorder-montage-345309/video-b986009c7aa079a7.webm",
+        "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/k-pop-idol-day-camcorder-montage-345309/poster-427ba91e0531cba1.jpg",
+        "format": "video/webm",
+        "videoBytes": 1324578,
+        "videoSha256": "b986009c7aa079a753f38d00770315791c92148dc15015969c593485214cf25f",
+        "thumbnailBytes": 39664,
+        "thumbnailSha256": "427ba91e0531cba12f08d9d1c7080ae653d00826d9197f958f63cf5300a54763"
+      },
+      "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+    },
+    {
+      "slug": "thirty-character-family-dinner-307528",
+      "title": {
+        "en": "Thirty-Character Family Dinner",
+        "zh": "三十人家庭晚餐"
+      },
+      "description": {
+        "en": "25-second cinematic story prompt paired with a source-verified creator example and its output video.",
+        "zh": "25 秒三十人家庭晚餐提示词，保留来源、完整 Prompt 与对应输出视频。"
+      },
+      "category": "cinematic-story",
+      "workflowMode": "text-generation",
+      "mode": "text-to-video",
+      "duration": "25s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Text prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@aimikoda",
+        "url": "https://x.com/aimikoda/status/2083415174556307528"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-post",
+      "promptSourceUrls": [
+        "https://x.com/aimikoda/status/2083415174556307528"
+      ],
+      "modelEvidenceUrls": [
+        "https://x.com/aimikoda/status/2083415174556307528"
+      ],
+      "prompt": "[all char refs], a big family dinner, cinematic footage, multiple cuts, dynamic camera angels. show all characters, 20 cuts.\n\nYou can find character sheets in the quoted post.",
+      "media": {
+        "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/thirty-character-family-dinner-307528/video-84f544e175da2e69.webm",
+        "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/thirty-character-family-dinner-307528/poster-94ffe7c7e9e9f7a7.jpg",
+        "format": "video/webm",
+        "videoBytes": 2305611,
+        "videoSha256": "84f544e175da2e695a06458f22eac2557b32334c01f178461eded50f504496fe",
+        "thumbnailBytes": 97742,
+        "thumbnailSha256": "94ffe7c7e9e9f7a7a0168e854f1feeb11361f806808aa9084622ed09950cfe1d"
+      },
+      "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+    },
+    {
+      "slug": "cyber-wuxia-ensemble-trailer-800985",
+      "title": {
+        "en": "Cyber Wuxia Ensemble Trailer",
+        "zh": "赛博武侠群像预告片"
+      },
+      "description": {
+        "en": "24-second cinematic action prompt paired with a source-verified creator example and its output video.",
+        "zh": "24 秒赛博武侠群像预告片提示词，保留来源、完整 Prompt 与对应输出视频。"
+      },
+      "category": "cinematic-action",
+      "workflowMode": "reference-generation",
+      "mode": "image-to-video",
+      "duration": "24s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Text prompt",
+        "Image reference"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@TanLuAI",
+        "url": "https://x.com/TanLuAI/status/2083384465611800985"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/TanLuAI/status/2083384469835460852"
+      ],
+      "modelEvidenceUrls": [
+        "https://x.com/TanLuAI/status/2083384465611800985"
+      ],
+      "prompt": "基础设定：一段25S史诗赛博武侠风格的美剧的预告片。\n角色/场景/道具设定：\n黑衣女子，夜刃：image1，武器为短刀。\n听渊：image2，武器为长剑。\n西部猫：image3\n闪电丧尸机器人：image4\n青衣射箭女：image5\n红衣女，南宫无双：image6，image18 ，南宫无双的手下 image7。\n巨型沙虫：image8，高度有几十米，上百米。\n粉短发女：image9，image 17\n秦昭宁：image10，全身形象image11，武器image12。\n楚霸王：image13。\n北境的丧尸机器人：image14\n酒吧内部：Image 15\n沙漠场景：image 16\n视觉基调： 好莱坞史诗奇幻美剧与末世废土大片融合质感，整体参考美剧史诗大片的沉重史诗感与美国大片预告片的强视觉冲击。画面具有粗粝胶片颗粒感、。世界观呈现中式武侠、古代战争、赛博北境、沙漠废土，巨型怪物并存的混合异世界。整体质感荒凉、危险、宏大、硬核，带有强烈的末世生存感和宿命感。\n光影色调： 用高反差电影光影，强逆光、侧逆光和局部冷光结合。沙漠酒馆线以昏黄油灯、破窗夕阳、琥珀色沙尘光为主，暗部压深，人物轮廓被暖光勾出。北境雪山线以冷白、铁青、蓝灰色为主，暴雪漫反射形成冰冷压迫感。整体调色保持青橙对撞，高光偏琥珀与焦土黄，阴影偏铁青与褪色蓝灰。\n摄影机参数与运镜基调： 采用电影级全画幅数字摄影机质感，ARRI Alexa 65 / RED V-Raptor 级别画面，16:9 横版画幅，24fps 主体电影帧率，部分动作镜头使用 60fps / 120fps 升格慢动作。镜头语言以 24mm、35mm、50mm 电影定焦为主，人物压迫感使用 35mm 近景手持跟拍，史诗大场面使用 24mm 广角低角度仰拍与航拍大全景，人物情绪特写使用 50mm 浅景深镜头。景深控制明显，背景虚化自然，焦点在人物眼神、武器、箭矢、飞针、机械电弧之间快速切换。\n其他设定：动作凌厉。画面强烈的视觉冲击。画面带有强烈的冲击力和打击感。整个画面有节奏感和电影感，仅生成环境的音效，不要配背景音乐。真人写实史诗电影风格。画面禁止出现任何字幕和任何白色的字体；画面出现文字，采用透明字体。完全真人实拍质感。\n画面内容：\n0-4秒：画面建立在一间沙漠废土酒馆内部。中景环绕运镜，听渊、夜刃、西部猫被一圈敌人围住，敌人中混杂着赛博改造打手和闪电丧尸机器人带来的机械手下。听渊穿青衣，单手持长剑，剑尖微微下垂，眼神冷静但紧绷；夜刃黑衣站在阴影中，手持短刃半出鞘，脸上没有表情；西部猫站在桌面上，牛仔帽压低，爪子慢慢摸向腰间武器。。\n4-8秒：硬切北境雪地。画面骤然变冷，风雪呼啸。秦昭宁从厚厚积雪中猛然睁眼苏醒，面部特写，睫毛和发丝结着冰霜，脸上带着伤口和血迹。远处暴雪深处，隐约出现数双红色眼睛，忽明忽暗，像有什么东西在雪雾中盯着她。音效只保留风暴声和低沉丧尸嘶吼。突然，几个塞外丧尸从雪地里破雪而出，身上挂着残破甲片，动作僵硬却极快，挥舞弯刀冲向秦昭宁。镜头采用手持近距离跟拍，雪粒猛烈撞击镜头，压迫感极强。\n8-11秒：硬切回沙漠酒馆内部。，一支箭从二层廊台方向破空射下，带着尖锐风声击中闪电丧尸机器人的胸口装甲，电光爆裂，火星四溅。整个酒馆短暂陷入半秒静止。听渊、夜刃、西部猫和敌人同时抬头看向楼上。镜头快速上摇，二层青衣射箭女出现，长弓拉满，。她不说话，只是冷静地瞄准第二个目标。镜头强调箭矢、弓弦、她的眼神和楼下众人的震惊反应。\n11-16秒：硬切北境场景，紧接秦昭宁被围攻。秦昭宁从雪地中翻身而起，抓起红缨长枪，低角度镜头捕捉枪尖划破积雪的瞬间。几个塞外丧尸扑到她面前，她挥动长枪横扫，枪杆带着沉重破风声击碎丧尸兵器，枪尖刺穿冰雪与残甲。动作干净、狠、带有古代女将军的力量感。危机仍未解除，更多塞外丧尸和半机械化丧尸机器人从风雪中冲来。就在秦昭宁被逼退半步时，远处传来战马嘶鸣。风雪深处，楚霸王骑着黑马冲出，巨型武器拖出一道雪雾。他从秦昭宁身侧掠过，低角度跟拍马蹄踏碎冰层，随后巨刃横扫，多个丧尸机器人被直接劈飞，机械零件、冰屑和黑血同时炸开。秦昭宁回头看向他，脸上第一次出现震惊表情，像是无法判断这个突然出现的人究竟是救兵还是更大的怪物。\n16-20秒：硬切沙漠天空，南宫无双站在飞船甲板前端，红衣金纹在狂风中翻动，姿态极稳，像整个沙漠都在她脚下。她缓缓抬手，周围无数金属碎片、飞针、断裂兵器和机械零件悬浮起来，形成一个危险的金属环。镜头环绕她半圈，突出她冷静、华丽、强势的压迫感。远处沙海开始下陷，巨型沙虫从地下缓缓升起，没有完全露出全貌，只显现出巨大背脊、鳞片和吞噬沙丘的阴影。沙虫低下头，像在向南宫无双臣服。飞船下方，她的巨人手下站在沙漠中，仰望她和沙虫，脸上是近乎膜拜表情。画面安静但极度危险。\n20-25秒：硬切高速沙漠车内视角。粉色短发女子驾驶一辆越野车的车内画面，粉色短发女子单手握方向盘，另一只手猛地拉动档杆，车身贴着沙丘猛烈抖动，几乎要翻车。听渊表情紧张，夜刃依旧冷静，但手已经按住车门边缘。粉色短发女子回头看她们一眼，带着不合时宜的轻松和疯劲，用中文大声说：“坐稳了，侠女，这车没有刹车！” 越野车猛然加速，非常猛的惯性，后座的听渊和夜刃往后座猛的后躺。切换车外航拍视角，越野车快速行驶在沙漠中。",
+      "media": {
+        "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/cyber-wuxia-ensemble-trailer-800985/video-18a0ba74bd9ca7b2.webm",
+        "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/cyber-wuxia-ensemble-trailer-800985/poster-8c2ccf1ab2764568.jpg",
+        "format": "video/webm",
+        "videoBytes": 2286397,
+        "videoSha256": "18a0ba74bd9ca7b2cee231c238d6a9204b94f05b5a3f5e9249d269fc6284fa25",
+        "thumbnailBytes": 62495,
+        "thumbnailSha256": "8c2ccf1ab2764568dae85439413db8ff55b476445a270f6036b81e267e0f940d"
+      },
+      "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+    },
+    {
+      "slug": "illustrated-creature-flood-escape-172377",
+      "title": {
+        "en": "Illustrated Creature Flood Escape",
+        "zh": "绘本生物洪水逃亡"
+      },
+      "description": {
+        "en": "30-second animation prompt paired with a source-verified creator example and its output video.",
+        "zh": "30 秒绘本生物洪水逃亡提示词，保留来源、完整 Prompt 与对应输出视频。"
+      },
+      "category": "animation",
+      "workflowMode": "text-generation",
+      "mode": "text-to-video",
+      "duration": "30s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Text prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@AiMeowing",
+        "url": "https://x.com/AiMeowing/status/2083332412558172377"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/AiMeowing/status/2083332417650385211"
+      ],
+      "modelEvidenceUrls": [
+        "https://x.com/AiMeowing/status/2083332412558172377"
+      ],
+      "prompt": "Lock the original illustration completely. Preserve the exact art style, brushwork, textures, material rendering, color palette, creature proportions, facial expressions, lighting, composition, and every character design exactly as shown. Never change the visual style. Every creature must remain identical in every shot. No text, watermark, logo, or signature. One continuous story. Motion always progresses forward. No creature moves backward. Use cinematic pacing with hard cuts, speed ramps, bullet time, dynamic tracking, volumetric water, realistic physics, motion blur, subtle film grain, dramatic lighting, lens droplets, cinematic depth of field, bold camera language, emotional facial animation, and seamless transitions.\n\n0-3s\n\nWithout warning, the peaceful group suddenly notices every bird exploding into the sky. Tiny ripples appear beneath their feet. A deep rumble grows louder. Extreme close-up of frightened eyes. Fast push-in toward the rabbit. Hard cut to a gigantic wall of water rising behind them. Lightning-fast whip pan reveals the impossible tsunami racing toward the camera. Deep bass hit.\n\n3-6s\n\nThe wave crashes over everyone. Water engulfs the frame. Camera tumbles underwater with bubbles, debris, flowers, leaves and sunlight cutting through the current. Every creature is separated naturally by the force. Slow-motion for one second before time accelerates again.\n\n6-10s\n\nRapid cross-cut survival sequence. The rabbit paddles frantically with long ears floating behind. The lion powers through the waves with strong strokes. The rhino kicks heavily while struggling to stay above water. The giant blue triceratops swims like a massive whale. Frogs leap from floating debris. Tiny creatures cling to drifting branches. Cats desperately paddle while trying not to sink. Dynamic handheld water-level camera alternating with overhead drone shots.\n\n10-15s\n\nThe current becomes more violent. Floating logs collide. The turtle spins helplessly in a whirlpool before escaping. The sheep nearly slips beneath the surface until the lion nudges it upward. The black cat loses its grip and disappears beneath a wave. Silence for half a second except muffled underwater sound.\n\n15-20s\n\nThe gray kitten dives underwater searching. Cinematic underwater tracking follows the kitten weaving between drifting plants and bubbles. A frightened turtle struggles below. The kitten reaches it, grabs its shell with tiny paws and guides it upward toward sunlight breaking through the surface.\n\n20-25s\n\nBoth burst above the water. The exhausted kitten climbs onto the turtle's shell. The turtle begins swimming steadily through the endless flood while the kitten balances carefully, soaked but relieved. Around them every animal continues fighting the current in its own unique way. Long aerial tracking shot follows their path.\n\n25-28s\n\nThe current slowly weakens. One by one the surviving animals regroup behind the turtle. The rabbit swims beside it. Frogs hop onto floating wood. The lion keeps everyone together. The enormous blue triceratops shields the smaller creatures from remaining waves. Warm sunlight finally pierces the storm clouds.\n\n28-30s\n\nA majestic vertical drone shot rises high into the sky. The flood forms beautiful winding rivers across the landscape. At the center, the tiny kitten sits safely on the turtle's shell leading the group forward while every surviving creature follows behind. The music swells into an emotional orchestral finale. Hold the final frame like an animated movie poster as golden light reflects across the water.",
+      "media": {
+        "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/illustrated-creature-flood-escape-172377/video-1e799988479e3f91.webm",
+        "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/illustrated-creature-flood-escape-172377/poster-ed6b60e54ff6e89e.jpg",
+        "format": "video/webm",
+        "videoBytes": 4534196,
+        "videoSha256": "1e799988479e3f91bd96704f3455efcea723c2ce5663f5907a9d942593de3782",
+        "thumbnailBytes": 159033,
+        "thumbnailSha256": "ed6b60e54ff6e89e6b2e12a44ffdc1b477c22c88ce9f23ad39a2f8a7ca138359"
+      },
+      "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+    },
     {
       "slug": "celestia-floating-magic-city",
       "title": {
@@ -1561,6 +2863,49 @@
         "videoSha256": "ef3f54665f28eb42cdb6a19d0666a451358ea31b427ee6c74a99a01a214a6e48",
         "thumbnailBytes": 60444,
         "thumbnailSha256": "69c3c1efe44ed97c349e4b3af106bccae706aabd15fda28e98c22b7faecbdb19"
+      },
+      "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+    },
+    {
+      "slug": "rainy-night-market-family-animation-775828",
+      "title": {
+        "en": "Rainy Night-Market Family Animation",
+        "zh": "雨夜市集家庭动画"
+      },
+      "description": {
+        "en": "30-second animation prompt paired with a source-verified creator example and its output video.",
+        "zh": "30 秒雨夜市集家庭动画提示词，保留来源、完整 Prompt 与对应输出视频。"
+      },
+      "category": "animation",
+      "workflowMode": "text-generation",
+      "mode": "text-to-video",
+      "duration": "30s",
+      "aspectRatio": "16:9",
+      "ingredients": [
+        "Text prompt"
+      ],
+      "source": {
+        "kind": "x",
+        "name": "@jaynwabueze",
+        "url": "https://x.com/jaynwabueze/status/2083137457000775828"
+      },
+      "outputStatus": "source-verified",
+      "promptVisibility": "same-author-thread",
+      "promptSourceUrls": [
+        "https://x.com/jaynwabueze/status/2083137462583362042"
+      ],
+      "modelEvidenceUrls": [
+        "https://x.com/jaynwabueze/status/2083137457000775828"
+      ],
+      "prompt": "High-quality 3D animated cartoon, stylized modern family-animation film\n\nlook, oversized heads, big expressive eyes, exaggerated proportions,\n\nsmooth rounded clay-like 3D surfaces, subsurface scattering skin, vibrant\n\nsaturated colors, cinematic animated lighting. NOT realistic, NOT live\n\naction.\n\nSingle continuous 30-second shot, no cuts, one flowing camera move.\n\nSUBJECT: a young woman with an oversized round head, huge expressive\n\neyes, dark hair in a messy bun, a long mustard-yellow raincoat, boots, a\n\nsmall satchel. Same design, hair, and outfit throughout, no drift.\n\nLOCATION: a cozy stylized night market in the rain, narrow covered lane,\n\nstrings of warm hanging bulbs, steaming food stalls with rounded cartoon\n\nawnings, friendly cartoon vendors and shoppers moving around her, glossy\n\nwet cobblestones reflecting the lights, puddles everywhere.\n\nCOLOR 60:30:10 — 60% deep blue rainy night and wet stone / 30% warm\n\ngolden bulb and stall light / 10% accent of her mustard-yellow raincoat.\n\n0–8s: the camera tracks backward ahead of her as she walks through the\n\nmarket with a small bounce in her step, dodging puddles, steam curling\n\nfrom stalls, vendors waving as she passes.\n\n8–16s: the camera arcs smoothly around to her side, revealing the full\n\ndepth of the market behind her, then rises to follow just over her\n\nshoulder as she stops to smile at a stall of glowing paper lanterns.\n\n16–24s: she turns down a quieter narrow alley, the camera following, the\n\ncrowd noise falling away, single bulbs swinging gently overhead, her\n\nreflection rippling through a puddle as she steps over it.\n\n24–30s: the camera cranes up and pulls back into a wide as she reaches a\n\nwarmly lit doorway at the alley's end, pauses, shakes the rain off her\n\ncoat, and steps inside. Hold on the glowing doorway.\n\nPHYSICS: raindrops bounce and splash with cartoon weight, her coat swings\n\nand ripples as she walks, puddles ripple outward from each step, steam\n\nrises and curls, hanging bulbs sway gently.\n\nAUDIO: rain pattering on awnings, cheerful market chatter, sizzling food,\n\nher boots splashing, the noise thinning to soft rain in the alley, a warm\n\ndoor chime at the end.\n\nFORBIDDEN: no cuts, no design drift in face, hair, or coat, no realistic\n\nor live-action rendering, no auto-generated subtitles, no background\n\nmusic, no readable text or logos, no named studio references, no warping\n\ngeometry.",
+      "media": {
+        "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/rainy-night-market-family-animation-775828/video-1136580a143df3c3.webm",
+        "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/rainy-night-market-family-animation-775828/poster-75cb6c2dcb15f508.jpg",
+        "format": "video/webm",
+        "videoBytes": 2088372,
+        "videoSha256": "1136580a143df3c3d77ca6e2a461c022238be89f429c85ce718521cf0b9d11d0",
+        "thumbnailBytes": 68687,
+        "thumbnailSha256": "75cb6c2dcb15f5087603c3981e125a2fbf251ca2610e4b375fb7b580386d93aa"
       },
       "rightsStatus": "source-attributed; redistribution-rights-not-verified"
     },

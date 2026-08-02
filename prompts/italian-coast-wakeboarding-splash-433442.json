@@ -1,0 +1,43 @@
+{
+  "slug": "italian-coast-wakeboarding-splash-433442",
+  "title": {
+    "en": "Italian Coast Wakeboarding Splash",
+    "zh": "意大利海岸尾波滑水"
+  },
+  "description": {
+    "en": "32-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "32 秒意大利海岸尾波滑水提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "32s",
+  "aspectRatio": "7:3",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@hedo_ist",
+    "url": "https://x.com/hedo_ist/status/2083593369964433442"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/hedo_ist/status/2083593373512839197"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/hedo_ist/status/2083593369964433442"
+  ],
+  "prompt": "People are out on the terrace during the summer when, suddenly, someone appears wakeboarding and splashing the crowd;\n\nthe athlete laughs heartily while performing stunts and jumping over yachts speeding by.\n\nA fun, fast-paced action scene.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/italian-coast-wakeboarding-splash-433442/video-dcbf8625a8d83951.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/italian-coast-wakeboarding-splash-433442/poster-1559afd05ea7f394.jpg",
+    "format": "video/webm",
+    "videoBytes": 4143336,
+    "videoSha256": "dcbf8625a8d839517bd0858c9515bc7153a4b5cb6e3adf09680e7e259990f8c6",
+    "thumbnailBytes": 114015,
+    "thumbnailSha256": "1559afd05ea7f394e0f007c8a9e11c43a9e2a6d4edcaa27fb783a73ba30d4807"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

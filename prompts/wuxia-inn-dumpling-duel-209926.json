@@ -1,0 +1,44 @@
+{
+  "slug": "wuxia-inn-dumpling-duel-209926",
+  "title": {
+    "en": "Wuxia Inn Dumpling Duel",
+    "zh": "武侠客栈饺子对决"
+  },
+  "description": {
+    "en": "30-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒武侠客栈饺子对决提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "reference-generation",
+  "mode": "image-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@johnAGI168",
+    "url": "https://x.com/johnAGI168/status/2083430135152209926"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/johnAGI168/status/2083430135152209926"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/johnAGI168/status/2083430135152209926"
+  ],
+  "prompt": "【风格】武侠电影级动作喜剧（Wuxia Action Comedy），古风客栈实景，8K，达芬奇高级调色，升格慢动作与快剪结合，真实布料与木屑物理，横屏16:9\n【时长】30秒\n【场景】古风江湖客栈大堂，木桌长凳、红灯笼、蒸笼冒热气，梁柱交错，光从窗棂斜射带浮尘\n【角色】女侠A @图1（红衣冷艳，用剑）、女侠B @图2（青衣飒爽，用双筷/软鞭），两人武艺相当\n\n[00:00-00:02] 钩子·同时出手\n蒸笼掀开——热气散去，只剩孤零零一个白胖包子。两只手\"唰\"地同时探向它，在包子上方一寸僵住。镜头拉近两人对视，杀气骤起。\n音效：蒸汽\"嘶\"声，一声兵刃出鞘。\n\n[00:02-00:06] 拔剑·桌面开打\nA拔剑挑翻整张桌子腾空，B踩着飞起的长凳跃上房梁，包子被气浪震到空中。碗筷茶壶四散飞溅。\n\n[00:06-00:11] 空中争夺（升格）\n包子在半空划弧，两人凌空交手，A剑尖挑、B筷子夹，包子在刀光间被抢来抢去，谁也没碰实，热气还在包子上冒。\n\n[00:11-00:16] 客栈大乱\n战场蔓延，两人踩桌翻梁、灯笼被削落、木屑纷飞，其他\"食客\"抱头躲桌下。包子始终在两人争夺中心悬着不落。\n\n[00:16-00:21] 决胜一击（升格特写）\nA与B同时使出绝招，剑气与鞭影在包子两侧交汇——包子被劲气托着高高弹起，两人各自摆出接杀造型，屏息等它落下。\n\n[00:21-00:26] 神反转\n镜头跟着下落的包子——一只慵懒的橘猫\"喵\"地从桌上跃起，在半空一口叼住包子，稳稳落地，当着两人的面吧唧吧唧吃完，舔爪。\n音效：所有打斗音效戛然而止，一声\"喵~\"，乌鸦飞过。\n\n[00:26-00:30] 傻眼收尾（定格）\nA和B保持着帅气的接杀姿势僵在原地，剑和筷子还举着，齐刷刷看向吃饱打嗝的猫，表情裂开。\n字幕（砸出）：「有些仗，打赢了也没用。」\n音效：一记喜剧\"咚\"，猫满足地打了个嗝。\n\n【导演备注】1.反差铁律：打斗越是天崩地裂、招式越华丽正经，最后被猫截胡的落差越好笑；2.身份锁定：A=@图1红衣用剑、B=@图2青衣用筷/鞭，脸/服装全程一致；3.节奏：2秒对峙→拔剑→空中争夺→大乱→决胜→猫反转，动作段用快剪+关键处升格；4.物理真实：包子热气、木屑、灯笼、布料惯性、猫的重量都要真实，武侠不卡通；5.包子必须全程在画面中心被争夺，是视觉焦点和笑点核心；6.不见血、不伤人，纯招式对拆。\n【负面提示词】卡通武侠，塑料CG，换脸，两人身份/武器混淆，包子中途消失，猫出现得太早，血腥伤人，多余手指，字幕提前，水印，真实品牌logo，画面糊乱，未成年人形象。",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/wuxia-inn-dumpling-duel-209926/video-1a9b667046018d97.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/wuxia-inn-dumpling-duel-209926/poster-680db7851fe9f9d4.jpg",
+    "format": "video/webm",
+    "videoBytes": 2699457,
+    "videoSha256": "1a9b667046018d9726fc2046d9e6bcfcccc00c673a77e91294bd0500a8dc1de4",
+    "thumbnailBytes": 29994,
+    "thumbnailSha256": "680db7851fe9f9d41e1d4cd51fd0cb54a8d5cd0fddcf59e0eee973466fcc3f16"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

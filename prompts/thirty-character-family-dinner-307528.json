@@ -1,0 +1,43 @@
+{
+  "slug": "thirty-character-family-dinner-307528",
+  "title": {
+    "en": "Thirty-Character Family Dinner",
+    "zh": "三十人家庭晚餐"
+  },
+  "description": {
+    "en": "25-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "25 秒三十人家庭晚餐提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "25s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@aimikoda",
+    "url": "https://x.com/aimikoda/status/2083415174556307528"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/aimikoda/status/2083415174556307528"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/aimikoda/status/2083415174556307528"
+  ],
+  "prompt": "[all char refs], a big family dinner, cinematic footage, multiple cuts, dynamic camera angels. show all characters, 20 cuts.\n\nYou can find character sheets in the quoted post.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/thirty-character-family-dinner-307528/video-84f544e175da2e69.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/thirty-character-family-dinner-307528/poster-94ffe7c7e9e9f7a7.jpg",
+    "format": "video/webm",
+    "videoBytes": 2305611,
+    "videoSha256": "84f544e175da2e695a06458f22eac2557b32334c01f178461eded50f504496fe",
+    "thumbnailBytes": 97742,
+    "thumbnailSha256": "94ffe7c7e9e9f7a7a0168e854f1feeb11361f806808aa9084622ed09950cfe1d"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

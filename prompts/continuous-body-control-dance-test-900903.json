@@ -1,0 +1,43 @@
+{
+  "slug": "continuous-body-control-dance-test-900903",
+  "title": {
+    "en": "Continuous Body-Control Dance Test",
+    "zh": "连续身体控制舞蹈测试"
+  },
+  "description": {
+    "en": "30-second dance prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒连续身体控制舞蹈测试提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "dance",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@noman23761",
+    "url": "https://x.com/noman23761/status/2083478189028900903"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/noman23761/status/2083478214685388928"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/noman23761/status/2083478189028900903"
+  ],
+  "prompt": "Every movement is precisely synchronized to the beat. The dancer alternates between quick hip pulses, controlled hip drops, figure-eight hip rolls, and rapid side-to-side shakes. Motion remains smooth, physically accurate, and continuous with realistic muscle dynamics and balanced body mechanics. Professional dance performance, energetic, expressive, high-quality motion capture style.\n\nI'm planning to run more experiments with different choreography styles and prompts. Curious to see how it compares with other video models using the same prompt.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/continuous-body-control-dance-test-900903/video-ce32b9dcf44a7daf.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/continuous-body-control-dance-test-900903/poster-337e62e08b39fe2a.jpg",
+    "format": "video/webm",
+    "videoBytes": 2159496,
+    "videoSha256": "ce32b9dcf44a7dafcfc181188ecfdc04441b7eadb003a223fa50adba71a0e903",
+    "thumbnailBytes": 43584,
+    "thumbnailSha256": "337e62e08b39fe2af7ac98ddf421c41d10063328298cd094f4864a12a0f19cd5"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

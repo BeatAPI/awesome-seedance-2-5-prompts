@@ -1,0 +1,43 @@
+{
+  "slug": "watercolor-aquarium-octopus-journey-962531",
+  "title": {
+    "en": "Watercolor Aquarium Octopus Journey",
+    "zh": "水彩水族馆章鱼之旅"
+  },
+  "description": {
+    "en": "30-second animation prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒水彩水族馆章鱼之旅提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "animation",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@jAlpha_create",
+    "url": "https://x.com/jAlpha_create/status/2083433664889962531"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/jAlpha_create/status/2083433836227313715"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/jAlpha_create/status/2083433664889962531"
+  ],
+  "prompt": "【使用プロンプト】\nモード：画像動画変換／30秒・16:9・音声ON\n\n参照画像の絵柄・線の細さ・彩色・通路と水槽の配置を厳密に保つ。人物は登場させない。\n細い手描きのペン線、水彩の滲みを残した淡い彩色。深いパウダーブルーの光。カット無しの30秒ワンショット。\nタコは赤橙色で大きな目。水槽の幅の半分ほどの胴体を最後まで保つ。猫は茶トラでタコより小さい。水は水槽の中のまま、床は乾いている。\nカメラ：タコの移動に合わせて右へゆっくりトラッキング。\n\n0-4秒 タコが水槽から流れ落ち床に着地。奥から猫が歩いてくる。\n4-9秒 タコがモップに巻きついて化ける。猫が通過。目だけが猫を追う。\n9-13秒 猫が去る。タコがほどけて床を滑って進む。\n13-19秒 ぬいぐるみ棚に飛び込んで固まる。猫が首をかしげて見る。微動だにしない。\n19-23秒 棚から降りて廊下の角を曲がる。\n23-27秒 隣のタコ水槽をよじ登って中へ滑り込む。\n27-30秒 先住のタコと並んで腕をからめる。会いに来ただけ。止め絵。\n\n音：ピチカート弦の忍び足コメディ曲。化けた瞬間は無音、猫が去るとBGM再開。",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/watercolor-aquarium-octopus-journey-962531/video-cb3254ef61621e2b.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/watercolor-aquarium-octopus-journey-962531/poster-78d387b6fd099506.jpg",
+    "format": "video/webm",
+    "videoBytes": 2104636,
+    "videoSha256": "cb3254ef61621e2b4a34124cd615a267867f05188dcd45f6607823df508b53a3",
+    "thumbnailBytes": 94326,
+    "thumbnailSha256": "78d387b6fd099506a1bc98b70e879b83f0862e3c742e0b3fa30211c922fe9189"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

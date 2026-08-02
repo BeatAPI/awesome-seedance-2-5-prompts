@@ -1,0 +1,43 @@
+{
+  "slug": "trainee-days-camcorder-montage-251247",
+  "title": {
+    "en": "Trainee Days Camcorder Montage",
+    "zh": "练习生岁月录像机蒙太奇"
+  },
+  "description": {
+    "en": "15-second vlog prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒练习生岁月录像机蒙太奇提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "vlog",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@doctorwasif",
+    "url": "https://x.com/doctorwasif/status/2083539372478251247"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/doctorwasif/status/2083539372478251247"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/doctorwasif/status/2083539372478251247"
+  ],
+  "prompt": "**CAMERA:**\nDV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself throughout each location, occasionally propped briefly for hands-free moments. Hand shake, misaligned framing, delayed focus pulls, clumsy zooms, occasional face cut-off framing, imperfect shots. Camcorder never appears on screen.\n\n**LOOK:**\nSoft, slightly blurry tape quality, faint tape noise, bloomed highlights, flickering auto-exposure, muted contrast, realistic skin tones — lighting shifts per location (dim early-morning dorm → fluorescent vocal room → mirror-lit practice room → stark evaluation room lighting).\n\n**STYLE:**\nNostalgic, determined montage feel — younger, rawer energy than her current polished vlogs, evoking a flashback to trainee days. Quick cuts stitched across locations, reflective voiceover narration plays over the visuals instead of synced dialogue. Mood shifts from tired to focused to nervous, ending on quiet resolve.\n\n**Character**\n\nCHASE — Korean trainee (ref image), late teens/early 20s (younger, flashback version of herself). Long straight black hair, often in a simple ponytail or braid, minimal to no makeup, tired but determined eyes. Wearing simple practice clothes — a plain long-sleeve top and joggers or sweats, fully covering arms and torso, no jewelry.\n\n**Setting Progression**\n\nTrainee dorm room (early morning) → vocal lesson room (morning) → dance practice room (afternoon) → evaluation room (evening).\n\n**Storyboard (15s, 5 cuts)**\n\n1. *(~3s, dorm, propped camera, dim early light)* She wakes up before sunrise, rubbing her eyes, quietly getting ready in the dark so as not to wake roommates. VOICEOVER (CHASE): \"Back then, mornings started before the sun even came up.\"\n\n2. *(~3s, vocal room, handheld, fluorescent light)* She stands at a mic, sheet in hand, focused and a little nervous, mouthing through warmups. VOICEOVER (CHASE): \"Every note mattered — you never knew who was listening.\"\n\n3. *(~3s, practice room, handheld, mirror wall)* She's mid-motion rehearsing choreography, sweat forming, repeating a step over and over. VOICEOVER (CHASE): \"I must have run that same eight-count a hundred times.\"\n\n4. *(~3s, practice room, macro insert)* Close-up on her feet repeating the same step, breathing audible, tape blur softening the motion. No narration — ambient practice room sound only.\n\n5. *(~3s, evaluation room, wide-to-close, tense finish)* She stands nervously in front of unseen evaluators, hands clasped, taking a steadying breath before the camera holds on her face. VOICEOVER (CHASE): \"That was the version of me that started all of this.\"",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/trainee-days-camcorder-montage-251247/video-de374f7beeb0bd28.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/trainee-days-camcorder-montage-251247/poster-7011a4dd253a97e3.jpg",
+    "format": "video/webm",
+    "videoBytes": 761538,
+    "videoSha256": "de374f7beeb0bd28217d27b9012cb8ce09643727031dc35811606836b9d79026",
+    "thumbnailBytes": 56473,
+    "thumbnailSha256": "7011a4dd253a97e336ebe22ebb53c1ce09f80a19e97808537b48534f00081949"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

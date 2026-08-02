@@ -1,0 +1,44 @@
+{
+  "slug": "painterly-tsunami-destruction-sequence-047131",
+  "title": {
+    "en": "Painterly Tsunami Destruction Sequence",
+    "zh": "绘画风海啸毁灭场景"
+  },
+  "description": {
+    "en": "29-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "29 秒绘画风海啸毁灭场景提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "reference-generation",
+  "mode": "image-to-video",
+  "duration": "29s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Framer_X",
+    "url": "https://x.com/Framer_X/status/2083538430987047131"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/Framer_X/status/2083538553481703648"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Framer_X/status/2083538430987047131"
+  ],
+  "prompt": "\"[00:00-00:02] [Close up shot] A police officer stares ahead in shock.\n\n[00:02-00:04][Over-the-shoulder wide shot] A massive tsunami rises beyond the pier in front of him. The camera slowly moves closer to the wave.\n\n[00:04-00:06] [Wide tracking shot, rear angle] The officer turns around and runs down the pier toward the city.\n\n[00:06-00:08] [Aerial wide shot, high angle] The man runs quickly toward the city as the enormous tsunami follows him and crashes into the city.\n\n[00:08-00:30] 8 Different shots of the tsunami destroying the city, with people running, screaming, and trying to survive.\n\n[SOUND] Strictly only naturally occurring sound and foley, no music allowed.\n\nSemi-realistic painterly animation style with soft brushwork, textured shading, muted colors and a cinematic hand-painted look.\"",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/painterly-tsunami-destruction-sequence-047131/video-dfa08d4d31cde8dc.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/painterly-tsunami-destruction-sequence-047131/poster-b9ac9fa4d85fa38b.jpg",
+    "format": "video/webm",
+    "videoBytes": 2829002,
+    "videoSha256": "dfa08d4d31cde8dcf6a604b62441604a7bab0719e882f9b4e6e23b3f480d3a37",
+    "thumbnailBytes": 68320,
+    "thumbnailSha256": "b9ac9fa4d85fa38bcfbc52d28660664b4547dc8b5b1539ac4aee1fc1e276573a"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

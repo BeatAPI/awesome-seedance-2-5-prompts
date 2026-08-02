@@ -1,0 +1,46 @@
+{
+  "slug": "underground-rap-performance-studio-129750",
+  "title": {
+    "en": "Underground Rap Performance Studio",
+    "zh": "地下说唱摄影棚表演"
+  },
+  "description": {
+    "en": "30-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒地下说唱摄影棚表演提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "multimodal",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference",
+    "Video or motion reference",
+    "Audio or sound direction"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@digitalwindai",
+    "url": "https://x.com/digitalwindai/status/2083594010271129750"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/digitalwindai/status/2083594010271129750"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/digitalwindai/status/2083594010271129750"
+  ],
+  "prompt": "REFERENCE SCOPE\n\n@ IMAGE1 defines only the artist’s identity and wardrobe. Preserve her face, platinum-white blunt bob, round black sunglasses, slim athletic build, long narrow black coat, oversized white T-shirt, short black technical shorts, heavy black boots, and the small white H on the front left chest.\n\n@ IMAGE2 defines the studio: matte black floor and walls, monumental angled white acoustic structures, large white ceiling panels separated by deep cosmic gaps with restrained violet-blue nebulae, and the sculptural cube-like rear wall.\n\n@ IMAGE3 defines the exact first frame: composition, symmetry, camera position, artist scale and darkness. The ceiling must follow @ IMAGE2.\n\n@ VIDEO1 is the sole fixed audio reference and exact performance-timing reference. Ignore its black visual track.\n\nAUDIO\n\nKeep the audio from @ VIDEO1 unchanged at its original timestamps from beginning to end.\n\nAll cuts and camera changes affect only the image. They must not alter the audio timing.\n\nDo not generate any new audio, vocals, voices, sound effects, ambience, room tone, impacts or transition sounds.\n\nDIRECTION\n\nCreate a cinematic photorealistic underground female rap performance video, 16:9, 1080p.\n\nKeep the artist recognizable and dominant. Her movements feel natural and confident: brief stillness, loose asymmetric gestures, weight shifts, torso turns, short purposeful steps and occasional approaches toward the lens.\n\nNo repetitive foot tapping, stomping or looping gestures.\n\nUse lively human handheld camera work: pushes, recoils, brief impact jolts, small tilts, slight overshoots and quick corrections. Keep her face readable. Avoid continuous random shaking and smooth floating gimbal movement.\n\nSHOT STRUCTURE\n\n0–4 SECONDS — OPENING\n\nStart exactly on @ IMAGE3 with no pre-roll or alternate opening frame.\n\nShe prepares in darkness with her mouth closed. The studio wakes suddenly in one synchronized lighting event.\n\nThe camera immediately makes one fast physical rush-in with natural motion blur, reaching a tight frontal medium close-up as the performance begins. No cut before this moment.\n\n4–8 SECONDS — FRONTAL CLOSE PERFORMANCE\n\nTight frontal medium close-up. She performs directly toward the lens with natural varied gestures.\n\nThe camera stays close, reacting to her forward movement with short pushes and recoils. Ceiling panels clearly shift between dark, dim and bright groups.\n\nHARD CUT.\n\n8–12 SECONDS — LOW-ANGLE PERFORMANCE\n\nLow wide-angle medium shot near the floor. She remains large in frame, takes one purposeful step and leans toward the lens.\n\nUse one strong handheld jolt, a brief horizon tilt and a fast correction.\n\nWHIP CUT motivated by her movement.\n\n12–16 SECONDS — SIDE STRUCTURE\n\nThree-quarter side performance beside one monumental white acoustic structure.\n\nThe camera tracks diagonally closer while she turns toward the lens. The nearby structure shifts subtly once and the ceiling lighting continues changing.\n\nHARD CUT.\n\n16–20 SECONDS — EXTREME CLOSE PERFORMANCE\n\nFrontal close-up with strong proximity.\n\nThe camera pushes close, recoils, briefly moves off-axis and recovers her face. Her performance remains natural, intense and varied.\n\nEnd with a clean hard cut. No palm covering or touching the lens.\n\n20–24 SECONDS — CUBE WALL PERFORMANCE\n\nClose angled performance in front of the exact sculptural cube rear wall from image2.\n\nThe cube relief moves in broad connected mechanical waves with visible depth, weight and changing shadows. Nothing detaches or flies.\n\nThe camera stays close and handheld while she performs in front of the moving wall.\n\nHARD CUT.\n\n24–30 SECONDS — FINAL CLIMAX\n\nClose hero performance at the exact cube rear wall. Move progressively closer throughout this final shot.\n\nThe cube wall, side structures and ceiling lighting reach their strongest controlled kinetic state while the studio remains physically intact.\n\nThe camera becomes more energetic with brief jolts, forward pressure and quick corrections, while keeping her face clear and dominant.\n\nNear the end, she smoothly removes her sunglasses and reveals beautiful realistic eyes with subtle natural violet irises. No glow, emitted light or supernatural effects.\n\nShe holds direct eye contact for the final beat while the studio continues moving softly behind her.\n\nEnd in a tight close portrait. No fade, no zoom-out and no empty environment shot.\n\nLOCKS\n\nFollow the stated shot order and framing.\n\nKeep the artist visible, recognizable and dominant in every shot.\n\nUse @ sound1  only as the fixed audio and performance-timing reference.\n\nDo not include written lyrics anywhere in the generated video.\n\nNo additional audio of any kind.\n\nNo portal, black hole, fantasy reveal, studio destruction, flying cubes or detached fragments.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/underground-rap-performance-studio-129750/video-7327a9c0e01a4edb.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/underground-rap-performance-studio-129750/poster-a8583e0e1e75fef3.jpg",
+    "format": "video/webm",
+    "videoBytes": 1971082,
+    "videoSha256": "7327a9c0e01a4edbf2620c017afd921e7a384b28258619371bad11122e012dd8",
+    "thumbnailBytes": 44582,
+    "thumbnailSha256": "a8583e0e1e75fef328aabb1dc7bcd94a5f32134ce1be8a030fc00f34ab8aa72e"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

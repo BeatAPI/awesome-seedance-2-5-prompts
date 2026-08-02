@@ -1,0 +1,43 @@
+{
+  "slug": "vietnam-city-scooter-long-take-216517",
+  "title": {
+    "en": "Vietnam City Scooter Long Take",
+    "zh": "越南城市踏板车长镜头"
+  },
+  "description": {
+    "en": "30-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒越南城市踏板车长镜头提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@noman23761",
+    "url": "https://x.com/noman23761/status/2083479371621216517"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/noman23761/status/2083479402973651024"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/noman23761/status/2083479371621216517"
+  ],
+  "prompt": "\"30-second cinematic photorealistic video, continuous long tracking shot with only one hard cut at the end. Natural overcast daylight, realistic physics, smooth handheld camera movement, high detail, 4K.\n\n0-12s: Medium shot of a young East Asian man in his mid-20s with short black hair, plain gray t-shirt, walking slowly and contemplatively toward the camera on a busy Vietnamese city sidewalk. Scooters parked and moving, street shops, trees, pedestrians and vendors in the background. He has a slightly sad, thoughtful expression. Camera tracks backward smoothly, keeping him centered.\n\n12-18s: He reaches a black scooter parked on the side of the road, opens the under-seat compartment, takes out a black helmet, carefully puts it on and tightens the chin strap. Then mounts the scooter.\n\n18-24s: Side tracking shot transitioning to rear view as he starts the scooter and rides into the intersection among other scooters and cars. Natural traffic motion and realistic bike physics.\n\nHard cut at 24s.\n\n24-30s: Aftermath of the accident. Extreme close-up of the same man lying injured on the asphalt, eyes closed, blood stains near his head, black helmet lying nearby. Then slow overhead drone shot revealing the overturned scooter, more blood on the road, and a circle of bystanders gathering around looking down in shock.30-second cinematic photorealistic video, continuous long tracking shot with only one hard cut at the end. Natural overcast daylight, realistic physics, smooth handheld camera movement, high detail, 4K.\n\n0-12s: Medium shot of a young East Asian man in his mid-20s with short black hair, plain gray t-shirt, walking slowly and contemplatively toward the camera on a busy Vietnamese city sidewalk. Scooters parked and moving, street shops, trees, pedestrians and vendors in the background. He has a slightly sad, thoughtful expression. Camera tracks backward smoothly, keeping him centered.\n\n12-18s: He reaches a black scooter parked on the side of the road, opens the under-seat compartment, takes out a black helmet, carefully puts it on and tightens the chin strap. Then mounts the scooter.\n\n18-24s: Side tracking shot transitioning to rear view as he starts the scooter and rides into the intersection among other scooters and cars. Natural traffic motion and realistic bike physics.\n\nHard cut at 24s.\n\n24-30s: Aftermath of the accident. Extreme close-up of the same man lying injured on the asphalt, eyes closed, blood stains near his head, black helmet lying nearby. Then slow overhead drone shot revealing the overturned scooter, more blood on the road, and a circle of bystanders gathering around looking down in shock.\"\n\nSeedance 2.5 really cooked on this one. Share your thoughts in the comment section below!",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/vietnam-city-scooter-long-take-216517/video-6b644fc5f97d874e.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/vietnam-city-scooter-long-take-216517/poster-0fbd08dc7588028d.jpg",
+    "format": "video/webm",
+    "videoBytes": 2957962,
+    "videoSha256": "6b644fc5f97d874e843d46dfe3c383784c46cb77a177294c85ab3cb40ccb10f9",
+    "thumbnailBytes": 65350,
+    "thumbnailSha256": "0fbd08dc7588028d2424a95f0589dd5d0e2d0664a92a0a7c2442ff06849e2f78"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

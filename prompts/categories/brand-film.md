@@ -1,6 +1,6 @@
-# Seedance 2.5 Ads & Products prompts
+# Seedance 2.5 brand film prompts
 
-[Back to all 100 prompts](../../README.md)
+[Back to the featured gallery](../../README.md) · [Catalog index](../README.md)
 
 ## 1. Italian Coast Wakeboarding Splash
 

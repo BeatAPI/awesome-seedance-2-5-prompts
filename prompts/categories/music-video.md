@@ -1,6 +1,6 @@
-# Seedance 2.5 Music & Performance prompts
+# Seedance 2.5 music video prompts
 
-[Back to all 100 prompts](../../README.md)
+[Back to the featured gallery](../../README.md) · [Catalog index](../README.md)
 
 ## 1. Underground Rap Performance Studio
 
@@ -129,94 +129,7 @@ No portal, black hole, fantasy reveal, studio destruction, flying cubes or detac
 
 ---
 
-## 2. Ancient Dance Character Biography
-
-<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/ancient-dance-character-biography-209987/video-d5324de181277991.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/ancient-dance-character-biography-209987/poster-708d0c55440def06.jpg" alt="Ancient Dance Character Biography video preview" width="700" />
-</a>
-
-<details>
-<summary><strong>Prompt</strong> — 【任务】 生成完整 30 秒中国古风人物小传短片。 严格按照时间轴、多模态素材映射、人物隔离和参考音频执行，不自由修改镜头与剧情。 【参考绑定】 - Depth 视频：只控制约 0–5s、10–18s、25–30s 三段核心舞蹈 - 多视角头像 + 全身图：只锁定主舞女 - 九宫格：按编号调用妆造、乐器与剪影镜头，禁止串格 -...</summary>
-
-~~~~text
-【任务】
-生成完整 30 秒中国古风人物小传短片。
-严格按照时间轴、多模态素材映射、人物隔离和参考音频执行，不自由修改镜头与剧情。
-
-【参考绑定】
-- Depth 视频：只控制约 0–5s、10–18s、25–30s 三段核心舞蹈
-- 多视角头像 + 全身图：只锁定主舞女
-- 九宫格：按编号调用妆造、乐器与剪影镜头，禁止串格
-- 场景图：全片保持同一个古风雅室
-- 参考 BGM：作为唯一音乐，从 0s 播放至 30s
-
-【人物隔离】
-主舞女、古筝女和琵琶女必须是三位不同角色。
-Grid 1–3：只出现主舞女
-Grid 4–5：只出现古筝女
-Grid 6–7：只出现琵琶女
-Grid 8–9：以主舞女剪影为主
-配角造型更素、光线更收，不抢主角。
-
-【参考时间轴】
-0–5s：主舞女舞蹈起势
-5–6.5s：描眉
-6.5–8s：抿唇
-8–10s：插发簪
-10–18s：主舞女舞蹈中段
-18–19.5s：古筝女全景
-19.5–20.5s：古筝手部特写
-20.5–21.5s：琵琶女全景
-21.5–22s：琵琶手部特写
-22–23.5s：纱帘剪影全景
-23.5–25s：纱帘剪影特写
-25–30s：主舞女舞蹈收势
-
-【画面要求】
-真实古风雅室，以烛火和宫灯作为主要光源。
-皮肤保留自然纹理，不要磨皮、塑料感和均匀棚拍光。
-飘带、发簪、纱帘与琴弦保持真实材质和运动惯性。
-所有动作重拍与镜头切换尽量跟随参考 BGM。
-
-【总要求】
-总时长 30 秒。
-人物、动作、场景、镜头和音乐沿着同一条时间轴推进。
-结尾回到主舞女，不使用配角或空镜收尾。
-禁止串脸、镜头错序、音乐错位、自由改剧情、字幕、Logo 和水印。
-~~~~
-
-</details>
-
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/ancient-dance-character-biography-209987/video-d5324de181277991.webm)
-
-**Source:** [@MrLarus](https://x.com/MrLarus/status/2083558691895209987) · 30s · 9:16 · performance
-
----
-
-## 3. Continuous Body-Control Dance Test
-
-<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/continuous-body-control-dance-test-900903/video-ce32b9dcf44a7daf.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/continuous-body-control-dance-test-900903/poster-337e62e08b39fe2a.jpg" alt="Continuous Body-Control Dance Test video preview" width="700" />
-</a>
-
-<details>
-<summary><strong>Prompt</strong> — Every movement is precisely synchronized to the beat. The dancer alternates between quick hip pulses, controlled hip drops, figure-eight hip rolls, and rapid side-to-side shakes....</summary>
-
-~~~~text
-Every movement is precisely synchronized to the beat. The dancer alternates between quick hip pulses, controlled hip drops, figure-eight hip rolls, and rapid side-to-side shakes. Motion remains smooth, physically accurate, and continuous with realistic muscle dynamics and balanced body mechanics. Professional dance performance, energetic, expressive, high-quality motion capture style.
-
-I'm planning to run more experiments with different choreography styles and prompts. Curious to see how it compares with other video models using the same prompt.
-~~~~
-
-</details>
-
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/continuous-body-control-dance-test-900903/video-ce32b9dcf44a7daf.webm)
-
-**Source:** [@noman23761](https://x.com/noman23761/status/2083478189028900903) · 30s · 9:16 · dance
-
----
-
-## 4. Rapper Reference Performance
+## 2. Rapper Reference Performance
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/rapper-reference-performance/video-091ca43d11d292c6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/rapper-reference-performance/poster-a5fa8e5b5b2be101.jpg" alt="Rapper Reference Performance video preview" width="700" />
@@ -269,7 +182,7 @@ Finish on the full stadium bowl: tens of thousands of people across every tier p
 
 ---
 
-## 5. Underground London Techno Club
+## 3. Underground London Techno Club
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/underground-london-techno-club/video-c445568d42d6e7df.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/underground-london-techno-club/poster-50c972a2cf800799.jpg" alt="Underground London Techno Club video preview" width="700" />
@@ -310,7 +223,7 @@ The overall image should feel raw, naturalistic and grounded, with visible film 
 
 ---
 
-## 6. Ten-Member Idol Concert
+## 4. Ten-Member Idol Concert
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/ten-member-idol-concert/video-37890e3d802442e7.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/ten-member-idol-concert/poster-e67755f51593d4da.jpg" alt="Ten-Member Idol Concert video preview" width="700" />
@@ -335,7 +248,7 @@ The outfits should share a cohesive overall design, while each member has a diff
 
 ---
 
-## 7. Randomized Graffiti Dance MV
+## 5. Randomized Graffiti Dance MV
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/randomized-graffiti-dance-mv/video-dfbb4c95b8d5480a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/randomized-graffiti-dance-mv/poster-13316f0670bfae61.jpg" alt="Randomized Graffiti Dance MV video preview" width="700" />
@@ -443,7 +356,7 @@ VFXは身体の動きに反応する。足の接地で粒子や波紋が広が�
 
 ---
 
-## 8. Retro Y2K Pop Duo Music Video
+## 6. Retro Y2K Pop Duo Music Video
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/retro-y2k-pop-duo-music-video/video-4308f03a237fc295.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/retro-y2k-pop-duo-music-video/poster-bc3abe129c79ffb6.jpg" alt="Retro Y2K Pop Duo Music Video video preview" width="700" />
@@ -498,7 +411,7 @@ Hard cut at 13.0s. 13.0–15.0s Set A, 47°: back-to-back frozen final pose, cam
 
 ---
 
-## 9. Live-Action Dance Comparison
+## 7. Live-Action Dance Comparison
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/live-action-dance-comparison/video-3a4f6062fd8df96b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/live-action-dance-comparison/poster-9b83cf7fd76986c9.jpg" alt="Live-Action Dance Comparison video preview" width="700" />
@@ -625,250 +538,7 @@ VFXは衣装カラーに合わせて、光の線や粒子が控えめに反応�
 
 ---
 
-## 10. Tractor Dance Motion Transfer
-
-<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/tractor-dance-motion-transfer/video-33b0883872d2d85d.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/tractor-dance-motion-transfer/poster-8e5ea10fc88f1b3c.jpg" alt="Tractor Dance Motion Transfer video preview" width="700" />
-</a>
-
-<details>
-<summary><strong>Prompt</strong> — 【基础设定】一段女生不同场景跳“”拖拉机舞“”，并在中途完成丝滑转场的视频，真人写实质感。人物跳舞动作，位置关系严格参考 {{Mixed 3}} 复刻动作轨迹 ；...</summary>
-
-~~~~text
-【基础设定】一段女生不同场景跳“”拖拉机舞“”，并在中途完成丝滑转场的视频，真人写实质感。人物跳舞动作，位置关系严格参考 {{Mixed 3}} 复刻动作轨迹 ；
-
-0-3秒：将参考视频里面的主体替换成女生d72f88ea-9673-461d-9f75-87a4040f02e0，场景跟随变化；女生没有尾巴，首帧画面就是女主拿着短刀，高高举起手，跟参考视频的首帧动作完全一致
-
-3-6秒：女生通过一个舞蹈工作衔接特效转场变成exec-9219a05b-ee6d-4c5b-9176-edad734b296d ，场景跟随变化；女生继续参考视频的动作完成舞蹈
-
-6-9秒：女生通过一个舞蹈工作衔接特效转场变成exec-a1caf641-08fc-4f8d-b156-c084277123be，场景跟随变化；女生继续参考视频的动作完成舞蹈
-
-9-15秒：女生通过一个舞蹈工作衔接特效转场变成image，场景跟随变化；女生继续参考视频的动作完成舞蹈
-
-【限制】动作不漂移，不跳帧，不改变人物的数量和站位；全程画面只有一个女生在跳舞，不要肢体融合、重复肢体或主体消失。轮廓稳定。仅生成音效，不要生成背景音乐。女生全程没有尾巴
-~~~~
-
-</details>
-
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/tractor-dance-motion-transfer/video-33b0883872d2d85d.webm)
-
-**Source:** [@TanLuAI](https://x.com/TanLuAI/status/2083109850985468125) · 15s · 4:3 · dance
-
----
-
-## 11. Live-Action Duo Dance Practice
-
-<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/live-action-duo-dance-practice/video-49b7c335d264fce9.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/live-action-duo-dance-practice/poster-a10f540f0c9ee14b.jpg" alt="Live-Action Duo Dance Practice video preview" width="700" />
-</a>
-
-<details>
-<summary><strong>Prompt</strong> — Seedance 2.5｜30秒・完全ワンカット高速デュオダンス 30秒間ワンカット。編集カットなし。ショット切替なし。場面転換なし。別ショットへの変更なし。開始から終了まで同じ連続テイク。二人は常にフレーム内へ明確に収める。人物の複製、別人化、入れ替わり、融合、新しい人物の出現は禁止。...</summary>
-
-~~~~text
-Seedance 2.5｜30秒・完全ワンカット高速デュオダンス
-
-30秒間ワンカット。編集カットなし。ショット切替なし。場面転換なし。別ショットへの変更なし。開始から終了まで同じ連続テイク。二人は常にフレーム内へ明確に収める。人物の複製、別人化、入れ替わり、融合、新しい人物の出現は禁止。
-
-30秒だから動きを遅くしない。15秒ダンスと同等の運動密度を30秒間維持する。開始直後からすでに踊っている。静止、長いタメ、歩くだけの時間、ポーズを見せるための停止は禁止。約1拍から2拍ごとに、足、腰、胸、肩、首、腕、手首、指先、視線のどれかへ明確なアクセントを入れる。
-
-キャラクターA：REN
-20代半ばの東アジア系男性。高身長で細身だが、ダンサーらしく引き締まった体型。健康的な暖色系の肌。切れ長の琥珀色の瞳。目元へかかる、濡れたような黒いレイヤーヘア。挑発的で余裕のある表情。
-浅く被ったヒョウ柄キャップ。アイスブルーとシルバーの光沢を持つ短丈デニムジャケット。内側には白いアシンメトリーなメッシュトップス。腰位置の高いライトブルーのダメージデニム。腰から揺れる赤いペイズリー柄の細長い布。複数のゴールドチェーン、細いベルト、腕時計、ブレスレット、メタリックパーツ。キャメル色の厚底ワークブーツ。
-RENは動きの起点が鋭い。ヒールトゥ、高速クロスステップ、胸のヒット、肩の切り返し、手首スナップが得意。大胆で、相手を先に誘う。基本的に前半は半拍先行する。
-
-キャラクターB：NOIR
-20代後半の東アジア系男性。RENよりわずかに背が高く、華奢で手足が長い。色白の肌。細い黒縁眼鏡。灰黒色の鋭い瞳。片目へ落ちる無造作な黒髪。静かで妖しく、感情を表面へ出しすぎない。
-黒と青紫の光沢を持つ短丈テーラードジャケット。細いシルバーライン。内側には少し透け感のあるオフホワイトシャツ。緩めた細い黒ネクタイ。高い腰位置の黒いワイドパンツ。左右非対称の揺れる布パネル。銀のチェーン、鍵型アクセサリー、細いボディベルト、指なし手袋。厚底の黒いレザーブーツ。
-NOIRは肩、首、手首、指先、背骨の流れが柔らかい。RENの動きを半拍遅れて受け取り、そのまま模倣せず、反対方向や別の軌道へ変えて返す。中盤以降は先行役へ切り替わる。
-二人の顔、髪型、肌色、体型、身長差、衣装、帽子、眼鏡、靴、装飾品を30秒間固定する。RENに眼鏡、黒いジャケット、銀の鍵飾りを追加しない。NOIRに帽子、青いデニム、赤い布、ゴールドチェーンを追加しない。二人の衣装や特徴を交換しない。
-カメラ
-中距離の全身ショットを基本にする。9:16の縦構図を活用し、一人を手前、一人を奥へ配置する前後構成と、二人を斜めに並べる構成を交互に使う。
-カメラは30秒間完全停止しない。短い押し込み、軽い引き、小さな半円回り込み、わずかな上下移動、自然な手持ちの揺れだけで変化を作る。横方向へ長く移動するサイドスライドは禁止。
-足元を見せる時もカットを切らず、カメラが少し低くなり、全身の中へ靴と足運びを含める。表情や手の接触を見せる時も、カメラが自然に少し押し込むだけにする。顔だけの長いアップは禁止。二人の脚とダンスを見失わない。
-カメラはダンスを待たない。動作と同じテンポで小さく反応し、肩ヒットで微細に押し込み、ターンで短く回り込み、位置交換でわずかに引く。
-
-アートステージ
-背景は現実の場所ではない。屋上、路地、廃ビル、倉庫、普通の壁、夜景、街並み、写真背景のような風景は禁止。
-実写MV用の巨大な縦型アートステージ。黒、オフホワイト、コバルトブルー、アイスブルー、深紅、鈍いゴールドを中心に構成する。
-巨大グラフィティ、ネオンライン、手描き記号、意味を持たない抽象文字、動くポスター、破れた紙、スプレーアート、光る壁面、反射床、浮遊する紙片、黒インク、白い粒子、LEDライン、ステンシル、動く抽象図形を多層的に配置する。
-開始時点から背景は激しく動いている。背景全体が118 BPMへ反応し、跳ねる、流れる、震える、剥がれる、反転する、再配置される。人物より前へ出ず、二人の顔、身体、脚を隠さない。
-ステップで足元のグラフィティが弾ける。肩ヒットで壁の線が震える。胸ヒットでLEDが一度強く脈打つ。ターンで抽象記号が渦を作る。手首スナップで白いブラシ線と黒いインク斬撃が走る。指フリックで星形、稲妻、短いスパークが散る。接触動作では二人の間へ円形波紋が生まれる。
-文字や記号を読ませる文章にはしない。歌詞、タイトル、字幕、ロゴ、ブランド名を表示しない。
-ダンス全体
-高速で華やかなストリートダンスと、親密なパートナーダンスを融合する。
-細かな足踏みだけにしない。脚だけで踊らず、上半身、腰、胸、肩、首、腕、手首、指先、視線まで使う。高めの重心、綺麗な立ち姿、流れる連続動作を維持する。
-低重心を長く続けない。膝はアクセントで一瞬だけ曲げ、すぐに伸ばす。しゃがみ込み、床ダンス、長い静止、重い動きは禁止。
-二人は常に完全同期しない。半拍遅延、ミラー、逆方向への返し、交互の先行、短い完全ユニゾンを切り替える。
-カップルダンス的な接触として、手首を受ける、前腕を組む、腕の下をくぐる、肩をかすめる、背中合わせになる、互いの重心を一瞬預ける、身体を引き寄せてすぐ離す、位置を交換する動きを使う。
-接触後も止まらない。触れる、回る、離れる、次のステップへ入るまでを一つの連続動作にする。
-
-0.0s–1.2s
-開始直後から二人はすでに踊っている。
-RENが手前、NOIRが約1.5メートル後方。二人とも中距離の全身。
-RENが片足を前へ鋭く踏み込み、膝を一瞬使ってすぐ伸ばす。右肩ヒット、左肩ヒット、胸ヒット、手首スナップ。ヒールトゥからクロスステップへ入る。
-NOIRは半拍遅れて同じ足運びを始めるが、腕はRENと反対方向へ流す。足元から粒子波紋と手描き円形波紋が広がる。
-
-1.2s–2.4s
-カメラが短く押し込む。
-RENが斜め向きへ切り替え、前後ステップ、首スナップ、腰の小さな切り返し。片手を胸元のチェーンへ流し、すぐ外へ弾く。
-NOIRは半拍遅れて肩と胸を刻み、指先を顔の横から下へ切る。背景線が連続して震え、白いブラシ線が走る。
-
-2.4s–3.6s
-カメラが少し低くなり、足元を含む全身。
-二人が左右反転した高速ヒールトゥ。つま先タップ2回、かかとを引く、鋭いクロスステップ、斜め前への踏み出し。
-RENが先に腰を小さく回し、NOIRが半拍遅れて逆方向へ回す。靴の軌道へ白線と粒子の尾が残る。
-
-3.6s–4.8s
-二人が前後位置を保ったままコンパクトなランニングマン変形。後ろへ引き、すぐ前へ戻る。
-RENが腕を身体の近くから外へ切り、NOIRが逆側へ長く流す。二人が同時に小さくピボットし、視線だけをカメラへ向ける。
-指フリックで星形とスパーク。巨大グラフィティが波打つ。
-
-4.8s–6.0s
-カメラが小さく半円回り込み、二人が斜めに並ぶ。
-RENが片足クロス、反対足オープン、胸ヒット、肩抜き。NOIRは半拍遅れて同じ足運びを行いながら、上半身を逆方向へひねる。
-二人が互いの手首を一瞬だけ受け、その接点を使って素早く位置を交換する。停止しない。
-
-6.0s–7.2s
-位置交換直後、NOIRが手前になる。
-NOIRが先行し、斜めシャッフル、ヒールトゥ、つま先スクレイプ、首から肩へのウェーブ。RENが半拍遅れて追う。
-NOIRが片腕を大きく流し、RENがその腕の下を素早くくぐる。髪、布、チェーン、赤い布が強く揺れる。
-
-7.2s–8.4s
-カメラが短く寄るが、膝下まで維持する。
-RENがNOIRの肩付近へ手を滑らせ、NOIRがその手首を一瞬だけ受ける。二人は視線を合わせたまま、胸ヒット、肩ヒット、手首スナップを交互に返す。
-REN、NOIR、REN、NOIRの順で半拍ごとにアクセントを交換する。
-
-8.4s–9.6s
-二人が接触を解き、反対方向へ同時に半回転。
-RENは右回転、NOIRは左回転。回転終了と同時にクロスステップ、オープンステップ、指フリック。
-ターンの軌道へ手描き回転線と短い残像。背景記号が二重の渦になる。
-
-9.6s–10.8s
-カメラが自然に全身へ戻る。
-二人が同じ方向を向き、RENが前、NOIRが後ろのシャドーダンス。RENが肩、胸、腰、手首を高速で連結し、NOIRが半拍遅れて追従する。
-NOIRは最後の手首スナップだけ先回りし、RENの動きを追い越す。
-
-10.8s–12.0s
-先行役がNOIRへ切り替わる。
-NOIRが高速クロスステップ、前後ステップ、片肘を外へ切る、胸ヒット、首スナップ。RENが半拍遅れて同じリズムを別方向へ返す。
-二人の足元に交互の円形波紋。背景ポスターが一拍ごとに剥がれ、粒子へ変わる。
-
-12.0s–13.2s
-二人が向かい合う。
-NOIRが右手を差し出し、RENが左手首で受ける。手を握り続けず、接点を使って二人が素早く逆方向へ一回転。
-回転途中で前腕を組み、肩をかすめ、そのまま立ち位置を交換する。
-
-13.2s–14.4s
-二人が背中合わせになる。
-NOIRが肩、胸、腰の順に高速で刻み、RENが半拍遅れて返す。次の2拍でRENが先行へ戻る。
-背中を強く押し合わず、肩甲骨の接触を軸に小さく回転する。黒インクと白線が二人の輪郭に沿って走る。
-
-14.4s–15.6s
-二人が同時に反転し、正面へ戻る。
-RENが高速ヒールトゥ、NOIRが逆方向のつま先タップ。腕は交差し、足はミラーになる。
-RENがNOIRの前腕を一瞬引き、NOIRがその勢いを利用して身体を横へ流す。二人はすぐ離れる。
-
-15.6s–16.8s
-カメラがわずかに低くなり、全身を強調。
-二人が高速シャッフル、クロス、オープン、ヒールスイッチ。左右の足を素早く交換しながら、上半身は胸ヒットと肩ロールを続ける。
-足元のグラフィティが連続して弾ける。動きを止めない。
-
-16.8s–18.0s
-カメラが小さく押し込む。
-RENが片手を帽子のつばへ触れ、すぐ外へフリック。NOIRが眼鏡の横へ指を近づけ、触れずに外へ流す。
-二人が同時に首を切り、腰を逆方向へ流し、胸ヒットから手首スナップへ接続する。視線を短くカメラへ向ける。
-
-18.0s–19.2s
-NOIRがRENの腕の下を高速でくぐる。
-RENは腕を上げたまま静止せず、身体を同時にピボットさせる。NOIRが抜けた瞬間、二人が前後位置を交換。
-ターンで銀とゴールドの粒子軌跡が交差する。
-
-19.2s–20.4s
-二人が斜め方向へ進みながら、ランニングマン変形、クロスステップ、肩ヒットを連続する。
-RENが半拍先行、NOIRが半拍遅延。2拍後に役割が反転し、NOIRが先行する。
-カメラは短く引き、二人の移動範囲と全身を維持する。
-
-20.4s–21.6s
-二人が前腕を組み、一瞬だけ互いに外側へ体重を預ける。
-傾いた姿勢を保持しない。すぐ反動で中央へ戻り、肩をかすめながら左右へ抜ける。
-戻る動きに胸ヒット、手首スナップ、指フリックを重ねる。円形VFXが二人の間で弾ける。
-
-21.6s–22.8s
-二人が並び、短い完全ユニゾン。
-ヒールトゥ、クロスステップ、胸ヒット、肩ロール、首スナップ、両手首スナップを高速で連結する。
-完全同期は約2拍だけ。後半はRENが半拍先行し、NOIRが逆方向へ動きを流す。
-
-22.8s–24.0s
-NOIRが前、RENが後ろの縦配置。
-NOIRが身体を斜めへ切り、片腕を顔の横から外へ流す。RENが後方から半拍遅れて同じ軌道を反対側へ返す。
-二人が同時に半回転し、前後位置を入れ替える。背景の抽象図形が縦方向へ伸びる。
-
-24.0s–25.2s
-RENが高速クロスステップからNOIRへ接近。
-RENの片手がNOIRの肩を一瞬かすめ、NOIRはRENの腰付近の揺れる布へ触れず、軌道だけを追う。
-二人は身体を近づけたまま肩、胸、腰を交互に刻み、次の拍ですぐ離れる。
-
-25.2s–26.4s
-カメラが少し下がり、足元を含む全身。
-二人が逆方向の高速シャッフル。つま先タップ、ヒールスイッチ、足の交差、オープンステップ。
-上半身は止めず、肩ヒット、首スナップ、指フリックを同時に行う。床の反射へ青、赤、金の光が走る。
-
-26.4s–27.6s
-二人が再び向かい合い、手首を一瞬接続する。
-RENがNOIRを引くのではなく、互いの回転力を交換する。RENが右回転、NOIRが左回転し、回転後に肩をかすめてすれ違う。
-すれ違いながら両者がカメラへ短く視線を送る。
-
-27.6s–28.8s
-二人が同じ方向を向き、最後の高速ユニゾンへ入る。
-前後ステップ、クロスステップ、胸ヒット、右肩、左肩、手首スナップ、指フリック、タイトな半回転。
-最初の2拍は完全同期。続く動きはRENが半拍先行、最後はNOIRが先行して終盤へ繋ぐ。
-
-28.8s–30.0s
-停止しないフィニッシュ。
-二人が前腕を一度組み、反対方向へ身体を流し、その反動で中央へ戻る。腕を解きながら高速クロスステップ、肩ヒット、胸ヒット、手首スナップ。
-RENが先にカメラを見る。NOIRが半拍遅れて眼鏡越しに視線を向ける。
-決めポーズで固まらない。二人が次のターンへ入り始め、髪、ジャケット、ネクタイ、チェーン、赤い布が大きく揺れ、カメラも軽く押し込んでいる途中で終了する。
-
-手描きVFX
-実写映像に2D手描きアニメーションを重ねた質感。
-白線、黒インク線、ラフなブラシライン、スピード線、円、バツ、波線、星形、稲妻、擦れた筆跡、短い残像を使用する。線は少し揺れ、意図的なコマ落ち感を持つ。
-VFXは毎拍同じものを出さない。足、肩、胸、手首、指、ターン、二人の接触へ別々に反応する。顔、手、脚、衣装のシルエットを隠さない。
-
-Negative Prompt
-スローモーション、遅いダンス、長いタメ、静止、ポーズ保持、開始時の棒立ち、歩くだけ、単調な横揺れ、地味な足踏み、同じステップの反復、低重心を続ける、膝を曲げ続ける、床ダンス、しゃがみ込み、長い視線の演技、顔だけのアップ、接触したまま停止する、ゆっくりした回転、過剰なオービット、カメラ停止、サイドスライド、横追跡、カット、ジャンプカット、隠しカット、暗転、ショット切替、場面転換、別の場所、人物増殖、第三者、別人化、顔交換、衣装交換、帽子交換、眼鏡交換、髪型変更、衣装消失、アクセサリー消失、身体融合、手指崩壊、余分な手足、身体貫通、足滑り、宙に浮く、普通の背景、屋上、路地、廃ビル、倉庫、夜景、街並み、地味な衣装、普通の私服、読める文章、字幕、歌詞、ロゴ、透かし、白飛び、過剰なモーションブラー、ちらつき。
-~~~~
-
-</details>
-
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/live-action-duo-dance-practice/video-49b7c335d264fce9.webm)
-
-**Source:** [@sailorv321](https://x.com/sailorv321/status/2083090842814996920) · 30s · 9:16 · dance
-
----
-
-## 12. Japanese Concert Pianist
-
-<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-concert-pianist/video-8f7e8938dd78f0bf.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-concert-pianist/poster-571b644e3c8c55b5.jpg" alt="Japanese Concert Pianist video preview" width="700" />
-</a>
-
-<details>
-<summary><strong>Prompt</strong> — 日本人の女性ピアニストが演奏会で演奏している。いま良い箇所に入ったところ</summary>
-
-~~~~text
-日本人の女性ピアニストが演奏会で演奏している。いま良い箇所に入ったところ
-~~~~
-
-</details>
-
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-concert-pianist/video-8f7e8938dd78f0bf.webm)
-
-**Source:** [@tanabe_fragm](https://x.com/tanabe_fragm/status/2083085218735669599) · 20s · 16:9 · performance
-
----
-
-## 13. Multilingual Beach Hip-Hop Band
+## 8. Multilingual Beach Hip-Hop Band
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/multilingual-beach-hip-hop-band/video-a26d3c6418c38002.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/multilingual-beach-hip-hop-band/poster-aafdf85cf6c5f869.jpg" alt="Multilingual Beach Hip-Hop Band video preview" width="700" />

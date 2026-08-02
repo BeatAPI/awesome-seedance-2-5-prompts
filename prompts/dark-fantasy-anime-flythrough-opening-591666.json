@@ -1,0 +1,43 @@
+{
+  "slug": "dark-fantasy-anime-flythrough-opening-591666",
+  "title": {
+    "en": "Dark-Fantasy Anime Flythrough Opening",
+    "zh": "暗黑奇幻动画穿越片头"
+  },
+  "description": {
+    "en": "24-second animation prompt paired with a source-verified creator example and its output video.",
+    "zh": "24 秒暗黑奇幻动画穿越片头提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "animation",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "24s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@yachimat_manga",
+    "url": "https://x.com/yachimat_manga/status/2083477858337591666"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/yachimat_manga/status/2083477860447355247"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/yachimat_manga/status/2083477858337591666"
+  ],
+  "prompt": "type: anime_opening_continuous_camera_flythrough style: visual: dark fantasy anime, cel-shaded 2D, high contrast, full-color Japanese anime motion_quality: 24fps, 作画枚数多め, メリハリのあるスピードランプ tone: stylish, dramatic, kinetic, elegant, ominous direction: > 日本のフルカラーアニメのオープニング。 高速なカット割りの代わりに、一筆書きのような連続カメラワークで、 複数のキャラクターを次々と捉えていく。 カメラは右へ左へ、上下へ、奥へ手前へと飛び回るローラーコースターPOVで、 一切止まらず、各キャラクターの最も映える瞬間を連続的につないでいく。 各キャラクターのポーズ・表情・背景・空間演出は、 そのキャラクターの性格、武器、属性、感情の核、物語上の役割から 最も魅力的に見える形をAIが自律的に判断して構成すること。 camera: motion: fast forward dolly with lateral drifts, rollercoaster POV, fluid aerial movement core_rule: > no hard cuts, no static frames, no fades. 全編を通して一続きのワンカットとして成立させること。 speed_ramps: > キャラクターのリビール直前に減速し、決めの瞬間で一瞬だけ視認性を確保し、 通過と同時に再加速する。 lens_feel: dynamic anime cinematography, dramatic perspective shifts, strong parallax final_exception: > ラストのクライマックスキャラクター、または集合決めカットの直前のみ、 重みを出すために初めてカメラの運動を極端に緩める、 もしくは短く静止してもよい。 environment_logic: base_space: 無限に広がる異空間ヴォイド variation_rule: > 各キャラクターのリビール区間ごとに、そのキャラクターの属性、感情、 象徴、戦闘スタイル、役割に最も合う環境要素をAIが選んで構成すること。 同じ空間を繰り返さず、毎回異なる空間的印象をつくること。 ただし全体としてはひとつの連続した異空間を飛行している感覚を保つこと。 palette_options: - deep crimson (#5A0000–#8B0000) + cyan mint accents + black shadows - midnight blue void + white petals + silver light - blood red mist + black feathers + gold rim light - violet smoke + shattered glass + cold cyan - 上記をベースに、各キャラクターに合わせて自由に再解釈してよい floating_elements_pool: - petals - feathers - blades - ribbons - chains - shattered glass - ash - sparks - torn paper - ink splashes - crystals - smoke - water droplets - leaves lighting: > dramatic rim light, deep shadows。 光源設計はキャラクターの性格や役割に応じて変えること。 支配的なキャラには逆光や王者のような縁光、 儚いキャラには拡散光、 狂気のあるキャラには不安定な明滅光など、 感情の印象を光で補強すること。 input_characters: description: > 以下にキャラクターのリストを与える。 人数は固定しない。2人でも10人以上でも対応可能。 各キャラクターについて、名前・性格・武器・属性・役割・感情の核・象徴モチーフなどを参照し、 そのキャラらしさが最大化する一瞬を構成すること。 format_example: - name: Character Name role: protagonist / rival / villain / mentor / key figure / support personality: \"\" weapon_or_power: \"\" attribute_or_theme: \"\" emotional_core: \"\" symbolism: \"\" priority: high / medium / low reveal_planning: global_rule: > 入力された全キャラクターを、物語の高まりが自然に増していく順に並べ替えてよい。 基本的には、軽め・不穏・謎めいた導入から始まり、 中盤で躍動感と情報量を増し、 終盤で主人公・対立軸・ラスボス・最重要人物へ向けて熱量を上げること。 per_character_rule: > 各キャラクターごとに以下を自動で設計すること： 1. pose: 静止ではなく「動きの最中の一瞬」 2. expression: 感情の核が伝わる表情 3. framing: 最も映えるカメラ距離・角度 4. background_variant: そのキャラに対応した空間演出 5. foreground_wipe: 次のキャラへつなぐ前景通過物 6. motion_relation: カメラに対して向かってくる / すれ違う / 見下ろす / 落下する / 回転する 等 uniqueness_rule: > 各キャラクターで、体勢、シルエット、画面構図、視線方向、背景モチーフ、 前景の抜け、動きのベクトルを被らせないこと。 連続して似た演出を使わないこと。 duration_rule: > 各キャラクターの見せ尺は均一でなくてよい。 priority が高いキャラクターほど、わずかに長く、印象的に見せること。 低優先キャラは短く鋭く見せ、高優先キャラは減速を強めて存在感を出すこと。 character_processing_loop: instruction: > 入力されたキャラクター配列を上から順に機械的に処理するのではなく、 オープニング映像として最も気持ちよく流れる順番に再構成してよい。 それぞれについて以下を判断して映像化すること。 for_each_character: decide: - このキャラは支配的か受動的か - 攻撃 / 防御 / 逃走 / 佇み / 観察 / 詠唱 / 指揮 のどれが最も似合うか - 武器や能力をどう一瞬で象徴的に見せるか - 視線、手、指、髪、衣装、武器のどこを強調すべきか - カメラがそのキャラに向かうべきか、横切るべきか、追い抜くべきか - そのキャラに最も合う背景と前景モチーフは何か output: - pose - expression - framing - background_variant - foreground_wipe - transition_vector transitions: between_reveals: > 花弁、羽根、刃、リボン、鎖、ガラス片、煙、灰、インクなどが 必ずレンズ手前を至近距離で横切り、それをワイプ代わりにして次のキャラへつなぐこと。 rule: > 必ず「前景がレンズを横切る → 空間が変化する → 次のキャラが現れる」 という流れを守ること。 continuity: > 前景ワイプは単なる切り替えではなく、 カメラが本当に次の空間へ飛び込んでいく感覚を生むように使うこと。 climax_logic: final_focus_rule: > 最後の区間では、最重要キャラクター （主人公 / ラスボス / キーパーソン / 物語の中心人物）に到達すること。 そのキャラは他よりも重く、強く、象徴的に見せること。 ending_options: - 最重要キャラクター単体でカメラが初めて止まり、一枚絵として決まる - 主人公の先に最大の敵が現れ、緊張感のある静止に入る - 最重要キャラのあと、短く複数人の集合構図へ流れ込み、一枚絵で締める final_image_rule: > ラストはポスターのように成立する構図にすること。 それまでの流動性と対比して、最後にだけ「止まる意味」があるように演出すること。 output_goal: > 結果として、全体が一本の連続したアニメOPショットとして成立し、 各キャラクターが短時間でも明確に識別でき、 しかも一人ずつ違う魅力で刻み込まれること。 単なる紹介映像ではなく、「この作品世界の熱量と因縁」が伝わること。 negative: - hard cuts - static camera (except final climax hold) - fades - text - logos - subtitles - photorealism - 3DCG look - repetitive poses - repeated environments - flat staging",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/dark-fantasy-anime-flythrough-opening-591666/video-5bb0becf20c97614.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/dark-fantasy-anime-flythrough-opening-591666/poster-dc04b427b06df0e5.jpg",
+    "format": "video/webm",
+    "videoBytes": 2364649,
+    "videoSha256": "5bb0becf20c97614cbfb655f43c0cf3e4cba7f73932f79c0f2d0d1587cf56a03",
+    "thumbnailBytes": 58171,
+    "thumbnailSha256": "dc04b427b06df0e5ca51527f6e2ad5fe0cd68612fd7f445e9d81ada06083ad09"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

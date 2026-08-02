@@ -1,0 +1,43 @@
+{
+  "slug": "steampunk-momotaro-thirty-second-story-896854",
+  "title": {
+    "en": "Steampunk Momotaro Thirty-Second Story",
+    "zh": "蒸汽朋克桃太郎三十秒故事"
+  },
+  "description": {
+    "en": "30-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒蒸汽朋克桃太郎三十秒故事提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ChiakiAkagi",
+    "url": "https://x.com/ChiakiAkagi/status/2083420580267896854"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/ChiakiAkagi/status/2083420580267896854"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/ChiakiAkagi/status/2083420580267896854"
+  ],
+  "prompt": "CapCut-Seedance2.5簡単プロンプトが凄い\n\n桃太郎を作る。誕生から鬼退治完了までを30秒で。\n実写版。\n演出:\n照明を暗くしてコントラストを強く。\n彩度を低くして青のフィルターで色温度を統一。\nスチームパンクの世界感。\n冷たい人間関係。セリフは日本語。",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/steampunk-momotaro-thirty-second-story-896854/video-b7488aa4cf16ef72.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/steampunk-momotaro-thirty-second-story-896854/poster-f5aed8ec7256e27b.jpg",
+    "format": "video/webm",
+    "videoBytes": 2150385,
+    "videoSha256": "b7488aa4cf16ef729c5f78be7de0660618497efd204c8ee434e5629b02a87263",
+    "thumbnailBytes": 50123,
+    "thumbnailSha256": "f5aed8ec7256e27b7f37b2dca32ef53b9c22ac73980b8b4f8619817d5793b2a2"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

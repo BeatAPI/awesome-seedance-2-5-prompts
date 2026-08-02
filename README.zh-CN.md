@@ -8,8 +8,8 @@
 
 ## 首批内容
 
-- 69 条完整 Prompt 与对应 WebM 视频；
-- 64 条创作者来源核验案例；
+- 100 条完整 Prompt 与对应 WebM 视频；
+- 95 条创作者来源核验案例；
 - 5 条明确标注的官方展示案例；
 - 每条都保留视频原帖、Prompt 来源、模型证据、参考素材组合、时长、
   画幅、验证状态和权利状态。
@@ -21,6 +21,36 @@
 
 | Prompt | 来源 | 时长 | 证据状态 |
 | --- | --- | --- | --- |
+| [韩国城市一日 Vlog](./prompts/korean-city-day-vlog-993075.json) | [@aivoxyy](https://x.com/aivoxyy/status/2083596849768993075) | 30s | source-verified |
+| [地下说唱摄影棚表演](./prompts/underground-rap-performance-studio-129750.json) | [@digitalwindai](https://x.com/digitalwindai/status/2083594010271129750) | 30s | source-verified |
+| [意大利海岸尾波滑水](./prompts/italian-coast-wakeboarding-splash-433442.json) | [@hedo_ist](https://x.com/hedo_ist/status/2083593369964433442) | 32s | source-verified |
+| [Jan 的三十二秒送货行动](./prompts/jan-thirty-second-delivery-run-271585.json) | [@janmexico](https://x.com/janmexico/status/2083592314132271585) | 36s | source-verified |
+| [战斗机突袭战列舰](./prompts/fighter-jet-battleship-strike-814869.json) | [@Artedeingenio](https://x.com/Artedeingenio/status/2083573043322814869) | 30s | source-verified |
+| [卡通斗牛犬大战真人拳手](./prompts/cartoon-bulldog-versus-live-boxer-029228.json) | [@BaBELL81](https://x.com/BaBELL81/status/2083562978730029228) | 24s | source-verified |
+| [1970 年代地中海女性纪录片](./prompts/1970s-mediterranean-woman-documentary-685471.json) | [@hey_am_cherry](https://x.com/hey_am_cherry/status/2083561941004685471) | 15s | source-verified |
+| [古风舞者人物传记](./prompts/ancient-dance-character-biography-209987.json) | [@MrLarus](https://x.com/MrLarus/status/2083558691895209987) | 30s | source-verified |
+| [废墟城市连续逃亡](./prompts/devastated-city-continuous-escape-880148.json) | [@Runaway_Rhino](https://x.com/Runaway_Rhino/status/2083557520421880148) | 30s | source-verified |
+| [手工玩偶拳手围攻](./prompts/handmade-doll-boxer-swarm-594949.json) | [@byarlooo](https://x.com/byarlooo/status/2083551727970594949) | 30s | source-verified |
+| [天文馆重力扭曲](./prompts/planetarium-gravity-distortion-288542.json) | [@sebatheepan](https://x.com/sebatheepan/status/2083546568125288542) | 15s | source-verified |
+| [赛博装甲自由落体](./prompts/cybernetic-freefall-armor-624470.json) | [@opener_ai](https://x.com/opener_ai/status/2083542433078624470) | 30s | source-verified |
+| [练习生岁月录像机蒙太奇](./prompts/trainee-days-camcorder-montage-251247.json) | [@doctorwasif](https://x.com/doctorwasif/status/2083539372478251247) | 15s | source-verified |
+| [绘画风海啸毁灭场景](./prompts/painterly-tsunami-destruction-sequence-047131.json) | [@Framer_X](https://x.com/Framer_X/status/2083538430987047131) | 29s | source-verified |
+| [黑曜石巨人变形](./prompts/obsidian-giant-transformation-531249.json) | [@jaynwabueze](https://x.com/jaynwabueze/status/2083524542488531249) | 30s | source-verified |
+| [孩子与巨龙的野餐混战](./prompts/children-and-dragons-picnic-chaos-175096.json) | [@AiMeowing](https://x.com/AiMeowing/status/2083516822054175096) | 15s | source-verified |
+| [土耳其鸡蛋 Mini-DV 食谱 Vlog](./prompts/turkish-eggs-mini-dv-recipe-vlog-107610.json) | [@buraktuyan](https://x.com/buraktuyan/status/2083502111401107610) | 30s | source-verified |
+| [第一次世界大战空战电影](./prompts/world-war-i-air-combat-film-449091.json) | [@df_reno](https://x.com/df_reno/status/2083482898129449091) | 29s | source-verified |
+| [越南城市踏板车长镜头](./prompts/vietnam-city-scooter-long-take-216517.json) | [@noman23761](https://x.com/noman23761/status/2083479371621216517) | 30s | source-verified |
+| [连续身体控制舞蹈测试](./prompts/continuous-body-control-dance-test-900903.json) | [@noman23761](https://x.com/noman23761/status/2083478189028900903) | 30s | source-verified |
+| [暗黑奇幻动画穿越片头](./prompts/dark-fantasy-anime-flythrough-opening-591666.json) | [@yachimat_manga](https://x.com/yachimat_manga/status/2083477858337591666) | 24s | source-verified |
+| [凌晨三点法国夜生活 POV](./prompts/three-a-m-french-nightlife-pov-399523.json) | [@patrickassale](https://x.com/patrickassale/status/2083470287954399523) | 30s | source-verified |
+| [水彩水族馆章鱼之旅](./prompts/watercolor-aquarium-octopus-journey-962531.json) | [@jAlpha_create](https://x.com/jAlpha_create/status/2083433664889962531) | 30s | source-verified |
+| [竖屏手机生活方式 Vlog](./prompts/vertical-smartphone-lifestyle-vlog-333367.json) | [@liaojitao](https://x.com/liaojitao/status/2083432555752333367) | 30s | source-verified |
+| [武侠客栈饺子对决](./prompts/wuxia-inn-dumpling-duel-209926.json) | [@johnAGI168](https://x.com/johnAGI168/status/2083430135152209926) | 30s | source-verified |
+| [蒸汽朋克桃太郎三十秒故事](./prompts/steampunk-momotaro-thirty-second-story-896854.json) | [@ChiakiAkagi](https://x.com/ChiakiAkagi/status/2083420580267896854) | 30s | source-verified |
+| [K-Pop 偶像一日录像机蒙太奇](./prompts/k-pop-idol-day-camcorder-montage-345309.json) | [@doctorwasif](https://x.com/doctorwasif/status/2083418162331345309) | 15s | source-verified |
+| [三十人家庭晚餐](./prompts/thirty-character-family-dinner-307528.json) | [@aimikoda](https://x.com/aimikoda/status/2083415174556307528) | 25s | source-verified |
+| [赛博武侠群像预告片](./prompts/cyber-wuxia-ensemble-trailer-800985.json) | [@TanLuAI](https://x.com/TanLuAI/status/2083384465611800985) | 24s | source-verified |
+| [绘本生物洪水逃亡](./prompts/illustrated-creature-flood-escape-172377.json) | [@AiMeowing](https://x.com/AiMeowing/status/2083332412558172377) | 30s | source-verified |
 | [塞莱斯蒂亚浮空魔法城](./prompts/celestia-floating-magic-city.json) | [@kantakanta1233](https://x.com/kantakanta1233/status/2083291892163506584) | 30s | source-verified |
 | [千年静止机位风景变迁](./prompts/thousand-year-static-landscape.json) | [@sebatheepan](https://x.com/sebatheepan/status/2083290634731864190) | 30s | source-verified |
 | [日本综艺泡沫滚筒](./prompts/japanese-game-show-foam-roller.json) | [@NexlowX](https://x.com/NexlowX/status/2083281796351881692) | 15s | source-verified |
@@ -57,6 +87,7 @@
 | [虚构体育场商业广告](./prompts/fictional-stadium-sports-commercial.json) | [@tanabe_fragm](https://x.com/tanabe_fragm/status/2083148734268121401) | 15s | source-verified |
 | [随机涂鸦舞蹈 MV](./prompts/randomized-graffiti-dance-mv.json) | [@sailorv321](https://x.com/sailorv321/status/2083143676499505556) | 45s | source-verified |
 | [神秘学独角动画短片](./prompts/occult-solo-anime-short.json) | [@Sen_Jyu00](https://x.com/Sen_Jyu00/status/2083141723493150999) | 15s | source-verified |
+| [雨夜市集家庭动画](./prompts/rainy-night-market-family-animation-775828.json) | [@jaynwabueze](https://x.com/jaynwabueze/status/2083137457000775828) | 30s | source-verified |
 | [韩国街头 Mini-DV Vlog](./prompts/korean-mini-dv-street-vlog.json) | [@Strength04_X](https://x.com/Strength04_X/status/2083131866580672827) | 30s | source-verified |
 | [复古 Y2K 流行双人 MV](./prompts/retro-y2k-pop-duo-music-video.json) | [@higgsfield_ai](https://x.com/higgsfield_ai/status/2083130063382597778) | 15s | source-verified |
 | [真人舞蹈对比](./prompts/live-action-dance-comparison.json) | [@sailorv321](https://x.com/sailorv321/status/2083129374786949560) | 15s | source-verified |

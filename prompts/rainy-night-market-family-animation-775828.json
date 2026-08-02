@@ -1,0 +1,43 @@
+{
+  "slug": "rainy-night-market-family-animation-775828",
+  "title": {
+    "en": "Rainy Night-Market Family Animation",
+    "zh": "雨夜市集家庭动画"
+  },
+  "description": {
+    "en": "30-second animation prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒雨夜市集家庭动画提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "animation",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@jaynwabueze",
+    "url": "https://x.com/jaynwabueze/status/2083137457000775828"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/jaynwabueze/status/2083137462583362042"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/jaynwabueze/status/2083137457000775828"
+  ],
+  "prompt": "High-quality 3D animated cartoon, stylized modern family-animation film\n\nlook, oversized heads, big expressive eyes, exaggerated proportions,\n\nsmooth rounded clay-like 3D surfaces, subsurface scattering skin, vibrant\n\nsaturated colors, cinematic animated lighting. NOT realistic, NOT live\n\naction.\n\nSingle continuous 30-second shot, no cuts, one flowing camera move.\n\nSUBJECT: a young woman with an oversized round head, huge expressive\n\neyes, dark hair in a messy bun, a long mustard-yellow raincoat, boots, a\n\nsmall satchel. Same design, hair, and outfit throughout, no drift.\n\nLOCATION: a cozy stylized night market in the rain, narrow covered lane,\n\nstrings of warm hanging bulbs, steaming food stalls with rounded cartoon\n\nawnings, friendly cartoon vendors and shoppers moving around her, glossy\n\nwet cobblestones reflecting the lights, puddles everywhere.\n\nCOLOR 60:30:10 — 60% deep blue rainy night and wet stone / 30% warm\n\ngolden bulb and stall light / 10% accent of her mustard-yellow raincoat.\n\n0–8s: the camera tracks backward ahead of her as she walks through the\n\nmarket with a small bounce in her step, dodging puddles, steam curling\n\nfrom stalls, vendors waving as she passes.\n\n8–16s: the camera arcs smoothly around to her side, revealing the full\n\ndepth of the market behind her, then rises to follow just over her\n\nshoulder as she stops to smile at a stall of glowing paper lanterns.\n\n16–24s: she turns down a quieter narrow alley, the camera following, the\n\ncrowd noise falling away, single bulbs swinging gently overhead, her\n\nreflection rippling through a puddle as she steps over it.\n\n24–30s: the camera cranes up and pulls back into a wide as she reaches a\n\nwarmly lit doorway at the alley's end, pauses, shakes the rain off her\n\ncoat, and steps inside. Hold on the glowing doorway.\n\nPHYSICS: raindrops bounce and splash with cartoon weight, her coat swings\n\nand ripples as she walks, puddles ripple outward from each step, steam\n\nrises and curls, hanging bulbs sway gently.\n\nAUDIO: rain pattering on awnings, cheerful market chatter, sizzling food,\n\nher boots splashing, the noise thinning to soft rain in the alley, a warm\n\ndoor chime at the end.\n\nFORBIDDEN: no cuts, no design drift in face, hair, or coat, no realistic\n\nor live-action rendering, no auto-generated subtitles, no background\n\nmusic, no readable text or logos, no named studio references, no warping\n\ngeometry.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/rainy-night-market-family-animation-775828/video-1136580a143df3c3.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/rainy-night-market-family-animation-775828/poster-75cb6c2dcb15f508.jpg",
+    "format": "video/webm",
+    "videoBytes": 2088372,
+    "videoSha256": "1136580a143df3c3d77ca6e2a461c022238be89f429c85ce718521cf0b9d11d0",
+    "thumbnailBytes": 68687,
+    "thumbnailSha256": "75cb6c2dcb15f5087603c3981e125a2fbf251ca2610e4b375fb7b580386d93aa"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

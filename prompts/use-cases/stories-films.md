@@ -1,6 +1,6 @@
 # Seedance 2.5 Stories & Films prompts
 
-[Back to all 69 prompts](../../README.md)
+[Back to all 100 prompts](../../README.md)
 
 ## 1. Cloud World First-Person Freefall
 
@@ -35,7 +35,504 @@ Hyper-detailed, breathtaking surreal world-building, perfect motion continuity, 
 
 ---
 
-## 2. Thousand-Year Static Landscape
+## 2. 1970s Mediterranean Woman Documentary
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/1970s-mediterranean-woman-documentary-685471/video-17bdf822c7c08f99.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/1970s-mediterranean-woman-documentary-685471/poster-fbf5658f7edc5e8b.jpg" alt="1970s Mediterranean Woman Documentary video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Style: Authentic late-1970s Mediterranean documentary captured on vintage 16mm Kodak film, naturally faded colors, subtle film grain, real optical imperfections, slight gate...</summary>
+
+~~~~text
+Style:
+Authentic late-1970s Mediterranean documentary captured on vintage 16mm Kodak film, naturally faded colors, subtle film grain, real optical imperfections, slight gate weave, shoulder-mounted handheld camera with imperfect human movement, soft vintage lenses, warm afternoon sunlight, realistic skin texture, no cinematic polish, feels like forgotten archival footage discovered decades later.
+
+0–3 seconds:
+A close handheld tracking shot follows a young woman in her 20s walking slowly through a narrow seaside alley lined with whitewashed houses, hanging linen curtains gently moving in the ocean breeze. She wears a simple linen dress, a woven shoulder bag, and naturally messy hair with no makeup. Instead of posing, she lightly brushes her fingertips across the textured walls while quietly observing everyday life around her.
+
+3–7 seconds:
+The camera naturally falls slightly behind her as she enters a tiny open courtyard where local people casually gather. An elderly man repairs a bicycle, someone waters colorful plants from a balcony above, laundry sways overhead, and a sleepy orange cat crosses directly in front of the lens. The camera subtly adjusts to avoid the cat, creating an authentic human reaction.
+
+7–11 seconds:
+A young child runs toward a rolling wooden toy that passes close to her feet. She instinctively bends down, catches it with one hand, smiles warmly, and hands it back without stopping her walk. The child laughs and runs away. No one performs for the camera; everything feels naturally observed.
+
+11–15 seconds:
+She reaches a small overlook facing the sparkling sea. Instead of stopping dramatically, she casually rests one elbow on an old stone railing while watching distant fishing boats. A gust of wind lifts loose strands of hair across her face. She gently moves them aside and continues walking out of frame as the handheld camera hesitates for a second before slowly following behind.
+
+Image Quality:
+Ultra-photorealistic vintage documentary, authentic analog exposure, realistic human motion, organic focus breathing, imperfect framing, Kodak 16mm archival texture, subtle light leaks, soft highlight bloom, natural skin pores, no AI smoothness, 4:3 aspect ratio.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/1970s-mediterranean-woman-documentary-685471/video-17bdf822c7c08f99.webm)
+
+**Source:** [@hey_am_cherry](https://x.com/hey_am_cherry/status/2083561941004685471) · 15s · 9:16 · documentary
+
+---
+
+## 3. Handmade Doll Boxer Swarm
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/handmade-doll-boxer-swarm-594949/video-282199aef2aa862c.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/handmade-doll-boxer-swarm-594949/poster-4ae50c2531b5ed41.jpg" alt="Handmade Doll Boxer Swarm video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Then used this prompt with Seedance 2.5, 720p 30s: Use @Image 5 as storyboard to drive the whole animation. Use @Image 1 only for the boxer doll's final identity: chibi...</summary>
+
+~~~~text
+Then used this prompt with Seedance 2.5, 720p 30s:
+Use @Image 5 as storyboard to drive the whole animation.
+Use @Image 1 only for the boxer doll's final identity: chibi felt-and-paper doll, big pale wool afro with dark undercut, thick drawn eyebrows, round blush cheeks, tattooed arms, painted floral shirt, oversized red boxing gloves.
+Use @Image 2 only for the boxer's head and face detail: pale wool hair, big drawn eyes, painted neck and face tattoos.
+Use @Image 3 only for the crowd of funny handmade dolls: chunky painted paper-and-wool figures with round heads, dot eyes, kid and animal faces.
+Use @Image 4 only for additional funny handmade dolls: spiky-haired kids, blue-haired doll, a red cat-monster, blush-cheeked figures.
+ACTION-CAMERA: Bouncy stop-motion timing with slight stutter and pops, snappy boxing moves, squash and stretch on impacts, little hops and recoils; playful handheld-style camera with quick pushes, whip-pans and low hero angles, hard cuts on the action, no slow motion.
+STYLE: Stop-motion handmade craft animation; chunky felt, wool and painted-paper dolls with visible fibers, brush strokes and glue, shot like a tabletop diorama against a soft pale studio background with faint hand-drawn city posters, warm even light, 35mm to 50mm shallow depth of field, tiny dust motes.
+VISUALFX: Practical craft only; small felt-fluff puffs and paper-scrap bursts on hits, wobbling dolls, a few drawn motion smears; no glossy energy effects, no glow, keep everything handmade.
+SOUNDFX: Playful upbeat percussion and toy-piano; soft felt thumps, squeaky doll wobbles, paper crumples, comedic boings, tiny crowd murmurs, and cartoon impact pops on each punch.
+
+MOTION:
+P01-P02: Guard then swarm: the little felt boxer bounces on the spot with red gloves up, glaring, as a colorful crowd of funny handmade dolls shuffles and presses in around him from both sides.
+P03-P04: Dodge then counter: he ducks low under a big doll's swinging felt arm, then snaps a straight red-glove jab into another doll's face with a paper-scrap pop and a squash-and-stretch recoil.
+P05-P06: Uppercut then down: he springs up with a big wobbling uppercut that launches one doll into the air, then lands as it flops flat on its back and the others hop backward.
+P07-P08: Regroup then pose: the crowd bunches up and piles in again around the tiny boxer, who spins through them and plants himself with both red gloves raised in a triumphant pose as funny dolls scatter and wobble, holding the little hero shot before the cut.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/handmade-doll-boxer-swarm-594949/video-282199aef2aa862c.webm)
+
+**Source:** [@byarlooo](https://x.com/byarlooo/status/2083551727970594949) · 30s · 16:9 · animation
+
+---
+
+## 4. Planetarium Gravity Distortion
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/planetarium-gravity-distortion-288542/video-d597d1e126b2e270.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/planetarium-gravity-distortion-288542/poster-db4d467136601cb2.jpg" alt="Planetarium Gravity Distortion video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — An elderly night janitor cleans an abandoned Art Deco planetarium during a thunderstorm. The projected moon becomes physically real and drags the entire auditorium into its...</summary>
+
+~~~~text
+An elderly night janitor cleans an abandoned Art Deco planetarium during a thunderstorm. The projected moon becomes physically real and drags the entire auditorium into its gravity. [0–1.5s] Shot 1: Macro shot of mop water trembling in its bucket although the floor is still. [1.5–3s] Shot 2: Wide tracking shot follows the janitor beneath the dark planetarium dome. [3–4.5s] Shot 3: Close-up as the dormant star projector switches on by itself. [4.5–6s] Shot 4: Overhead shot: a perfect moon appears on the dome, shedding fine silver dust. [6–7.5s] Shot 5: The janitor’s flashlight beam bends upward toward the moon. [7.5–9s] Shot 6: Close-up of auditorium seats vibrating as loose screws rise from their mountings. [9–10.5s] Shot 7: Low-angle shot as the projected moon swells into a solid cratered sphere descending from the ceiling. [10.5–12s] Shot 8: The janitor falls upward, catching a brass handrail before leaving the floor. [12–13.5s] Shot 9: Popcorn, tickets and cleaning cloths spiral around the moon in orbital rings. [13.5–15s] Shot 10: Camera rolls ninety degrees as gravity rotates through the auditorium. [15–16.5s] Shot 11: Mop water climbs from the bucket as a transparent floating ribbon. [16.5–18s] Shot 12: Wide shot as seats tear loose and orbit without colliding with the janitor. [18–19.5s] Shot 13: The dome surface fractures into a convincing infinite star field. [19.5–21s] Shot 14: A miniature eclipse shadow begins crossing the moon and freezing everything it touches. [21–22.5s] Shot 15: The janitor swings between floating seats toward the emergency dome lever. [22.5–24s] Shot 16: Close-up: his fingertips catch the lever as the handrail tears loose. [24–25.5s] Shot 17: He pulls it; mechanical shutters race across the dome and extinguish the artificial sun. [25.5–27s] Shot 18: The moon implodes silently into streams of silver dust and collapsing orbital debris. [27–28.5s] Shot 19: Gravity returns; seats slam into place while the janitor lands safely in his rolling bucket. [28.5–30s] Shot 20: Quiet final close-up: he discovers a marble-sized moon in his pocket while the water in his bucket produces a tiny tide. Global style: Photoreal celestial surrealism, physically accurate dust and fluid behavior, deep blacks, silver-blue moonlight, Art Deco brass, realistic collision physics, coherent janitor identity. Effects must originate from the projector, affect real objects, then collapse into the miniature moon. No text, extra people or unexplained teleportation.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/planetarium-gravity-distortion-288542/video-d597d1e126b2e270.webm)
+
+**Source:** [@sebatheepan](https://x.com/sebatheepan/status/2083546568125288542) · 15s · 16:9 · cinematic story
+
+---
+
+## 5. Children and Dragons Picnic Chaos
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/children-and-dragons-picnic-chaos-175096/video-9ba2f4f7b5730c0b.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/children-and-dragons-picnic-chaos-175096/poster-3c2a5097f6d53590.jpg" alt="Children and Dragons Picnic Chaos video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Lock the original artwork completely. Preserve the exact illustration style, brushwork, textures, materials, color palette, lighting, creature proportions, facial expressions,...</summary>
+
+~~~~text
+Lock the original artwork completely. Preserve the exact illustration style, brushwork, textures, materials, color palette, lighting, creature proportions, facial expressions, environment, and character designs. Never change the art style or introduce new designs. Keep every dragon and child identical throughout. No text or watermark. One continuous forward-moving story. Begin with motion from frame one. Use cinematic hard cuts, speed ramps, whip pans, dynamic tracking, FPV fly-throughs, overhead drone shots, bullet time where appropriate, volumetric clouds, realistic fire physics, motion blur, depth of field, subtle film grain, debris, feathers, sparks, smoke, expressive facial animation, and seamless transitions.
+
+0-2s
+
+Cold open. The children happily eat while the giant dragon lazily sniffs the food. The baby dragons taste tiny bites, instantly make disgusted faces, stare at each other, then suddenly leap onto the table together. Fast push-in, comedic bass hit.
+
+2-4s
+
+The babies explode into chaos. Plates, bread and vegetables fly everywhere. One dragon flips a table with its tail, another steals a roast, another scatters books while the giant dragon watches with an embarrassed smile. Rapid whip pans and handheld camera.
+
+4-6s
+
+The giant dragon opens both wings. The babies launch from its back and burst through the castle ceiling into the sky. FPV camera follows them weaving between towers before soaring into bright clouds. Epic orchestral rise.
+
+6-9s
+
+High-speed aerial sequence. The baby dragons dive through clouds, barrel roll, narrowly miss cliffs, then suddenly spot a peaceful sheep meadow below. Bullet-time pause on their excited faces before they dive.
+
+9-12s
+
+They swoop low across the meadow. Tiny controlled bursts of fire instantly roast food over campfire-style racks beside the flock without harming people. The dragons eagerly grab the freshly cooked feast, stuffing themselves with exaggerated joyful expressions. Smoke, sparks, golden firelight and fast tracking shots.
+
+12-15s
+
+Now completely full, the dragons happily fly back through sunset clouds carrying roasted food. They glide into the castle and land beside the giant dragon. The children laugh instead of getting angry. The babies proudly share their food with everyone. The giant dragon smiles warmly as the camera cranes upward, ending on a cozy wide cinematic family shot.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/children-and-dragons-picnic-chaos-175096/video-9ba2f4f7b5730c0b.webm)
+
+**Source:** [@AiMeowing](https://x.com/AiMeowing/status/2083516822054175096) · 15s · 16:9 · animation
+
+---
+
+## 6. World War I Air Combat Film
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/world-war-i-air-combat-film-449091/video-90a8c64845259b38.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/world-war-i-air-combat-film-449091/poster-7a1096c79a6d13e4.jpg" alt="World War I Air Combat Film video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 【30 秒一战空战 严格分层镜头版提示词（逐镜头标注摄影参数 + 前景 / 中景 / 背景三层光影，防过拟合） 30 秒高镜头密度一战空中格斗完整故事线，激烈战场硝烟氛围，一战高空漫天混战场景，超大画幅宽银幕，粗颗粒复古胶片质感，黄褐色复古战场影调，21:9 宽银幕，画面全程动态流畅无卡顿，每一个镜头严格区分前景 / 中景 /...</summary>
+
+~~~~text
+【30 秒一战空战 严格分层镜头版提示词（逐镜头标注摄影参数 + 前景 / 中景 / 背景三层光影，防过拟合）
+30 秒高镜头密度一战空中格斗完整故事线，激烈战场硝烟氛围，一战高空漫天混战场景，超大画幅宽银幕，粗颗粒复古胶片质感，黄褐色复古战场影调，21:9 宽银幕，画面全程动态流畅无卡顿，每一个镜头严格区分前景 / 中景 / 背景三层景深，前后景焦距完全不同，杜绝平面前后景同焦画面，彻底避免 AI 过拟合同质化效果。德国双翼战机
+￼
+德国战机2
+，英国双翼战机
+￼
+英国战机
+，德军飞行员
+￼
+德飞行员
+，英国飞行员
+￼
+英飞行员
+。
+0-2s：大远景高空俯视 焦距：14mm 光圈：f/5.6。前景：浓密高空硝烟缓慢流动擦过镜头下缘；中景：两架主角双翼战机（德方战机
+￼
+德国战机2
+在后，英方战机在前
+￼
+英国战机
+）一起在云缝里高速俯冲，后机死死咬住前机尾后；背景：数十架一战士战机群在远方天空各处缠斗，拉出密密麻麻白色航迹，厚重铅灰色积云铺满整个天空。自然光硬侧光，光线从侧上方斜切下来，硝烟边缘被阳光打透成半透明金色。
+2-4s：驾驶舱中景跟拍 焦距：75mm 光圈：f/2.0。前景：螺旋桨转动拉出动态模糊气流从镜头前扫过；中景：德方飞行员
+￼
+德飞行员
+坐在驾驶舱里猛推操纵杆，头盔风镜反射出前方英方战机轮廓；背景：战机帆布蒙皮机身结构、高空远处模糊的云团轮廓层次虚化。侧逆光打亮飞行员肩线，驾驶舱内部保留暗部细节，浅景深背景完全虚化。
+4-7s：机身侧面跟拍中近景 焦距：50mm 光圈：f/2.8。前景：高速气流卷动机翼蒙布线头抖动擦过画面边缘；中景：两架飞机机翼几乎贴在一起，德方战机机枪口连续喷吐出枪口焰，亮白色曳光弹线条连续擦过英方战机机翼蒙皮表面；背景：远处空中其他战机开火的微弱枪口焰光点零散分布在硝烟里。侧顶硬光，机枪开火瞬间枪口焰在机身蒙皮上投下跳动的光斑。
+7-10s：机翼破口大特写 焦距：180mm 光圈：f/1.4。前景：飞溅的金属蒙皮碎屑在镜头前景慢动作划过；中景：英方战机机翼表面被机枪子弹击中，帆布蒙皮撕开破口漏出内部钢丝骨架，缕缕白烟从破口处冒出来；背景：远处蓝天和云层被浅景深完全虚化成柔和色块。侧光精准打亮破口边缘撕裂的帆布纤维纹理，暗部保留阴影层次，极致浅景深。
+10-13s：飞行员近景特写 焦距：85mm 光圈：f/1.8。前景：高速气流吹动飞行服领口在画面左下角微微晃动；中景：英方飞行员猛拉杆回头看向后方，脸上紧绷全神贯注，快速扳动操纵杆做极限规避动作；背景：驾驶舱风窗外飞速流过的云层完全虚化。侧光半打亮飞行员半张脸，另一半落在硬朗阴影里，浅景深背景完全模糊，突出人物紧绷情绪。
+13-17s：极限规避低角度环绕镜头 焦距：24mm 光圈：f/4。前景：地面炸起的橙色硝烟烟尘从画面底部向上翻涌；中景：英方战机侧身几乎 90 度侧翻，大角度转向从德方战机射击窗口里快速滑脱，机翼下方掠过地面一战战壕铁丝网轮廓；背景：远方地平线处数十个地面炸开的硝烟烟柱缓缓升起。侧逆光把战机机身勾出完整金色轮廓，低角度让机身在天空里极具冲击力，中景深只把机身主体拍实，远景硝烟层次自然虚化。
+17-21s：高空拉升大远景 焦距：20mm 光圈：f/8。前景：半透明硝烟云团从镜头前缓缓飘过；中景：两架主角飞机一追（德方战机）一绕（英方战机）在高空云团里拉出交叉的白烟轨迹；背景：整片天空布满上百条战斗机拉出的白色航迹线，无数小黑点大小的战机在远景各处互相厮杀，庞大混乱的一战空战战场全貌完整铺开。顶光漫射下硝烟层次丰富，大景深完整收纳前景中景背景三层全部清晰的战场空间，画面纵深感拉满。
+21-24s：迎头对冲低角度仰拍 焦距：35mm 光圈：f/2.8。前景：两架飞机高速旋转的螺旋桨扇叶边缘虚化形成动态扇面；中景：双机同时迎头对冲相向飞行，机身快速向镜头逼近，距离飞速缩短；背景：后方整片高空混战的机群轮廓全部虚化散焦。正仰拍逆光，机身被阳光完全勾勒出黑色剪影，只透出机翼轮廓的半透明帆布纹理，前景螺旋桨动态模糊增加速度感。
+24-27s：隔舱对视大特写 焦距：100mm 光圈：f/1.4。前景：驾驶舱风窗外晃动的气流波纹虚化在镜头前；中景：两名飞行员隔着呼啸气流在驾驶舱里互相对视一瞬，时间微微放慢；背景：两侧飞速向后流走的天空和云团完全虚化成运动模糊拖影。侧软光只打亮两名飞行员半张脸，背景极致虚化，浅景深把所有注意力锁在人物眼神对视的瞬间。
+27-29s：贴脸擦身极高速跟拍 焦距：40mm 光圈：f/3.5。前景：机翼尖擦过的气流扰动在画面边缘形成动态扭曲波纹；中景：两架战机几乎贴脸擦肩而过，机翼尖差几厘米就会相撞，气流吹动机翼表面蒙布剧烈抖动；背景：两侧向后飞速退去的混战战机全部拉出动态运动拖影。追焦跟拍全程只有两架主角战机机身完全锐利，前后运动物体全部带自然运动模糊，速度感拉满。
+29-30s：两机反向散开收束大远景 焦距：21mm 光圈：f/5.6。前景：最后一缕高空硝烟缓缓从画面中间飘过；中景：两架反向飞远的双翼机背对着彼此向天空两个方向散开，身后留下两道漫长的白烟航迹，黄昏阳光把机身轮廓镀上一层金边；背景：远方天空仍在持续厮杀的整个战场，漫天航迹和硝烟构成庞大的一战空战史诗全景。黄昏暖橙色侧逆光斜照整个画面，烟的边缘是金的，云层底部是暖橙色，远处战场硝烟带着冷蓝灰调，冷暖对比宽银幕史诗感拉满。
+全局约束：全程动作节奏紧凑激烈，一战战机细节完全写实，没有任何现代喷气式飞机，无多余字幕无多余文字，胶片颗粒均匀自然，所有镜头的光圈焦距参数对应生成正确景深分层，严格杜绝前后景同焦平面的扁平化画面，完全避免过拟合 AI 同质化效果。镜头要自然，不要生硬。】全片不要有音乐，不要有文字。
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/world-war-i-air-combat-film-449091/video-90a8c64845259b38.webm)
+
+**Source:** [@df_reno](https://x.com/df_reno/status/2083482898129449091) · 29s · 827:360 · cinematic story
+
+---
+
+## 7. Vietnam City Scooter Long Take
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/vietnam-city-scooter-long-take-216517/video-6b644fc5f97d874e.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/vietnam-city-scooter-long-take-216517/poster-0fbd08dc7588028d.jpg" alt="Vietnam City Scooter Long Take video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;30-second cinematic photorealistic video, continuous long tracking shot with only one hard cut at the end. Natural overcast daylight, realistic physics, smooth handheld camera...</summary>
+
+~~~~text
+"30-second cinematic photorealistic video, continuous long tracking shot with only one hard cut at the end. Natural overcast daylight, realistic physics, smooth handheld camera movement, high detail, 4K.
+
+0-12s: Medium shot of a young East Asian man in his mid-20s with short black hair, plain gray t-shirt, walking slowly and contemplatively toward the camera on a busy Vietnamese city sidewalk. Scooters parked and moving, street shops, trees, pedestrians and vendors in the background. He has a slightly sad, thoughtful expression. Camera tracks backward smoothly, keeping him centered.
+
+12-18s: He reaches a black scooter parked on the side of the road, opens the under-seat compartment, takes out a black helmet, carefully puts it on and tightens the chin strap. Then mounts the scooter.
+
+18-24s: Side tracking shot transitioning to rear view as he starts the scooter and rides into the intersection among other scooters and cars. Natural traffic motion and realistic bike physics.
+
+Hard cut at 24s.
+
+24-30s: Aftermath of the accident. Extreme close-up of the same man lying injured on the asphalt, eyes closed, blood stains near his head, black helmet lying nearby. Then slow overhead drone shot revealing the overturned scooter, more blood on the road, and a circle of bystanders gathering around looking down in shock.30-second cinematic photorealistic video, continuous long tracking shot with only one hard cut at the end. Natural overcast daylight, realistic physics, smooth handheld camera movement, high detail, 4K.
+
+0-12s: Medium shot of a young East Asian man in his mid-20s with short black hair, plain gray t-shirt, walking slowly and contemplatively toward the camera on a busy Vietnamese city sidewalk. Scooters parked and moving, street shops, trees, pedestrians and vendors in the background. He has a slightly sad, thoughtful expression. Camera tracks backward smoothly, keeping him centered.
+
+12-18s: He reaches a black scooter parked on the side of the road, opens the under-seat compartment, takes out a black helmet, carefully puts it on and tightens the chin strap. Then mounts the scooter.
+
+18-24s: Side tracking shot transitioning to rear view as he starts the scooter and rides into the intersection among other scooters and cars. Natural traffic motion and realistic bike physics.
+
+Hard cut at 24s.
+
+24-30s: Aftermath of the accident. Extreme close-up of the same man lying injured on the asphalt, eyes closed, blood stains near his head, black helmet lying nearby. Then slow overhead drone shot revealing the overturned scooter, more blood on the road, and a circle of bystanders gathering around looking down in shock."
+
+Seedance 2.5 really cooked on this one. Share your thoughts in the comment section below!
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/vietnam-city-scooter-long-take-216517/video-6b644fc5f97d874e.webm)
+
+**Source:** [@noman23761](https://x.com/noman23761/status/2083479371621216517) · 30s · 16:9 · cinematic story
+
+---
+
+## 8. Dark-Fantasy Anime Flythrough Opening
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/dark-fantasy-anime-flythrough-opening-591666/video-5bb0becf20c97614.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/dark-fantasy-anime-flythrough-opening-591666/poster-dc04b427b06df0e5.jpg" alt="Dark-Fantasy Anime Flythrough Opening video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — type: anime_opening_continuous_camera_flythrough style: visual: dark fantasy anime, cel-shaded 2D, high contrast, full-color Japanese anime motion_quality: 24fps, 作画枚数多め,...</summary>
+
+~~~~text
+type: anime_opening_continuous_camera_flythrough style: visual: dark fantasy anime, cel-shaded 2D, high contrast, full-color Japanese anime motion_quality: 24fps, 作画枚数多め, メリハリのあるスピードランプ tone: stylish, dramatic, kinetic, elegant, ominous direction: > 日本のフルカラーアニメのオープニング。 高速なカット割りの代わりに、一筆書きのような連続カメラワークで、 複数のキャラクターを次々と捉えていく。 カメラは右へ左へ、上下へ、奥へ手前へと飛び回るローラーコースターPOVで、 一切止まらず、各キャラクターの最も映える瞬間を連続的につないでいく。 各キャラクターのポーズ・表情・背景・空間演出は、 そのキャラクターの性格、武器、属性、感情の核、物語上の役割から 最も魅力的に見える形をAIが自律的に判断して構成すること。 camera: motion: fast forward dolly with lateral drifts, rollercoaster POV, fluid aerial movement core_rule: > no hard cuts, no static frames, no fades. 全編を通して一続きのワンカットとして成立させること。 speed_ramps: > キャラクターのリビール直前に減速し、決めの瞬間で一瞬だけ視認性を確保し、 通過と同時に再加速する。 lens_feel: dynamic anime cinematography, dramatic perspective shifts, strong parallax final_exception: > ラストのクライマックスキャラクター、または集合決めカットの直前のみ、 重みを出すために初めてカメラの運動を極端に緩める、 もしくは短く静止してもよい。 environment_logic: base_space: 無限に広がる異空間ヴォイド variation_rule: > 各キャラクターのリビール区間ごとに、そのキャラクターの属性、感情、 象徴、戦闘スタイル、役割に最も合う環境要素をAIが選んで構成すること。 同じ空間を繰り返さず、毎回異なる空間的印象をつくること。 ただし全体としてはひとつの連続した異空間を飛行している感覚を保つこと。 palette_options: - deep crimson (#5A0000–#8B0000) + cyan mint accents + black shadows - midnight blue void + white petals + silver light - blood red mist + black feathers + gold rim light - violet smoke + shattered glass + cold cyan - 上記をベースに、各キャラクターに合わせて自由に再解釈してよい floating_elements_pool: - petals - feathers - blades - ribbons - chains - shattered glass - ash - sparks - torn paper - ink splashes - crystals - smoke - water droplets - leaves lighting: > dramatic rim light, deep shadows。 光源設計はキャラクターの性格や役割に応じて変えること。 支配的なキャラには逆光や王者のような縁光、 儚いキャラには拡散光、 狂気のあるキャラには不安定な明滅光など、 感情の印象を光で補強すること。 input_characters: description: > 以下にキャラクターのリストを与える。 人数は固定しない。2人でも10人以上でも対応可能。 各キャラクターについて、名前・性格・武器・属性・役割・感情の核・象徴モチーフなどを参照し、 そのキャラらしさが最大化する一瞬を構成すること。 format_example: - name: Character Name role: protagonist / rival / villain / mentor / key figure / support personality: "" weapon_or_power: "" attribute_or_theme: "" emotional_core: "" symbolism: "" priority: high / medium / low reveal_planning: global_rule: > 入力された全キャラクターを、物語の高まりが自然に増していく順に並べ替えてよい。 基本的には、軽め・不穏・謎めいた導入から始まり、 中盤で躍動感と情報量を増し、 終盤で主人公・対立軸・ラスボス・最重要人物へ向けて熱量を上げること。 per_character_rule: > 各キャラクターごとに以下を自動で設計すること： 1. pose: 静止ではなく「動きの最中の一瞬」 2. expression: 感情の核が伝わる表情 3. framing: 最も映えるカメラ距離・角度 4. background_variant: そのキャラに対応した空間演出 5. foreground_wipe: 次のキャラへつなぐ前景通過物 6. motion_relation: カメラに対して向かってくる / すれ違う / 見下ろす / 落下する / 回転する 等 uniqueness_rule: > 各キャラクターで、体勢、シルエット、画面構図、視線方向、背景モチーフ、 前景の抜け、動きのベクトルを被らせないこと。 連続して似た演出を使わないこと。 duration_rule: > 各キャラクターの見せ尺は均一でなくてよい。 priority が高いキャラクターほど、わずかに長く、印象的に見せること。 低優先キャラは短く鋭く見せ、高優先キャラは減速を強めて存在感を出すこと。 character_processing_loop: instruction: > 入力されたキャラクター配列を上から順に機械的に処理するのではなく、 オープニング映像として最も気持ちよく流れる順番に再構成してよい。 それぞれについて以下を判断して映像化すること。 for_each_character: decide: - このキャラは支配的か受動的か - 攻撃 / 防御 / 逃走 / 佇み / 観察 / 詠唱 / 指揮 のどれが最も似合うか - 武器や能力をどう一瞬で象徴的に見せるか - 視線、手、指、髪、衣装、武器のどこを強調すべきか - カメラがそのキャラに向かうべきか、横切るべきか、追い抜くべきか - そのキャラに最も合う背景と前景モチーフは何か output: - pose - expression - framing - background_variant - foreground_wipe - transition_vector transitions: between_reveals: > 花弁、羽根、刃、リボン、鎖、ガラス片、煙、灰、インクなどが 必ずレンズ手前を至近距離で横切り、それをワイプ代わりにして次のキャラへつなぐこと。 rule: > 必ず「前景がレンズを横切る → 空間が変化する → 次のキャラが現れる」 という流れを守ること。 continuity: > 前景ワイプは単なる切り替えではなく、 カメラが本当に次の空間へ飛び込んでいく感覚を生むように使うこと。 climax_logic: final_focus_rule: > 最後の区間では、最重要キャラクター （主人公 / ラスボス / キーパーソン / 物語の中心人物）に到達すること。 そのキャラは他よりも重く、強く、象徴的に見せること。 ending_options: - 最重要キャラクター単体でカメラが初めて止まり、一枚絵として決まる - 主人公の先に最大の敵が現れ、緊張感のある静止に入る - 最重要キャラのあと、短く複数人の集合構図へ流れ込み、一枚絵で締める final_image_rule: > ラストはポスターのように成立する構図にすること。 それまでの流動性と対比して、最後にだけ「止まる意味」があるように演出すること。 output_goal: > 結果として、全体が一本の連続したアニメOPショットとして成立し、 各キャラクターが短時間でも明確に識別でき、 しかも一人ずつ違う魅力で刻み込まれること。 単なる紹介映像ではなく、「この作品世界の熱量と因縁」が伝わること。 negative: - hard cuts - static camera (except final climax hold) - fades - text - logos - subtitles - photorealism - 3DCG look - repetitive poses - repeated environments - flat staging
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/dark-fantasy-anime-flythrough-opening-591666/video-5bb0becf20c97614.webm)
+
+**Source:** [@yachimat_manga](https://x.com/yachimat_manga/status/2083477858337591666) · 24s · 16:9 · animation
+
+---
+
+## 9. Three A.M. French Nightlife POV
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/three-a-m-french-nightlife-pov-399523/video-3b60e3c265f54dd5.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/three-a-m-french-nightlife-pov-399523/poster-6e8569c12bf99389.jpg" alt="Three A.M. French Nightlife POV video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — A 30 second ultra realistic handheld POV video set in France at around 3 am, outside a busy bar and nightlife street. The camera is the point of view of a young woman filming one...</summary>
+
+~~~~text
+A 30 second ultra realistic handheld POV video set in France at around 3 am, outside a busy bar and nightlife street. The camera is the point of view of a young woman filming one handed on an iPhone. We never see the phone itself at any point. The footage must feel like raw, authentic amateur nightlife footage with natural iPhone aesthetics.
+
+It is very late. People are leaving bars, smoking outside, waiting for Ubers, talking too loudly, eating kebabs, laughing in tired, sloppy groups. The mood in the street is a mix of drunken energy and visible exhaustion. Faces look tired, makeup is slightly worn, outfits are a bit messy after a long night. The pavement is slightly wet and reflects neon signs, headlights, and warm bar lights. The air feels cold and heavy. The whole scene must feel intensely real, socially awkward, and uncomfortable.
+
+The camera operator is a woman, and her friend is another young woman walking a few steps ahead of her, visibly angry. The camera follows her in a shaky, one-handed handheld way. The tension is already there from the first second. The argument is about the friend disappearing with a guy inside the bar and leaving the camera operator alone for nearly an hour, which made her miss the last train and feel abandoned. This is the core of the argument.
+
+The friend suddenly turns around while still walking and says in natural French from France:
+
+“Tu vas me suivre encore longtemps comme ça ?”
+
+The woman behind the camera replies, irritated and hurt:
+
+“Bah ouais, parce que tu m’as laissée toute seule comme une conne pendant une heure.”
+
+The friend rolls her eyes, tired and defensive:
+
+“Oh ça va, j’étais pas ‘avec un mec’, on parlait, c’est bon.”
+
+The camera gets a little closer as the woman filming answers immediately:
+
+“Mais arrête, tu m’as complètement lâchée. J’te cherchais partout.”
+
+The friend stops walking and turns fully toward the camera now, angry but exhausted:
+
+“J’allais pas te tenir la main toute la soirée non plus.”
+
+A few people nearby start glancing at them. Someone exits a bar laughing, a smoker looks over, a taxi passes in the background. The world keeps moving around them, but the argument becomes the emotional center of the scene.
+
+The woman filming replies, more intense now:
+
+“C’est pas ça le problème, le problème c’est que t’as disparu sans rien dire. J’ai raté le dernier train à cause de toi.”
+
+The friend laughs bitterly in disbelief:
+
+“À cause de moi ? Sérieux ? T’es incapable de te débrouiller toute seule ?”
+
+The camera jolts slightly from the emotional reaction. The breathing of the woman filming becomes more noticeable. Her voice gets sharper:
+
+“Mais t’abuses en fait. Tu fais toujours ça. Tu penses qu’à toi.”
+
+The friend steps closer, now visibly losing patience:
+
+“Et toi tu fais quoi là ? Tu me filmes en pleine rue comme une malade.”
+
+The woman behind the camera replies immediately:
+
+“Parce que tu racontes n’importe quoi !”
+
+The friend reaches toward the camera, not to grab a visible phone, but clearly trying to push it away from her face. The image jerks sideways hard from the contact.
+
+“Enlève ça de ma tête !”
+
+The camera operator snaps back:
+
+“Me touche pas !”
+
+Now the tension breaks completely. The friend, furious and emotionally overwhelmed, shouts:
+
+“Mais ferme-la un peu !”
+
+The woman filming fires back:
+
+“Sinon quoi ?!”
+
+There is a half-second pause. Heavy breathing. Eye contact directly into the lens. Then the friend lunges.
+
+She pushes into the camera operator. The footage becomes chaotic and violent, shaking hard as the woman filming loses balance. She lets out a shocked cry:
+
+“Putain !”
+
+The camera stumbles backward and drops toward the ground. As it falls, we catch blurred fragments: legs, jackets, streetlights, pavement, people turning around, someone shouting:
+
+“Eh oh ! Ça va pas ou quoi ?!”
+
+The friend jumps onto her as both fall out of balance. The camera lands badly on the ground, still recording for a split second, partly blocked by clothing or the ground. We hear struggling, overlapping voices, panic, and nearby people reacting. Then the video abruptly cuts.
+
+The entire performance must feel spontaneous, messy, and completely believable. Natural interruptions, overlapping dialogue, breath, hesitation, frustration, and tiny realistic body movements are essential. The acting must feel like a real late night argument between two exhausted friends, not a scripted drama. No cinematic polish, no stylized fight choreography, no slow motion, no music, no visible phone, no artificial lighting setup, and no glamorous performance. It must feel like a real one handed iPhone recording captured in the heat of the moment.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/three-a-m-french-nightlife-pov-399523/video-3b60e3c265f54dd5.webm)
+
+**Source:** [@patrickassale](https://x.com/patrickassale/status/2083470287954399523) · 30s · 9:16 · documentary
+
+---
+
+## 10. Watercolor Aquarium Octopus Journey
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/watercolor-aquarium-octopus-journey-962531/video-cb3254ef61621e2b.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/watercolor-aquarium-octopus-journey-962531/poster-78d387b6fd099506.jpg" alt="Watercolor Aquarium Octopus Journey video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 【使用プロンプト】 モード：画像動画変換／30秒・16:9・音声ON 参照画像の絵柄・線の細さ・彩色・通路と水槽の配置を厳密に保つ。人物は登場させない。 細い手描きのペン線、水彩の滲みを残した淡い彩色。深いパウダーブルーの光。カット無しの30秒ワンショット。...</summary>
+
+~~~~text
+【使用プロンプト】
+モード：画像動画変換／30秒・16:9・音声ON
+
+参照画像の絵柄・線の細さ・彩色・通路と水槽の配置を厳密に保つ。人物は登場させない。
+細い手描きのペン線、水彩の滲みを残した淡い彩色。深いパウダーブルーの光。カット無しの30秒ワンショット。
+タコは赤橙色で大きな目。水槽の幅の半分ほどの胴体を最後まで保つ。猫は茶トラでタコより小さい。水は水槽の中のまま、床は乾いている。
+カメラ：タコの移動に合わせて右へゆっくりトラッキング。
+
+0-4秒 タコが水槽から流れ落ち床に着地。奥から猫が歩いてくる。
+4-9秒 タコがモップに巻きついて化ける。猫が通過。目だけが猫を追う。
+9-13秒 猫が去る。タコがほどけて床を滑って進む。
+13-19秒 ぬいぐるみ棚に飛び込んで固まる。猫が首をかしげて見る。微動だにしない。
+19-23秒 棚から降りて廊下の角を曲がる。
+23-27秒 隣のタコ水槽をよじ登って中へ滑り込む。
+27-30秒 先住のタコと並んで腕をからめる。会いに来ただけ。止め絵。
+
+音：ピチカート弦の忍び足コメディ曲。化けた瞬間は無音、猫が去るとBGM再開。
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/watercolor-aquarium-octopus-journey-962531/video-cb3254ef61621e2b.webm)
+
+**Source:** [@jAlpha_create](https://x.com/jAlpha_create/status/2083433664889962531) · 30s · 16:9 · animation
+
+---
+
+## 11. Steampunk Momotaro Thirty-Second Story
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/steampunk-momotaro-thirty-second-story-896854/video-b7488aa4cf16ef72.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/steampunk-momotaro-thirty-second-story-896854/poster-f5aed8ec7256e27b.jpg" alt="Steampunk Momotaro Thirty-Second Story video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — CapCut-Seedance2.5簡単プロンプトが凄い 桃太郎を作る。誕生から鬼退治完了までを30秒で。 実写版。 演出: 照明を暗くしてコントラストを強く。 彩度を低くして青のフィルターで色温度を統一。 スチームパンクの世界感。 冷たい人間関係。セリフは日本語。</summary>
+
+~~~~text
+CapCut-Seedance2.5簡単プロンプトが凄い
+
+桃太郎を作る。誕生から鬼退治完了までを30秒で。
+実写版。
+演出:
+照明を暗くしてコントラストを強く。
+彩度を低くして青のフィルターで色温度を統一。
+スチームパンクの世界感。
+冷たい人間関係。セリフは日本語。
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/steampunk-momotaro-thirty-second-story-896854/video-b7488aa4cf16ef72.webm)
+
+**Source:** [@ChiakiAkagi](https://x.com/ChiakiAkagi/status/2083420580267896854) · 30s · 16:9 · cinematic story
+
+---
+
+## 12. Thirty-Character Family Dinner
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/thirty-character-family-dinner-307528/video-84f544e175da2e69.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/thirty-character-family-dinner-307528/poster-94ffe7c7e9e9f7a7.jpg" alt="Thirty-Character Family Dinner video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — [all char refs], a big family dinner, cinematic footage, multiple cuts, dynamic camera angels. show all characters, 20 cuts. You can find character sheets in the quoted post.</summary>
+
+~~~~text
+[all char refs], a big family dinner, cinematic footage, multiple cuts, dynamic camera angels. show all characters, 20 cuts.
+
+You can find character sheets in the quoted post.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/thirty-character-family-dinner-307528/video-84f544e175da2e69.webm)
+
+**Source:** [@aimikoda](https://x.com/aimikoda/status/2083415174556307528) · 25s · 16:9 · cinematic story
+
+---
+
+## 13. Illustrated Creature Flood Escape
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/illustrated-creature-flood-escape-172377/video-1e799988479e3f91.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/illustrated-creature-flood-escape-172377/poster-ed6b60e54ff6e89e.jpg" alt="Illustrated Creature Flood Escape video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Lock the original illustration completely. Preserve the exact art style, brushwork, textures, material rendering, color palette, creature proportions, facial expressions,...</summary>
+
+~~~~text
+Lock the original illustration completely. Preserve the exact art style, brushwork, textures, material rendering, color palette, creature proportions, facial expressions, lighting, composition, and every character design exactly as shown. Never change the visual style. Every creature must remain identical in every shot. No text, watermark, logo, or signature. One continuous story. Motion always progresses forward. No creature moves backward. Use cinematic pacing with hard cuts, speed ramps, bullet time, dynamic tracking, volumetric water, realistic physics, motion blur, subtle film grain, dramatic lighting, lens droplets, cinematic depth of field, bold camera language, emotional facial animation, and seamless transitions.
+
+0-3s
+
+Without warning, the peaceful group suddenly notices every bird exploding into the sky. Tiny ripples appear beneath their feet. A deep rumble grows louder. Extreme close-up of frightened eyes. Fast push-in toward the rabbit. Hard cut to a gigantic wall of water rising behind them. Lightning-fast whip pan reveals the impossible tsunami racing toward the camera. Deep bass hit.
+
+3-6s
+
+The wave crashes over everyone. Water engulfs the frame. Camera tumbles underwater with bubbles, debris, flowers, leaves and sunlight cutting through the current. Every creature is separated naturally by the force. Slow-motion for one second before time accelerates again.
+
+6-10s
+
+Rapid cross-cut survival sequence. The rabbit paddles frantically with long ears floating behind. The lion powers through the waves with strong strokes. The rhino kicks heavily while struggling to stay above water. The giant blue triceratops swims like a massive whale. Frogs leap from floating debris. Tiny creatures cling to drifting branches. Cats desperately paddle while trying not to sink. Dynamic handheld water-level camera alternating with overhead drone shots.
+
+10-15s
+
+The current becomes more violent. Floating logs collide. The turtle spins helplessly in a whirlpool before escaping. The sheep nearly slips beneath the surface until the lion nudges it upward. The black cat loses its grip and disappears beneath a wave. Silence for half a second except muffled underwater sound.
+
+15-20s
+
+The gray kitten dives underwater searching. Cinematic underwater tracking follows the kitten weaving between drifting plants and bubbles. A frightened turtle struggles below. The kitten reaches it, grabs its shell with tiny paws and guides it upward toward sunlight breaking through the surface.
+
+20-25s
+
+Both burst above the water. The exhausted kitten climbs onto the turtle's shell. The turtle begins swimming steadily through the endless flood while the kitten balances carefully, soaked but relieved. Around them every animal continues fighting the current in its own unique way. Long aerial tracking shot follows their path.
+
+25-28s
+
+The current slowly weakens. One by one the surviving animals regroup behind the turtle. The rabbit swims beside it. Frogs hop onto floating wood. The lion keeps everyone together. The enormous blue triceratops shields the smaller creatures from remaining waves. Warm sunlight finally pierces the storm clouds.
+
+28-30s
+
+A majestic vertical drone shot rises high into the sky. The flood forms beautiful winding rivers across the landscape. At the center, the tiny kitten sits safely on the turtle's shell leading the group forward while every surviving creature follows behind. The music swells into an emotional orchestral finale. Hold the final frame like an animated movie poster as golden light reflects across the water.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/illustrated-creature-flood-escape-172377/video-1e799988479e3f91.webm)
+
+**Source:** [@AiMeowing](https://x.com/AiMeowing/status/2083332412558172377) · 30s · 16:9 · animation
+
+---
+
+## 14. Thousand-Year Static Landscape
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/thousand-year-static-landscape/video-2a4695acb3a5df74.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/thousand-year-static-landscape/poster-906f12352c98197d.jpg" alt="Thousand-Year Static Landscape video preview" width="700" />
@@ -56,7 +553,7 @@ A 30 second film from ONE completely locked, static camera position that never m
 
 ---
 
-## 3. Lunar Cafe Dialogue
+## 15. Lunar Cafe Dialogue
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/lunar-cafe-dialogue/video-5ce98162dc4cdfe2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/lunar-cafe-dialogue/poster-e5e89e003fd4382b.jpg" alt="Lunar Cafe Dialogue video preview" width="700" />
@@ -180,7 +677,7 @@ The video ends on the held close-up of the woman's face, the image full and lit 
 
 ---
 
-## 4. Handcrafted Illustrated Animation
+## 16. Handcrafted Illustrated Animation
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/handcrafted-illustrated-animation/video-105ff8a6759b0dca.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/handcrafted-illustrated-animation/poster-0d53a400b6e2a7eb.jpg" alt="Handcrafted Illustrated Animation video preview" width="700" />
@@ -227,7 +724,7 @@ Avoid camera movement, zooming, morphing, duplicated objects, floating elements,
 
 ---
 
-## 5. Corridor Video Continuation
+## 17. Corridor Video Continuation
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/corridor-video-continuation/video-15d773e393d0b933.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/corridor-video-continuation/poster-0b8ca59b60d76759.jpg" alt="Corridor Video Continuation video preview" width="700" />
@@ -284,7 +781,7 @@ No music.
 
 ---
 
-## 6. Trojan War Selfie Vlog
+## 18. Trojan War Selfie Vlog
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/trojan-war-selfie-vlog/video-77d18ea220e9c867.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/trojan-war-selfie-vlog/poster-33da1cdcfba39060.jpg" alt="Trojan War Selfie Vlog video preview" width="700" />
@@ -309,7 +806,7 @@ Subject Lock: Long dark wavy hair, olive skin, sharp contoured features, gold ho
 
 ---
 
-## 7. Rainy Neon Thriller
+## 19. Rainy Neon Thriller
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/rainy-neon-thriller/video-e595a694899864a5.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/rainy-neon-thriller/poster-a5d25929d8f6be34.jpg" alt="Rainy Neon Thriller video preview" width="700" />
@@ -330,7 +827,7 @@ Rainy neon thriller sequence, 16:9, grounded live-action realism, wet city stree
 
 ---
 
-## 8. Stylized Family Animation
+## 20. Stylized Family Animation
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/stylized-family-animation/video-7936b1d3f39a03f0.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/stylized-family-animation/poster-92f62b18d476f20a.jpg" alt="Stylized Family Animation video preview" width="700" />
@@ -412,7 +909,100 @@ logos.
 
 ---
 
-## 9. The Suit Was Still Listening
+## 21. Rainy Night-Market Family Animation
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/rainy-night-market-family-animation-775828/video-1136580a143df3c3.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/rainy-night-market-family-animation-775828/poster-75cb6c2dcb15f508.jpg" alt="Rainy Night-Market Family Animation video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — High-quality 3D animated cartoon, stylized modern family-animation film look, oversized heads, big expressive eyes, exaggerated proportions, smooth rounded clay-like 3D surfaces,...</summary>
+
+~~~~text
+High-quality 3D animated cartoon, stylized modern family-animation film
+
+look, oversized heads, big expressive eyes, exaggerated proportions,
+
+smooth rounded clay-like 3D surfaces, subsurface scattering skin, vibrant
+
+saturated colors, cinematic animated lighting. NOT realistic, NOT live
+
+action.
+
+Single continuous 30-second shot, no cuts, one flowing camera move.
+
+SUBJECT: a young woman with an oversized round head, huge expressive
+
+eyes, dark hair in a messy bun, a long mustard-yellow raincoat, boots, a
+
+small satchel. Same design, hair, and outfit throughout, no drift.
+
+LOCATION: a cozy stylized night market in the rain, narrow covered lane,
+
+strings of warm hanging bulbs, steaming food stalls with rounded cartoon
+
+awnings, friendly cartoon vendors and shoppers moving around her, glossy
+
+wet cobblestones reflecting the lights, puddles everywhere.
+
+COLOR 60:30:10 — 60% deep blue rainy night and wet stone / 30% warm
+
+golden bulb and stall light / 10% accent of her mustard-yellow raincoat.
+
+0–8s: the camera tracks backward ahead of her as she walks through the
+
+market with a small bounce in her step, dodging puddles, steam curling
+
+from stalls, vendors waving as she passes.
+
+8–16s: the camera arcs smoothly around to her side, revealing the full
+
+depth of the market behind her, then rises to follow just over her
+
+shoulder as she stops to smile at a stall of glowing paper lanterns.
+
+16–24s: she turns down a quieter narrow alley, the camera following, the
+
+crowd noise falling away, single bulbs swinging gently overhead, her
+
+reflection rippling through a puddle as she steps over it.
+
+24–30s: the camera cranes up and pulls back into a wide as she reaches a
+
+warmly lit doorway at the alley's end, pauses, shakes the rain off her
+
+coat, and steps inside. Hold on the glowing doorway.
+
+PHYSICS: raindrops bounce and splash with cartoon weight, her coat swings
+
+and ripples as she walks, puddles ripple outward from each step, steam
+
+rises and curls, hanging bulbs sway gently.
+
+AUDIO: rain pattering on awnings, cheerful market chatter, sizzling food,
+
+her boots splashing, the noise thinning to soft rain in the alley, a warm
+
+door chime at the end.
+
+FORBIDDEN: no cuts, no design drift in face, hair, or coat, no realistic
+
+or live-action rendering, no auto-generated subtitles, no background
+
+music, no readable text or logos, no named studio references, no warping
+
+geometry.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/rainy-night-market-family-animation-775828/video-1136580a143df3c3.webm)
+
+**Source:** [@jaynwabueze](https://x.com/jaynwabueze/status/2083137457000775828) · 30s · 16:9 · animation
+
+---
+
+## 22. The Suit Was Still Listening
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/the-suit-was-still-listening/video-b6e1a1668eba65ec.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/the-suit-was-still-listening/poster-2075fb78ab72aa16.jpg" alt="The Suit Was Still Listening video preview" width="700" />
@@ -453,7 +1043,7 @@ Sound design must include rain on glass, distant tires on wet road, washer motor
 
 ---
 
-## 10. CBD Rooftop Power Ensemble
+## 23. CBD Rooftop Power Ensemble
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/cbd-rooftop-power-ensemble/video-bb65cbcffcb6e40a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/cbd-rooftop-power-ensemble/poster-0f65ec1a2afe58c4.jpg" alt="CBD Rooftop Power Ensemble video preview" width="700" />
@@ -495,7 +1085,7 @@ Sound design must include rain on glass, distant tires on wet road, washer motor
 
 ---
 
-## 11. 1977 Boston Zombie Outbreak
+## 24. 1977 Boston Zombie Outbreak
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/1977-boston-zombie-outbreak/video-f187c0447e900cb8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/1977-boston-zombie-outbreak/poster-f0d31fc5ec796d47.jpg" alt="1977 Boston Zombie Outbreak video preview" width="700" />
@@ -536,7 +1126,7 @@ Authentic 1977 American cinema. Rich foreground, midground and background storyt
 
 ---
 
-## 12. Japanese Street Lip-Sync Comparison
+## 25. Japanese Street Lip-Sync Comparison
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-street-lip-sync-comparison/video-04ded47d83bcf914.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-street-lip-sync-comparison/poster-20ee3fbcebc970f6.jpg" alt="Japanese Street Lip-Sync Comparison video preview" width="700" />
@@ -557,7 +1147,7 @@ A cinematic Japanese slice-of-life scene.Two young Japanese women (age 20 and 22
 
 ---
 
-## 13. Japanese Horror Root-Vegetable Village
+## 26. Japanese Horror Root-Vegetable Village
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-horror-root-vegetable-village/video-85963d277c9d9d32.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-horror-root-vegetable-village/poster-aebb2080a96f2c01.jpg" alt="Japanese Horror Root-Vegetable Village video preview" width="700" />
@@ -578,7 +1168,7 @@ A cinematic Japanese slice-of-life scene.Two young Japanese women (age 20 and 22
 
 ---
 
-## 14. Victorian Greenhouse Mechanical Hummingbird
+## 27. Victorian Greenhouse Mechanical Hummingbird
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/victorian-greenhouse-mechanical-hummingbird/video-e58119573dec9c35.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/victorian-greenhouse-mechanical-hummingbird/poster-cec97cf5a856e119.jpg" alt="Victorian Greenhouse Mechanical Hummingbird video preview" width="700" />
@@ -615,7 +1205,7 @@ Priorities: absolute character and wardrobe consistency, stable hummingbird desi
 
 ---
 
-## 15. Six Rooms Style Journey
+## 28. Six Rooms Style Journey
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/six-rooms-style-journey/video-905d121060413ed9.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/six-rooms-style-journey/poster-bc99ab07bfae5cad.jpg" alt="Six Rooms Style Journey video preview" width="700" />
@@ -636,7 +1226,7 @@ Priorities: absolute character and wardrobe consistency, stable hummingbird desi
 
 ---
 
-## 16. Youth Motorcycle Racing Memory
+## 29. Youth Motorcycle Racing Memory
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/youth-motorcycle-racing-memory/video-a17e473dda32cdc3.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/youth-motorcycle-racing-memory/poster-6907514780819ab5.jpg" alt="Youth Motorcycle Racing Memory video preview" width="700" />
@@ -657,7 +1247,7 @@ Priorities: absolute character and wardrobe consistency, stable hummingbird desi
 
 ---
 
-## 17. Peking Opera Craft Inheritance
+## 30. Peking Opera Craft Inheritance
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/peking-opera-craft-inheritance/video-dd3b5fd37ba095a9.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/peking-opera-craft-inheritance/poster-4daf4e9bb45bb5d5.jpg" alt="Peking Opera Craft Inheritance video preview" width="700" />

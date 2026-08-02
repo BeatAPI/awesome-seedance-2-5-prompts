@@ -1,0 +1,43 @@
+{
+  "slug": "children-and-dragons-picnic-chaos-175096",
+  "title": {
+    "en": "Children and Dragons Picnic Chaos",
+    "zh": "孩子与巨龙的野餐混战"
+  },
+  "description": {
+    "en": "15-second animation prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒孩子与巨龙的野餐混战提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "animation",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AiMeowing",
+    "url": "https://x.com/AiMeowing/status/2083516822054175096"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/AiMeowing/status/2083516834754494697"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/AiMeowing/status/2083516822054175096"
+  ],
+  "prompt": "Lock the original artwork completely. Preserve the exact illustration style, brushwork, textures, materials, color palette, lighting, creature proportions, facial expressions, environment, and character designs. Never change the art style or introduce new designs. Keep every dragon and child identical throughout. No text or watermark. One continuous forward-moving story. Begin with motion from frame one. Use cinematic hard cuts, speed ramps, whip pans, dynamic tracking, FPV fly-throughs, overhead drone shots, bullet time where appropriate, volumetric clouds, realistic fire physics, motion blur, depth of field, subtle film grain, debris, feathers, sparks, smoke, expressive facial animation, and seamless transitions.\n\n0-2s\n\nCold open. The children happily eat while the giant dragon lazily sniffs the food. The baby dragons taste tiny bites, instantly make disgusted faces, stare at each other, then suddenly leap onto the table together. Fast push-in, comedic bass hit.\n\n2-4s\n\nThe babies explode into chaos. Plates, bread and vegetables fly everywhere. One dragon flips a table with its tail, another steals a roast, another scatters books while the giant dragon watches with an embarrassed smile. Rapid whip pans and handheld camera.\n\n4-6s\n\nThe giant dragon opens both wings. The babies launch from its back and burst through the castle ceiling into the sky. FPV camera follows them weaving between towers before soaring into bright clouds. Epic orchestral rise.\n\n6-9s\n\nHigh-speed aerial sequence. The baby dragons dive through clouds, barrel roll, narrowly miss cliffs, then suddenly spot a peaceful sheep meadow below. Bullet-time pause on their excited faces before they dive.\n\n9-12s\n\nThey swoop low across the meadow. Tiny controlled bursts of fire instantly roast food over campfire-style racks beside the flock without harming people. The dragons eagerly grab the freshly cooked feast, stuffing themselves with exaggerated joyful expressions. Smoke, sparks, golden firelight and fast tracking shots.\n\n12-15s\n\nNow completely full, the dragons happily fly back through sunset clouds carrying roasted food. They glide into the castle and land beside the giant dragon. The children laugh instead of getting angry. The babies proudly share their food with everyone. The giant dragon smiles warmly as the camera cranes upward, ending on a cozy wide cinematic family shot.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/children-and-dragons-picnic-chaos-175096/video-9ba2f4f7b5730c0b.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/children-and-dragons-picnic-chaos-175096/poster-3c2a5097f6d53590.jpg",
+    "format": "video/webm",
+    "videoBytes": 1519104,
+    "videoSha256": "9ba2f4f7b5730c0bf6452a07b0e51df2da1af27cc0a0064f4be5fa45874f3dbf",
+    "thumbnailBytes": 147486,
+    "thumbnailSha256": "3c2a5097f6d535906e5e9b65e7ca285328379bba3ca33709c1de23b973558be5"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}
