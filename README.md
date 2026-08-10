@@ -10,6 +10,16 @@ attribution, curated by [BeatAPI](https://beatapi.io).
 **[中文说明](./README.zh-CN.md)** ·
 **[Contribute a prompt](https://github.com/BeatAPI/awesome-seedance-2-5-prompts/issues/new?template=prompt.yml)**
 
+## Quick guide
+
+**Map references → Direct the timeline → Lock continuity.** Give each image,
+video, or audio input one clear job; then describe what happens and what must
+remain consistent.
+
+[BytePlus official prompt guide](https://docs.byteplus.com/en/docs/ModelArk/2607689) ·
+[BeatAPI practical guide](https://beatapi.io/blog/seedance-2-5-guide) ·
+[Browse all 200 prompt + video examples](./prompts/README.md)
+
 ## Prompt gallery
 
 <!-- GENERATED_VIDEO_GALLERY_START -->

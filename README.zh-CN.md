@@ -6,6 +6,15 @@
 **[打开 Seedance 2.5 提示词画廊](https://beatapi.io/zh/seedance-2-5-prompts)** ·
 **[提交 Prompt](https://github.com/BeatAPI/awesome-seedance-2-5-prompts/issues/new?template=prompt.yml)**
 
+## 快速指南
+
+**给参考素材分工 → 用时间轴导演 → 锁定连续性。** 每张图片、每段视频或
+音频只承担一个明确职责，再说明发生什么、哪些内容必须保持一致。
+
+[BytePlus 官方提示词指南](https://docs.byteplus.com/en/docs/ModelArk/2607689) ·
+[BeatAPI 实战指南](https://beatapi.io/zh/blog/seedance-2-5-guide) ·
+[浏览全部 200 条 Prompt 与视频](./prompts/README.md)
+
 ## 首批内容
 
 - 200 条完整 Prompt 与对应 WebM 视频；
