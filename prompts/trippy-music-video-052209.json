@@ -1,0 +1,43 @@
+{
+  "slug": "trippy-music-video-052209",
+  "title": {
+    "en": "Trippy Music Video",
+    "zh": "Trippy Music Video"
+  },
+  "description": {
+    "en": "30-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@rahulnanda86",
+    "url": "https://x.com/rahulnanda86/status/2083355736479052209"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/rahulnanda86/status/2083355736479052209"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/rahulnanda86/status/2083355736479052209"
+  ],
+  "prompt": "Made on @capcutapp\n\nCreate a fast, trippy 30-second dubstep music video using all the uploaded photographs\n\n(PLEASE FIND ATTACHED ALL 14 IMAGES + AUDIO IN THREAD).\n\nUse the uploaded 30-second audio as the only soundtrack. Make it a powerful dubstep edit: every movement, punch-in, transition and hard cut must hit the beat. Fully animate everything inside the photographs. Make the dancers perform, fabric and flames spin, painted eyes react, masks lunge, multiple arms ripple, the drummer strike his drum, sadhus dissolve into ash and black birds, motorcycles race aggressively, smoke creatures come alive, the underwater band actively play, boats move through the surreal landscape, and the flaming weapon create violent circles of fire. No photograph should remain static.Freely mix all the visuals in whatever order works best with the music. Let movement from one photograph naturally transform into the next: spinning fire becomes fabric, fabric becomes a painted eye, expanding arms become the drummer’s arms, ash birds become racing motorcycles, motorcycle dust becomes dancing smoke, smoke becomes underwater bubbles, bubbles become water and boats, and the boats transform into circles of fire.Keep constant movement throughout. Use rapid punch-ins, speed ramps, bass-impact flashes, hard rhythmic cuts, brief freeze-frames and fluid psychedelic transitions. Add a separate graphic layer flashing ॐ, the trishul, damru, third eye, crescent moon and traditional Hindu sacred symbols precisely on the beat. Let them pulse, rotate, distort and dissolve without covering the performers.Make it stylish, colourful, strange and extremely high-energy—an edgy, award-winning Incredible India advertisement edited like a dubstep music video. No dialogue, no typography, no slideshow, no long static shots and no complicated story. Finish with the strongest collision of fire, ash, birds and sacred symbols on the final bass hit.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/trippy-music-video-052209/video-f3424e4cae5380e2.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/trippy-music-video-052209/poster-89b278f475614da5.jpg",
+    "format": "video/webm",
+    "videoBytes": 3781189,
+    "videoSha256": "f3424e4cae5380e22113ab6823e82a549b39d2fe1d4c5af88a805be2d82cd936",
+    "thumbnailBytes": 88842,
+    "thumbnailSha256": "89b278f475614da592f7a27e9cea78ca81dfd7139f4c1e966eca1c19a4db42af"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

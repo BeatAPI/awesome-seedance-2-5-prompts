@@ -1,0 +1,43 @@
+{
+  "slug": "making-of-movie-titanoboa-behind-the-scenes-515958",
+  "title": {
+    "en": "Making of movie - Titanoboa - Behind the scenes!!",
+    "zh": "Making of movie - Titanoboa - Behind the scenes!!"
+  },
+  "description": {
+    "en": "12-second horror prompt paired with a source-verified creator example and its output video.",
+    "zh": "12 秒horror提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "horror",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "12s",
+  "aspectRatio": "4:3",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@rahulnanda86",
+    "url": "https://x.com/rahulnanda86/status/2085971154305515958"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/rahulnanda86/status/2085971154305515958"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/rahulnanda86/status/2085971154305515958"
+  ],
+  "prompt": "Made on @krea_ai\n\nUltra-realistic behind-the-scenes film set footage, slightly high vantage point, shot like a real making-of video on a professional handheld camera from the side of a soundstage. The set is dressed like a dense Amazon jungle location: wet muddy ground, artificial trees and vines, haze in the air, hanging rigging, practical lights, camera tracks, crew members standing off to the side, and a giant hyper-realistic animatronic anaconda dominating the set. The snake looks absolutely massive, with detailed scales, wet reflections, huge fangs, and mechanical realism.\n\nThe clip begins with the director shouting, “Action!” A female actor in adventure-film costume stands in front of the giant snake, backing away nervously as if in a creature movie scene. The snake suddenly lifts its head, opens its mouth wide, and gives a loud threatening hiss. The woman starts stepping backward and says “No, no, no!” in character. The snake lunges, coils upward, lifts her, throws her into the air so she spins once in a full 360, then catches her cleanly in its mouth and appears to swallow her whole. Everyone watching is stunned for a beat.  Then immediately someone off camera yells “Cut! Cut! Cut!” The illusion breaks. The animatronic snake lowers its head and its mouth section is mechanically opened downward by the crew.\n\nThe actress casually climbs back out of the snake’s mouth, laughing and dusting herself off. She smiles and says, “I think that was a good shot.” Hair and makeup artists and crew members quickly walk in around her, checking on her and resetting the scene. The tone becomes playful and clearly behind-the-scenes. Keep it fast, clear, believable, and very realistic — like a real BTS clip from a big-budget Titanoboa-style jungle creature film. No fantasy look, no cartoon look, only grounded practical-movie-set realism.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/making-of-movie-titanoboa-behind-the-scenes-515958/video-4d7e558ae5fb154e.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/making-of-movie-titanoboa-behind-the-scenes-515958/poster-79af62364fba586a.jpg",
+    "format": "video/webm",
+    "videoBytes": 1222609,
+    "videoSha256": "4d7e558ae5fb154edce2c9d7fcb5a295599eb5e97cb9d6112b29b015aab76d23",
+    "thumbnailBytes": 71684,
+    "thumbnailSha256": "79af62364fba586a4beba7cb44efea114111877bbb399eba8650f2e2bf6f7379"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

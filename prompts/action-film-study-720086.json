@@ -1,0 +1,43 @@
+{
+  "slug": "action-film-study-720086",
+  "title": {
+    "en": "Action Film Study 720086",
+    "zh": "Action Film Study 720086"
+  },
+  "description": {
+    "en": "30-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒cinematic action提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Strength04_X",
+    "url": "https://x.com/Strength04_X/status/2086040562583720086"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Strength04_X/status/2086040562583720086"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Strength04_X/status/2086040562583720086"
+  ],
+  "prompt": "BROADCAST TYPE: Live urban news report covering the sudden end of a high-speed police car chase in a busy downtown intersection.\nDURATION: 30 sec. live segment\nON-AIR REPORTER: Male journalist, late 20s. Press vest over jacket, handheld mic, slightly out of breath from running to position.\n\nLIVE BROADCAST TIME: 9:30 PM. City lights, neon signage glow, streetlights bright against dark sky.\n\nREPORT LOCATION: Downtown intersection. Suspect vehicle crashed into a barrier. Multiple police cars arriving with lights flashing. Officers exiting vehicles fast, weapons holstered but alert. Crowd gathering at safe distance.\n\nBROADCAST CAMERA: Handheld camera running alongside reporter, breathing visible in fast movement. Quick zoom to crashed vehicle and officers approaching. Lens flares from red-blue police lights sweeping across frame.\n\nLIVE SEGMENTS (30 SEC BREAKDOWN):\n0–5s: Reporter arrives on scene mid-sentence, camera catching up.\n5–12s: Multiple police cars skid to a stop surrounding the crashed vehicle, doors flung open.\n12–18s: Officers approach vehicle cautiously, commands shouted, suspect pulled out.\n18–24s: Crowd reacts audibly, phones raised, officers cordon area quickly.\n24–30s: Reporter delivers rapid summary, confirms suspect in custody, signs off as more sirens approach.\n\nLIVE AUDIO: Overlapping sirens, screeching tires echo, shouted police commands, crowd murmurs and gasps, reporter's fast urgent voice, no music.\n\nBROADCAST REALISM: Fast, kinetic, imperfect framing due to running camera operator, officers fully focused on suspect ignoring camera, authentic breaking-news intensity.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/action-film-study-720086/video-fe0a610bd8c90ebf.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/action-film-study-720086/poster-adf0c60a33803083.jpg",
+    "format": "video/webm",
+    "videoBytes": 2731598,
+    "videoSha256": "fe0a610bd8c90ebfe0321f49e02c9c27548317e00fab84d7eeb6d81cb96b4902",
+    "thumbnailBytes": 75870,
+    "thumbnailSha256": "adf0c60a33803083c53439d43a288272ed11e9018c6c1c364c0fbb5ba8f7e08b"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

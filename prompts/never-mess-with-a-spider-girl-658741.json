@@ -1,0 +1,44 @@
+{
+  "slug": "never-mess-with-a-spider-girl-658741",
+  "title": {
+    "en": "Never mess with a spider girl",
+    "zh": "Never mess with a spider girl"
+  },
+  "description": {
+    "en": "22-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "22 秒cinematic action提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "reference-generation",
+  "mode": "image-to-video",
+  "duration": "22s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Just_sharon7",
+    "url": "https://x.com/Just_sharon7/status/2086150537431658741"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Just_sharon7/status/2086150537431658741"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Just_sharon7/status/2086150537431658741"
+  ],
+  "prompt": "IMG_1 = BLONDE FEMALE HERO CHARACTER SHEET**  Use as the exact hero identity and costume reference.  The hero is a **blonde-haired female Image1 superhero**.  Preserve her face, blonde hairstyle, body proportions, clothing layers, colors, gloves, wrist web-launcher details, cargo pants, and shoes exactly.  She is the **central protagonist and primary visual focus of the entire sequence**.  She has **NO MASK and NO HOOD covering her head**.  The blonde female hero must always be clearly distinguishable from the nine enemy ninjas.  ---  **@IMG_2 Image2  = NINE FEMALE NINJA ENEMY SHEET**  Use as the exact enemy squad reference.  There are exactly **NINE female ninja assassins**.  Preserve their red-and-black costumes, body proportions, masks, hairstyles, armor, weapons, and the white fox-mask leader.  Do not duplicate or remove any ninja.  The nine ninjas must remain visually separate and readable throughout the fight.  ---  ### CORE FIGHTING RULE  The entire sequence is:  **ONE BLONDE FEMALE HERO VS. NINE FEMALE NINJAS.**  The blonde female hero begins and remains at the **center of the action**.  At 00:02–00:04, the camera pulls back to clearly reveal:  **ONE BLONDE FEMALE HERO Image1  SURROUNDED BY NINE FEMALE NINJAS. Image2   The white fox-mask leader stands slightly forward among the nine.  At 00:04–00:11, the nine ninjas attack using coordinated tag-team choreography.  Do NOT make all nine attack randomly at once.  Each ninja enters, attacks, exits, and creates an opening for the next attacker.  At 00:14–00:16, all **NINE female ninjas** launch into the air toward the blonde heroine from different trajectories.  At 00:16–00:19, the blonde heroine performs the 360-degree dual-wrist web attack.  The resulting large suspended web must capture **ALL NINE FEMALE NINJAS**.  The final composition must clearly show:  **BLONDE FEMALE HERO IN THE FOREGROUND + NINE FEMALE NINJAS TRAPPED IN THE WEB BEHIND HER.**  ### IMPORTANT NEGATIVE PROMPT ADDITIONS  No male hero.  No male protagonist.  No seven-ninja formation.  No eight-ninja formation.  No ten-ninja formation.  No duplicated ninja.  No missing ninja.  Exactly **NINE female ninja enemies**.  The blonde-haired female hero must always remain the central protagonist.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/never-mess-with-a-spider-girl-658741/video-15680775b70d1bb2.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/never-mess-with-a-spider-girl-658741/poster-5507a23354ce2d83.jpg",
+    "format": "video/webm",
+    "videoBytes": 2628424,
+    "videoSha256": "15680775b70d1bb2804788f28e10495ffcc22be65227220c2726cc2323e1ab8c",
+    "thumbnailBytes": 60726,
+    "thumbnailSha256": "5507a23354ce2d83ee2e8cffd18191e2d188ed726e0d592df00ad149606a395b"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

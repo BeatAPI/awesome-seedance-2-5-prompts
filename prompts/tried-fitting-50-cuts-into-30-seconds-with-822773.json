@@ -1,0 +1,43 @@
+{
+  "slug": "tried-fitting-50-cuts-into-30-seconds-with-822773",
+  "title": {
+    "en": "Action Film Study 822773",
+    "zh": "Action Film Study 822773"
+  },
+  "description": {
+    "en": "30-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒cinematic action提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@aimikoda",
+    "url": "https://x.com/aimikoda/status/2084581854942822773"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/aimikoda/status/2084581854942822773"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/aimikoda/status/2084581854942822773"
+  ],
+  "prompt": "Tried fitting 50 cuts into 30 seconds with Seedance 2.5.\n\nI let codex count the cuts. Including flashes, explosion/splash effects and the final fade-out as transitions, the video has 42 cuts/transitions in total. Technically, it contains 36 actual editorial cuts. You can check the prompt below.\n\nCreated with Seedance 2.5 on @astorie_ai",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/tried-fitting-50-cuts-into-30-seconds-with-822773/video-700b5821bd9c9068.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/tried-fitting-50-cuts-into-30-seconds-with-822773/poster-4e9cdd32aa607006.jpg",
+    "format": "video/webm",
+    "videoBytes": 3113028,
+    "videoSha256": "700b5821bd9c9068babb6bacea4500793b9505ebc25691aa2c9a8933d03c38af",
+    "thumbnailBytes": 108922,
+    "thumbnailSha256": "4e9cdd32aa6070066b0c10f487903e3f473d56b0e63204a179900434861c2bad"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

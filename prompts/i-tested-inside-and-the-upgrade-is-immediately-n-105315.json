@@ -1,0 +1,43 @@
+{
+  "slug": "i-tested-inside-and-the-upgrade-is-immediately-n-105315",
+  "title": {
+    "en": "I tested inside , and the upgrade is immediately noticeable",
+    "zh": "I tested inside , and the upgrade is immediately noticeable"
+  },
+  "description": {
+    "en": "30-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒cinematic action提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@doctorwasif",
+    "url": "https://x.com/doctorwasif/status/2085657903227105315"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/doctorwasif/status/2085657903227105315"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/doctorwasif/status/2085657903227105315"
+  ],
+  "prompt": "30s | 16:9 | 9 cuts\nStyle: DV 16mm tape camcorder, handheld POV by CHASE. Natural shake, soft focus, clumsy framing/zooms, delayed autofocus, tape noise, bloomed highlights, auto-exposure flicker, muted contrast. Full-day montage: calm GRWM → intense workout → relaxed wind-down. Voiceover over visuals.\nCharacter: CHASE, Korean idol (20s), long black hair, glass skin. Outfit: robe/loungewear → modest long-sleeve gym wear + leggings/joggers → robe/loungewear.\nLocations: Bedroom vanity → gym entrance → gym weights/cardio → stretching mat → walking home → couch.\n\n1. Vanity, hair up. VO: \"Some mornings start slow before they start fast.\"\n2. Puts on gym top. VO: \"Okay—gym clothes on, let's go.\"\n3. Walks into gym. VO: \"Time to actually do something with this energy.\"\n4. Lifts weights. VO: \"Every set gets a little harder than the last.\"\n5. Close-up: hands gripping weight, sweat. Ambient only.\n6. Cardio, pushing through. VO: \"This is always the part I want to quit.\"\n7. Stretching. VO: \"But finishing always feels worth it.\"\n8. Walking home, towel on shoulder. VO: \"And then it's just the quiet walk back.\"\n9. Flops onto couch, eyes closed. VO: \"Best part of the whole day, honestly.\"",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/i-tested-inside-and-the-upgrade-is-immediately-n-105315/video-0cb8c7827c8fbbde.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/i-tested-inside-and-the-upgrade-is-immediately-n-105315/poster-f275c76131cdc320.jpg",
+    "format": "video/webm",
+    "videoBytes": 1523381,
+    "videoSha256": "0cb8c7827c8fbbde20368a976829da61e51d0faabfcf083587cd48a17a4b5098",
+    "thumbnailBytes": 47050,
+    "thumbnailSha256": "f275c76131cdc3209479604177c6c63c97188e75306ba76158c1a0917b6d24b0"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

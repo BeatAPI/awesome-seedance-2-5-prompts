@@ -1,0 +1,44 @@
+{
+  "slug": "product-commercial-study-662980",
+  "title": {
+    "en": "Product Commercial Study 662980",
+    "zh": "Product Commercial Study 662980"
+  },
+  "description": {
+    "en": "30-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "reference-generation",
+  "mode": "image-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AIwithSynthia",
+    "url": "https://x.com/AIwithSynthia/status/2085617736940662980"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/AIwithSynthia/status/2085617736940662980"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/AIwithSynthia/status/2085617736940662980"
+  ],
+  "prompt": "Create a 30-second ultra-realistic cinematic travel vlog featuring the same young woman throughout the entire sequence. Maintain identical facial features, hairstyle, makeup, skin tone, body proportions, and outfit consistency unless naturally changed during the journey. Premium lifestyle cinematography, luxury airport aesthetic, authentic travel atmosphere, smooth handheld and gimbal camera movement, realistic body language, 4K HDR, 16:9.\n\nThe video opens with a close-up of her smiling into the camera in her bedroom beside an open suitcase. She finishes a light makeup routine, zips her luggage, picks up her passport, and says, \"New adventure... let's go!\" She leaves home, loads her suitcase into a cab, and films the city through the window while saying, \"On the way to the airport.\"\n\nShe arrives at the airport, checks the departure board, checks in her luggage, clears security, browses duty-free stores, grabs a coffee, and smiles at the camera saying, \"Boarding starts in a few minutes.\" She walks through the boarding gate, enters the aircraft, settles into her window seat, watches planes outside, and says, \"Ready for takeoff!\"\n\nDuring the flight, she enjoys a beautifully served meal, records the tray, takes a bite, and says, \"The lunch is actually delicious.\" She watches the clouds through the window, reads a magazine, and relaxes before the aircraft lands.\n\nAfter arrival, she exits the airport, waves at the camera, gets into another cab, and says, \"Made it to a new country!\" The cab passes famous city landmarks before reaching a luxury hotel. She checks in, enters her room, opens the curtains to reveal the skyline, freshens up with a quick skincare and light makeup routine, changes into comfortable sleepwear, smiles at the camera saying, \"Time to rest... tomorrow the real adventure begins.\" She switches off the bedside lamp as the camera slowly pulls back.\n\nUltra-realistic travel cinematography, authentic airport ambience, realistic announcements, rolling suitcase sounds, aircraft cabin atmosphere, soft background music, premium hotel interiors, cinematic lighting, natural facial expressions, smooth transitions, shallow depth of field, luxury commercial quality, no subtitles, no logos, no watermarks, no on-screen text.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-662980/video-89bf2fc4cd1d671f.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-662980/poster-b945c43b87d3366f.jpg",
+    "format": "video/webm",
+    "videoBytes": 2462832,
+    "videoSha256": "89bf2fc4cd1d671f6c80bf343385a61d3b6a2b754edc12a7bd3bfdf6537eb2b2",
+    "thumbnailBytes": 42642,
+    "thumbnailSha256": "b945c43b87d3366f0c7b71c0f057452aa6b93bc36cbae4a4f7790b720ac9265e"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

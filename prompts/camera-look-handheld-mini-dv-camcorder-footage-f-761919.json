@@ -1,0 +1,43 @@
+{
+  "slug": "camera-look-handheld-mini-dv-camcorder-footage-f-761919",
+  "title": {
+    "en": "Product Commercial Study 761919",
+    "zh": "Product Commercial Study 761919"
+  },
+  "description": {
+    "en": "31-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "31 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "31s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Strength04_X",
+    "url": "https://x.com/Strength04_X/status/2084269139556761919"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Strength04_X/status/2084269139556761919"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Strength04_X/status/2084269139556761919"
+  ],
+  "prompt": "CAMERA / LOOK: Handheld mini DV camcorder footage filmed by the subject herself. Slight hand shake, occasional focus hunting, imperfect framing, natural zoom adjustments, soft tape-like image quality, subtle grain, realistic auto-exposure shifts from bright natural daylight. Natural skin tones, mild motion blur, authentic consumer camcorder aesthetic.\nSTYLE: Cozy flower-pressing vlog with gentle ASMR elements. Relaxed pacing, minimal dialogue, candid moments. Focus on satisfying sounds: petals rustling, paper pages turning, book weight settling, tweezers picking up petals, gentle smoothing.\nSUBJECT: Young woman in her early 20s, plain linen dress, hair loose, minimal jewelry, no visible logos or branded items. Calm, gentle energy while preserving flowers.\nSETTING: Small table near a window on a bright afternoon. Soft daylight, a plain heavy book, freshly picked flowers laid out, no visible brand names or packaging in frame.\nSTORYBOARD:\n→ (3s, propped medium shot) Places camera on the table, lays out a few fresh flowers. \"Pressing some flowers today.\"\n→ (3s, overhead shot) Arranges petals flat between two sheets of plain paper.\n→ (3s, close-up) Uses tweezers to gently position a delicate petal.\n→ (3s, handheld shot) Closes the paper carefully over the flowers. \"Just need to keep them flat.\"\n→ (3s, detail shot) Places the paper between the pages of a heavy book. No dialogue.\n→ (3s, medium shot) Stacks a few more books on top for weight. \"That should do it.\"\n→ (3s, macro shot) A previously pressed flower being lifted out, delicate and flat.\n→ (3s, propped shot) Arranges the pressed flowers onto a small card.\n→ (3s, warm ending shot) Admires the finished arrangement, soft smile. \"So delicate and pretty.\"\n→ (5s, final shot) Sets the card on the windowsill, reaches toward camera. \"See you next batch.\" Hand covers lens as recording ends.\nAUDIO NOTES: Natural ambience — petals rustling, paper turning, book settling should be clearly audible. Dialogue quiet and casual.\nREALISM NOTES: Authentic body language, natural blinking, genuine soft smiles, occasional gentle pauses, imperfect framing, focus breathing, bright daylight shifts. No copyrighted characters, logos, brand names, or recognizable public figures anywhere in frame. Fully original personal vlog content, not AI-generated or commercial in style.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/camera-look-handheld-mini-dv-camcorder-footage-f-761919/video-fdc553f782dd671c.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/camera-look-handheld-mini-dv-camcorder-footage-f-761919/poster-a208a634621af35d.jpg",
+    "format": "video/webm",
+    "videoBytes": 1833433,
+    "videoSha256": "fdc553f782dd671c5addde3c8aab41adebc9075edeb7c374e39b0909c8b0c6db",
+    "thumbnailBytes": 51049,
+    "thumbnailSha256": "a208a634621af35ddf2853cb774fed1fb3f4368ae353a2f89055828b99ed5b5f"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

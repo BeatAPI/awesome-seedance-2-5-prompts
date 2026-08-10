@@ -1,0 +1,43 @@
+{
+  "slug": "listen-up-228251",
+  "title": {
+    "en": "LISTEN UP! 🔊",
+    "zh": "LISTEN UP! 🔊"
+  },
+  "description": {
+    "en": "18-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "18 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "18s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@BrentLynch",
+    "url": "https://x.com/BrentLynch/status/2083937446971228251"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/BrentLynch/status/2083937446971228251"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/BrentLynch/status/2083937446971228251"
+  ],
+  "prompt": "LISTEN UP!  🔊\n\nURGENT TRANMISSION FROM THE FRONTLINES!\n\nSEEDANCE 2.5\n\nThis is how you prompt for no music in the new Seedance 2.5 update.  Thanks to K9PLD for sharing!",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/listen-up-228251/video-126f47f9d9eb1f45.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/listen-up-228251/poster-9a7d5668e771624f.jpg",
+    "format": "video/webm",
+    "videoBytes": 1934568,
+    "videoSha256": "126f47f9d9eb1f45e92a0a57d90d4ebbb39e1bf6f3bea2527960532bab35d467",
+    "thumbnailBytes": 118976,
+    "thumbnailSha256": "9a7d5668e771624fc023530c6759f73a5a74e26ac4c57b975c5aef13175bbf5e"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "the-umbrella-escape-488195",
+  "title": {
+    "en": "The Umbrella Escape",
+    "zh": "The Umbrella Escape"
+  },
+  "description": {
+    "en": "30-second comedy prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒comedy提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "comedy",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "427:240",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Dheepanratnam",
+    "url": "https://x.com/Dheepanratnam/status/2085033492870488195"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Dheepanratnam/status/2085033492870488195"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Dheepanratnam/status/2085033492870488195"
+  ],
+  "prompt": "{ \"title\": \"The Umbrella Escape\", \"style\": \"3D Pixar family animation. Rainy city afternoon, vibrant reflections on wet pavement, action-comedy chase, warm and cool contrast, dynamic camera.\", \"shots\": [ {\"time\":\"00:00-00:03\",\"type\":\"CLOSE-UP\",\"action\":\"Kid in yellow raincoat opens a bright red umbrella. A gust of wind hits. The umbrella inverts and yanks free.\",\"camera\":\"Macro, raindrops flying.\",\"dialogue\":\"Umbrella: 'FREEDOM!' Kid: 'Hey!'\"}, {\"time\":\"00:03-00:06\",\"type\":\"TRACKING\",\"action\":\"Umbrella surfs down the sidewalk, opening and closing to dodge pedestrians. It hops over a puddle like a skipping stone.\",\"camera\":\"Low tracking, fast.\",\"dialogue\":\"Umbrella: 'Can't catch me! I'm born to fly!'\"}, {\"time\":\"00:06-00:09\",\"type\":\"WIDE\",\"action\":\"Umbrella weaves through a flock of pigeons. They scatter. One pigeon gets caught inside and spins out dizzy.\",\"camera\":\"Chaotic wide.\",\"dialogue\":\"Pigeon: 'What the-'\"}, {\"time\":\"00:09-00:12\",\"type\":\"ACTION\",\"action\":\"Umbrella surfs a puddle wave, then catches a crosswind and smacks into a lamppost, spinning around it like a tetherball.\",\"camera\":\"Spinning camera with umbrella.\",\"dialogue\":\"Umbrella: 'Wheee! Okay, that hurt.'\"}, {\"time\":\"00:12-00:15\",\"type\":\"TRACKING\",\"action\":\"A street sweeper approaches. The umbrella gets sucked into the brush, spins wildly, and launches out like a frisbee.\",\"camera\":\"Following shot, fast.\",\"dialogue\":\"Umbrella: 'I REGRET NOTHING!'\"}, {\"time\":\"00:15-00:18\",\"type\":\"WIDE\",\"action\":\"Umbrella glides toward a tree, sticks perfectly in the branches, and sighs. Kid arrives below, out of breath.\",\"camera\":\"Wide, rain falling.\",\"dialogue\":\"Kid: 'Got... you...'\"}, {\"time\":\"00:18-00:22\",\"type\":\"TWO-SHOT\",\"action\":\"Kid climbs up. Reaches for umbrella. Umbrella closes tight, refusing. Kid pouts. Umbrella opens one eye.\",\"camera\":\"Close two-shot in the tree.\",\"dialogue\":\"Umbrella: 'I'm not coming back. I tasted the wild.' Kid: 'I'll let you pick the movie.'\"}, {\"time\":\"00:22-00:25\",\"type\":\"CLOSE-UP\",\"action\":\"Umbrella pauses. Opens fully. Gently covers the kid from the rain, settling onto their shoulder.\",\"camera\":\"Warm push-in.\",\"dialogue\":\"Umbrella: 'Fine. But I'm driving next time.'\"}, {\"time\":\"00:25-00:28\",\"type\":\"WIDE\",\"action\":\"Kid walks home under the umbrella. The umbrella steers them left, then right, playfully. They splash through puddles together.\",\"camera\":\"Wide, beautiful rainy street.\",\"dialogue\":\"Kid: 'You're impossible.' Umbrella: 'Thank you.'\"}, {\"time\":\"00:28-00:30\",\"type\":\"TITLE CARD\",\"action\":\"Black screen. Title 'THE UMBRELLA ESCAPE' in raindrop letters with a red umbrella icon.\",\"camera\":\"Static.\",\"dialogue\":\"(soft rain)\"} ] }\n\n@dreamina_ai",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/the-umbrella-escape-488195/video-cd660b188da8f221.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/the-umbrella-escape-488195/poster-d7214a8827fe3e2e.jpg",
+    "format": "video/webm",
+    "videoBytes": 1487228,
+    "videoSha256": "cd660b188da8f2214a328570ea39144359405a1abb022e0b1872e38d26696ade",
+    "thumbnailBytes": 56156,
+    "thumbnailSha256": "d7214a8827fe3e2e5b8688a9e88c290ccf7fd4b75a39275426f9aa666bcf7694"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "is-extra-realistic-on-019109",
+  "title": {
+    "en": "Vlog Study 019109",
+    "zh": "Vlog Study 019109"
+  },
+  "description": {
+    "en": "15-second vlog prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒vlog提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "vlog",
+  "workflowMode": "reference-generation",
+  "mode": "image-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@doctorwasif",
+    "url": "https://x.com/doctorwasif/status/2083779989414019109"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/doctorwasif/status/2083779989414019109"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/doctorwasif/status/2083779989414019109"
+  ],
+  "prompt": "15s handheld home-video vlog, 7-shot montage. Photorealistic phone footage with slight tilt, natural shake, window light, subtle film grain.\n\nA woman (use Image1 only for facial identity and hairstyle) does laundry alone on a quiet morning. Outfit: oversized cream linen shirt with rolled sleeves, grey knit shorts, loose cotton apron. Cozy sunlit laundry nook with an open front-load washer, overflowing basket, wooden drying rack, clothespins, and warm sunlight. She is the only person in the video.\n\nSequence: untangles wet clothes → shakes out a shirt → checks a collar stain by the window → hangs it saying \"Good enough.\" → finds a mismatched sock → struggles with a heavy bedsheet while laughing → finishes hanging it and quietly admires the sunlit laundry.\n\nDialogue is natural spoken Korean (except \"Good enough\"), reacting casually to each moment. Ambient sound only: washer winding down, wet fabric, clothespins, rustling clothes, soft laughter, breeze. No subtitles, text, logos, or watermarks. Do not recreate or copy the reference image—use it only for facial identity and hairstyle.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/is-extra-realistic-on-019109/video-580f67b1b994fd87.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/is-extra-realistic-on-019109/poster-5199879ff0ccd7c4.jpg",
+    "format": "video/webm",
+    "videoBytes": 1128415,
+    "videoSha256": "580f67b1b994fd872247f8531bfb0df732111295ec304e3d54077e7f292aa775",
+    "thumbnailBytes": 61210,
+    "thumbnailSha256": "5199879ff0ccd7c4da03de83cb846bf6f12b25155c89a87e4ba1eb8a2dbc2ee9"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

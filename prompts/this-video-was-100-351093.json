@@ -1,0 +1,43 @@
+{
+  "slug": "this-video-was-100-351093",
+  "title": {
+    "en": "This video was 100%",
+    "zh": "This video was 100%"
+  },
+  "description": {
+    "en": "30-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@jaynwabueze",
+    "url": "https://x.com/jaynwabueze/status/2086138948049351093"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/jaynwabueze/status/2086138948049351093"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/jaynwabueze/status/2086138948049351093"
+  ],
+  "prompt": "This video was 100% made with AI with just one prompt.\n\nThe actors tend to pronounce the names wrongly but I love the way it came out.\n\nMade with Seedance 2.5 on @dreamina_ai #DreaminaCPP\n\nPrompt below",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/this-video-was-100-351093/video-c75e24f43ea6c47d.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/this-video-was-100-351093/poster-59eacc9b17da17b8.jpg",
+    "format": "video/webm",
+    "videoBytes": 1257523,
+    "videoSha256": "c75e24f43ea6c47d42a190135d3df867a0186e6e3249be1c6ddd7443f0ba5475",
+    "thumbnailBytes": 47825,
+    "thumbnailSha256": "59eacc9b17da17b875dc3ab1335c3ac90c651031ad7587ea60c0e64c971305a9"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

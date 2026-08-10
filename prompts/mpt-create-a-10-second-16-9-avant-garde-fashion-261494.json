@@ -1,0 +1,43 @@
+{
+  "slug": "mpt-create-a-10-second-16-9-avant-garde-fashion-261494",
+  "title": {
+    "en": "Fashion Film Study 261494",
+    "zh": "Fashion Film Study 261494"
+  },
+  "description": {
+    "en": "10-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "10 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "10s",
+  "aspectRatio": "427:240",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@bmx_ai13",
+    "url": "https://x.com/bmx_ai13/status/2086087282512261494"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/bmx_ai13/status/2086087282512261494"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/bmx_ai13/status/2086087282512261494"
+  ],
+  "prompt": "Create a 10 second 16:9 avant garde fashion film with the tactile realism of a late 1990s experimental editorial shot on analog video, MiniDV, direct flash and old broadcast monitors. Mood is seductive, confrontational, strange and slightly unsettling, never glossy CGI. Anatomy, skin, hair, fabric, gravity, motion blur and lens behavior must stay believable. Use practical props and real studio spaces. Palette: cyan, sea green, dirty cream, black, muted flesh and deep blue. 0.00 to 1.00 Start from a high overhead view of a crowded checkerboard plaza. A huge matte black sphere sits near center as hundreds of people circulate around it. Camera drifts subtly like a crane, with analog grain. Cut on the beat to an extreme macro of a woman’s eye and cheek. Her eyelid opens slowly while one clear heavy tear runs straight down glossy skin. Cold cyan light, clipped highlights, shallow focus, tiny natural eye movement. 1.00 to 2.00 Flash a CRT closeup where a made up eye and dark lips alternate beneath thick horizontal scan lines. Hard cut to a dark haired woman in a cropped white puffer jacket pressing both hands and her face into an oversized pale aqua inflatable sculpture. Direct flash creates wet plastic highlights against a deep black background. 2.00 to 4.00 In a sparse pale green studio, two female fashion performers in sharply tailored black suits and long braided ponytails face each other. Use a mostly locked wide shot as they perform aggressive synchronized choreography, lunging, blocking, twisting and throwing controlled high kicks without real impact. Jackets and braids snap with momentum. Then cut to an extreme low floor level fisheye view in an ornate interior as both lean over the lens with arms extended and confrontational runway energy. Keep realistic distortion and motion blur. 4.00 to 6.00 Return to CRT imagery. A single eye fills the screen with monochrome scan lines, then a woman’s face appears in electric blue on a surveillance style monitor, duplicated side by side, flipping from upside down to upright. Add imperfect tracking, rolling brightness, faint interface markings, analog noise and chromatic bleed. It must feel photographed from a real old monitor, not digitally overlaid. 6.00 to 8.00 Cut back to the black suit dancers. Use medium wide framing as they rotate around each other, grip shoulders, separate and reconnect. Camera stays mostly static while choreography creates the motion. Lighting is flat, cold and slightly green with soft shadows, subtle gate weave, grain and imperfect exposure. 8.00 to 9.30 Shift into surreal nightclub portraiture. A seated figure wears an oversized glowing cyan rabbit head with crude dark eyes and a sinister painted grin, knees close to camera in a dark room. Cut to another cyan headpiece covering the upper face of a model who leans toward camera and sticks out her tongue. Practical costume texture, flash falloff, soft focus, dark background, believable skin. 9.30 to 10.00 End on an extreme closeup of a mascara heavy eye on a curved CRT. The right side tears into narrow horizontal rainbow data streaks as the signal breaks. Hold for a fraction of a beat, then cut to black. Edit with abrupt hard cuts and occasional one frame interruptions. Never use smooth AI morphing, floating objects, elastic limbs, extra fingers, face melting or perfect synthetic symmetry. Preserve slight frame judder, sensor noise, focus breathing and organic performer timing. Audio: original instrumental around 172 BPM, dark industrial electro with compressed kick, dry snare, distorted sub bass, metallic percussion, short synth pulses, CRT buzz and sharp digital glitch accents. Sync major edits to the beat. No vocals and no recognizable melody. End with a brief electronic dropout and static snap.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/mpt-create-a-10-second-16-9-avant-garde-fashion-261494/video-1a71b1a4a1b99289.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/mpt-create-a-10-second-16-9-avant-garde-fashion-261494/poster-b9998ea15121b6fd.jpg",
+    "format": "video/webm",
+    "videoBytes": 508725,
+    "videoSha256": "1a71b1a4a1b992898e7fe5c66de92c71152ee657c2f323ee6c9d0a872aaf3fa6",
+    "thumbnailBytes": 11871,
+    "thumbnailSha256": "b9998ea15121b6fd6bc77a335cf3a9f3f0a4e0b7c6732ef45082c935e46fe0fe"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

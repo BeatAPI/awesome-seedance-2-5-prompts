@@ -1,0 +1,44 @@
+{
+  "slug": "ugc-on-is-just-crazy-066501",
+  "title": {
+    "en": "UGC on is just crazy",
+    "zh": "UGC on is just crazy"
+  },
+  "description": {
+    "en": "15-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "reference-generation",
+  "mode": "image-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AIwithSynthia",
+    "url": "https://x.com/AIwithSynthia/status/2086286356201066501"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/AIwithSynthia/status/2086286356201066501"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/AIwithSynthia/status/2086286356201066501"
+  ],
+  "prompt": "Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, makeup, skin tone, body proportions, white sleeveless fitted top, light blue wide-leg jeans, pearl choker, rings, and bracelets consistently throughout the video. Use the uploaded sunglasses, retail box, and leather carrying case as locked product references. Maintain perfect product consistency, including the frame shape, lenses, hinges, colors, materials, and proportions.\n\nCreate an ultra-realistic UGC luxury creator review filmed inside a modern luxury bedroom with warm golden-hour sunlight, soft natural shadows, and a premium lifestyle aesthetic. The camera feels like a handheld smartphone with subtle natural movement while maintaining cinematic commercial quality.\n\nThe video begins with the woman sitting on the bed beside the retail box and leather case. Smiling at the camera, she says, \"I genuinely wasn't expecting to love these this much.\" She picks up the box, opens it naturally, reveals the leather case, then slowly removes the sunglasses while continuing, \"The packaging already feels incredibly premium.\"\n\nShe rotates the sunglasses slowly in front of the camera, showing the frame, hinges, and lenses as natural reflections glide across the surface. She smiles and says, \"The finish feels amazing, and they're incredibly lightweight.\"\n\nShe puts on the sunglasses, stands up, and walks toward a large full-length mirror. Looking at her reflection, she adjusts the frame naturally and says, \"Honestly... they look so good, and they're really comfortable on the eyes, even in bright sunlight.\"\n\nShe turns slightly left and right so the sunglasses catch the sunlight from different angles before removing them with a smile. Walking back to the bed, she places the sunglasses beside the leather case and retail box, then picks them up one last time and holds them beside her face.\n\nLooking directly into the camera, she smiles warmly and says, \"Definitely one of my favorite accessories this year.\" The camera slowly pushes in on the sunglasses before fading out.\n\nUltra-realistic UGC fashion content, authentic creator review, cinematic handheld smartphone movement, luxury bedroom, macro product cinematography, realistic reflections, detailed frame textures, expressive facial animation, perfect lip sync, shallow depth of field, premium color grading, 4K HDR, 16:9, no subtitles, no logos, no watermarks, no on-screen text on it",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/ugc-on-is-just-crazy-066501/video-fb64d830040465e1.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/ugc-on-is-just-crazy-066501/poster-bb990dc632dca5dd.jpg",
+    "format": "video/webm",
+    "videoBytes": 1538405,
+    "videoSha256": "fb64d830040465e18f3bf61001b504e67ed72ae424cff1fa37b8c11f136fff3a",
+    "thumbnailBytes": 76867,
+    "thumbnailSha256": "bb990dc632dca5dd2a08024c945127aaa1f3002688faf3a593a70864fa755c2c"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

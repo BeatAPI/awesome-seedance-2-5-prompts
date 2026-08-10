@@ -1,0 +1,43 @@
+{
+  "slug": "mpt-create-a-15-second-cinematic-underground-fas-855712",
+  "title": {
+    "en": "Product Commercial Study 855712",
+    "zh": "Product Commercial Study 855712"
+  },
+  "description": {
+    "en": "15-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "427:240",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@bmx_ai13",
+    "url": "https://x.com/bmx_ai13/status/2086166303425855712"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/bmx_ai13/status/2086166303425855712"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/bmx_ai13/status/2086166303425855712"
+  ],
+  "prompt": "Create a 15 second cinematic underground fashion film in 16:9 inside a real concrete multilevel parking garage at night. Two stylish adult women are the central subjects. One has long straight black hair with blunt bangs, narrow dark futuristic sunglasses, a distressed silver and black sleeveless graphic top, layered metallic necklaces, stacked bracelets, fingerless black gloves, loose dark trousers, chunky black footwear and a large worn black shoulder bag. The second has long pale blonde hair under a fitted black beanie, oversized rectangular black sunglasses, a fitted white top, oversized black jacket slipping casually from her shoulders, a short dark skirt, black thigh high socks, chunky shoes, silver jewelry and a large textured handbag. Use an extremely wide vintage fisheye lens with visible barrel distortion and strong perspective stretching. The camera should feel like a real person holding a small early digital camcorder at arm length. Preserve tiny framing mistakes, slight horizon drift, natural hand vibration, physical footsteps, unpredictable body proximity, realistic autofocus breathing and occasional motion blur. Never make movement perfectly stabilized or mechanically smooth. Open extremely close to both women crouching beside a black motorcycle, staring calmly into the lens while a fluorescent fixture blooms above them. Rapidly orbit and tilt around them as they adjust sunglasses, move their hair and casually interact with the camera. Cut to a dramatic floor level detail of the motorcycle engine, rear wheel, frame, dark metal and chrome reflecting harsh ceiling light. Show both women crouching over an open bag with believable personal objects scattered on the concrete. Insert a brief near black rhythmic cut. Return with an intimate overhead fisheye angle while they search through the bag. The blonde woman raises a tiny silver compact camera toward the lens. One woman stands and crosses the painted white pedestrian stripes while the other collects her bag. Follow them through the garage with loose handheld backward movement. Include concrete pillars, curved driving lanes, yellow curb paint, white directional markings, a black parked car and a white van deep in the background. Around the middle create one very brief three image editorial collage of the dark haired woman from different close perspectives, then immediately return to natural live action. Show her walking away carrying the heavy black bag before both women turn and confidently walk back toward the camera. As they approach, allow the fisheye perspective to enlarge their faces, hands and clothing naturally. Finish by returning to the motorcycle where they crouch close to the camera again, creating a seamless visual loop to the opening shot. Lighting must come almost entirely from practical cold fluorescent garage fixtures with slightly green white color, blown highlights around lamps, deep soft shadows under eyes and clothing, subdued concrete colors and imperfect exposure changes as the camera turns. Image texture should resemble compressed early digital video with mild grain, restrained sharpness, slight chromatic fringing, subtle sensor noise and realistic skin texture. Preserve individual fingers, jewelry, fabric folds, hair strands and physically correct contact with bags, clothing and motorcycle surfaces. Avoid glossy commercial perfection, beauty retouching, floating objects, warped hands, changing clothing, duplicated accessories or impossible architecture. Edit with fast confident cuts synchronized to an original approximately 150 BPM underground electro beat combining distorted kick drum, dry snare, gritty bass, metallic percussion, dark synth pulses and subtle parking garage ambience. Add faint footsteps, clothing movement, bag hardware rattles and motorcycle metal sounds beneath the music. No dialogue. No voiceover. No readable logos or titles.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/mpt-create-a-15-second-cinematic-underground-fas-855712/video-51d755dd47347e05.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/mpt-create-a-15-second-cinematic-underground-fas-855712/poster-131645192910e4c9.jpg",
+    "format": "video/webm",
+    "videoBytes": 910852,
+    "videoSha256": "51d755dd47347e0598e6988a7ed834ed553c467d0632cd31e589e91787843bdb",
+    "thumbnailBytes": 29465,
+    "thumbnailSha256": "131645192910e4c9ef399b550ac85d7790af8a8ff5420108de201c789253f512"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

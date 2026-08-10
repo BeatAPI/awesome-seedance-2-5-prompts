@@ -1,0 +1,43 @@
+{
+  "slug": "one-30-second-fight-scene-252981",
+  "title": {
+    "en": "One 30-second fight scene",
+    "zh": "One 30-second fight scene"
+  },
+  "description": {
+    "en": "33-second animation prompt paired with a source-verified creator example and its output video.",
+    "zh": "33 秒animation提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "animation",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "33s",
+  "aspectRatio": "1:1",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AI_ShortFilm",
+    "url": "https://x.com/AI_ShortFilm/status/2086468839391252981"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/AI_ShortFilm/status/2086468839391252981"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/AI_ShortFilm/status/2086468839391252981"
+  ],
+  "prompt": "One prompt.\nOne 30-second fight scene.\nCreated in CapCut Seedance 2.5.\nA cinematic wuxia battle with fast sword combat, heavy rain, dynamic camera movement, and a premium anime-real look — all generated as a long-form Seedance 2.5 showcase.#capcutseedance25 #capcutcpp #Seedance25",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/one-30-second-fight-scene-252981/video-b2e61a88132e5e20.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/one-30-second-fight-scene-252981/poster-6596d53c7b749aae.jpg",
+    "format": "video/webm",
+    "videoBytes": 3579282,
+    "videoSha256": "b2e61a88132e5e20219a6e0be5c791715405a1749cf9b86c0548e1d26f038207",
+    "thumbnailBytes": 82075,
+    "thumbnailSha256": "6596d53c7b749aaee0810a05f9dacae04fcdf7d0f2dd1868d36a92428d756f5b"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

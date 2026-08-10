@@ -1,0 +1,43 @@
+{
+  "slug": "shot-1-ecu-85mm-push-in-on-the-phone-screen-734483",
+  "title": {
+    "en": "Cinematic Story Study 734483",
+    "zh": "Cinematic Story Study 734483"
+  },
+  "description": {
+    "en": "15-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AIwithSynthia",
+    "url": "https://x.com/AIwithSynthia/status/2085943905577734483"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/AIwithSynthia/status/2085943905577734483"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/AIwithSynthia/status/2085943905577734483"
+  ],
+  "prompt": "SHOT 1: ECU, 85mm push-in /  on the phone screen as it shakes on rumpled sheets / SFX: alarm, sheet rustle.\n\nSHOT 2: WS, 35mm handheld jolt / Rhythmic cut into her jolting upright through side light, throwing the blanket aside, and planting her feet on the floor in one rushed motion, still in a sleep tee and lounge shorts / SFX: mattress bounce, blanket whip, sharp breath.\n\nSHOT 3: MCU, 50mm slide / Cut on action into face wash at the sink, droplets catching the top light / SFX: faucet rush, water slap.\n\nSHOT 4: Insert shot, 85mm lens focus / Match cut into the toothbrush held at a natural forward brushing angle against the front teeth; hand relaxed and upright, mint foam and mirror eye / SFX: bristle scrape, sink drip.\n\nSHOT 5: Interior fridge view, 24mm wide / Object pass into the camera inside the fridge looking out as the door snaps open and her hand darts in, blue light framing a hurried grab for breakfast ingredients / SFX: fridge hum, bottle clink, shelf scrape.\n\nSHOT 6: Insert shot, 50mm handheld / Rhythmic cut into egg and toast hitting the pan under warm practical light / SFX: butter sizzle, chop tap.\n\nSHOT 7: MCU, centered 50mm push-in / Match cut into one rushed bite, a quick clock glance, and an immediate rise from the chair / SFX: crunch, ceramic clink, chair scrape.\n\nSHOT 8: Bird’s-eye, 35mm overhead / Match cut on action as the sleep tee disappears under a fitted top and tailored jacket; then her keys, transit card, and bag get scooped up in one messy grab / SFX: fabric whip, key jingle, zipper pull, bag rustle.\n\nSHOT 9: MS, 35mm pan / Camera slips into a rushed outfit change as the sleep tee disappears under a fitted top and tailored jacket; then her keys, transit card, and bag get scooped up in one messy grab / SFX: fabric whip, key jingle, zipper pull, bag rustle.\n\nSHOT 10: Insert shot, 50mm overhead / Match cut into lace-up shoes slamming on as the laces yank tight in one impatient pull / SFX: sole thump, lace tug, short breath.\n\nSHOT 11: WS, 24mm parallel / Whip pan transition into her, now in the tailored outside outfit, rushing through the apartment corridor into bright light without breaking stride / SFX: latch click, rapid footsteps, hallway air.\n\nSHOT 12: MS to CU, 35mm glide, 85mm push-in / Sound bridge into the metro interior as she grips the pole and slips through just before the closing doors, reflected chrome streaking around her and the city blurring outside / SFX: train rattle, carriage screech, door warning chime, light breath.\n\nSHOT 13: Insert to MCU, 50mm snap zoom / Smash cut to the office entrance as her access card hits the reader, the glass door unlocks, and she slips through before dropping into her chair and opening her laptop / SFX: badge beep, door click, laptop chime.\n\nSHOT 14: OTS, 35mm handheld / Rhythmic cut into her fingers racing across the keyboard with blue monitor light illuminating her face / SFX: keyboard clicks, notification sounds, mouse click.\n\nSHOT 15: WS, 24mm pull-out / Match cut back to the bedroom composition from the opening shot as she collapses onto the bed after a long day / SFX: body drop, fabric rustle, heavy exhale.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/shot-1-ecu-85mm-push-in-on-the-phone-screen-734483/video-b274ccd4b402e123.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/shot-1-ecu-85mm-push-in-on-the-phone-screen-734483/poster-356fa5f57d943e37.jpg",
+    "format": "video/webm",
+    "videoBytes": 1436299,
+    "videoSha256": "b274ccd4b402e1234f3e41f63d805233360c25951b0df570db208ba45857205d",
+    "thumbnailBytes": 46317,
+    "thumbnailSha256": "356fa5f57d943e37683c8ed38569821be012f788e1965b31a95cd5ec552ce959"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

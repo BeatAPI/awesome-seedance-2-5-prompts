@@ -1,0 +1,43 @@
+{
+  "slug": "video-prompt-case-593058",
+  "title": {
+    "en": "在 即将推出之际我发条 grok 生的视频来提醒一下大家不要忘了这条",
+    "zh": "在 即将推出之际我发条 grok 生的视频来提醒一下大家不要忘了这条"
+  },
+  "description": {
+    "en": "31-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "31 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "31s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@john87445528",
+    "url": "https://x.com/john87445528/status/2083165327412593058"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/john87445528/status/2083165327412593058"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/john87445528/status/2083165327412593058"
+  ],
+  "prompt": "从@2款式的丝袜脚开始拍摄移动镜头到@1左边这张人物，然后角色@1开始说：趁某人熟睡时，用手去摸某人的脸和嘴，亲\n\n身经历一次就明自了。\n\n2、某人要是不耐烦，还把你的手推开，百分百\n\n是不爱你的。\n\n3、某人要是不反抗，还会把手放在她的胸口上，\n\n紧紧搂住入睡，那绝对是真爱。\n\n4、熟睡中人的反应是真的，不信你去试试\n\n@3男士坐在沙发边焦虑的样子手捂着头对着镜头抱怨大声说：信了你的鬼话，她又爬上来了",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-593058/video-33b26b1afa17a4b2.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-593058/poster-9d4eee2632b3baff.jpg",
+    "format": "video/webm",
+    "videoBytes": 2500495,
+    "videoSha256": "33b26b1afa17a4b2fd7ce8f9ed05f8dbb1fedf4f4c69580c173742ed23686509",
+    "thumbnailBytes": 46315,
+    "thumbnailSha256": "9d4eee2632b3baff1caafee297e29821def838dd277e01e5e9b50b00a03acd7e"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "parking-lot-energy-hits-different-after-midnight-868579",
+  "title": {
+    "en": "Parking Lot Energy Hits Different After Midnight",
+    "zh": "Parking Lot Energy Hits Different After Midnight"
+  },
+  "description": {
+    "en": "10-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "10 秒cinematic action提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "10s",
+  "aspectRatio": "427:240",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@bmx_ai13",
+    "url": "https://x.com/bmx_ai13/status/2086041732068868579"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/bmx_ai13/status/2086041732068868579"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/bmx_ai13/status/2086041732068868579"
+  ],
+  "prompt": "Create a 10 second photorealistic nighttime fashion and automotive film in 16:9 at 24 fps, set outside a small independently owned convenience store in a suburban parking lot after midnight. Use an extreme wide angle lens around 14mm with subtle fisheye barrel distortion and a handheld camera held near chest and eye level. The visual language should feel like genuine spontaneous footage captured by a talented friend at an underground car meet, never polished like a commercial studio shoot. Two young adult women are the central subjects. The first has long platinum silver hair and wears an oversized charcoal black hooded jacket with the hood covering part of her forehead. She has a calm confident expression and repeatedly looks directly into the camera while casually holding and adjusting her hood. The second woman has thick natural dark curls and wears a warm brown oversized top. She is energetic and playful, moving close to the lens, touching her lips briefly, turning toward her friend, and running both hands through her curls so individual strands bounce naturally. Behind them are two realistically modified street coupes, one metallic silver and one dark graphite gray, both sitting low with tasteful wheels and authentic reflections. Keep vehicle geometry, wheel placement, glass, reflections, doors, headlights and body panels completely consistent. Several casually dressed people linger naturally near the store entrance in the deep background. Begin with the silver haired woman extremely close to camera while the curly haired woman stands behind her. Cut on the musical rhythm to a wider view showing both women and the silver coupe. Jump into an extreme close portrait of the curly haired woman as she approaches the lens. Briefly cut to a dark clothed figure casually standing beside the graphite car. Return to the silver haired woman adjusting her hood, then show both women moving freely around the front of the silver car. Cut close as the curly haired woman throws both hands into her hair, creating authentic hair movement and natural motion blur. Continue alternating intimate portraits, loose medium shots and wide automotive compositions every few beats. Near 7.5 seconds use a single intense electric blue flash frame, then cut to pure black for the remaining ending, leaving clean empty central space suitable for adding event typography later in editing. Do not generate readable text, logos or fake lettering. Lighting comes only from believable practical sources. Bright fluorescent convenience store windows create warm cream and yellow highlights on faces and cars, mixed with cooler parking lot lamps. Allow slightly clipped storefront highlights, deep imperfect shadows, realistic skin pores, subtle facial shine, fabric texture, asphalt grain and reflections. Preserve natural exposure fluctuations as subjects approach the camera. Avoid beauty lighting, artificial rim lights and perfect cinematic symmetry. Camera motion must contain tiny human hand tremors, subtle lateral sway, occasional imperfect reframing, realistic focus breathing and slight rolling shutter during fast movement. Faces, hands, fingers, hair and clothing must remain anatomically stable between cuts. No morphing, floating objects, warped cars, duplicated people, plastic skin or impossible reflections. Use a gritty photographic digital look with restrained grain, slight low light noise, mild compression texture, rich blacks and warm highlights. Keep the performers relaxed rather than choreographed. Music should be an original approximately 96 BPM underground hip hop instrumental with deep controlled bass, dry punchy drums, sparse atmospheric synth texture and a nocturnal street fashion mood. Synchronize the major visual cuts and blue flash to the beat. No vocals. Let the instrumental continue across the black ending for a confident finish.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/parking-lot-energy-hits-different-after-midnight-868579/video-8ed5de4648e6da2c.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/parking-lot-energy-hits-different-after-midnight-868579/poster-9a6b394120971194.jpg",
+    "format": "video/webm",
+    "videoBytes": 356783,
+    "videoSha256": "8ed5de4648e6da2c448c5111984b8858c90b05e5f7292f7822dc4cc8e626d740",
+    "thumbnailBytes": 39446,
+    "thumbnailSha256": "9a6b394120971194d6a3af6bca89f530a5737f372fc59667060bb2a8ad3b097e"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

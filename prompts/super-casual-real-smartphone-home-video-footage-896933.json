@@ -1,0 +1,43 @@
+{
+  "slug": "super-casual-real-smartphone-home-video-footage-896933",
+  "title": {
+    "en": "Gameplay Study 896933",
+    "zh": "Gameplay Study 896933"
+  },
+  "description": {
+    "en": "30-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒cinematic action提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Strength04_X",
+    "url": "https://x.com/Strength04_X/status/2084501473480896933"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Strength04_X/status/2084501473480896933"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Strength04_X/status/2084501473480896933"
+  ],
+  "prompt": "Super casual real smartphone home video footage, sunny Los Angeles backyard pool party with palm trees and string lights, natural mobile phone camera with slight authentic handheld shake, normal frame rate with smooth natural motion, rapidfire montage with constant quick jump cuts every 1-2 seconds like scrolling through phone memories, unpolished authentic phone recording of mixed ages swimming, eating and dancing near the pool, pure raw home video feel, no cinematic polish or heavy effects. Use the provided reference photo as the strict ONLY visual reference for the main woman. Maintain her exact appearance with zero deviation. Generate a mixed group of family and friends around her by the pool, palm trees, floats and drinks visible.\n0-2.5s: Shaky rapid cuts main woman laughing near the pool edge, sunlight sparkling on water, quick flashes of friends splashing.\n2.5-5s: Abrupt jump cuts close-up of her smiling with sunglasses, then friends passing cold drinks poolside.\n5-7.5s: Fast shaky she chats animatedly on a lounge chair, pool floats and palm trees visible.\n7.5-10s: Quick cut close-up cheerful smile toward camera, then jump to her laughing with family near the water.\n10-12.5s: Abrupt edit group gathered around a poolside table, snacks shared, playful splashing in background.\n12.5-15s: Fast rapid cuts she dances lightly near the pool, friends clapping and laughing along.\n15-17.5s: Shaky jump cuts close-up of her jumping playfully near the water edge, laughter all around.\n17.5-20s: Abrupt edit group taking a big splash together, mixed ages cheering happily.\n20-22.5s: Fast shaky she relaxes on a float, chatting with a friend nearby, sunlight glowing.\n22.5-25s: Quick cut close-up warm smile toward camera, then jump to her toasting drinks with friends. 25-27.5s: Abrupt edit everyone gathered close for a group moment, laughing near the pool.\n27.5-30s: Final rapid transition main woman relaxed poolside with the group, soft smile, calm summer memory ending with slight natural phone sway. Natural smartphone video quality, slight real handheld shake, smooth normal frame rate motion with no low fps or choppy artifacts, authentic casual interactions and physics, stable main character consistency, charming unpolished home phone recording, no pro stabilization or effects.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/super-casual-real-smartphone-home-video-footage-896933/video-048ce0959e509e32.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/super-casual-real-smartphone-home-video-footage-896933/poster-6768747a1f96dfc7.jpg",
+    "format": "video/webm",
+    "videoBytes": 2641987,
+    "videoSha256": "048ce0959e509e32fdccf297e656b5d223ef91c4a49e8427a70ea5386d80a2c6",
+    "thumbnailBytes": 96228,
+    "thumbnailSha256": "6768747a1f96dfc76651a34550d9cef99dc9f88f22e40e09fcaed26e6764c055"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

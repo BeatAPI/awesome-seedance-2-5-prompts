@@ -2,7 +2,51 @@
 
 [Back to the featured gallery](../../README.md) · [Catalog index](../README.md)
 
-## 1. Japanese Game Show Foam Roller
+## 1. The moon took a night off. Everything went wrong in
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/the-moon-took-a-night-off-everything-went-wrong-546768/video-c61aef557b405ecf.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/the-moon-took-a-night-off-everything-went-wrong-546768/poster-9dd968b4f9596121.jpg" alt="The moon took a night off. Everything went wrong in video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — { &quot;title&quot;: &quot;Moon's Night Off&quot;, &quot;style&quot;: &quot;3D Pixar family animation. Night sky and ocean, cosmic and aquatic mix, bioluminescent colors, fast-paced visual chaos, surreal comedy.&quot;,...</summary>
+
+~~~~text
+{ "title": "Moon's Night Off", "style": "3D Pixar family animation. Night sky and ocean, cosmic and aquatic mix, bioluminescent colors, fast-paced visual chaos, surreal comedy.", "shots": [ {"time":"00:00-00:03","type":"WIDE","action":"The Moon, a glowing crescent with arms, hangs a 'GONE FISHING' sign on the night sky. He grabs a shooting star like a surfboard and leaves.","camera":"Wide cosmic shot.","dialogue":"Moon: 'Finally. Some me time.'"}, {"time":"00:03-00:06","type":"WIDE","action":"A temp worker anglerfish inflates into the sky, wobbling into position. His lure is blindingly bright.","camera":"Low angle from ocean looking up.","dialogue":"Anglerfish: 'Don't worry, boss! I got this!'"}, {"time":"00:06-00:09","type":"MEDIUM","action":"An owl puts on tiny sunglasses, annoyed. Worms pop out of ground thinking it's daytime. A rooster crows confusedly.","camera":"Rapid cuts.","dialogue":"Owl: 'Turn it down, Gary!'"}, {"time":"00:09-00:12","type":"WIDE","action":"Tides go sideways. Fish swim through the air. A lighthouse sees the anglerfish's bright lure and gets jealous.","camera":"Chaotic wide, tilting horizon.","dialogue":"Lighthouse: 'Am I a joke to you?'"}, {"time":"00:12-00:15","type":"CLOSE-UP","action":"The lighthouse starts spinning like a disco ball, casting colored beams across the ocean. Party music starts.","camera":"Close-up of lighthouse face.","dialogue":"Lighthouse: 'If you can't beat 'em, join 'em!'"}, {"time":"00:15-00:18","type":"TRACKING","action":"Moon surfs back on his shooting star, furious, leaving a streak across the sky.","camera":"Following shot, fast.","dialogue":"Moon: 'NOBODY. COVERS. MY. SHIFT.'"}, {"time":"00:18-00:22","type":"WIDE","action":"Moon grabs the anglerfish by the lure and yeets him back into the ocean. The anglerfish splashes, deflated.","camera":"Wide action shot.","dialogue":"Anglerfish: 'Worth it!'"}, {"time":"00:22-00:25","type":"WIDE","action":"Moon fixes the sky. Tides return to normal. Fish fall back into water. Lighthouse stops spinning, embarrassed.","camera":"Sweeping wide.","dialogue":"Moon: 'Amateurs.'"}, {"time":"00:25-00:28","type":"CLOSE-UP","action":"Moon settles back into position, pulls out a tiny fishing rod, and actually fishes from the sky. Catches a cloud.","camera":"Push-in.","dialogue":"Moon: 'Now THIS is a break.'"}, {"time":"00:28-00:30","type":"TITLE CARD","action":"Black screen. Title 'MOON'S NIGHT OFF' in glowing letters with a tiny fishing hook.","camera":"Static.","dialogue":"(soft splash)"} ] }
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/the-moon-took-a-night-off-everything-went-wrong-546768/video-c61aef557b405ecf.webm)
+
+**Source:** [@Dheepanratnam](https://x.com/Dheepanratnam/status/2085111949629546768) · 30s · 427:240 · comedy
+
+---
+
+## 2. The Umbrella Escape
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/the-umbrella-escape-488195/video-cd660b188da8f221.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/the-umbrella-escape-488195/poster-d7214a8827fe3e2e.jpg" alt="The Umbrella Escape video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — { &quot;title&quot;: &quot;The Umbrella Escape&quot;, &quot;style&quot;: &quot;3D Pixar family animation. Rainy city afternoon, vibrant reflections on wet pavement, action-comedy chase, warm and cool contrast,...</summary>
+
+~~~~text
+{ "title": "The Umbrella Escape", "style": "3D Pixar family animation. Rainy city afternoon, vibrant reflections on wet pavement, action-comedy chase, warm and cool contrast, dynamic camera.", "shots": [ {"time":"00:00-00:03","type":"CLOSE-UP","action":"Kid in yellow raincoat opens a bright red umbrella. A gust of wind hits. The umbrella inverts and yanks free.","camera":"Macro, raindrops flying.","dialogue":"Umbrella: 'FREEDOM!' Kid: 'Hey!'"}, {"time":"00:03-00:06","type":"TRACKING","action":"Umbrella surfs down the sidewalk, opening and closing to dodge pedestrians. It hops over a puddle like a skipping stone.","camera":"Low tracking, fast.","dialogue":"Umbrella: 'Can't catch me! I'm born to fly!'"}, {"time":"00:06-00:09","type":"WIDE","action":"Umbrella weaves through a flock of pigeons. They scatter. One pigeon gets caught inside and spins out dizzy.","camera":"Chaotic wide.","dialogue":"Pigeon: 'What the-'"}, {"time":"00:09-00:12","type":"ACTION","action":"Umbrella surfs a puddle wave, then catches a crosswind and smacks into a lamppost, spinning around it like a tetherball.","camera":"Spinning camera with umbrella.","dialogue":"Umbrella: 'Wheee! Okay, that hurt.'"}, {"time":"00:12-00:15","type":"TRACKING","action":"A street sweeper approaches. The umbrella gets sucked into the brush, spins wildly, and launches out like a frisbee.","camera":"Following shot, fast.","dialogue":"Umbrella: 'I REGRET NOTHING!'"}, {"time":"00:15-00:18","type":"WIDE","action":"Umbrella glides toward a tree, sticks perfectly in the branches, and sighs. Kid arrives below, out of breath.","camera":"Wide, rain falling.","dialogue":"Kid: 'Got... you...'"}, {"time":"00:18-00:22","type":"TWO-SHOT","action":"Kid climbs up. Reaches for umbrella. Umbrella closes tight, refusing. Kid pouts. Umbrella opens one eye.","camera":"Close two-shot in the tree.","dialogue":"Umbrella: 'I'm not coming back. I tasted the wild.' Kid: 'I'll let you pick the movie.'"}, {"time":"00:22-00:25","type":"CLOSE-UP","action":"Umbrella pauses. Opens fully. Gently covers the kid from the rain, settling onto their shoulder.","camera":"Warm push-in.","dialogue":"Umbrella: 'Fine. But I'm driving next time.'"}, {"time":"00:25-00:28","type":"WIDE","action":"Kid walks home under the umbrella. The umbrella steers them left, then right, playfully. They splash through puddles together.","camera":"Wide, beautiful rainy street.","dialogue":"Kid: 'You're impossible.' Umbrella: 'Thank you.'"}, {"time":"00:28-00:30","type":"TITLE CARD","action":"Black screen. Title 'THE UMBRELLA ESCAPE' in raindrop letters with a red umbrella icon.","camera":"Static.","dialogue":"(soft rain)"} ] }
+
+@dreamina_ai
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/the-umbrella-escape-488195/video-cd660b188da8f221.webm)
+
+**Source:** [@Dheepanratnam](https://x.com/Dheepanratnam/status/2085033492870488195) · 30s · 427:240 · comedy
+
+---
+
+## 3. Japanese Game Show Foam Roller
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-game-show-foam-roller/video-fa4c5269025df3df.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-game-show-foam-roller/poster-29b656a2da94c5ab.jpg" alt="Japanese Game Show Foam Roller video preview" width="700" />
@@ -23,7 +67,7 @@ Broadcast footage from a real 2000s–2010s Japanese sports entertainment progra
 
 ---
 
-## 2. Robots Text-Hold Studio Comedy
+## 4. Robots Text-Hold Studio Comedy
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/robots-text-hold-studio-comedy/video-79fdcec3211e1023.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/robots-text-hold-studio-comedy/poster-b3e7988ff4b3d0d8.jpg" alt="Robots Text-Hold Studio Comedy video preview" width="700" />
@@ -113,7 +157,7 @@ VISUAL QUALITY: Premium influencer content, realistic studio lighting, natural h
 
 ---
 
-## 3. Beauty Filter Double Comes Alive
+## 5. Beauty Filter Double Comes Alive
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/filter-double-comes-alive-comedy/video-d39fefc1544a764b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/filter-double-comes-alive-comedy/poster-63a6197ee2aa352b.jpg" alt="Beauty Filter Double Comes Alive video preview" width="700" />

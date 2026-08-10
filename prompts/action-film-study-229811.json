@@ -1,0 +1,43 @@
+{
+  "slug": "action-film-study-229811",
+  "title": {
+    "en": "Action Film Study 229811",
+    "zh": "Action Film Study 229811"
+  },
+  "description": {
+    "en": "30-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒cinematic action提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Strength04_X",
+    "url": "https://x.com/Strength04_X/status/2084820946595229811"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Strength04_X/status/2084820946595229811"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Strength04_X/status/2084820946595229811"
+  ],
+  "prompt": "OPERATION: Officer responds first to a small roadside brush fire before firefighters arrive, secures the area, and assists with evacuation of nearby pedestrians.\nRESPONDING OFFICER: Male, late 30s. Standard patrol uniform. Chest-mounted body camera. Calm under pressure. Clear verbal commands.\nRECORDING WINDOW: 7:10 PM. Warm evening. Streetlights beginning to illuminate.\nSCENE LOCATION: Roadside walking trail beside suburban homes. Dry grass. Small trees. Parked vehicles. Fire hydrant nearby.\nBODYCAM CHARACTERISTICS: Ultra-wide chest-mounted bodycam. Faster walking and occasional short jog. Noticeable breathing. Frequent head turns scanning surroundings. Hands visible directing pedestrians. No cinematic framing.\nINCIDENT FLOW (≈30 Seconds)\nArrival (0–5s)\nOfficer arrives to find a small patch of dry grass burning with light smoke drifting across the sidewalk.\nSafety Response (5–12s)\nOfficer quickly guides pedestrians away from the smoke, blocks access using patrol vehicle lights, and radios fire department updates.\nActivity (12–20s)\nOfficer checks nearby bushes for fire spread while a resident uses a garden hose to slow the flames from a safe distance.\nFire Department Arrival (20–27s)\nFire engine arrives. Firefighters immediately deploy a hose line and extinguish the remaining flames within seconds.\nDeparture (27–30s)\nOfficer confirms the area is secure, thanks nearby residents for staying clear, and returns to patrol duties.\nSOUND PROFILE: Radio dispatch, crackling fire, footsteps, distant traffic, sirens approaching, firefighters communicating, hose spraying water.\nAUTHENTICITY PROTOCOL: Realistic emergency response. No explosions. No exaggerated heroics. Continuous chest-mounted bodycam perspective with natural movement and authentic scene progression.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/action-film-study-229811/video-545df238c0cf3cc1.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/action-film-study-229811/poster-5669123cb6ec5242.jpg",
+    "format": "video/webm",
+    "videoBytes": 2261125,
+    "videoSha256": "545df238c0cf3cc196a2447b7383fa07faaaed721fc12f747e21f2941966228a",
+    "thumbnailBytes": 43661,
+    "thumbnailSha256": "5669123cb6ec52422d64cb58f3c00037e80f3f775da12f795a1a50ffa586223a"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

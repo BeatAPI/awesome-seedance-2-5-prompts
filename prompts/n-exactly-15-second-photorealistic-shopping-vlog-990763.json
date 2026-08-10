@@ -1,0 +1,43 @@
+{
+  "slug": "n-exactly-15-second-photorealistic-shopping-vlog-990763",
+  "title": {
+    "en": "Product Commercial Study 990763",
+    "zh": "Product Commercial Study 990763"
+  },
+  "description": {
+    "en": "15-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@beechinour",
+    "url": "https://x.com/beechinour/status/2085437314163990763"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/beechinour/status/2085437314163990763"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/beechinour/status/2085437314163990763"
+  ],
+  "prompt": "Create an exactly 15-second photorealistic shopping vlog in 16:9: extremely sharp 4K compact-camera detail, natural HDR, accurate skin, realistic motion and perfect identity continuity. No VHS, grain, subtitles, logos, watermarks or graphics.\n\nSUBJECT: A 21-year-old American woman with long wavy chestnut hair, light everyday makeup and an expressive, approachable face. Fitted black long-sleeve top, light-blue straight jeans, sneakers and a small black shoulder bag. Keep her face, hair, outfit, bag and jewellery identical through every cut. She talks like a normal friend, never a presenter.\n\nSTORE: A large modern high-street womenswear shop resembling an upscale European fast-fashion retailer without real branding. Cream walls, black fixtures, mirrors, warm-neutral spotlights, polished floor, fitting rooms, folded denim and dense racks of blazers, tops, dresses, knitwear and trousers. Adult shoppers browse independently. No readable brands, signs, price tags or labels.\n\nCAMERA: The same compact camera stays in her hand throughout. Every frame is one-handed arm’s-length selfie, her mirror reflection holding it, or her rotating it outward to show clothes. Never place it down, prop it up, pass it to anyone or use an external angle. Sharp 20–24mm-equivalent wide lens, mild barrel distortion, deep focus, reliable eye autofocus and true 24fps with 1/48-second blur. Stabilization controls impacts but retains footstep bob, wrist sway, breathing, grip shifts, late pans and imperfect reframing. Preserve pores, flyaways, teeth, fabric and accurate reflections without beauty filtering or fake bokeh. Exposure stays face-priority but shifts subtly between mirrored aisles and the fitting-room corridor. Fast wrist turns show slight rolling-shutter skew and natural background blur while her face and garments remain sharply resolved.\n\nEDITING IS CRITICAL: Use 12 clips and 11 hard jump cuts. Most cuts remain in the same aisle or beside the same rack, with only a small jump in pose, expression, camera distance, garment position or sentence. Remove mundane pauses and bits of walking. Cut mid-gesture, during camera turns and inside sentences for the fast rhythm of an edited social vlog. Geography and identity stay coherent despite time compression. No fades, transitions, whip effects or cinematic montage. Cuts are not beat-synced; some happen for no narrative reason and simply skip a fraction of an ordinary action.\n\nCLIP 1 — 0.0–1.2:\n\nWalking into the store in loose selfie framing:\n\n“Okay, I’m literally just getting—”\n\nCLIP 2 — 1.2–2.3:\n\nJump cut a few steps inside, nearly the same angle but her hair and bag have shifted:\n\n“—one top. That’s it.”\n\nCLIP 3 — 2.3–3.4:\n\nShe rotates the camera toward a crowded rack and slides hangers with her free hand. Hangers clack; no dialogue.\n\nCLIP 4 — 3.4–4.6:\n\nJump cut beside the same rack. In selfie view she holds a dark-red top against herself:\n\n“Wait, this is cute.”\n\nCLIP 5 — 4.6–5.5:\n\nCut to a nearby mirror, camera visible in her hand. She checks the top. Her female friend, mostly off-camera, says, “No.” She turns: “Really?”\n\nCLIP 6 — 5.5–6.4:\n\nClose selfie micro-cut in the same spot. She laughs:\n\n“Okay, rude.”\n\nCLIP 7 — 6.4–7.6:\n\nShe rotates toward a blazer rail and pulls out a charcoal jacket. Focus briefly transfers from mirror to fabric.\n\nCLIP 8 — 7.6–8.8:\n\nJump cut in the same aisle. The top and jacket now rest over her free arm. Looking down:\n\n“Why do I already have four things?”\n\nCLIP 9 — 8.8–9.8:\n\nNear-identical angle after another micro-cut. Friend: “Because you picked them up.” She smiles: “Fair.”\n\nCLIP 10 — 9.8–11.2:\n\nCut to her walking past another rack. She pans across dresses, passes the item she wants, then corrects back. No dialogue.\n\nCLIP 11 — 11.2–13.2:\n\nMirror near the fitting rooms. Holding the jacket against herself:\n\n“Do I need this?”\n\nFriend: “No.” She smiles, ignoring the answer.\n\nCLIP 12 — 13.2–15.0:\n\nClose walking selfie approaching the fitting rooms, garments over her free arm:\n\n“Okay, I’m trying it on.”",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/n-exactly-15-second-photorealistic-shopping-vlog-990763/video-bbb3eb98e972fa51.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/n-exactly-15-second-photorealistic-shopping-vlog-990763/poster-96e34a39c1d5801e.jpg",
+    "format": "video/webm",
+    "videoBytes": 1427242,
+    "videoSha256": "bbb3eb98e972fa51753952481b0749ba77e89335fcafa7aa2d8a879204d5a5e9",
+    "thumbnailBytes": 63924,
+    "thumbnailSha256": "96e34a39c1d5801e422463120218de7f4f53106a7cec53b1173d24c59b7d1a3b"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

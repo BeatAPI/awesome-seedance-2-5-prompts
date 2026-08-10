@@ -1,0 +1,43 @@
+{
+  "slug": "camera-handheld-dv-16mm-daily-vlog-footage-the-v-110168",
+  "title": {
+    "en": "CAMERA: Handheld DV 16mm daily vlog footage. The video MUST",
+    "zh": "CAMERA: Handheld DV 16mm daily vlog footage. The video MUST"
+  },
+  "description": {
+    "en": "15-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@maxxmalist",
+    "url": "https://x.com/maxxmalist/status/2085422370362110168"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/maxxmalist/status/2085422370362110168"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/maxxmalist/status/2085422370362110168"
+  ],
+  "prompt": "CAMERA: Handheld DV 16mm daily vlog footage. The video MUST begin with her holding the camera at arm's length in selfie mode while stepping outside her apartment building with her dog. The first 20–30 seconds are entirely handheld. Later she occasionally places the camera on a park bench, low stone wall, picnic table, or the ground for wider shots. Keep subtle handheld shake, drifting composition, autofocus hunting, rushed reframing, uneven zooms, exposure breathing, brief accidental face cropping, and imperfect framing throughout. The camera itself is never visible.\n\nLOOK: Warm analog tape texture with gentle film grain, slightly softened sharpness, subtle halation around sunlight, realistic skin tones, low contrast, tiny exposure shifts, and natural motion blur. It should feel like authentic footage from someone's everyday life rather than a polished commercial.\n\nSTYLE: A relaxed morning lifestyle vlog. Quiet, cozy, and spontaneous. She occasionally laughs at her dog, pauses to look around, adjusts the leash, brushes hair away from her face, and speaks naturally in short sentences with comfortable pauses.\n\nCHARACTER: EMMA — a beautiful white woman in her mid-20s. Long light brown hair in a messy ponytail, green eyes, minimal makeup, oversized gray hoodie, black biker shorts, white sneakers, and a small crossbody bag. She is walking a happy golden retriever.\n\nSETTING: A peaceful suburban neighborhood on a sunny morning. Tree-lined sidewalks, quiet residential streets, birds singing, a small park with benches, green grass, and soft golden morning light. Very few people are around.\n\nSCENES:\n\nThe vlog opens in selfie mode. Emma holds the camera while leaving her apartment building with the golden retriever excitedly pulling on the leash.\n\"Good morning.\"\nShe smiles.\n\"Someone couldn't wait.\"\nThe dog eagerly sniffs everything as they walk down the sidewalk.\nShe laughs quietly.\n\"He has to inspect every single tree.\"\nStill holding the camera, she walks into a small neighborhood park.\nThe dog suddenly stops and stares at a squirrel.\n\"Oh... there we go.\"\nShe smiles and gently shakes her head.\nShe places the camera on a nearby bench for a wider angle while throwing a tennis ball.\nThe dog happily chases after it.\n\"Worth waking up early.\"\nShe picks the camera back up.\nWalking slowly through the park, she looks up at the trees for a moment.\n\"It's actually really peaceful out here.\"\nThe dog returns with the ball but drops it halfway.\nShe laughs.\n\"Close enough.\"\nShe sits on the bench while the dog lies beside her.\nShe scratches behind his ears.\n\"I think he's happier than I am.\"\nShe stands up and continues walking.\nThe camera stays in selfie mode as they head toward home.\n\"Coffee is definitely next.\"\nShe smiles into the lens.\n\"See you later.\"\nShe gives a small wave and ends the recording.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/camera-handheld-dv-16mm-daily-vlog-footage-the-v-110168/video-a037aa546c356666.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/camera-handheld-dv-16mm-daily-vlog-footage-the-v-110168/poster-c5f292051f586634.jpg",
+    "format": "video/webm",
+    "videoBytes": 1516654,
+    "videoSha256": "a037aa546c356666a6771d14e6a838f80076d3ba61eade95d7fe2d244db8354c",
+    "thumbnailBytes": 110441,
+    "thumbnailSha256": "c5f292051f5866348badebb6bacd239223de0d9ebe1fd3bf7b887058d8fbb677"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

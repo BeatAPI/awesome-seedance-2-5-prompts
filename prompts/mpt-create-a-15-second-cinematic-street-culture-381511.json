@@ -1,0 +1,43 @@
+{
+  "slug": "mpt-create-a-15-second-cinematic-street-culture-381511",
+  "title": {
+    "en": "Gameplay Study 381511",
+    "zh": "Gameplay Study 381511"
+  },
+  "description": {
+    "en": "15-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒cinematic action提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "427:240",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@bmx_ai13",
+    "url": "https://x.com/bmx_ai13/status/2086304211839381511"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/bmx_ai13/status/2086304211839381511"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/bmx_ai13/status/2086304211839381511"
+  ],
+  "prompt": "Create a 15 second cinematic street culture montage in 16:9, filmed at 30 fps with the imperfect immediacy of real handheld nightlife footage. The mood is an early 2000s underground car meet shot on a compact digital camera. Use natural motion blur, slight focus breathing, modest sensor grain, mixed white balance, clipped brake light highlights, realistic skin texture, accurate reflections, and occasional direct flash. Keep faces, clothing, hands, wheels, and vehicle geometry consistent. 0 to 1 second. At blue hour outside a plain commercial building, frame an adult woman with long black hair, a white cropped tank, loose black overshirt, dark trousers, metal chain belt and narrow sunglasses. Start medium close, then snap cut to her leaning against the rear of a dark sports coupe. Red circular taillights glow strongly. Handheld camera with tiny human corrections. 1 to 2 seconds. Rapid details of the glossy trunk, an abstract graphic decal, a polished alloy wheel, then three adult men in loose dark streetwear near the building. Cut to the coupe pulling away at night, filmed from a following car. Let the taillights bloom and streak naturally. 2 to 3 seconds. Return to the woman beside the car and concrete wall. Chest height medium shot, then closer as she lifts one hand into her hair. Dim dusk light mixes with red brake light spill. Calm, detached expression. 3 to 4 seconds. Tight candid shot beside the car. A second adult woman in a white top sits nearby while the first raises a cigarette toward her lips. Direct flash creates hard shadows and flattened highlights. Cut to a high angle over the glowing twin taillights as she looks upward. 4 to 6 seconds. Rear tracking view of the coupe accelerating along a dark multi lane road. Camera shakes slightly inside a moving vehicle. Alternate with the woman leaning beside the taillight, cigarette held loosely, red light washing across black clothing. Add one fast whip pan with smeared lights, ending in a sudden overexposed flash. 6 to 7 seconds. Show a brief inverted photographic flash for only a few frames, then an adult man in oversized black streetwear standing in front of a vivid blue sports car under harsh direct flash. Snap back to the woman beside the dark coupe, framed waist up. 7 to 8 seconds. Push into a profile closeup. Preserve fine hair, eyeliner, skin pores and reflected road lights. A shoulder level camera pass creates real foreground blur, then cut to the coupe driving ahead on the highway. 8 to 9 seconds. Follow the car from behind at night with surrounding traffic and distant lamps. Hard cut to the woman lowering narrow black sunglasses and looking directly into lens. Flash lit face, dark background, silver jewelry, cool restrained attitude. 9 to 10 seconds. Cut to an adult man sitting near the car, face and jacket saturated by red taillight glow, then a close view of the circular taillamp lens with believable LED structure and reflections. Transition into daylight at a curb. 10 to 13 seconds. In soft overcast daylight, three adult men in charcoal and black streetwear walk past the parked coupe along a simple stucco building. One wears dark sunglasses. Track them loosely from the side with imperfect framing, occasional obstruction from the car roof, natural walking weight, fabric movement and realistic shadows. Finish with a brief analog video glitch and hard cut to black. Audio. Original dark bass driven urban instrumental around 92 BPM, deep kick, muted snare, low sub bass, sparse atmospheric synth, subtle tape texture and distant city ambience. Sync major cuts, flash frames and taillight shots to the beat. No vocals, dialogue, captions, readable brand names or logos. Keep everything raw, fashionable, cinematic and convincingly human filmed.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/mpt-create-a-15-second-cinematic-street-culture-381511/video-58a9ed1bdccd935c.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/mpt-create-a-15-second-cinematic-street-culture-381511/poster-4314a4fcc2e69247.jpg",
+    "format": "video/webm",
+    "videoBytes": 607155,
+    "videoSha256": "58a9ed1bdccd935c8741716876169cc7eb1898ed918bac6cf4df735b97a2d709",
+    "thumbnailBytes": 17956,
+    "thumbnailSha256": "4314a4fcc2e692475de6497a1e9f3c16cd5f07dd95692092873c1c9ffa116a91"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

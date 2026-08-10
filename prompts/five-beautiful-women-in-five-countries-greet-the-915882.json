@@ -1,0 +1,43 @@
+{
+  "slug": "five-beautiful-women-in-five-countries-greet-the-915882",
+  "title": {
+    "en": "Cinematic Story Study 915882",
+    "zh": "Cinematic Story Study 915882"
+  },
+  "description": {
+    "en": "10-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "10 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "10s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@tanabe_fragm",
+    "url": "https://x.com/tanabe_fragm/status/2084446045379915882"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/tanabe_fragm/status/2084446045379915882"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/tanabe_fragm/status/2084446045379915882"
+  ],
+  "prompt": "Duration: 10s | 9:16 | 24fps\n\n[SUMMARY]\nFive beautiful women in five countries greet the viewer on the same morning.\nEach looks into the camera at selfie distance, says good morning in her native\nlanguage, then covers the lens with her palm — and the next country appears as\nit pulls away.\n\n[GLOBAL SETTINGS]\nEarly morning everywhere, soft low natural sunlight, warm and fresh.\nPhotorealistic, candid. 35mm, shallow depth of field, selfie distance, natural\nfilm grain. No studio polish, no beauty filter, no skin smoothing.\nCamera: chest-up close-up, locked off, eye level, one setup per beat — the\nonly movement is the woman and her hand.\nEach woman is genuinely beautiful in the way her own country reads as\nbeautiful, but real: keep true fine pores and real skin texture, light natural\nmakeup or none. Genuine unforced brightness, not a posed smile. Every face\ncompletely different from the other four.\n\n[TRANSITION]\nMASK TRANSITION at every cut: the palm advances toward the lens, fills and\nblackens the frame, then pulls away to reveal the next woman already in place.\nProhibit hard cuts. Prohibit objects appearing out of thin air. Keep the\ncamera's breathing and timing in harmony, leaving enough time for each switch.\n\n[TIMESTAMP STORYBOARD]\n\n0-2s | JAPAN\n25-year-old Japanese woman, elegant classical beauty. Cool-toned fair skin,\ntranslucent, true fine pores. Slender double-eyelid almond eyes, cool clear\ngaze, small straight nose, delicate jawline. Glossy jet-black hair past the\nshoulders, curled softly inward, wispy see-through fringe. Cream ribbed knit\ntop. Slim shoulders, quiet grace.\nBy a bright bedroom window in Tokyo, white curtains behind her.\nHer reserved face opens into a bright smile: 「おはよう！」\nThen her right hand rises and her palm covers the lens.\n\n2-4s | UNITED STATES\n25-year-old American woman, healthy open all-American beauty. Warm sun-kissed\nskin with real freckles across nose and cheeks, true pores. Large round hazel\neyes creasing at the outer corners, high cheekbones, wide unguarded smile.\nVoluminous honey-blonde beach waves gathered over one shoulder. Grey marl\nsweatshirt slipping off one shoulder.\nIn a sunlit kitchen, a coffee mug on the counter behind her.\nBrightly in English: \"Good morning!\"\nThen her right hand rises and her palm covers the lens.\n\n4-6s | BRAZIL\n25-year-old Brazilian woman, radiant sunlit beauty. Warm deep-brown skin with\na natural sheen, true pores. Large dark almond eyes, long thick lashes, high\ncheekbones, full lips, broad open-mouthed smile. Abundant voluminous curls,\ndark brown with caramel and honey highlights, wide around her shoulders. Small\ngold hoops. Marigold-yellow strappy top.\nOn a balcony, tropical plants and morning haze behind her.\nBrightly in Brazilian Portuguese: \"Bom dia!\"\nThen her right hand rises and her palm covers the lens.\n\n6-8s | SPAIN\n25-year-old Spanish woman, striking dark-eyed Mediterranean beauty. Olive\nskin, warm and matte, true fine pores. Deep dark almond eyes under strong\nbrows, straight defined nose, sharp cheekbones, clean jawline, calm confident\nhalf-smile that opens as she speaks. Long centre-parted deep-chestnut hair\nwith reddish warmth, thick and slightly wavy. Fine gold hoops. Crisp white\nlinen shirt, top button open. Upright poised posture.\nIn a whitewashed courtyard, terracotta pots and hard morning sun behind her.\nBrightly in Spanish: \"¡Buenos días!\"\nThen her right hand rises and her palm covers the lens.\n\n8-10s | INDONESIA\n25-year-old Indonesian woman, warm sweet-featured beauty. Golden-brown skin,\nsmooth and luminous, true fine pores. Large round dark eyes, gentle open gaze,\nsoftly rounded cheeks, small nose, wide easy smile that reaches her eyes.\nGlossy very dark brown hair in a sharp chin-length blunt bob. Small gold\npendant. Sky-blue collared blouse. Petite, friendly.\nOn a wooden terrace, broad tropical leaves and soft morning light behind her.\nBrightly in Indonesian: \"Selamat pagi!\"\nShe holds her smile and the frame ends on her face — she does NOT cover the\nlens. The film finishes here.\n\n[GLOBAL CLOSING]\nThroughout: same chest-up framing, same eye-level camera height, same fresh\nmorning light, same warm mood in all five countries. Every woman looks\nstraight into the lens the whole time.\nFive different faces, five different skin tones, five different hair colours\nand lengths — jet-black long, honey-blonde waves, caramel curls, deep-chestnut\nlong, dark-brown bob. Never repeat a look, never blend two faces.\nEach greeting is spoken clearly and completely within its two seconds, with\naccurate native pronunciation and matching lip movement.\nPure video. No subtitles, no captions, no on-screen text, no BGM, no\nwatermark. Only the five voices and quiet morning room tone.\nProhibit: a sixth person, two people in one frame, the same face twice,\nplastic or airbrushed skin, doll-like faces, hard cuts, objects appearing from\nnothing, the hand entering before the greeting is finished, mixed camera\nmoves, jitter, flicker.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/five-beautiful-women-in-five-countries-greet-the-915882/video-125771097a745f21.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/five-beautiful-women-in-five-countries-greet-the-915882/poster-589d9e22b674dfea.jpg",
+    "format": "video/webm",
+    "videoBytes": 615694,
+    "videoSha256": "125771097a745f2127bbbd83a5822a88684f699ead3f6c6193acaff7a336bd58",
+    "thumbnailBytes": 56130,
+    "thumbnailSha256": "589d9e22b674dfea238705b8aa4fbd08a2638a348f36c7e0667bd3a817adb96f"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

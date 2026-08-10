@@ -1,0 +1,44 @@
+{
+  "slug": "i-just-figured-out-the-best-way-to-use-487592",
+  "title": {
+    "en": "i just figured out the best way to use",
+    "zh": "i just figured out the best way to use"
+  },
+  "description": {
+    "en": "30-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "reference-generation",
+  "mode": "image-to-video",
+  "duration": "30s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@maxxmalist",
+    "url": "https://x.com/maxxmalist/status/2083951871069487592"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/maxxmalist/status/2083951871069487592"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/maxxmalist/status/2083951871069487592"
+  ],
+  "prompt": "i just figured out the best way to use Seedance 2.5\n\nlatest model from ByteDance lets you generate up to 30 second continuous videos and accepts up to 50 reference assets (images, videos and audio) all in one generation\n\nmost people overcomplicate it, the real trick is in the details\n\nmy prompt structure looks like this:\n\n[1] global scene + visual style\n[2] character descriptions\n[3] timestamped storyboard (0-5s, 5-10s, 10-15s...)\n[4] camera movement\n[5] negative prompts\n[6] ending constraints\n\nfor example, instead of saying: \"girl doing her skincare routine with x product\"\n\nyou tell it exactly what happens every few seconds, where the camera moves, how the emotion changes, what should never appear\n\ni put together the exact framework i use and leaking it all to you right now\n\nhere's what you're getting:\n\n> the prompt formula for 30-second videos\n> how to Use Seedance 2.5 at a fraction of the cost\n> the best way to use reference images/videos\n> transitions, camera movements and negative prompts\n\nRT + reply \"SEEDANCE\" and i'll send it over (must follow so i can dm)",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/i-just-figured-out-the-best-way-to-use-487592/video-3afa69046712d6c1.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/i-just-figured-out-the-best-way-to-use-487592/poster-68977d86d82e5097.jpg",
+    "format": "video/webm",
+    "videoBytes": 1924520,
+    "videoSha256": "3afa69046712d6c12643d48408ef00220ed36420d1969a7a1761f0c94392e043",
+    "thumbnailBytes": 47251,
+    "thumbnailSha256": "68977d86d82e5097475e04d395d3169d087d81de347855a1fc4d3db2846fec02"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

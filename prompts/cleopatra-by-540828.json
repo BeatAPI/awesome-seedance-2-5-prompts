@@ -1,0 +1,43 @@
+{
+  "slug": "cleopatra-by-540828",
+  "title": {
+    "en": "Cleopatra by .🪎",
+    "zh": "Cleopatra by .🪎"
+  },
+  "description": {
+    "en": "30-second fantasy prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒fantasy提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "fantasy",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@VeraVCreates",
+    "url": "https://x.com/VeraVCreates/status/2083758894770540828"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/VeraVCreates/status/2083758894770540828"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/VeraVCreates/status/2083758894770540828"
+  ],
+  "prompt": "30-second cinematic historical epic, 16:9. Photorealistic late Egyptian royal court with grounded human behavior, real skin texture, natural facial micro-expressions, historically inspired linen, bronze, gold, leather, horses, papyrus, firelight and stone. Preserve the queen in ivory and deep-blue gown, the kneeling Roman envoy in dark red cloak and bronze armor, the emerald-robed priestess, the enormous blue-and-gold throne hall, burning braziers, reflective black floor, and the Nile beyond the open arches.\n\n0-5s: [Slow low dolly from behind the kneeling Roman envoy toward the queen] The queen studies the Roman treaty in silence. Firelight flickers across her face; the envoy's hands are tense around the ivory tablet. Behind the throne, Egyptian palace guards stand still with bronze spears and large blue-and-gold shields.\nEnvoy, restrained English: “Rome offers peace.”\n\n5-10s: [Medium close-up on the queen] She looks up slowly. Her expression is calm, intelligent, and cold rather than theatrical.\nQueen, clear English: “Rome offers surrender.”\nThe envoy swallows, briefly losing his composure.\n\n10-15s: [Over-the-shoulder on the envoy, queen in focus behind him] He glances toward the open Nile archway.\nEnvoy: “Their legions wait at the river.”\nThe priestess watches the queen closely; only the flames and curtains move.\n\n15-21s: [Camera tracks alongside the queen as she rises and descends the throne steps] The queen hands the treaty to the priestess, who drops it into a bronze brazier. The papyrus burns naturally. The queen walks forward, her heavy blue train sliding across the black stone floor. Palace guards step apart in two disciplined lines, creating a path toward the open terrace. No magical effects, only fire, smoke, fabric, metal, and human tension.\n\n21-26s: [Camera follows behind her, then cranes upward over her shoulder] She reaches the vast palace terrace overlooking the Nile. Below, a real Egyptian royal army fills the riverbank and courtyard: rows of bronze-armored infantry, tall standards moving in hot wind, horse-drawn chariots, shield-bearing guards, priests carrying gold sun emblems, and long riverboats waiting beside the water. Dust hangs in the warm dawn light. The scale is enormous but physically believable.\n\n26-30s: [Low-angle close-up, army blurred behind her] The queen stops at the terrace edge. Wind lifts the edge of her blue train. She looks toward the Roman envoy, then toward her assembled army.\nQueen, low and final: “Then Rome will learn whom Egypt follows.”\nHold on her face as the army below strikes spear shafts once against their shields in a single thunderous response.\n\nGrand historical scale, grounded realism, emotionally restrained acting, physically accurate crowd movement, detailed bronze armor, natural fire and smoke, believable horse and chariot motion, rich blue, gold, ivory and desert-stone palette, elegant stable camera movement, precise English lip sync. No magic, no supernatural symbols, no modern objects, no sci-fi effects, no random text, no logos, no extra main characters, no duplicate limbs, no warped faces or hands, no costume drift, no unstable architecture, no chaotic camera shake.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/cleopatra-by-540828/video-148a664d1d6d89d8.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/cleopatra-by-540828/poster-a7dca5e4a66a1972.jpg",
+    "format": "video/webm",
+    "videoBytes": 3025895,
+    "videoSha256": "148a664d1d6d89d8c2e713544b4451d9626aca2e96e2c1ac5bf1dcba3b75ff4d",
+    "thumbnailBytes": 65772,
+    "thumbnailSha256": "a7dca5e4a66a19720bc6512919b3ef8b7c539f42f84d9358e2ff3f05bff3b19a"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

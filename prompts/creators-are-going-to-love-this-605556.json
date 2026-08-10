@@ -1,0 +1,43 @@
+{
+  "slug": "creators-are-going-to-love-this-605556",
+  "title": {
+    "en": "creators are going to love this",
+    "zh": "creators are going to love this"
+  },
+  "description": {
+    "en": "16-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "16 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "16s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@mikenevermiss",
+    "url": "https://x.com/mikenevermiss/status/2086056247191605556"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/mikenevermiss/status/2086056247191605556"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/mikenevermiss/status/2086056247191605556"
+  ],
+  "prompt": "creators are going to love this.\n\nhiggsfield just made seedance 2.5 completely unlimited for 33 days.\n\nthis 15-second acting scene was generated with a single prompt.\n\nyou could use it to create cinematic scenes for short films, ads, music videos, or even test movie ideas before filming.\n\nthat means you can generate full cinematic content right now for the price of one subscription.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/creators-are-going-to-love-this-605556/video-9f3c9396a4409fef.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/creators-are-going-to-love-this-605556/poster-0e5c8443c22729ab.jpg",
+    "format": "video/webm",
+    "videoBytes": 841000,
+    "videoSha256": "9f3c9396a4409fef3c96ca756cfe1c4725230a9e46499983d21e6cb5d14d8573",
+    "thumbnailBytes": 53442,
+    "thumbnailSha256": "0e5c8443c22729abfad91673689b12b5dc1130edecf1db8279eac0d24fee44a8"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

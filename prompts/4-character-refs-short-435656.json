@@ -1,0 +1,43 @@
+{
+  "slug": "4-character-refs-short-435656",
+  "title": {
+    "en": "4 character refs + short",
+    "zh": "4 character refs + short"
+  },
+  "description": {
+    "en": "30-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Dee_Ann_Rose",
+    "url": "https://x.com/Dee_Ann_Rose/status/2085927721335435656"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Dee_Ann_Rose/status/2085927721335435656"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Dee_Ann_Rose/status/2085927721335435656"
+  ],
+  "prompt": "[all char refs], a heartwarming and bonding family gardening activities, cinematic footage, multiple cuts, dynamic camera angels. show all characters, 20 cuts.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/4-character-refs-short-435656/video-fc04b50d41bb22cd.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/4-character-refs-short-435656/poster-d0ece72b350862bc.jpg",
+    "format": "video/webm",
+    "videoBytes": 2020279,
+    "videoSha256": "fc04b50d41bb22cdb847f38addf686f219784dcb824b268a46854365816eb799",
+    "thumbnailBytes": 99049,
+    "thumbnailSha256": "d0ece72b350862bc57e7c4f296e21fb8e592b1d729b94638c5a32a33a6504588"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

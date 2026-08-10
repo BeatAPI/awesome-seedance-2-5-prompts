@@ -1,0 +1,43 @@
+{
+  "slug": "wow-the-metamorphosis-in-is-totally-cinematic-to-155054",
+  "title": {
+    "en": "Cinematic Story Study 155054",
+    "zh": "Cinematic Story Study 155054"
+  },
+  "description": {
+    "en": "17-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "17 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "17s",
+  "aspectRatio": "7:3",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@hedo_ist",
+    "url": "https://x.com/hedo_ist/status/2083989211607155054"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/hedo_ist/status/2083989211607155054"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/hedo_ist/status/2083989211607155054"
+  ],
+  "prompt": "Wow, the metamorphosis in  Seedance 2.5 is totally cinematic, top-notch VFX. 🤯\n\nPrompt in the comments.\n\nwhat do you think?",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/wow-the-metamorphosis-in-is-totally-cinematic-to-155054/video-5f7ff53c3039491c.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/wow-the-metamorphosis-in-is-totally-cinematic-to-155054/poster-a22ff6e024096414.jpg",
+    "format": "video/webm",
+    "videoBytes": 1026792,
+    "videoSha256": "5f7ff53c3039491cfefdb1982f6255bbd4b4093dc8d6174513c8c3f4ff88465c",
+    "thumbnailBytes": 48755,
+    "thumbnailSha256": "a22ff6e02409641408db2654cceaf34df8d56138794bf4299793fe63db4f5195"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

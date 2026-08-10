@@ -1,0 +1,43 @@
+{
+  "slug": "one-30-second-9-16-photorealistic-live-action-dr-771813",
+  "title": {
+    "en": "Cinematic Story Study 771813",
+    "zh": "Cinematic Story Study 771813"
+  },
+  "description": {
+    "en": "30-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Dheepanratnam",
+    "url": "https://x.com/Dheepanratnam/status/2084576780392771813"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Dheepanratnam/status/2084576780392771813"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Dheepanratnam/status/2084576780392771813"
+  ],
+  "prompt": "Create one 30-second 9:16 photorealistic live-action dramatic scene with five deliberate shots and native synchronized dialogue. Original characters: LENA: a 38-year-old South Asian woman, tired expressive eyes, dark wavy hair in a loose low bun, charcoal coat over a cream blouse. MOTHER: a 72-year-old South Asian woman with delicate features, silver hair in a loose braid and a pale-blue knitted cardigan. She has early dementia but remains emotionally perceptive. Setting: a quiet memory-care bedroom on a winter morning. Soft gray daylight enters from frame left; a warm bedside lamp provides gentle fill. Two chairs face each other beside the window. Subtle radiator ticks and distant corridor room tone. No music. Shot 1 — 0–6 seconds: Stable medium two-shot, natural 50mm perspective. Mother studies Lena politely without recognition and says warmly, “You’re very kind, nurse.” Lena hides the pain behind a small reassuring smile and answers, “I’m not a nurse, Mum. It’s Lena.” Shot 2 — 6–13 seconds: Cut to Mother’s close-up. Her eyes brighten at the memory of a child, not the woman before her. She says, “My Lena is eleven. She hates peas and lies badly.” Lena answers softly from offscreen, “She still does.” Mother’s smile disappears. She asks, genuinely wounded, “Then why doesn’t she come?” Shot 3 — 13–20 seconds: Cut to Lena’s close-up. Hold the frame. Her practiced smile fails; her lower lip tightens and her eyes begin filling, but she does not sob. After one difficult breath she says, “I come every Sunday. You just… keep losing me.” Shot 4 — 20–25 seconds: Cut back to Mother. She becomes briefly lucid. Her eyes remain fixed on Lena; one tear gathers without falling. In a quiet, fragile voice she says, “I don’t forget you. I just can’t find the way back.” Shot 5 — 25–30 seconds: Tighter two-shot. Lena leans slightly closer without touching her. Crying silently now, she smiles and says, “Then I’ll keep coming to find you.” Mother searches Lena’s face. Recognition slowly arrives through the eyes rather than a large expression. She takes a tiny breath and whispers, “Lena?” Hold their eye contact in complete silence for the final half-second. Performance: restrained natural acting. Begin emotionally guarded and let the pain accumulate. Tears must develop gradually, never appear at the beginning. Use breath catches, small eye movements, tightening facial muscles and pauses. No theatrical sobbing, head bobbing, repeated nodding or generic hand gestures. Only the assigned speaker’s lips move. The listener keeps their mouth closed and reacts through breathing, blinking and gaze. Preserve both identities, wardrobe, positions, eyelines, lighting and tear progression across every cut. Clear dry dialogue with realistic room perspective. No narration, subtitles, text, music, extra people, beauty filtering or skin smoothing.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/one-30-second-9-16-photorealistic-live-action-dr-771813/video-c67dacb68254f4b8.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/one-30-second-9-16-photorealistic-live-action-dr-771813/poster-ed844befa7f818a4.jpg",
+    "format": "video/webm",
+    "videoBytes": 985597,
+    "videoSha256": "c67dacb68254f4b897812b7398a27d71fa5fb8eb6b4139b3303880eb64ed28a5",
+    "thumbnailBytes": 55680,
+    "thumbnailSha256": "ed844befa7f818a4c3bf7a45feedb25bfe3ab4828de0ae88b49637427ae3645f"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

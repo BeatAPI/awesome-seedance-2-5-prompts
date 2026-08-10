@@ -1,0 +1,43 @@
+{
+  "slug": "frozen-time-rewind-effect-664385",
+  "title": {
+    "en": "frozen time + rewind effect",
+    "zh": "frozen time + rewind effect"
+  },
+  "description": {
+    "en": "30-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@techhalla",
+    "url": "https://x.com/techhalla/status/2083389002552664385"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/techhalla/status/2083389002552664385"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/techhalla/status/2083389002552664385"
+  ],
+  "prompt": "Seedance 2.5 frozen time + rewind effect prompt is below 👇\n\nPhotorealistic cinematic 1950s American diner, chrome stools, red vinyl, neon glow and checkerboard floor, shot with modern lived-in realism and soft natural window light. Subtle handheld texture, warm practicals, rich period detail, heavy film grain.\n\n0-4s: [Medium Wide] A striking young woman in her early 20s sits alone at the counter, calm and slightly amused, slowly sipping a tall thick milkshake through a straw. Behind her a young waitress in classic uniform approaches with a tray of eggs and bacon in one hand and a full glass coffee pot in the other. An older lady starts rising from a nearby booth.\n\n4-8s: [Dynamic Tracking] The older lady collides hard into the waitress. Tray, plate, eggs, bacon and coffee pot explode upward in chaotic slow motion. Coffee erupts into long liquid ribbons and perfect suspended droplets. Camera immediately begins a smooth continuous orbit around the impact. Time locks completely at the peak of the spill. Every face freezes in pure shock. Only the girl at the counter keeps moving, completely unfazed.\n\n8-17s: [Slow 360° Orbital] Camera glides in a full elegant orbit through the frozen diner. Coffee hangs in mid-air as glassy ribbons and spheres with perfect volume and surface tension. Bacon strips, eggs and the spinning tray float weightlessly. Patrons and waitress remain locked in startled expressions. The girl at the counter takes one slow, deliberate sip, eyes half-lidded, almost bored, while the entire frozen world (except her) begins an elegant reverse: every droplet, every piece of food and every person rewinds smoothly back to the exact starting positions.\n\n17-24s: [Medium Shot] Rewind lands perfectly. Waitress stands balanced again with tray and coffee pot. The girl lifts her eyes, raises two fingers in a small casual gesture and softly calls the waitress by name. The waitress turns toward her just before the older lady begins to stand, completely avoiding the collision. A tiny private smile crosses the girl’s face.\n\n24-30s: [Extreme Close-Up] Hard cut to her face as she takes one last slow sip. Soft knowing smile, eyes almost closed in quiet satisfaction, like she has done this a hundred times. Shallow depth of field, creamy bokeh of the neon diner behind her.\n\nPhotorealistic, ultra-detailed fluid physics, perfect motion blur only on moving elements, stable characters, cinematic lighting, heavy natural film grain, no artifacts, movie-level temporal coherence, high rewatch value.\n\n30 seconds long is the new AI standard! hope you like it 🫡",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/frozen-time-rewind-effect-664385/video-41c5634d88f100a2.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/frozen-time-rewind-effect-664385/poster-560afa800a358b25.jpg",
+    "format": "video/webm",
+    "videoBytes": 2097944,
+    "videoSha256": "41c5634d88f100a28075b4f4d43cc12d07d3cfaa3cef62cea47f059e7047337f",
+    "thumbnailBytes": 56381,
+    "thumbnailSha256": "560afa800a358b259b72c09cc11ab255f28e323c771c0fac909d31da0b7f5d2e"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

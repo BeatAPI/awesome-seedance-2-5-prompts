@@ -1,0 +1,43 @@
+{
+  "slug": "text-to-video-3d-animation-246455",
+  "title": {
+    "en": "text to video 3D animation",
+    "zh": "text to video 3D animation"
+  },
+  "description": {
+    "en": "30-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@sebatheepan",
+    "url": "https://x.com/sebatheepan/status/2084023216440246455"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/sebatheepan/status/2084023216440246455"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/sebatheepan/status/2084023216440246455"
+  ],
+  "prompt": "{ \"title\": \"The Shadow Quit\", \"style\": \"3D Pixar family animation. Warm suburban dusk, golden-hour lighting, stylized characters, handheld feel.\", \"shots\": [ {\"time\":\"00:00-00:03\",\"type\":\"EXT. CLOSE-UP\",\"action\":\"Mina's sneakers hit grass. She stops. Her shadow stays seated cross-legged.\",\"camera\":\"Low angle, slight handheld wobble.\",\"dialogue\":\"Mina: 'Come on, we have mac and cheese tonight!'\"}, {\"time\":\"00:03-00:05\",\"type\":\"WIDE\",\"action\":\"Mina stands confused. Her shadow points at the swing set, arms folded.\",\"camera\":\"Static wide. Swing set silhouetted.\",\"dialogue\":\"Shadow: (shakes head silently)\"}, {\"time\":\"00:05-00:08\",\"type\":\"MEDIUM\",\"action\":\"Mina crouches, pleading. Shadow draws hopscotch in dirt with dreamy lag.\",\"camera\":\"Push-in on Mina's face.\",\"dialogue\":\"Mina: 'You can swing tomorrow. I promise.'\"}, {\"time\":\"00:08-00:12\",\"type\":\"OVERHEAD\",\"action\":\"Shadow hops hopscotch alone. Mina watches, smiling. Leaves fall slow-motion.\",\"camera\":\"Crane shot descending.\",\"dialogue\":\"Mina: (soft giggle)\"}, {\"time\":\"00:12-00:16\",\"type\":\"CLOSE-UP\",\"action\":\"Shadow stops, reaches up for high-five.\",\"camera\":\"Two-shot becoming extreme close-up. Sunset flares.\",\"dialogue\":\"(none)\"}, {\"time\":\"00:16-00:19\",\"type\":\"SLOW-MO CLOSE-UP\",\"action\":\"Hands meet. Shadow reattaches with soft snap and ripple of light.\",\"camera\":\"Macro lens. Dust particles explode.\",\"dialogue\":\"(soft snap sound)\"}, {\"time\":\"00:19-00:24\",\"type\":\"TRACKING\",\"action\":\"Mina runs to house. Shadow runs beside her on grass, up wall, synced.\",\"camera\":\"Side-tracking.\",\"dialogue\":\"(none)\"}, {\"time\":\"00:24-00:30\",\"type\":\"INT. WIDE\",\"action\":\"Mina slides into chair. Shadow on wall steals macaroni with impossibly long arm.\",\"camera\":\"Wide through doorway.\",\"dialogue\":\"Mina: 'Hey!' (laughs)\"} ] }",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/text-to-video-3d-animation-246455/video-3f72f756e9da433f.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/text-to-video-3d-animation-246455/poster-b1acb225c8c7db01.jpg",
+    "format": "video/webm",
+    "videoBytes": 1807558,
+    "videoSha256": "3f72f756e9da433f0aa7bd7011503676660c0045e9439c4d2e4e33c677600995",
+    "thumbnailBytes": 31692,
+    "thumbnailSha256": "b1acb225c8c7db0189ef547d1c3395d30d6a4c191c30bcdfb2c72e7c3d324e8d"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

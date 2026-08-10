@@ -1,0 +1,43 @@
+{
+  "slug": "mpter-and-comparison-057958",
+  "title": {
+    "en": "MPTER AND COMPARISON",
+    "zh": "MPTER AND COMPARISON"
+  },
+  "description": {
+    "en": "30-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "4:5",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@shirawiggles",
+    "url": "https://x.com/shirawiggles/status/2085814432895057958"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/shirawiggles/status/2085814432895057958"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/shirawiggles/status/2085814432895057958"
+  ],
+  "prompt": "SEEDANCE 2.5 PROMPTER AND COMPARISON\n\nAnne Boleyn’s final walk.\nFor this test, I recreated the moment Anne is led toward the scaffold —building the emotion through performance, blocking, camera direction, atmosphere, and sound rather than showing graphic violence.\n\nWhat makes Seedance 2.5 feel like a real upgrade is control: more characters, videos, and audios references in the same generation, supports up to 30 seconds in a single pass, and is designed for continuous storytelling rather than isolated shots. That means more room to preserve identity, emotional progression and spatial continuity.\n\nBut more capability also means more decisions. A vague prompt can still produce a beautiful clip with the wrong character, the wrong action order, or a broken transition. That’s why I created the Seedance 2.5 Prompter: it turns a scene idea into the right Seedance workflow—mapping every reference, defining what must stay consistent, structuring the action, and writing the camera and audio direction clearly.\n\nThe Seedance 2.5 PROMPTER turns your scripts and ideas into flawless, copy-ready video prompts — built on the official guide, not outdated templates.\n\nLess guessing. Fewer wasted generations. More intentional storytelling. 🎬\n\nPrompt used and link to the Seedance 2.5 Prompter in the replies 👇\n\nVideo Created in @dreamina_ai",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/mpter-and-comparison-057958/video-d226aa7b42a7ea62.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/mpter-and-comparison-057958/poster-3f4d36269aba7c52.jpg",
+    "format": "video/webm",
+    "videoBytes": 1154462,
+    "videoSha256": "d226aa7b42a7ea6222422be2215f1630a7fdb9cd46c1a50bcbd48d1335001cf3",
+    "thumbnailBytes": 44898,
+    "thumbnailSha256": "3f4d36269aba7c52e98ee4af3c72f3f97089fadd742007fd4b8efbcc0dc35f0b"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "they-said-is-here-to-cook-and-i-agree-with-140421",
+  "title": {
+    "en": "Music Video Study 140421",
+    "zh": "Music Video Study 140421"
+  },
+  "description": {
+    "en": "15-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "image-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AIwithSynthia",
+    "url": "https://x.com/AIwithSynthia/status/2085212548002140421"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/AIwithSynthia/status/2085212548002140421"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/AIwithSynthia/status/2085212548002140421"
+  ],
+  "prompt": "Use the uploaded reference image as the exact character reference. Lock her facial identity, eye color, skin tone, hairstyle, makeup, body proportions, and overall appearance throughout the entire video. She has long black hair tied in a low ponytail, soft natural makeup, expressive grey-green eyes, and wears the same fitted white graphic baby tee, oversized denim shorts, white crew socks, chunky sneakers, silver hoop earrings, layered necklaces, rings, and an oversized black bomber jacket hanging loosely off her shoulders. Maintain perfect character consistency in every shot.\n\nCreate a high-end American hip-hop/rap music video inside a premium photography studio transformed into a modern urban performance space. The set features a blue cyclorama backdrop, minimalist graffiti walls, a professional drum kit, vintage brown leather sofa, polished concrete floor, blue neon tube lights, industrial spotlights, subtle atmospheric haze, and cinematic contrast. The aesthetic should feel like a mainstream Western rap music video with luxury production value.\n\nThe video opens with an ultra-wide close-up as she looks directly into the camera with a confident expression and folded arms. The camera quickly cuts to a dramatic side silhouette where she lowers her head, then raises it while making relaxed hip-hop hand gestures. A full-body wide-angle shot reveals her casually grooving to the beat, shoulders bouncing naturally as her oversized jacket shifts with realistic fabric movement.\n\nThe camera circles around her in a handheld shoulder-mounted tracking shot while she confidently lip-syncs to the music with expressive facial performance. She points toward the lens, smiles slightly, then steps forward with effortless swagger. A dramatic low-angle hero shot emphasizes her presence as she spreads her arms confidently beneath glowing blue lights.\n\nShe walks toward a professional drum kit, sits down naturally, and begins striking the drums energetically in perfect rhythm with the music. Fast cuts alternate between overhead, side, and close-up angles showing realistic stick movement, expressive reactions, and synchronized performance.\n\nThe scene transitions to a blue roller shutter covered in minimalist graffiti where she squats casually with elbows resting on her knees, maintaining eye contact with the camera while continuing to rap confidently. The camera slowly pushes in from the side before cutting to her lounging effortlessly on a vintage brown leather sofa. She leans back comfortably, one arm stretched along the backrest, nodding naturally with the rhythm while continuing her performance.\n\nA dramatic side silhouette sequence follows with atmospheric haze and strong blue backlighting as she performs smooth body movements, expressive hand gestures, and confident lip-sync. Her hair moves naturally with subtle airflow while the camera glides around her using wide-angle lenses that enhance depth and energy.\n\nThe final sequence returns to a full-stage performance. She stands center stage beneath powerful spotlights surrounded by drums, graffiti, neon tubes, and blue studio lighting. The camera slowly pulls backward while she delivers the final lyrics with bold attitude, ending in a confident pose as the lights fade behind her.\n\nProfessional rap music video cinematography, cinematic handheld movement, wide-angle lens distortion, premium studio lighting, realistic skin texture, natural eye reflections, detailed hair strands, physically accurate lighting and shadows, authentic lip-sync performance, expressive body language, smooth choreography, realistic fabric simulation, high-end fashion editorial styling, luxury commercial quality, immersive urban atmosphere, 16:9 widescreen, no subtitles, no logos, no watermarks, no on-screen text.\n\nGive a Storyboard image for it in 16:9",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/they-said-is-here-to-cook-and-i-agree-with-140421/video-c9f1cd4de15d3841.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/they-said-is-here-to-cook-and-i-agree-with-140421/poster-bb6695f5b4857f42.jpg",
+    "format": "video/webm",
+    "videoBytes": 1481532,
+    "videoSha256": "c9f1cd4de15d3841db20fe4897c4e0bd6069d9cb1d6feeb5615c1e97a6dc2791",
+    "thumbnailBytes": 93195,
+    "thumbnailSha256": "bb6695f5b4857f4241a0d3296998fb66df8b181cd3843885bbe41c61c44933fa"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

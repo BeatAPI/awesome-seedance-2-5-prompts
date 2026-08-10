@@ -1,0 +1,43 @@
+{
+  "slug": "35-kling-974383",
+  "title": {
+    "en": "這個短片本來是想用3段5秒的 Kling 來做",
+    "zh": "這個短片本來是想用3段5秒的 Kling 來做"
+  },
+  "description": {
+    "en": "15-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒cinematic action提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Langby2",
+    "url": "https://x.com/Langby2/status/2086385886451974383"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Langby2/status/2086385886451974383"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Langby2/status/2086385886451974383"
+  ],
+  "prompt": "[00:00~00:05S] Seamless parkour action shot. 女俠 runs horizontally across a high dark brick wall in ancient Chang'an. She forcefully kicks off the wall surface, transitioning into a graceful high mid-air backflip above the rooftop. Camera tilts up smoothly, floating red lanterns in the background blur with motion, fluttering silk clothes, wire-fu kung fu aesthetics. [00:06~00:10S] Explosive power transition. 女俠 gathers glowing golden energy while in a low crouching stance. She suddenly thrusts her sword forward, releasing a powerful golden energy blast that violently blows back the black-masked assassin, smashing him through wooden pagoda railings. Flying wooden debris, smoke, camera shake, cinematic impact. [00:11~00:15S] Cinematic closing shot. 女俠slowly sheathes her glowing blade into the scabbard until it clicks shut. Golden sunset breeze gently blows her long ponytail and white dress. The camera smoothly zooms out into a grand panoramic wide shot, revealing the majestic ancient Chang'an city skyline under glowing orange sunset sky, high atmospheric depth.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/35-kling-974383/video-9cebefd0823c4131.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/35-kling-974383/poster-8281f82a92d20109.jpg",
+    "format": "video/webm",
+    "videoBytes": 1231272,
+    "videoSha256": "9cebefd0823c4131707562d836fb09139ec1ea2f5b13fb6985b0e6114c873e71",
+    "thumbnailBytes": 26402,
+    "thumbnailSha256": "8281f82a92d201090f595ecf30f00d575d5f3acb5c71ab8f0ce82366af786cc8"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

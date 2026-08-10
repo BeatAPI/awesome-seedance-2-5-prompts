@@ -1,0 +1,43 @@
+{
+  "slug": "action-film-study-279563",
+  "title": {
+    "en": "Action Film Study 279563",
+    "zh": "Action Film Study 279563"
+  },
+  "description": {
+    "en": "15-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒cinematic action提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@doctorwasif",
+    "url": "https://x.com/doctorwasif/status/2085224480155279563"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/doctorwasif/status/2085224480155279563"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/doctorwasif/status/2085224480155279563"
+  ],
+  "prompt": "CAMERA:\nHandheld DV 16mm camcorder POV. CHASE films herself throughout. Natural shake, imperfect framing, slow focus, clumsy zooms, tape aesthetic. Camera never visible.\nLOOK:\nSoft VHS/DV quality with slight blur, tape noise, bloomed highlights, auto-exposure flicker, realistic skin tones. Lighting changes by location.\nSTYLE:\nNostalgic trainee flashback montage with reflective voiceover. Raw, emotional, determined. Quick cuts showing growth from exhaustion to quiet confidence.\nCHARACTER:\nCHASE (Image), Korean trainee, late teens/early 20s. Long black hair in a ponytail/braid, minimal makeup, simple long-sleeve practice clothes and joggers.\nLOCATIONS:\nDorm → Vocal room → Dance studio → Hallway → Evaluation room.\nSTORYBOARD (20s, 8 cuts):\nWakes before sunrise in the dorm. VO: \"Back then, mornings started before the sun.\"\nVocal warmups at the mic. VO: \"Every note mattered.\"\nMisses a note, exhales, tries again. Ambient only.\nRepeats choreography in the studio. VO: \"I practiced that same move a hundred times.\"\nClose-up of tired feet dancing. Ambient only.\nResting in the hallway with a small smile. VO: \"Sometimes, something finally clicked.\"\nWaiting before evaluators. VO: \"Then it was time to prove it.\"\nClose-up before performing. VO: \"That version of me started everything.\"",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/action-film-study-279563/video-d074514740343214.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/action-film-study-279563/poster-350c70ab73dc15f6.jpg",
+    "format": "video/webm",
+    "videoBytes": 641211,
+    "videoSha256": "d074514740343214951608b18fa87032ae43db393e2b516cc72c617447cbc7be",
+    "thumbnailBytes": 43834,
+    "thumbnailSha256": "350c70ab73dc15f67ab9f0f9db385aeba26436df6f4f679ac7cc5ba8bd41408b"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "duration-20s-16-9-24fps-duel-from-romance-of-203080",
+  "title": {
+    "en": "Cinematic Travel Study 203080",
+    "zh": "Cinematic Travel Study 203080"
+  },
+  "description": {
+    "en": "20-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "20 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "reference-generation",
+  "mode": "image-to-video",
+  "duration": "20s",
+  "aspectRatio": "427:240",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@tanabe_fragm",
+    "url": "https://x.com/tanabe_fragm/status/2083350000743203080"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/tanabe_fragm/status/2083350000743203080"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/tanabe_fragm/status/2083350000743203080"
+  ],
+  "prompt": "Duration: 20s | 16:9 | 24fps Duel from Romance of the Three Kingdoms, battle at Hulao Pass, late Han dynasty. REFERENCES\nImage 1\n — 呂布 LU BU\nImage 2\n — 関羽 GUAN YU\nImage 3\n — 張飛 ZHANG FEI Use them for IDENTITY ONLY: face, beard, hair, headwear, armour, cloak colour, build, proportions. IGNORE their white studio background, flat studio lighting and standing pose — none of it appears here. Every shot is outdoors, and all three men are mounted and fighting. STYLE (all beats) A dusty plain before a huge stone mountain pass at dusk. Two vast armies on either side, banners rippling, dust in the air. Overcast sky, low copper sun breaking through. Palette: iron grey, ochre dust, blood red, bronze. Desaturated and earthy. 50mm, shallow focus, heavy haze, film grain, high contrast, hard rim light through the dust. Photorealistic historical epic, sweat and grime, worn scratched armour. No fantasy glow, no magic. WEAPONS — no reference exists. Build from this, keep identical throughout. Each is 1.5x its owner's height. Never swap them. 呂布: ji halberd — straight spear point, one crescent side blade below it on one side, long dark shaft, bronze fittings. 関羽: guandao — one heavy broad curved blade with a hook on its back edge, joined to a long dark shaft by a bronze dragon head. 張飛: serpent spear — slender steel blade forged in an S-shaped wave, on a plain dark shaft bound with cord. HORSES — no reference exists. Anatomically correct, four legs, correct joints. 呂布: large red-chestnut stallion, black mane, bronze fittings, red tassels. 関羽: tall dark bay, black mane and lower legs, plain leather tack. 張飛: heavy solid black, thick neck, shaggy fetlocks, battered iron tack. BEAT 1 (0-4s) 呂布 — clean-shaven, gold headdress with two pheasant feathers, red cloak, halberd, red-chestnut horse — sits alone between the two armies, halberd across his saddle. The horse stamps and turns a half step. He raises the halberd and levels it at the enemy line. Camera: WS from low, slow push-in. BEAT 2 (4-8s) 張飛 — bristling beard, black iron armour, dark cloak, serpent spear, black horse — bursts from the line at a gallop, roaring, and drives the spear at 呂布. 呂布 turns the halberd across his body and knocks it aside. Sparks and dust. The horses wheel past each other. Camera: tracking alongside at horse height, moving with the charge. BEAT 3 (8-12s) 関羽 — long smooth black beard, ruddy face, dark green robe over armour, green headwrap, guandao, dark bay horse — rides in from the far side, rises in the stirrups and cuts down overhead. 呂布 catches it on the haft. Both strain, blades locked, horses shoulder to shoulder. Camera: MCU, orbiting once around the locked weapons. BEAT 4 (12-16s) All three circle in churning dust, weapons striking and turning each other aside, horses rearing. 呂布 in red and gold, 関羽 in green, 張飛 in black iron. Cut tight to 呂布's eyes under the headdress — narrowing, calculating, uncertain for the first time. Camera: handheld, close, drifting between them. BEAT 5 (16-20s) 呂布 wrenches his horse around, sweeps the halberd once to drive them back, and gallops for the pass, red cloak and feathers streaming. 関羽 and 張飛 pull up side by side, chests heaving, weapons still raised, watching him go against the low copper sun. Camera: WS, pulling out to reveal both armies. AUDIO War drums and massed shouting throughout, rising through beats 2-4. Hooves on dry earth, snorting horses, steel ringing on steel, creaking leather, wind and dust. A deep roar from 張飛 at 4s. Near-silence for a breath at 12s on 呂布's eyes, then the clash returns. No dialogue. AVOID white studio background, flat studio lighting, seamless backdrop, neutral standing poses, facial hair on 呂布, on-screen text, subtitles, watermarks, modern objects, fantasy glow, magic, wire-work floating, clean unworn costumes, faces/armour/weapons swapping between beats, weapons changing shape or length, horses with deformed or extra legs, extra or missing limbs, more than three warriors, mixed camera moves, jitter, flicker, ghosting.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/duration-20s-16-9-24fps-duel-from-romance-of-203080/video-2f3f0ba88c242332.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/duration-20s-16-9-24fps-duel-from-romance-of-203080/poster-67928397436548f8.jpg",
+    "format": "video/webm",
+    "videoBytes": 978467,
+    "videoSha256": "2f3f0ba88c242332456e6c42511d905bffa04ba7c6529711432ff822a0296250",
+    "thumbnailBytes": 19206,
+    "thumbnailSha256": "67928397436548f8d154a40bb22d715d13e9785ac55daac35e61f57a04115181"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

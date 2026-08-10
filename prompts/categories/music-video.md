@@ -2,7 +2,136 @@
 
 [Back to the featured gallery](../../README.md) · [Catalog index](../README.md)
 
-## 1. Underground Rap Performance Studio
+## 1. creators are going to love this
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/creators-are-going-to-love-this-605556/video-9f3c9396a4409fef.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/creators-are-going-to-love-this-605556/poster-0e5c8443c22729ab.jpg" alt="creators are going to love this video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — creators are going to love this. higgsfield just made seedance 2.5 completely unlimited for 33 days. this 15-second acting scene was generated with a single prompt. you could use...</summary>
+
+~~~~text
+creators are going to love this.
+
+higgsfield just made seedance 2.5 completely unlimited for 33 days.
+
+this 15-second acting scene was generated with a single prompt.
+
+you could use it to create cinematic scenes for short films, ads, music videos, or even test movie ideas before filming.
+
+that means you can generate full cinematic content right now for the price of one subscription.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/creators-are-going-to-love-this-605556/video-9f3c9396a4409fef.webm)
+
+**Source:** [@mikenevermiss](https://x.com/mikenevermiss/status/2086056247191605556) · 16s · 16:9 · music video
+
+---
+
+## 2. CAMERA: Handheld DV 16mm daily vlog footage. The video MUST
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/camera-handheld-dv-16mm-daily-vlog-footage-the-v-110168/video-a037aa546c356666.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/camera-handheld-dv-16mm-daily-vlog-footage-the-v-110168/poster-c5f292051f586634.jpg" alt="CAMERA: Handheld DV 16mm daily vlog footage. The video MUST video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — CAMERA: Handheld DV 16mm daily vlog footage. The video MUST begin with her holding the camera at arm's length in selfie mode while stepping outside her apartment building with her...</summary>
+
+~~~~text
+CAMERA: Handheld DV 16mm daily vlog footage. The video MUST begin with her holding the camera at arm's length in selfie mode while stepping outside her apartment building with her dog. The first 20–30 seconds are entirely handheld. Later she occasionally places the camera on a park bench, low stone wall, picnic table, or the ground for wider shots. Keep subtle handheld shake, drifting composition, autofocus hunting, rushed reframing, uneven zooms, exposure breathing, brief accidental face cropping, and imperfect framing throughout. The camera itself is never visible.
+
+LOOK: Warm analog tape texture with gentle film grain, slightly softened sharpness, subtle halation around sunlight, realistic skin tones, low contrast, tiny exposure shifts, and natural motion blur. It should feel like authentic footage from someone's everyday life rather than a polished commercial.
+
+STYLE: A relaxed morning lifestyle vlog. Quiet, cozy, and spontaneous. She occasionally laughs at her dog, pauses to look around, adjusts the leash, brushes hair away from her face, and speaks naturally in short sentences with comfortable pauses.
+
+CHARACTER: EMMA — a beautiful white woman in her mid-20s. Long light brown hair in a messy ponytail, green eyes, minimal makeup, oversized gray hoodie, black biker shorts, white sneakers, and a small crossbody bag. She is walking a happy golden retriever.
+
+SETTING: A peaceful suburban neighborhood on a sunny morning. Tree-lined sidewalks, quiet residential streets, birds singing, a small park with benches, green grass, and soft golden morning light. Very few people are around.
+
+SCENES:
+
+The vlog opens in selfie mode. Emma holds the camera while leaving her apartment building with the golden retriever excitedly pulling on the leash.
+"Good morning."
+She smiles.
+"Someone couldn't wait."
+The dog eagerly sniffs everything as they walk down the sidewalk.
+She laughs quietly.
+"He has to inspect every single tree."
+Still holding the camera, she walks into a small neighborhood park.
+The dog suddenly stops and stares at a squirrel.
+"Oh... there we go."
+She smiles and gently shakes her head.
+She places the camera on a nearby bench for a wider angle while throwing a tennis ball.
+The dog happily chases after it.
+"Worth waking up early."
+She picks the camera back up.
+Walking slowly through the park, she looks up at the trees for a moment.
+"It's actually really peaceful out here."
+The dog returns with the ball but drops it halfway.
+She laughs.
+"Close enough."
+She sits on the bench while the dog lies beside her.
+She scratches behind his ears.
+"I think he's happier than I am."
+She stands up and continues walking.
+The camera stays in selfie mode as they head toward home.
+"Coffee is definitely next."
+She smiles into the lens.
+"See you later."
+She gives a small wave and ends the recording.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/camera-handheld-dv-16mm-daily-vlog-footage-the-v-110168/video-a037aa546c356666.webm)
+
+**Source:** [@maxxmalist](https://x.com/maxxmalist/status/2085422370362110168) · 15s · 16:9 · music video
+
+---
+
+## 3. Music Video Study 140421
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/they-said-is-here-to-cook-and-i-agree-with-140421/video-c9f1cd4de15d3841.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/they-said-is-here-to-cook-and-i-agree-with-140421/poster-bb6695f5b4857f42.jpg" alt="Music Video Study 140421 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Use the uploaded reference image as the exact character reference. Lock her facial identity, eye color, skin tone, hairstyle, makeup, body proportions, and overall appearance...</summary>
+
+~~~~text
+Use the uploaded reference image as the exact character reference. Lock her facial identity, eye color, skin tone, hairstyle, makeup, body proportions, and overall appearance throughout the entire video. She has long black hair tied in a low ponytail, soft natural makeup, expressive grey-green eyes, and wears the same fitted white graphic baby tee, oversized denim shorts, white crew socks, chunky sneakers, silver hoop earrings, layered necklaces, rings, and an oversized black bomber jacket hanging loosely off her shoulders. Maintain perfect character consistency in every shot.
+
+Create a high-end American hip-hop/rap music video inside a premium photography studio transformed into a modern urban performance space. The set features a blue cyclorama backdrop, minimalist graffiti walls, a professional drum kit, vintage brown leather sofa, polished concrete floor, blue neon tube lights, industrial spotlights, subtle atmospheric haze, and cinematic contrast. The aesthetic should feel like a mainstream Western rap music video with luxury production value.
+
+The video opens with an ultra-wide close-up as she looks directly into the camera with a confident expression and folded arms. The camera quickly cuts to a dramatic side silhouette where she lowers her head, then raises it while making relaxed hip-hop hand gestures. A full-body wide-angle shot reveals her casually grooving to the beat, shoulders bouncing naturally as her oversized jacket shifts with realistic fabric movement.
+
+The camera circles around her in a handheld shoulder-mounted tracking shot while she confidently lip-syncs to the music with expressive facial performance. She points toward the lens, smiles slightly, then steps forward with effortless swagger. A dramatic low-angle hero shot emphasizes her presence as she spreads her arms confidently beneath glowing blue lights.
+
+She walks toward a professional drum kit, sits down naturally, and begins striking the drums energetically in perfect rhythm with the music. Fast cuts alternate between overhead, side, and close-up angles showing realistic stick movement, expressive reactions, and synchronized performance.
+
+The scene transitions to a blue roller shutter covered in minimalist graffiti where she squats casually with elbows resting on her knees, maintaining eye contact with the camera while continuing to rap confidently. The camera slowly pushes in from the side before cutting to her lounging effortlessly on a vintage brown leather sofa. She leans back comfortably, one arm stretched along the backrest, nodding naturally with the rhythm while continuing her performance.
+
+A dramatic side silhouette sequence follows with atmospheric haze and strong blue backlighting as she performs smooth body movements, expressive hand gestures, and confident lip-sync. Her hair moves naturally with subtle airflow while the camera glides around her using wide-angle lenses that enhance depth and energy.
+
+The final sequence returns to a full-stage performance. She stands center stage beneath powerful spotlights surrounded by drums, graffiti, neon tubes, and blue studio lighting. The camera slowly pulls backward while she delivers the final lyrics with bold attitude, ending in a confident pose as the lights fade behind her.
+
+Professional rap music video cinematography, cinematic handheld movement, wide-angle lens distortion, premium studio lighting, realistic skin texture, natural eye reflections, detailed hair strands, physically accurate lighting and shadows, authentic lip-sync performance, expressive body language, smooth choreography, realistic fabric simulation, high-end fashion editorial styling, luxury commercial quality, immersive urban atmosphere, 16:9 widescreen, no subtitles, no logos, no watermarks, no on-screen text.
+
+Give a Storyboard image for it in 16:9
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/they-said-is-here-to-cook-and-i-agree-with-140421/video-c9f1cd4de15d3841.webm)
+
+**Source:** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2085212548002140421) · 15s · 16:9 · music video
+
+---
+
+## 4. Underground Rap Performance Studio
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/underground-rap-performance-studio-129750/video-7327a9c0e01a4edb.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/underground-rap-performance-studio-129750/poster-a8583e0e1e75fef3.jpg" alt="Underground Rap Performance Studio video preview" width="700" />
@@ -129,7 +258,55 @@ No portal, black hole, fantasy reveal, studio destruction, flying cubes or detac
 
 ---
 
-## 2. Rapper Reference Performance
+## 5. Music Video Study 031982
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/is-an-official-platform-for-it-brings-cinema-gra-031982/video-4af57f18c573c7d0.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/is-an-official-platform-for-it-brings-cinema-gra-031982/poster-1e2997dfcf6c24ce.jpg" alt="Music Video Study 031982 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 30-second ultra-realistic K-pop MV featuring two young East Asian women with flawless synchronization, cinematic lighting, glossy skin, realistic hair and fabric physics, natural...</summary>
+
+~~~~text
+30-second ultra-realistic K-pop MV featuring two young East Asian women with flawless synchronization, cinematic lighting, glossy skin, realistic hair and fabric physics, natural body motion, and 4K live-action quality. Vibrant hot pink, electric blue, and silver color palette. 0–2s: Wide shot in a bright circular pink studio with reflective floor. Pink-haired woman (left) and black-haired woman (right) perform energetic opening pose and synchronized dance. 2–4s: Medium close-up of the black-haired woman on a blue spotlight stage, confidently pointing at the camera. 4–6s: Pink-haired woman dances before shimmering blue-silver tinsel curtains, dramatic hair flip and fluid arm movements. 6–8s: Back to the pink studio. Both perform synchronized choreography with sharp arm waves, hip sways, and strong formations. 8–10s: Extreme close-up of both faces against a blue background, glossy makeup, subtle smiles, and direct eye contact. 10–14s: Solo shots at the tinsel backdrop. Pink-haired woman mouths lyrics and gestures confidently, followed by the black-haired woman with relaxed jacket styling. 14–18s: Pink studio. Coordinated jacket choreography, hair flips, powerful synchronized dance, ending hands-on-hips. 18–22s: Glamour close-ups. Black-haired woman under glittering bokeh lights, then pink-haired woman with wind-blown hair against a soft pink background. 22–24s: Blue spotlight stage. Mirrored black-haired performer effect with synchronized spins and flowing hair. 24–26s: Both walk confidently toward the camera in front of shimmering tinsel curtains, reflections visible on the floor. 26–29s: Final synchronized dance and ending pose in the pink circular studio, standing together and looking into the camera. Style: Hyper-realistic live action, Seedance 2.5-quality motion realism, perfect lip sync, natural weight shifts, flowing hair, realistic fabric simulation, polished K-pop music video cinematography.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/is-an-official-platform-for-it-brings-cinema-gra-031982/video-4af57f18c573c7d0.webm)
+
+**Source:** [@Just_sharon7](https://x.com/Just_sharon7/status/2083422886686031982) · 30s · 16:9 · music video
+
+---
+
+## 6. Trippy Music Video
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/trippy-music-video-052209/video-f3424e4cae5380e2.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/trippy-music-video-052209/poster-89b278f475614da5.jpg" alt="Trippy Music Video video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Made on @capcutapp Create a fast, trippy 30-second dubstep music video using all the uploaded photographs (PLEASE FIND ATTACHED ALL 14 IMAGES + AUDIO IN THREAD). Use the uploaded...</summary>
+
+~~~~text
+Made on @capcutapp
+
+Create a fast, trippy 30-second dubstep music video using all the uploaded photographs
+
+(PLEASE FIND ATTACHED ALL 14 IMAGES + AUDIO IN THREAD).
+
+Use the uploaded 30-second audio as the only soundtrack. Make it a powerful dubstep edit: every movement, punch-in, transition and hard cut must hit the beat. Fully animate everything inside the photographs. Make the dancers perform, fabric and flames spin, painted eyes react, masks lunge, multiple arms ripple, the drummer strike his drum, sadhus dissolve into ash and black birds, motorcycles race aggressively, smoke creatures come alive, the underwater band actively play, boats move through the surreal landscape, and the flaming weapon create violent circles of fire. No photograph should remain static.Freely mix all the visuals in whatever order works best with the music. Let movement from one photograph naturally transform into the next: spinning fire becomes fabric, fabric becomes a painted eye, expanding arms become the drummer’s arms, ash birds become racing motorcycles, motorcycle dust becomes dancing smoke, smoke becomes underwater bubbles, bubbles become water and boats, and the boats transform into circles of fire.Keep constant movement throughout. Use rapid punch-ins, speed ramps, bass-impact flashes, hard rhythmic cuts, brief freeze-frames and fluid psychedelic transitions. Add a separate graphic layer flashing ॐ, the trishul, damru, third eye, crescent moon and traditional Hindu sacred symbols precisely on the beat. Let them pulse, rotate, distort and dissolve without covering the performers.Make it stylish, colourful, strange and extremely high-energy—an edgy, award-winning Incredible India advertisement edited like a dubstep music video. No dialogue, no typography, no slideshow, no long static shots and no complicated story. Finish with the strongest collision of fire, ash, birds and sacred symbols on the final bass hit.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/trippy-music-video-052209/video-f3424e4cae5380e2.webm)
+
+**Source:** [@rahulnanda86](https://x.com/rahulnanda86/status/2083355736479052209) · 30s · 16:9 · music video
+
+---
+
+## 7. Rapper Reference Performance
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/rapper-reference-performance/video-091ca43d11d292c6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/rapper-reference-performance/poster-a5fa8e5b5b2be101.jpg" alt="Rapper Reference Performance video preview" width="700" />
@@ -182,7 +359,7 @@ Finish on the full stadium bowl: tens of thousands of people across every tier p
 
 ---
 
-## 3. Underground London Techno Club
+## 8. Underground London Techno Club
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/underground-london-techno-club/video-c445568d42d6e7df.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/underground-london-techno-club/poster-50c972a2cf800799.jpg" alt="Underground London Techno Club video preview" width="700" />
@@ -223,7 +400,7 @@ The overall image should feel raw, naturalistic and grounded, with visible film 
 
 ---
 
-## 4. Ten-Member Idol Concert
+## 9. Ten-Member Idol Concert
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/ten-member-idol-concert/video-37890e3d802442e7.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/ten-member-idol-concert/poster-e67755f51593d4da.jpg" alt="Ten-Member Idol Concert video preview" width="700" />
@@ -248,7 +425,7 @@ The outfits should share a cohesive overall design, while each member has a diff
 
 ---
 
-## 5. Randomized Graffiti Dance MV
+## 10. Randomized Graffiti Dance MV
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/randomized-graffiti-dance-mv/video-dfbb4c95b8d5480a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/randomized-graffiti-dance-mv/poster-13316f0670bfae61.jpg" alt="Randomized Graffiti Dance MV video preview" width="700" />
@@ -356,7 +533,7 @@ VFXは身体の動きに反応する。足の接地で粒子や波紋が広が�
 
 ---
 
-## 6. Retro Y2K Pop Duo Music Video
+## 11. Retro Y2K Pop Duo Music Video
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/retro-y2k-pop-duo-music-video/video-4308f03a237fc295.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/retro-y2k-pop-duo-music-video/poster-bc3abe129c79ffb6.jpg" alt="Retro Y2K Pop Duo Music Video video preview" width="700" />
@@ -411,7 +588,7 @@ Hard cut at 13.0s. 13.0–15.0s Set A, 47°: back-to-back frozen final pose, cam
 
 ---
 
-## 7. Live-Action Dance Comparison
+## 12. Live-Action Dance Comparison
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/live-action-dance-comparison/video-3a4f6062fd8df96b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/live-action-dance-comparison/poster-9b83cf7fd76986c9.jpg" alt="Live-Action Dance Comparison video preview" width="700" />
@@ -538,7 +715,7 @@ VFXは衣装カラーに合わせて、光の線や粒子が控えめに反応�
 
 ---
 
-## 8. Multilingual Beach Hip-Hop Band
+## 13. Multilingual Beach Hip-Hop Band
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/multilingual-beach-hip-hop-band/video-a26d3c6418c38002.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/multilingual-beach-hip-hop-band/poster-aafdf85cf6c5f869.jpg" alt="Multilingual Beach Hip-Hop Band video preview" width="700" />

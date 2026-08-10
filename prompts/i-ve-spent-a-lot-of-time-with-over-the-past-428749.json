@@ -1,0 +1,43 @@
+{
+  "slug": "i-ve-spent-a-lot-of-time-with-over-the-past-428749",
+  "title": {
+    "en": "I've spent a lot of time with over the past",
+    "zh": "I've spent a lot of time with over the past"
+  },
+  "description": {
+    "en": "88-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "88 秒cinematic action提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "88s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Sweet_Afterlife",
+    "url": "https://x.com/Sweet_Afterlife/status/2086529483075428749"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Sweet_Afterlife/status/2086529483075428749"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Sweet_Afterlife/status/2086529483075428749"
+  ],
+  "prompt": "I've spent a lot of time with Seedance 2.5 over the past couple of days and I've had fun making this\n\nThis didn't need confusing AI prompts, it's made with 10 second clips spliced together, a starting image and a character reference.\n\nThe prompt for each 10 seconds was a paragraph of text very basically describing the scene\n\nI made it this way to see how well Seedance can handle itself with minimal instruction and I think the results are great, way better than previous generations.\n\nThere are always a few issues when running small window generations such as some items (Sword) vanish in a couple of scenes due to the character reference not being followed fully. The dragon slowly shrinks in size during the duration of the animation due to Seedance assuming size variation rather than continually following the starting image dimensions.\n\nI'm not here to show you a fully polished, no error clip as that's not a real representation of todays AI.\n\nThings are never perfect first try, but Seedance 2.5 takes us all in a step in the right direction.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/i-ve-spent-a-lot-of-time-with-over-the-past-428749/video-3f856d6f703053cd.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/i-ve-spent-a-lot-of-time-with-over-the-past-428749/poster-67f384f1c6009ffd.jpg",
+    "format": "video/webm",
+    "videoBytes": 7996375,
+    "videoSha256": "3f856d6f703053cdf3eb338b632728227745cc8717600658ccf3b85f6c65e7bb",
+    "thumbnailBytes": 61599,
+    "thumbnailSha256": "67f384f1c6009ffdce7a06285e0bb2184f49b747e94cbc229abfc16b24052162"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

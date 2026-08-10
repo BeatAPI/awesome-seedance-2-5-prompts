@@ -1,0 +1,43 @@
+{
+  "slug": "vlog-luxury-car-delivery-vl-863196",
+  "title": {
+    "en": "高端交车仪式 vlog（Luxury Car Delivery Vl",
+    "zh": "高端交车仪式 vlog（Luxury Car Delivery Vl"
+  },
+  "description": {
+    "en": "30-second vlog prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒vlog提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "vlog",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@johnAGI168",
+    "url": "https://x.com/johnAGI168/status/2086424401247863196"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/johnAGI168/status/2086424401247863196"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/johnAGI168/status/2086424401247863196"
+  ],
+  "prompt": "【风格】高端交车仪式 vlog（Luxury Car Delivery Vlog），专业机位 + 手持自拍视角混剪，4K 真实摄影（Photorealistic），自然肤质毛孔可见，无滤镜塑料感，竖屏 9:16\n【时长】30秒\n【场景】超跑交付展厅（水泥灰地面、黑色墙面、顶部条形射灯）→ 展厅门口坡道 → 傍晚城市高架\n【角色】车主@ 图片1（长发女性，黑发发尾酒红渐层大波浪，细金属框透明镜片眼镜，灰色针织吊带连衣裙）；两名穿黑西装的工作人员（背景功能性人物，不给正脸）\n【车辆】明黄色兰博基尼 Urus（Lamborghini Urus，超级SUV），四门高底盘车身，车头六边形大灯与Y字形日行灯，侧面锐利折线，宽轮眉，23寸黑色轮毂，双边四出排气，车尾贯穿式扰流板\n【全局约束】黑布只在镜头1出现，滑落后堆在车尾地面，之后所有镜头不再出现；鲜花、彩带、丝带只存在于镜头1至镜头7的地面与场地布置中，镜头8车身表面必须干净，无任何花束、丝带、彩带或装饰物\n\n[00:00-00:05] 镜头1：黑布自动后拉揭幕（Crane Up / Reveal）\n低机位，画面中央是一台被整块哑光黑绒布完全罩住的高大车形，布料垂坠贴着车身轮廓，能看出高底盘和方正的车顶线条。\n动作：她从画面右侧走入，停在车头前，抬手示意。黑绒布被车尾方向的牵引绳拉动，整块布从车头开始向车尾方向匀速滑走——先露出明黄色车头和六边形大灯，再是引擎盖和前风挡，接着是车顶、侧窗、宽轮眉，最后布料从车尾滑脱，堆在车尾后方的地面上。\n镜头同步从地面缓缓上升，黄色车漆随着布的后撤一段段亮起来。\n音效：厚重布料在车漆上摩擦滑动的沙沙声，现场轻微惊呼，低频背景音渐起。\n\n[00:05-00:09] 镜头2：360°环绕（Orbit 360）\n镜头贴地绕车身完整转一圈，依次扫过Y字形日行灯、前保险杠进气口、宽轮眉与23寸黑轮毂、侧面锐利折线、车尾贯穿式扰流板和双边四出排气。\n动作：她站在车身左侧，一只手搭在车门把手上，身体随镜头转动始终看向车，头发被空调风轻轻吹动。\n顶部条形射灯在黄色折线车身上扫出一道不断流动的高光。\n\n[00:09-00:13] 镜头3：交车仪式铺花（Slow Dolly Right）\n中景，镜头缓慢向右横移。两名穿黑西装的工作人员从画面两侧走入，把一捧捧白玫瑰和粉色绣球铺在车头前方地面和车身两侧，围成一个半圆花带，车头盖上摆一束系着红丝带的花束。\n画面右侧推入一辆金色小推车，上面放着冰桶和几只高脚杯，冰块表面有细密水珠。\n她站在花带中央，低头看了看脚边的花，抬头笑。\n\n[00:13-00:16] 镜头4：碰杯（Handheld Close-up）\n近景，她端起一只高脚杯，杯中金色气泡不停往上冒，她冲镜头笑着说了句什么，然后把杯沿轻轻磕在镜头前，\"叮\"的一声，镜头随之轻微晃了一下。\n她眯眼笑，抬起的手臂短暂遮住半边眼镜又移开，指尖在杯壁上留下一点雾痕。\n手持真实轻微抖动，背景的黄色车身虚化成一片暖黄。\n\n[00:16-00:19] 镜头5：礼炮打响（Slow-mo Confetti Burst）\n全景略微升格。她站在车头旁的花带中间，画面左右两侧的礼炮同时\"嘣\"地打响，大量金色和白色彩带、纸屑向上喷出，在空中缓慢翻卷飘落。\n动作：她被声响吓得肩膀猛地一缩，随即张嘴大笑，双手举高，头发被气流掀起。彩带落在她的肩膀和黄色车漆上。\n\n[00:19-00:22] 镜头6：坐车比耶（Handheld Selfie POV）\n车门向外打开，她踩着侧踏板抬腿坐上高位驾驶座。切到手持自拍视角，她左手对着镜头比耶，右手搭在方向盘上，脸凑近镜头笑，一根彩带还挂在她头发上。\n车内红黑撞色皮革、双联屏中控、六边形出风口、碳纤维饰板清晰可见。画面在逆光下短暂过曝后自动恢复。\n\n[00:22-00:25] 镜头7：准备出发（Rear Seat Fixed Cam）\n后排固定机位，越过驾驶座椅背拍摄，她的后脑勺和酒红色发尾垂在椅背上，前挡风外是展厅门口的亮光。\n动作：她掀开中控台上的红色启动键保护盖，拇指按下去，双联屏和仪表盘瞬间亮起，发动机爆出一声轰鸣，车身轻微抖了一下。她向右后方回头，笑着看向镜头两秒，然后转回去握住方向盘。\n\n[00:25-00:30] 镜头8：上路·航拍收尾（Launch + Drone Pull-back）\n车门\"砰\"地关合。车全力起步冲出展厅门口坡道，车尾轻微下压，地面的花瓣和彩带被排气气流吹得翻卷起来。车身表面干净，无任何鲜花、丝带或彩带残留。\n镜头切到航拍：无人机高空俯拍，明黄色车身在灰色高架上快速穿行，落日金光从车顶和侧面一路掠过。无人机随车向后上方拉升，城市天际线露出，黄色车身缩成画面里一个明亮的黄点。\n音效：排气轰鸣、轮胎摩擦、风噪，背景音乐在最后两秒推到最高点后骤停。",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/vlog-luxury-car-delivery-vl-863196/video-44264a6aee4ced61.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/vlog-luxury-car-delivery-vl-863196/poster-25eda75701cf91bc.jpg",
+    "format": "video/webm",
+    "videoBytes": 2574801,
+    "videoSha256": "44264a6aee4ced61a678f7e5d759379bc47de8f6121dce4b9149ac0c5201f7ca",
+    "thumbnailBytes": 56351,
+    "thumbnailSha256": "25eda75701cf91bc1d16c6a6d7dbde5390e40c551f5b1ed591f71bdc83c829ec"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "creative-video-235705-235705",
+  "title": {
+    "en": "Creative Video 235705",
+    "zh": "Creative Video 235705"
+  },
+  "description": {
+    "en": "10-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "10 秒cinematic action提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "10s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Soranlan",
+    "url": "https://x.com/Soranlan/status/2086591561874235705"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Soranlan/status/2086591561874235705"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Soranlan/status/2086591561874235705"
+  ],
+  "prompt": "【生成模式】\n\nSeedance 2.5\n\n【视频规格】\n\n严格总时长 10 秒\n16:9 横屏\n三个干净清楚的镜头\n原生普通话对白\n不生成字幕\n【整体风格】\n电影级写实质感，纯古风中国仙侠悬疑气质，以类似黑泽明式“风与静默制造环境张力”的调度、希区柯克式信息控制、克制表演和清晰明确的超自然道具动作完成这一段。\n【续接要求】\n作为 Seedance 2.5 的直接续接，以上一条实际视频保持人物与运动连续性，以上传环境参考保持：\n\n同一片开阔草甸\n\n同一片森林山坡\n\n同一面巨大垂直峭壁\n\n同一组高处嵌入岩壁的宗门建筑\n\n同样的覆苔岩石\n\n同样的山谷薄雾\n\n同样的右侧光线\n同样的天气\n同样的尺度关系\n同样的人物运动方向\n不得重新设计地点，不得切换为其他仙侠场景。\n【角色锁定】\n角色 ID A｜剑仙师姐\n同一个 25–30 岁的东亚女性，椭圆脸，白皙自然肤色，深色杏眼，黑色长发半挽、白玉簪固定，身材高挑纤细。\n穿同一套：\n白色刺绣真丝汉服\n\n半透明宽袖\n\n银色腰饰\n\n白色布靴\n\n腰间佩戴唯一一柄完整收在剑鞘里的银色灵剑。\n\n角色 ID B｜小师妹\n\n同一个 20–25 岁的东亚小师妹，圆润灵动的脸，深色编发，身形娇小。\n\n穿同一套：\n低饱和鼠尾草绿色亚麻汉服\n深色腰带\n布鞋\n\n【灵剑核心物理规则】\n\n灵剑是本段唯一核心异常。\n\n必须严格遵守：\n\n开场时实体剑身完全位于剑鞘内部\n\n剑柄、护手、剑鞘首先作为一个完整物体整体震颤\n师姐绝不触碰剑柄\n两只手必须始终清楚可见并远离灵剑\n\n灵剑只能通过真实连续的物理位移自行出鞘\n\n剑鞘在出鞘过程中保持固定\n\n剑身必须从剑鞘口连续滑出\n\n禁止瞬移\n\n禁止凭空生成第二把剑\n禁止发光\n禁止闪烁\n禁止剑气\n禁止能量粒子\n禁止法阵或其他视觉特效\n【镜头 1｜0–3s｜全景或远景】\n紧接角色 ID A 同一个剑仙师姐说完：\n“有什么不对劲。”\n环境突然安静下来。\n师姐腰间整柄仍处于入鞘状态的灵剑突然开始整体震颤。\n剑柄、护手与剑鞘作为同一个完整物体一起明显抖动。\n同时发出低沉、持续的金属共鸣。\n此时实体银色剑身必须始终完全藏在剑鞘内部，不允许提前露出。\n\n两名角色保持警觉，但不要做夸张惊吓反应。\n\n【镜头 2｜3–7s｜中景或牛仔景】\n\n同一个剑仙师姐只低头看向腰间灵剑。\n\n她绝不伸手触碰。\n\n两只空手必须在画面中清楚可见，并始终远离剑柄。\n\n整柄灵剑的震动逐渐加剧。\n\n随后突然完全停止。\n\n完整停顿一拍。\n\n之后：\n\n腰间剑鞘保持固定不动。\n\n剑柄却在无人接触的情况下，自行向外产生真实位移。\n\n实体银色剑身从剑鞘口连续、清楚地物理滑出。\n\n出鞘过程必须完整可读：\n\n剑柄外移 → 剑身逐渐露出 → 剑身继续滑出 → 整柄灵剑完全脱离剑鞘。\n\n完全出鞘后，同一柄灵剑水平悬停在师姐身前约半米处。\n\n不发光、不闪烁、不瞬移，没有剑气或能量特效。\n\n同一个小师妹压低声音问道：\n\n“师姐，它也感觉到了？”\n\n【镜头 3｜7–10s｜特写或极近特写】\n\n同一柄已经自主出鞘的灵剑缓慢转动剑尖。\n\n剑尖明确指向远处山雾。\n\n灵剑发出一声克制的金属轻鸣。\n\n随后它独自向前飞行数米。\n\n飞行动作保持稳定、实体、具有惯性，不拖曳能量尾迹。\n\n灵剑突然停在半空，像是在感知前路。\n\n背景始终保持同一片草甸与同一面峭壁。\n\n同一个剑仙师姐以警觉而克制的目光观察灵剑，平静说道：\n\n“让它先探路。”\n\n最后进行一次焦点转移：\n\n从独立悬停的实体银色剑身 → 转到剑仙师姐的双眼。\n\n立即切断。\n\n【动作因果链】\n\n本段动作顺序必须严格为：\n\n环境安静\n→ 整柄入鞘灵剑整体震颤\n→ 震颤停止\n→ 停顿一拍\n→ 剑鞘固定\n→ 剑柄自行外移\n→ 实体剑身连续滑出\n→ 完全出鞘\n→ 水平悬停\n→ 剑尖转向远处山雾\n→ 向前飞行数米\n→ 半空停止感知\n→ 师姐说“让它先探路”\n→ 焦点转到师姐双眼\n→ 立即结束\n\n不得打乱顺序。\n\n【人物表演要求】\n\n剑仙师姐：\n\n始终警觉\n\n克制\n\n不惊慌\n\n不主动控制灵剑\n\n不做法诀\n\n不触碰剑柄\n\n只通过视线观察异常\n\n小师妹：\n\n保持在同一空间关系中\n表情克制\n仅在指定位置说一句对白\n不碰剑\n不抢夺视觉中心\n【声音设计】\n原生普通话对白。\n重点声音：\n环境突然安静\n入鞘灵剑整体震颤产生的低沉金属共鸣\n实体剑身从剑鞘中连续滑出的真实金属摩擦声\n完全出鞘后的轻微金属悬停声\n灵剑转向山雾时的一声克制轻鸣\n草甸山风与远处山谷空间声\n声音必须具有明确距离和方位。\n\n【连续性与物理要求】\n\n人物身份、服装、灵剑几何结构、地理空间和光线严格稳定。\n\n始终只有：\n\n两名可见人物\n\n一柄银色灵剑\n一个对应剑鞘\n背景始终保持同一片草甸、森林山坡、巨大峭壁和岩壁宗门建筑。\n衣料、头发、山风、薄雾、金属剑身运动全部符合真实物理逻辑。\n【禁止项】\n不得出现：\n师姐手动拔剑\n\n手碰剑柄\n\n剑身提前露出\n剑从剑鞘旁边凭空生成\n两把剑\n剑鞘跟着剑一起飞走\n瞬移出鞘\n\n发光剑\n\n剑气\n\n能量波\n\n法阵\n\n闪电\n粒子特效\n额外人物\n灵兽\n现代元素\n字幕\n\n【负面词】\n\nblurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/creative-video-235705-235705/video-cf71e162629508f0.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/creative-video-235705-235705/poster-43f427dbc5628d0f.jpg",
+    "format": "video/webm",
+    "videoBytes": 383749,
+    "videoSha256": "cf71e162629508f00ce30fe6c736308e5a49e145c34ab02405df39373c40f13f",
+    "thumbnailBytes": 53005,
+    "thumbnailSha256": "43f427dbc5628d0f942117552fc0f11788810b6306533b2a624727b64daa7f30"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

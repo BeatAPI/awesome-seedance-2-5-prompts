@@ -1,0 +1,43 @@
+{
+  "slug": "she-herds-clouds-651566",
+  "title": {
+    "en": "She herds clouds",
+    "zh": "She herds clouds"
+  },
+  "description": {
+    "en": "30-second animation prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒animation提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "animation",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Dheepanratnam",
+    "url": "https://x.com/Dheepanratnam/status/2084145160875651566"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Dheepanratnam/status/2084145160875651566"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Dheepanratnam/status/2084145160875651566"
+  ],
+  "prompt": "She herds clouds.\nOne of them rides a tiny bike.\nWhen the storm comes, the whole flock becomes her shelter.\n\nSeedance 2.5 keeps making these little worlds feel alive.\n\nPrompt below if you want to try it.\nPixar style 3d animation- Created with @dreamina_ai #DreaminaCPP",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/she-herds-clouds-651566/video-2a707fb1c05bf14a.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/she-herds-clouds-651566/poster-68774873b6f3ca41.jpg",
+    "format": "video/webm",
+    "videoBytes": 1472054,
+    "videoSha256": "2a707fb1c05bf14a0bf9691b876073108cba70f95ae523a72d4f0e2149b3cb2d",
+    "thumbnailBytes": 37182,
+    "thumbnailSha256": "68774873b6f3ca41529b64734d27e48a185c63bf3a2d4e745a660a4c4a17cddf"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

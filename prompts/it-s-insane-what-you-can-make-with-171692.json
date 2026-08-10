@@ -1,0 +1,43 @@
+{
+  "slug": "it-s-insane-what-you-can-make-with-171692",
+  "title": {
+    "en": "Product Commercial Study 171692",
+    "zh": "Product Commercial Study 171692"
+  },
+  "description": {
+    "en": "15-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AnatoliKopadze",
+    "url": "https://x.com/AnatoliKopadze/status/2086063513907171692"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/AnatoliKopadze/status/2086063513907171692"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/AnatoliKopadze/status/2086063513907171692"
+  ],
+  "prompt": "it's insane what you can make with Seedance 2.5\n\njust made this entire video from a single prompt, no camera, no editing, nothing\n\nif you want to make videos like this, check my free guide below\n\nfull prompt for this video:\n\nCAMERA: Handheld DV 16mm daily vlog footage. The video MUST begin with her propping the camera against a jar of flour on the kitchen counter, shooting her from a three-quarter angle as she cooks. She picks it up for close-ups of the food, then sets it back. The camera gets flour dust on the lens at one point — she wipes it with her sleeve and keeps going. Keep subtle handheld shake, drifting composition, autofocus hunting, rushed reframing when something sizzles, exposure breathing between the dark counter and the bright stove, and imperfect framing throughout. The camera itself is never visible.\n\nLOOK: Warm kitchen lighting — a single overhead fixture casting yellowish light, the stove adding a bright warm glow on the food. Steam and smoke catch the light. Gentle film grain heavy in the shadows, slightly softened sharpness, subtle halation from the stove flame. Her face is warm and golden. It should feel like authentic footage from someone's everyday life rather than a polished commercial.\n\nSTYLE: A comfortable, slightly chaotic cooking vlog. She talks to the camera like a friend is in the room. Small laughs, pauses, fixing her hair, wiping her hands on the apron, tasting and reacting. She makes small mistakes and laughs at herself. She speaks in short, natural sentences with frequent pauses. Never rush dialogue. Leave quiet moments between lines.\n\nCHARACTER: A beautiful woman in her late 20s. Long dark brown hair tied back in a low messy bun with a kitchen towel over her shoulder, warm olive skin, brown eyes, no makeup. She wears a cream-colored linen shirt with the sleeves rolled up and a dark green apron. Flour on her cheek. Natural, relaxed, a little messy.\n\nSETTING: A small home kitchen in the evening. White tile counter, a gas stove with a well-used pan, a cutting board with onions and garlic, a jar of flour, a wooden spoon, a glass of red wine. The overhead light is the only source. A window above the sink shows darkness outside. Intimate and slightly cluttered.\n\nSCENES:\n\nThe vlog opens with the camera propped against a flour jar. She chops an onion, eyes watering.\n\"I don't know why I keep doing this to myself.\"\nShe wipes her eye with the back of her wrist. Picks up the camera, holds it close to the cutting board.\n\"Look. The onion won.\"\nSets it back. Pours olive oil into the pan. It sizzles loud. She jumps.\nShe adds the onion. Steam rises into the light. She stirs.\n\"Okay that smells better.\"\nShe sips from a glass of wine. Looks at the camera.\n\"Don't judge.\"\nShe adds garlic. It sizzles harder. She moves the pan off the heat.\n\"Too hot. Always too hot.\"\nShe picks up the camera, selfie mode, flour on her cheek. She hasn't noticed.\n\"It's going to be fine. Probably.\"\nShe tastes from the wooden spoon, winces, then nods.\n\"Okay. Yeah. It's good.\"\nFlour dust on the lens. She wipes it with her sleeve. A smile. The frame goes dark. Cut.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/it-s-insane-what-you-can-make-with-171692/video-98c4ff1e0273c65f.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/it-s-insane-what-you-can-make-with-171692/poster-58ffa6469ae824c2.jpg",
+    "format": "video/webm",
+    "videoBytes": 896726,
+    "videoSha256": "98c4ff1e0273c65febf8cdd3e85fa11264b7a8988bc529e16860637bcb058f71",
+    "thumbnailBytes": 55062,
+    "thumbnailSha256": "58ffa6469ae824c2ccfdb3e084eafd968ce3a026cba3e8d584fe3224b9d94150"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

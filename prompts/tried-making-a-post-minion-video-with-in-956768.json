@@ -1,0 +1,43 @@
+{
+  "slug": "tried-making-a-post-minion-video-with-in-956768",
+  "title": {
+    "en": "Tried making a Post Minion video with in",
+    "zh": "Tried making a Post Minion video with in"
+  },
+  "description": {
+    "en": "20-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "20 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "20s",
+  "aspectRatio": "3:2",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@greediusgeek",
+    "url": "https://x.com/greediusgeek/status/2085638816245956768"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/greediusgeek/status/2085638816245956768"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/greediusgeek/status/2085638816245956768"
+  ],
+  "prompt": "and it added some AI-slop text 😅 Not quite what I expected, but still a fun experiment.\n\nWhat AI video tools or workflows have worked well for you?",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/tried-making-a-post-minion-video-with-in-956768/video-5f6735fa1d86105a.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/tried-making-a-post-minion-video-with-in-956768/poster-c9f150d9b5efd010.jpg",
+    "format": "video/webm",
+    "videoBytes": 797533,
+    "videoSha256": "5f6735fa1d86105a4e81338b094addac55690f02c40d96716fc2ebb89bba5709",
+    "thumbnailBytes": 32549,
+    "thumbnailSha256": "c9f150d9b5efd010aa39cb0764685651575009d5450b43bdf186f15ae43fa48c"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

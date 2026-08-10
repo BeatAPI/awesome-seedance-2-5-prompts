@@ -1,0 +1,43 @@
+{
+  "slug": "text-to-video-30s-552259",
+  "title": {
+    "en": "text to video 30s",
+    "zh": "text to video 30s"
+  },
+  "description": {
+    "en": "30-second animation prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒animation提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "animation",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "427:240",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@sebatheepan",
+    "url": "https://x.com/sebatheepan/status/2083768136172552259"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/sebatheepan/status/2083768136172552259"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/sebatheepan/status/2083768136172552259"
+  ],
+  "prompt": "Once upon a time there lived a hare. The hare could run very fast. It was proud of its speed, One day, the hare saw a tortoise walking very slowly. The hare laughed at the tortoise and said, “Oh! You are so slow, such a slowcoach!” The tortoise said, “My dear friend, you are so proud. Let’s have a race to see who is faster. So the hare and the tortoise had a race. The hare ran very fast and very far. Then it turned back to see where the tortoise was. The tortoise was far behind the hare. It was walking so slowly!The proud hare thought, “The tortoise will take a very long time to come near me. Let me have a nap.” So it stopped running and went to sleep The tortoise slowly but steadily went past the hare. The hare suddenly woke up and saw the tortoise just crossing the finishing line. It started running very fast. But it was too late. The tortoise had already won the race. a fun 3d pixar style family animation",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/text-to-video-30s-552259/video-69422f6908b6161d.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/text-to-video-30s-552259/poster-3ec3b4409b1d49b9.jpg",
+    "format": "video/webm",
+    "videoBytes": 1338733,
+    "videoSha256": "69422f6908b6161d0ffb62fb8a6d508ff570de7f9358332b60f4a97c5355ee83",
+    "thumbnailBytes": 46771,
+    "thumbnailSha256": "3ec3b4409b1d49b9cd3d4ea838214dc41ebe52e70f4f38db81b75d994ebf6cc4"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

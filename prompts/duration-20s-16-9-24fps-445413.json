@@ -1,0 +1,44 @@
+{
+  "slug": "duration-20s-16-9-24fps-445413",
+  "title": {
+    "en": "Duration: 20s | 16:9 | 24fps",
+    "zh": "Duration: 20s | 16:9 | 24fps"
+  },
+  "description": {
+    "en": "20-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "20 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "reference-generation",
+  "mode": "image-to-video",
+  "duration": "20s",
+  "aspectRatio": "427:240",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@tanabe_fragm",
+    "url": "https://x.com/tanabe_fragm/status/2083351092411445413"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/tanabe_fragm/status/2083351092411445413"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/tanabe_fragm/status/2083351092411445413"
+  ],
+  "prompt": "Duration: 20s | 16:9 | 24fps\nA three-way duel from Romance of the Three Kingdoms, late Han dynasty.\nRelentless combat from the first frame. No pauses, no posing.\n\nREFERENCES\n@Image 1 — 呂布 LU BU   @Image 2 — 関羽 GUAN YU   @Image 3 — 張飛 ZHANG FEI\nUse for IDENTITY ONLY: face, beard, hair, headwear, armour, cloak colour,\nbuild, proportions. IGNORE their white studio background, flat lighting and\nstanding pose — none of it appears here. All three are mounted and fighting\noutdoors from the very first frame.\n\nSTYLE (all beats)\nAn empty dust plain below a huge stone mountain pass at dusk. NO armies, NO\ncrowds, NO banners, NO spectators — only these three men, their horses, dust\nand rock. Overcast sky, low copper sun cutting through blowing dust.\nPalette: iron grey, ochre dust, blood red, bronze. Desaturated and earthy.\n50mm, shallow focus, heavy haze, film grain, high contrast, hard rim light.\nPhotorealistic historical epic, sweat, grime, scarred armour, horses lathered\nand wild-eyed. No fantasy glow, no magic.\nIMPACT: on every heavy strike, sparks burst, grit sprays toward the lens, and\nthe frame shudders for a single frame. Dust and spray repeatedly streak across\nthe lens. Keep exactly one camera move per beat — never combine moves.\n\nWEAPONS — no reference. Keep identical throughout, each 1.5x its owner's\nheight, never swapped.\n呂布: ji halberd — straight spear point, one crescent side blade below it on\none side, long dark shaft, bronze fittings.\n関羽: guandao — one heavy broad curved blade with a hook on its back edge,\njoined to a long dark shaft by a bronze dragon head.\n張飛: serpent spear — slender steel blade forged in an S-shaped wave, on a\nplain dark shaft bound with cord.\n\nHORSES — no reference. Anatomically correct, four legs, correct joints.\n呂布: large red-chestnut stallion, black mane, bronze fittings, red tassels.\n関羽: tall dark bay, black mane and lower legs, plain leather tack.\n張飛: heavy solid black, thick neck, shaggy fetlocks, battered iron tack.\n\nBEAT 1 (0-4s) 張飛 — bristling beard, black iron armour, serpent spear, black\nhorse — is already at full gallop, roaring, and rams the spear at 呂布's chest.\n呂布 — clean-shaven, gold headdress with two pheasant feathers, red cloak,\nhalberd, red-chestnut horse — slams it aside with the haft. The two horses hit\nchest to chest and rear. The spear tip whips past the lens, a hand's width\nfrom it.\nCamera: low at hoof height looking up, tracking alongside the charge.\n\nBEAT 2 (4-8s) 呂布 attacks. Three halberd blows in succession — hacking down,\nsweeping across, driving up. 張飛 blocks, blocks, and the third blow tears a\nshoulder plate off his armour, sending it spinning. His black horse skids\nsideways. Sparks spray into the lens.\nCamera: MCU, tilted dutch angle, hard push-in on 呂布.\n\nBEAT 3 (8-12s) 関羽 — long smooth black beard, ruddy face, dark green robe,\ngreen headwrap, guandao, dark bay horse — crashes in and cuts down overhead.\n呂布 catches it on the haft, blades grinding. 張飛 thrusts in from the opposite\nflank. 呂布 twists and parries both, the three shafts locking together as they\nshove. 呂布's red cloak sweeps right across the lens.\nCamera: MS, orbiting once around the three.\n\nBEAT 4 (12-16s) The hardest exchange. All three hammer at each other without\npause, horses rearing and spinning in churning dust. 呂布 in red and gold at\nthe centre, 関羽 in green, 張飛 in black iron closing from both sides. 呂布's\nhalberd gouges the ground and throws up a wall of grit. Blood opens on his\ncheek. On the single heaviest strike the image drops into brief slow motion,\nthen snaps back to full speed.\nCamera: handheld, tight, whipping between the three.\n\nBEAT 5 (16-20s) 呂布 roars, rises in the stirrups and sweeps the halberd in one\nfull circle, hurling both men back and blasting a ring of dust outward. Their\nhorses stagger apart. The three come round facing each other again, weapons\nlevelled, chests heaving, dust rolling between them. Nobody has won.\nCamera: WS from ground level, slow pull-out.\n\nAUDIO\nNo crowd, no drums. Wind and driving dust throughout. Hooves hammering dry\nearth, snorting lathered horses, steel ringing and grinding on steel, creaking\nleather, harsh breathing, grunts of effort. A deep roar from 張飛 at 0s and\nfrom 呂布 at 16s. Sound drops to a hollow low rumble during the slow motion,\nthen slams back. No dialogue.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/duration-20s-16-9-24fps-445413/video-5ec82c72fa8e8edc.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/duration-20s-16-9-24fps-445413/poster-00dfc51520dda79d.jpg",
+    "format": "video/webm",
+    "videoBytes": 853860,
+    "videoSha256": "5ec82c72fa8e8edca154ebb9f0e7cc83161826ecd813516c0cd225c4aab1ac82",
+    "thumbnailBytes": 14731,
+    "thumbnailSha256": "00dfc51520dda79df1f18be5b88f541068656e34c0e28fe9bd22082cca0bca42"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

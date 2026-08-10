@@ -2,7 +2,61 @@
 
 [Back to the featured gallery](../../README.md) · [Catalog index](../README.md)
 
-## 1. Japanese Horror Root-Vegetable Village
+## 1. Horror Film Study 945734
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/ai-video-generation-just-got-terrifyingly-good-945734/video-b3beaebe93abff93.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/ai-video-generation-just-got-terrifyingly-good-945734/poster-7032c5a8cc002b99.jpg" alt="Horror Film Study 945734 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — AI video generation just got terrifyingly good. 🎬 Seedance 2.5 just landed on @itsPolloAI and there’s a limited-time 50% off discount running right now! The temporal consistency...</summary>
+
+~~~~text
+AI video generation just got terrifyingly good. 🎬
+
+Seedance 2.5 just landed on @itsPolloAI and there’s a limited-time 50% off discount running right now!
+
+The temporal consistency is next-level. We can finally generate seamless 30-second videos in a single prompt.
+
+The volumetric lighting, the ethereal energy, and the reflections on the wet asphalt hold up perfectly for the entire half-minute.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/ai-video-generation-just-got-terrifyingly-good-945734/video-b3beaebe93abff93.webm)
+
+**Source:** [@AIwithSarah_](https://x.com/AIwithSarah_/status/2086301678735945734) · 30s · 16:9 · horror
+
+---
+
+## 2. Making of movie - Titanoboa - Behind the scenes!!
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/making-of-movie-titanoboa-behind-the-scenes-515958/video-4d7e558ae5fb154e.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/making-of-movie-titanoboa-behind-the-scenes-515958/poster-79af62364fba586a.jpg" alt="Making of movie - Titanoboa - Behind the scenes!! video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Made on @krea_ai Ultra-realistic behind-the-scenes film set footage, slightly high vantage point, shot like a real making-of video on a professional handheld camera from the side...</summary>
+
+~~~~text
+Made on @krea_ai
+
+Ultra-realistic behind-the-scenes film set footage, slightly high vantage point, shot like a real making-of video on a professional handheld camera from the side of a soundstage. The set is dressed like a dense Amazon jungle location: wet muddy ground, artificial trees and vines, haze in the air, hanging rigging, practical lights, camera tracks, crew members standing off to the side, and a giant hyper-realistic animatronic anaconda dominating the set. The snake looks absolutely massive, with detailed scales, wet reflections, huge fangs, and mechanical realism.
+
+The clip begins with the director shouting, “Action!” A female actor in adventure-film costume stands in front of the giant snake, backing away nervously as if in a creature movie scene. The snake suddenly lifts its head, opens its mouth wide, and gives a loud threatening hiss. The woman starts stepping backward and says “No, no, no!” in character. The snake lunges, coils upward, lifts her, throws her into the air so she spins once in a full 360, then catches her cleanly in its mouth and appears to swallow her whole. Everyone watching is stunned for a beat.  Then immediately someone off camera yells “Cut! Cut! Cut!” The illusion breaks. The animatronic snake lowers its head and its mouth section is mechanically opened downward by the crew.
+
+The actress casually climbs back out of the snake’s mouth, laughing and dusting herself off. She smiles and says, “I think that was a good shot.” Hair and makeup artists and crew members quickly walk in around her, checking on her and resetting the scene. The tone becomes playful and clearly behind-the-scenes. Keep it fast, clear, believable, and very realistic — like a real BTS clip from a big-budget Titanoboa-style jungle creature film. No fantasy look, no cartoon look, only grounded practical-movie-set realism.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/making-of-movie-titanoboa-behind-the-scenes-515958/video-4d7e558ae5fb154e.webm)
+
+**Source:** [@rahulnanda86](https://x.com/rahulnanda86/status/2085971154305515958) · 12s · 4:3 · horror
+
+---
+
+## 3. Japanese Horror Root-Vegetable Village
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-horror-root-vegetable-village/video-85963d277c9d9d32.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-horror-root-vegetable-village/poster-aebb2080a96f2c01.jpg" alt="Japanese Horror Root-Vegetable Village video preview" width="700" />

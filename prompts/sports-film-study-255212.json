@@ -1,0 +1,44 @@
+{
+  "slug": "sports-film-study-255212",
+  "title": {
+    "en": "Sports Film Study 255212",
+    "zh": "Sports Film Study 255212"
+  },
+  "description": {
+    "en": "10-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "10 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "reference-generation",
+  "mode": "image-to-video",
+  "duration": "10s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@tanabe_fragm",
+    "url": "https://x.com/tanabe_fragm/status/2085212348827255212"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/tanabe_fragm/status/2085212348827255212"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/tanabe_fragm/status/2085212348827255212"
+  ],
+  "prompt": "卓球・オリンピック決勝 × カンフー映画の高速バトル\n\n【SUMMARY】\n10 seconds, 16:9. The final point of an Olympic table tennis final, shot like a Hong Kong\nkung fu duel. Two players, one ball, a dark arena, one column of light on the table.\nReal time on every impact, deep slow motion between, one burst of pure hyper-speed.\n\n【SET】\nA packed arena, the crowd sunk into near-blackness — silhouettes and tiny out-of-focus\nhighlights. A hard column of white light falls onto a dark blue table with crisp white\nlines. Fine dust drifts inside the beams. Extremely realistic physical texture: paddle\nrubber, sweat-soaked fabric, the matte ball. High contrast, deep shadow, hard rim light\nfrom above and behind, shallow depth of field around f/2.0.\nA physical LED scoreboard hangs in the darkness behind the table, orange digits reading\n10 - 10, sharp and correctly formed, never changing. It is the only lettering in the film.\n\n【PLAYERS — two people, never more】\nRED: a 24-year-old East Asian man, lean, heavy shoulders and forearms. Cropped black hair\nsoaked to his forehead. Sharp narrow eyes, high cheekbones, hard jaw. Cool-toned skin with\nreal pores, wet with sweat. Plain solid red sleeveless shirt, plain black shorts, no logo\nor number. The aggressor.\nBLUE: a 26-year-old East Asian man, taller and rangier. Longer black hair pushed back,\ndripping. Thick brows, square jaw, steady unblinking stare. Warm-toned skin with real\npores. Plain solid blue sleeveless shirt, plain black shorts, no logo or number. The\ncounter-puncher.\nNeither shows fear: two masters at the end of a long duel, calm and spent. The violence is\nin the ball, not their faces.\n\n【TIMELINE】\n\n0.0-2.5s SERVE — deep slow motion.\nRED tosses the ball straight up. It climbs through the light, turning slowly, dust around\nit. He exhales, drops his shoulder, loads his arm. At 2.2s he strikes: real time snaps in\nand the ball tears out of frame.\nCamera: low angle just above the table surface, looking up past the net. Locked off.\nAudio: near silence — his breath, shoes creaking, a low hush. Then one sharp crack.\n\n2.5-4.3s HYPER-SPEED RALLY — no slow motion at all, the fastest passage in the film.\nFourteen exchanges in under two seconds, faster than any real rally. The ball stops\nreading as an object and becomes a white streak cutting a line through the dust. Paddle\narms blur into afterimages, shoulders whip, feet smear. Sweat is thrown off both men in\nsheets. The table shudders.\nCamera: side-on at net height, one smooth horizontal slide along the table — the camera\nstays calm while everything inside the frame is violent.\nAudio: the cracks run together into a hard stutter like a drum roll, over squealing shoes\nand a rising crowd.\n\n4.3-5.5s THE BREATH — the speed drops out.\nOne exchange stretched into deep slow motion. RED drives the ball low across the net,\nsweat lifting off his forearm and floating, dust turning around the ball. BLUE's eyes\ntrack it. At 5.4s his paddle meets it and real time cracks back in.\nCamera: the same side-on slide, now crawling.\nAudio: everything falls to a muffled rumble and one long breath, then the crack.\n\n5.5-8.0s THE ANSWER — the deepest slow motion in the film.\nBLUE pushes off the floor and leaps sideways, body fully extended, back arched, paddle arm\ncocked behind his head. He hangs there. Sweat droplets float around him. Dust turns in the\nbeam. His eyes lock on the ball. At 7.8s the paddle connects and real time slams back with\nthe loudest crack yet.\nCamera: low angle, looking steeply up at him against the black arena roof. Locked off.\nAudio: sound drops muffled and distant while he hangs, then the crack at full volume.\n\n8.0-10.0s THE POINT — real time.\nThe ball skips off the far corner and away into the dark. RED is caught frozen mid-reach,\nunable to follow it. BLUE lands hard, skids on one foot, and roars, head back, fists\nclenched. Behind them the crowd erupts, thousands of silhouettes rising at once.\nCamera: wide on the table and both men, pushing in 5% at most. Hold to the last frame.\nAudio: the crowd explodes, his roar cutting through it, the ball still bouncing underneath.\n\n【RECAP — all 10 seconds】\nDark arena, one hard column of light on the dark blue table, drifting dust, a near-black\ncrowd of silhouettes.\nOnly two people in frame. Their faces, hair and clothing stay identical in every shot,\nevery garment a single solid colour with no logo, number or pattern.\nOne camera movement per shot, never two. Hard clean cuts on impact. The ball stays inside\nthe frame at all times.\nReal time on every impact, deep slow motion between, switching instantly, with one\nsustained hyper-speed burst where the ball is a streak.\nThe scoreboard reads 10 - 10 and never changes, and it is the only lettering.\nThe sound is the ball, the shoes, the breathing and the crowd — keep the mix free of music\nand commentary.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/sports-film-study-255212/video-9cfae8a126ef3d3f.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/sports-film-study-255212/poster-8e4984073634932e.jpg",
+    "format": "video/webm",
+    "videoBytes": 519649,
+    "videoSha256": "9cfae8a126ef3d3f9d3fc87712b275b8661080c9bc5b2e1b426c2b1c52578ea6",
+    "thumbnailBytes": 43406,
+    "thumbnailSha256": "8e4984073634932e27110bf471c379320eca08783b83a79d9b7d50eb295260b1"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

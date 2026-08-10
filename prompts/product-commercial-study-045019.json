@@ -1,0 +1,43 @@
+{
+  "slug": "product-commercial-study-045019",
+  "title": {
+    "en": "Product Commercial Study 045019",
+    "zh": "Product Commercial Study 045019"
+  },
+  "description": {
+    "en": "20-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "20 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "20s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AIwithSynthia",
+    "url": "https://x.com/AIwithSynthia/status/2084264050717045019"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/AIwithSynthia/status/2084264050717045019"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/AIwithSynthia/status/2084264050717045019"
+  ],
+  "prompt": "A realistic UGC-style from  lifestyle grocery shopping vlog filmed vertically on a smartphone with natural handheld movement and subtle camera shake. The video opens with the young woman entering a modern premium organic grocery store with warm ambient lighting, clean wooden shelves, fresh produce, and a bright minimalist interior. She holds the phone in selfie mode, smiles naturally, and gestures for viewers to follow her. She walks toward the refrigerated drinks section, scans the shelves, and picks up a green cold-pressed juice bottle, turning it slowly so the label faces the camera. Cut to a cinematic close-up as she twists the cap open and takes a refreshing sip beside a large sunlit window, smiling with a satisfied expression. Transition to a POV shot from inside a shopping cart as she pushes it through wide grocery aisles, occasionally looking down into the cart and smiling. Follow with an over-the-shoulder walking shot through beautifully organized shelves filled with premium groceries. Close-up of her hand selecting fresh oranges, gently inspecting one before placing it into the cart. End with a close-up of her picking up a vibrant dragon fruit, rotating it naturally in her hand while admiring its color before placing it into the cart. Finish with her walking toward the checkout while smiling at the camera, pushing the cart under warm golden lighting.\n\nUltra-realistic, authentic creator content, premium grocery aesthetic, natural body language, realistic facial expressions, soft cinematic lighting, shallow depth of field, smooth transitions, realistic store ambience, subtle background music, 4K HDR, 24fps, clean color grading, lifestyle commercial quality.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-045019/video-1bb9660e033b1d1e.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-045019/poster-673121318af97464.jpg",
+    "format": "video/webm",
+    "videoBytes": 2279395,
+    "videoSha256": "1bb9660e033b1d1e4a01c6615680ab1d0deeca495f88750c9a0934e110728382",
+    "thumbnailBytes": 120170,
+    "thumbnailSha256": "673121318af97464e48c54464e0ca66d23279d4be976585e20e7a94bdbd28dab"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

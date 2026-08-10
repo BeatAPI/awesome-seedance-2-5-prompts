@@ -1,0 +1,43 @@
+{
+  "slug": "dola-ai-is-giving-free-ai-video-credits-823385",
+  "title": {
+    "en": "🚨 Dola AI is giving FREE AI video credits",
+    "zh": "🚨 Dola AI is giving FREE AI video credits"
+  },
+  "description": {
+    "en": "10-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "10 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "10s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@SarahAnnabels",
+    "url": "https://x.com/SarahAnnabels/status/2085416588480823385"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/SarahAnnabels/status/2085416588480823385"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/SarahAnnabels/status/2085416588480823385"
+  ],
+  "prompt": "🚨 Dola AI is giving FREE AI video credits\nfor Seedance 2.5 !!\nSeedance 2.5 just changed what AI video models can do.\nNo complex setup.\nYou can literally create cinematic short films from just ONE prompt🤯\n#dola #ai #seedance2.5",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/dola-ai-is-giving-free-ai-video-credits-823385/video-614ab84a531eb717.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/dola-ai-is-giving-free-ai-video-credits-823385/poster-888efebef7e5f3ea.jpg",
+    "format": "video/webm",
+    "videoBytes": 692579,
+    "videoSha256": "614ab84a531eb71758220ebbb4674f534735a73501ad095c55683244d7c0e39a",
+    "thumbnailBytes": 73344,
+    "thumbnailSha256": "888efebef7e5f3eace1a529a88a829f77018a208872ee031f9b9776912c32a92"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "another-experiment-with-a-30-second-cinematic-in-256736",
+  "title": {
+    "en": "Animation Study 256736",
+    "zh": "Animation Study 256736"
+  },
+  "description": {
+    "en": "30-second animation prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒animation提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "animation",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Prompting_Pixel",
+    "url": "https://x.com/Prompting_Pixel/status/2085755137126256736"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Prompting_Pixel/status/2085755137126256736"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Prompting_Pixel/status/2085755137126256736"
+  ],
+  "prompt": "Another experiment with Seedance 2.5 #Seedance25 , a 30 second cinematic inspired by the Mahabharata, created from a single prompt.\n\n@dreamina_ai\n\n#AIVideo #AIFilmmaking #GenerativeAI #Mahabharata #Animation #Storytelling",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/another-experiment-with-a-30-second-cinematic-in-256736/video-7a23a7826e25c5be.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/another-experiment-with-a-30-second-cinematic-in-256736/poster-6bcd7b50fdad9b5c.jpg",
+    "format": "video/webm",
+    "videoBytes": 2810792,
+    "videoSha256": "7a23a7826e25c5bea77bdd994ccd58011379c510e03f5d24fa425cb14adac323",
+    "thumbnailBytes": 75561,
+    "thumbnailSha256": "6bcd7b50fdad9b5cba4b58e9d923c58e25048826fce1dd2102ac5fa5f3c5e4c0"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

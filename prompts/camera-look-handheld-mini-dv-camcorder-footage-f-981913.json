@@ -1,0 +1,43 @@
+{
+  "slug": "camera-look-handheld-mini-dv-camcorder-footage-f-981913",
+  "title": {
+    "en": "Product Commercial Study 981913",
+    "zh": "Product Commercial Study 981913"
+  },
+  "description": {
+    "en": "31-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "31 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "31s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Strength04_X",
+    "url": "https://x.com/Strength04_X/status/2083763307672981913"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Strength04_X/status/2083763307672981913"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Strength04_X/status/2083763307672981913"
+  ],
+  "prompt": "CAMERA / LOOK: Handheld mini DV camcorder footage filmed by the subject herself. Slight hand shake, occasional focus hunting, imperfect framing, natural zoom adjustments, soft tape-like image quality, subtle grain, realistic auto-exposure shifts from bright open-sky daylight. Natural skin tones, mild motion blur, authentic consumer camcorder aesthetic rather than polished cinematic footage.\nSTYLE: Cozy outdoor kite-flying vlog with gentle ASMR elements. Relaxed pacing, minimal dialogue, candid moments, natural pauses. Focus on satisfying everyday sounds: kite fabric flapping in the wind, string spool unwinding, grass rustling underfoot, light breeze against the microphone.\nSUBJECT: Young woman in her mid-20s, plain windbreaker, hair tied back in a loose ponytail, minimal jewelry, no visible logos or branded items. Cheerful, carefree energy on a breezy afternoon.\nSETTING: Small open field on a bright breezy afternoon. Wide open sky, plain grass field, no visible signage, buildings with branding, or logos anywhere in frame.\nSTORYBOARD:\n→ (3s, propped medium shot) Places camera on a low tripod in the grass, unrolls a plain kite. \"Perfect windy day for this.\"\n→ (3s, overhead shot) Unwinds the string spool, checking it's free of tangles.\n→ (3s, close-up) Attaches the string firmly to the kite frame.\n→ (3s, handheld shot) Walks backward a few steps, testing the wind direction. \"Feels strong enough today.\"\n→ (3s, detail shot) Releases the kite gently into the air. No dialogue.\n→ (3s, medium shot) Watches it climb higher, letting the string out slowly. \"There it goes.\"\n→ (3s, macro shot) Kite fabric flapping steadily against the open sky.\n→ (3s, propped shot) Sits down on the grass, holding the string loosely.\n→ (3s, warm ending shot) Looks up at the kite soaring, happy smile. \"Love days like this.\"\n→ (5s, final shot) Reels the string in slowly, glances toward camera. \"See you next time.\" Reaches down and covers the lens as recording ends.\nAUDIO NOTES: Natural outdoor ambience — kite flapping, string unwinding, breeze, grass rustling should be clearly audible. Dialogue quiet and casual, as if speaking to a small personal audience.\nREALISM NOTES: Authentic body language, natural blinking, genuine cheerful smiles, occasional pauses adjusting the string, imperfect framing, focus breathing, bright open-sky lighting shifts. No copyrighted characters, logos, brand names, or recognizable public figures anywhere in frame. Fully original personal vlog content, not AI-generated or commercial in style.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/camera-look-handheld-mini-dv-camcorder-footage-f-981913/video-acad16faf28aa298.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/camera-look-handheld-mini-dv-camcorder-footage-f-981913/poster-5d3ad64096c9f707.jpg",
+    "format": "video/webm",
+    "videoBytes": 2203382,
+    "videoSha256": "acad16faf28aa29868af57e540e72720f9303c45819c06ee9d1fa6ae8b07061b",
+    "thumbnailBytes": 75746,
+    "thumbnailSha256": "5d3ad64096c9f70714ecd23561c506491416cb3e0d59c69c39283b1d0381f0e7"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

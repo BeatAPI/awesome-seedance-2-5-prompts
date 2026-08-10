@@ -1,0 +1,43 @@
+{
+  "slug": "i-created-this-cinematic-advertisement-using-406311",
+  "title": {
+    "en": "🚨 I created this cinematic advertisement using . 🤯",
+    "zh": "🚨 I created this cinematic advertisement using . 🤯"
+  },
+  "description": {
+    "en": "10-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "10 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "10s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@n__deborah",
+    "url": "https://x.com/n__deborah/status/2085828531427406311"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/n__deborah/status/2085828531427406311"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/n__deborah/status/2085828531427406311"
+  ],
+  "prompt": "Dola AI gives you FREE access to Seedance 2.5 without any complex setup.\nJust describe your idea in natural language, and AI turns it into a cinematic advertisement.\n\nDola AI's Seedance 2.5 AI model is perfect for:\n→ Brand commercials\n→ Product launches\n→ UGC ads\n→ Social media campaigns",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/i-created-this-cinematic-advertisement-using-406311/video-14d4c51b3444f857.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/i-created-this-cinematic-advertisement-using-406311/poster-e7f23831d7cd2b65.jpg",
+    "format": "video/webm",
+    "videoBytes": 562958,
+    "videoSha256": "14d4c51b3444f8570d5872b63c5c75de778e28b11f452d16893cccc8bf2d7c99",
+    "thumbnailBytes": 55240,
+    "thumbnailSha256": "e7f23831d7cd2b655858fc0b0afb82e12eaa0af04d78ac4820f4a734d26b2b4a"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

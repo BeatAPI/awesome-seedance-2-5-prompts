@@ -1,0 +1,43 @@
+{
+  "slug": "dv-16mm-tape-camcorder-handheld-feel-pov-of-chas-664481",
+  "title": {
+    "en": "DV 16mm tape camcorder handheld feel. POV of CHASE holding",
+    "zh": "DV 16mm tape camcorder handheld feel. POV of CHASE holding"
+  },
+  "description": {
+    "en": "20-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "20 秒cinematic action提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "20s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@doctorwasif",
+    "url": "https://x.com/doctorwasif/status/2083905705300664481"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/doctorwasif/status/2083905705300664481"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/doctorwasif/status/2083905705300664481"
+  ],
+  "prompt": "CAMERA:\nDV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself throughout each location, occasionally propped briefly for hands-free moments. Hand shake, misaligned framing, delayed focus pulls, clumsy zooms, occasional face cut-off framing, imperfect shots. Camcorder never appears on screen.\nLOOK:\nSoft, slightly blurry tape quality, faint tape noise, bloomed highlights, flickering auto-exposure, muted contrast, realistic skin tones — lighting shifts per location (clinical soft light at physio → warm home light for stretching → soft steamy bathroom light → dim cozy bedroom light).\nSTYLE:\nSlow, gentle montage feel — calmer and more tender than her usual bubbly vlogs. Quiet reflective voiceover narration plays over the visuals instead of synced dialogue. Mood stays soft and caring throughout, centered on rest and self-care.\nCharacter\nCHASE — Korean idol, 20s. Long straight black hair, natural and softly tied back, dewy glass skin, minimal to no makeup, tired but peaceful expression. Wearing a modest robe or oversized loungewear throughout — fully covering arms, torso, and legs at all times, including during the bath/shower segment (framed only from shoulders up or via steam/robe coverage, nothing revealing shown).\nSetting Progression\nPhysio/massage clinic (afternoon) → her room, stretching mat (early evening) → bathroom, steamy warm light (night) → bedroom (late night).\nStoryboard (20s, 6 cuts)\n(~3.5s, physio clinic, propped camera, medium shot) She lies on a treatment table as a therapist's hands (off-camera) work on her shoulder, wincing slightly then relaxing. VOICEOVER (CHASE): \"Some days, taking care of myself has to come first.\"\n(~3s, physio clinic, close handheld) She sits up slowly afterward, rolling her shoulder, small relieved exhale. VOICEOVER (CHASE): \"That already feels so much better.\"\n(~3.5s, home, stretching mat, medium propped shot) She stretches gently on a mat in her room, slow and unhurried, soft evening light. VOICEOVER (CHASE): \"A little more stretching never hurts.\"\n(~3s, bathroom, steamy soft light, framed modestly — shoulders up only, robe visible) She sits wrapped in a robe near a warm bath or shower, steam softly filling the frame, eyes closed peacefully. VOICEOVER (CHASE): \"And then... just letting the day melt away.\"\n(~3s, bathroom, macro insert) Close-up on water droplets and steam, soft warm light, no exposed skin beyond hands/face. No narration — ambient water sound only.\n(~4s, bedroom, dim cozy light, closing shot) She climbs into bed early, pulling the blanket up, eyes already heavy, a small content smile before the screen fades. VOICEOVER (CHASE): \"Some nights, the earlier the better.\"",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/dv-16mm-tape-camcorder-handheld-feel-pov-of-chas-664481/video-db1edd095d2a7879.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/dv-16mm-tape-camcorder-handheld-feel-pov-of-chas-664481/poster-12bb20e5cb1eebc5.jpg",
+    "format": "video/webm",
+    "videoBytes": 572392,
+    "videoSha256": "db1edd095d2a7879d458c96b84a77c8af68b94794ac6c852d6ec6035871bd906",
+    "thumbnailBytes": 32861,
+    "thumbnailSha256": "12bb20e5cb1eebc509375783be4c14c862e82097ba17fc2c749e407a55eb3913"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "video-prompt-case-388128",
+  "title": {
+    "en": "因為現在可以無限用 來生成 720P 15秒短片, 所以, 便聽 勸",
+    "zh": "因為現在可以無限用 來生成 720P 15秒短片, 所以, 便聽 勸"
+  },
+  "description": {
+    "en": "15-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒cinematic action提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Langby2",
+    "url": "https://x.com/Langby2/status/2086168781236388128"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Langby2/status/2086168781236388128"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Langby2/status/2086168781236388128"
+  ],
+  "prompt": "A continuous 15-second cinematic action shot. An extraordinarily beautiful ancient Chinese female swordswoman with a high ponytail and long legs, wearing a stylish white and ice-blue flowing silk Hanfu with dynamic side slits, sprints with athletic agility across dark gray tiled roofs in ancient Chang'an at sunset. Three black-masked assassins closely chase her, roof tiles shattering underfoot. Suddenly, she leaps into mid-air, drawing her glowing silver sword in slow motion as white silk dress flutters softly. One assassin jumps to strike her; their weapons collide violently in mid-air with bright orange sparks and shockwaves. She smoothly parries the strike, executes a mid-air backflip, and lands lightly on a lower roof in a graceful low crouch, eyes focused on enemies.\n\n出來的效果非常讚~!",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-388128/video-57a869c9b7139abd.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-388128/poster-89b98f6c984879c9.jpg",
+    "format": "video/webm",
+    "videoBytes": 1323563,
+    "videoSha256": "57a869c9b7139abda3e946cfd04d0590c74b6b7e15ca7bb0f65b61d540f49951",
+    "thumbnailBytes": 44904,
+    "thumbnailSha256": "89b98f6c984879c929801cc69e145ae9488e6e4121652f23aa73a24513344056"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

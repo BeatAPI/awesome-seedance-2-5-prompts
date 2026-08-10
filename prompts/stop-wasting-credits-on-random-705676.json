@@ -1,0 +1,44 @@
+{
+  "slug": "stop-wasting-credits-on-random-705676",
+  "title": {
+    "en": "Stop wasting credits on random",
+    "zh": "Stop wasting credits on random"
+  },
+  "description": {
+    "en": "70-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "70 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "reference-generation",
+  "mode": "image-to-video",
+  "duration": "70s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@irham_el",
+    "url": "https://x.com/irham_el/status/2086318113264705676"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/irham_el/status/2086318113264705676"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/irham_el/status/2086318113264705676"
+  ],
+  "prompt": "Stop wasting credits on random prompts. 🚨\n\nHere’s how I created this cinematic superhero video using Seedance 2.5 on @SeaArtCoLab @SeaArt_Ai  reference images and prompting to the final render.\nWant my exact setup? Reply “PROMPT” 👇\n#SeaArt #Seedance25 #AIVideo #AIFilmmaking",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/stop-wasting-credits-on-random-705676/video-6e7e561eee9b9da0.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/stop-wasting-credits-on-random-705676/poster-294194b7e0aa1721.jpg",
+    "format": "video/webm",
+    "videoBytes": 5923822,
+    "videoSha256": "6e7e561eee9b9da0f0172d540e7eda0e54371671513c0c8937df0013ede3fd1f",
+    "thumbnailBytes": 110521,
+    "thumbnailSha256": "294194b7e0aa172143cd7ec142ef184134ddeeda0416150c9834cf2bf40c6644"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

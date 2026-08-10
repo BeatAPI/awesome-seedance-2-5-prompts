@@ -1,0 +1,43 @@
+{
+  "slug": "cinematic-story-study-728019",
+  "title": {
+    "en": "Cinematic Story Study 728019",
+    "zh": "Cinematic Story Study 728019"
+  },
+  "description": {
+    "en": "15-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ManuAGI01",
+    "url": "https://x.com/ManuAGI01/status/2085980396802728019"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/ManuAGI01/status/2085980396802728019"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/ManuAGI01/status/2085980396802728019"
+  ],
+  "prompt": "Just finished testing Seedance 2.5 on a multi-scene short story workflow and… yeah, this hits different. 🔥\n\nSame character. Different locations. Fast cuts. Complex camera moves.\n\n2.5 kept her face, outfit details, and lighting consistent across every shot while the motion felt way more natural and cinematic.\n\nBiggest upgrades I noticed:\n\n• Stronger identity lock even with quick scene changes\n• Cleaner transitions between shots\n• Better prompt following on camera directions\n• Up to 30-second generations without falling apart\n\nIf you’re into short-form storytelling or micro-films, this one is worth trying.\n\nSeedance 2.5 is live first on @higgsfield 🎬",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/cinematic-story-study-728019/video-64e4722e192ec244.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/cinematic-story-study-728019/poster-e64e385750512bd4.jpg",
+    "format": "video/webm",
+    "videoBytes": 1740219,
+    "videoSha256": "64e4722e192ec244c65211dc0c5207804bd4b857a17a7a8785fd2a5a1b442124",
+    "thumbnailBytes": 56169,
+    "thumbnailSha256": "e64e385750512bd450fc7cb2827389dacb776cb348ba10f4a1cdd9ca2b6180c8"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

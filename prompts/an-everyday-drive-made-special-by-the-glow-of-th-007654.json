@@ -1,0 +1,43 @@
+{
+  "slug": "an-everyday-drive-made-special-by-the-glow-of-th-007654",
+  "title": {
+    "en": "Product Commercial Study 007654",
+    "zh": "Product Commercial Study 007654"
+  },
+  "description": {
+    "en": "21-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "21 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "21s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Just_sharon7",
+    "url": "https://x.com/Just_sharon7/status/2085277106960007654"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Just_sharon7/status/2085277106960007654"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Just_sharon7/status/2085277106960007654"
+  ],
+  "prompt": "Cinematic 30-second video of a glamorous blonde woman driving a classic dark-green 1960s Ford Mustang coupe through a tree-lined city avenue at golden hour. She wears a patterned silk headscarf, large brown sunglasses, a brown blazer, and large statement rings (one yellow diamond, one emerald).\n\nStylish slow-motion tracking shots of the car speeding past buildings and traffic. Close-up of her focused face, sunglasses catching the golden light. Close-up of her hands on the wooden steering wheel, rings glinting. Rear-view mirror reflection of her eyes. Her jeweled hand resting on the car door, wind catching a loose strand of hair from the headscarf.\n\nA red traffic light glowing as the Mustang idles, engine humming, heat shimmer off the hood. A motorcycle with a passenger weaves through traffic beside her. Wide low-angle shot of the Mustang's grille and headlights as it accelerates past camera. A bearded man in a black beanie stands on the sidewalk, watching the Mustang drive away into the sunlit street, his gaze lingering.\n\nNew scenes: A brief shot of pedestrians and café awnings blurring past in the background bokeh. An aerial/drone-style shot pulling back to reveal the full tree-lined avenue as the Mustang weaves gently between light and shadow from the trees. A final slow-motion hero shot — the Mustang turning a corner into direct sunset flare, silhouette and lens flare dominating the frame, her profile briefly lit gold before the light overtakes the frame.\n\nWarm sunset lighting, lens flares, motion blur, elegant and mysterious atmosphere, high-end commercial style, anamorphic lens feel, shallow depth of field, watermark-free.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/an-everyday-drive-made-special-by-the-glow-of-th-007654/video-263ec7fa8a57fde0.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/an-everyday-drive-made-special-by-the-glow-of-th-007654/poster-046ff55b58d680ba.jpg",
+    "format": "video/webm",
+    "videoBytes": 1814466,
+    "videoSha256": "263ec7fa8a57fde0e6963f515658514ffc0143071dc14fe4eba946961ad2f397",
+    "thumbnailBytes": 48243,
+    "thumbnailSha256": "046ff55b58d680ba9e615571783154c723a0bf6b905ce73f03df961e259e5449"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

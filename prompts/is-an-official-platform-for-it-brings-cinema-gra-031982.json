@@ -1,0 +1,43 @@
+{
+  "slug": "is-an-official-platform-for-it-brings-cinema-gra-031982",
+  "title": {
+    "en": "Music Video Study 031982",
+    "zh": "Music Video Study 031982"
+  },
+  "description": {
+    "en": "30-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Just_sharon7",
+    "url": "https://x.com/Just_sharon7/status/2083422886686031982"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Just_sharon7/status/2083422886686031982"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Just_sharon7/status/2083422886686031982"
+  ],
+  "prompt": "30-second ultra-realistic K-pop MV featuring two young East Asian women with flawless synchronization, cinematic lighting, glossy skin, realistic hair and fabric physics, natural body motion, and 4K live-action quality. Vibrant hot pink, electric blue, and silver color palette. 0–2s: Wide shot in a bright circular pink studio with reflective floor. Pink-haired woman (left) and black-haired woman (right) perform energetic opening pose and synchronized dance. 2–4s: Medium close-up of the black-haired woman on a blue spotlight stage, confidently pointing at the camera. 4–6s: Pink-haired woman dances before shimmering blue-silver tinsel curtains, dramatic hair flip and fluid arm movements. 6–8s: Back to the pink studio. Both perform synchronized choreography with sharp arm waves, hip sways, and strong formations. 8–10s: Extreme close-up of both faces against a blue background, glossy makeup, subtle smiles, and direct eye contact. 10–14s: Solo shots at the tinsel backdrop. Pink-haired woman mouths lyrics and gestures confidently, followed by the black-haired woman with relaxed jacket styling. 14–18s: Pink studio. Coordinated jacket choreography, hair flips, powerful synchronized dance, ending hands-on-hips. 18–22s: Glamour close-ups. Black-haired woman under glittering bokeh lights, then pink-haired woman with wind-blown hair against a soft pink background. 22–24s: Blue spotlight stage. Mirrored black-haired performer effect with synchronized spins and flowing hair. 24–26s: Both walk confidently toward the camera in front of shimmering tinsel curtains, reflections visible on the floor. 26–29s: Final synchronized dance and ending pose in the pink circular studio, standing together and looking into the camera. Style: Hyper-realistic live action, Seedance 2.5-quality motion realism, perfect lip sync, natural weight shifts, flowing hair, realistic fabric simulation, polished K-pop music video cinematography.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/is-an-official-platform-for-it-brings-cinema-gra-031982/video-4af57f18c573c7d0.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/is-an-official-platform-for-it-brings-cinema-gra-031982/poster-1e2997dfcf6c24ce.jpg",
+    "format": "video/webm",
+    "videoBytes": 3115748,
+    "videoSha256": "4af57f18c573c7d0d7b116fdb5f4c0c420b8b7f4e72c92701ff3d9afce63ef33",
+    "thumbnailBytes": 43151,
+    "thumbnailSha256": "1e2997dfcf6c24cef0587d916b9dcca64efbbf998364e72dd42a214d19f4c541"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

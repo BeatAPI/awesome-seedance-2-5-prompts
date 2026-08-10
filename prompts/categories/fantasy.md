@@ -72,7 +72,78 @@ Medium dynamic continuous shot kết hợp với obit shot. Under the dark storm
 
 ---
 
-## 2. Obsidian Giant Transformation
+## 2. Fantasy Film Study 565204
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/fantasy-film-study-565204/video-999f8eace5c51712.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/fantasy-film-study-565204/poster-11b6456b8eb4a68a.jpg" alt="Fantasy Film Study 565204 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — ☀️ Pushing atmospheric lighting and complex particle VFX inside Seedance 2.5. From a single Midjourney concept render to a 30s dark-fantasy intro trailer with glowing plasma,...</summary>
+
+~~~~text
+☀️ Pushing atmospheric lighting and complex particle VFX inside Seedance 2.5.
+
+From a single Midjourney concept render to a
+30s dark-fantasy intro trailer with glowing plasma, solar disintegration, and dynamic audio cues
+
+all rendered in a single generation.Full prompt breakdown in the thread below 👇 🧵
+
+Ref image + Sharing Prompt in Thread Reply ⤵️
+@dreamina_ai
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/fantasy-film-study-565204/video-999f8eace5c51712.webm)
+
+**Source:** [@Dheepanratnam](https://x.com/Dheepanratnam/status/2085701526920565204) · 30s · 16:9 · fantasy
+
+---
+
+## 3. Cleopatra by .🪎
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/cleopatra-by-540828/video-148a664d1d6d89d8.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/cleopatra-by-540828/poster-a7dca5e4a66a1972.jpg" alt="Cleopatra by .🪎 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 30-second cinematic historical epic, 16:9. Photorealistic late Egyptian royal court with grounded human behavior, real skin texture, natural facial micro-expressions, historically...</summary>
+
+~~~~text
+30-second cinematic historical epic, 16:9. Photorealistic late Egyptian royal court with grounded human behavior, real skin texture, natural facial micro-expressions, historically inspired linen, bronze, gold, leather, horses, papyrus, firelight and stone. Preserve the queen in ivory and deep-blue gown, the kneeling Roman envoy in dark red cloak and bronze armor, the emerald-robed priestess, the enormous blue-and-gold throne hall, burning braziers, reflective black floor, and the Nile beyond the open arches.
+
+0-5s: [Slow low dolly from behind the kneeling Roman envoy toward the queen] The queen studies the Roman treaty in silence. Firelight flickers across her face; the envoy's hands are tense around the ivory tablet. Behind the throne, Egyptian palace guards stand still with bronze spears and large blue-and-gold shields.
+Envoy, restrained English: “Rome offers peace.”
+
+5-10s: [Medium close-up on the queen] She looks up slowly. Her expression is calm, intelligent, and cold rather than theatrical.
+Queen, clear English: “Rome offers surrender.”
+The envoy swallows, briefly losing his composure.
+
+10-15s: [Over-the-shoulder on the envoy, queen in focus behind him] He glances toward the open Nile archway.
+Envoy: “Their legions wait at the river.”
+The priestess watches the queen closely; only the flames and curtains move.
+
+15-21s: [Camera tracks alongside the queen as she rises and descends the throne steps] The queen hands the treaty to the priestess, who drops it into a bronze brazier. The papyrus burns naturally. The queen walks forward, her heavy blue train sliding across the black stone floor. Palace guards step apart in two disciplined lines, creating a path toward the open terrace. No magical effects, only fire, smoke, fabric, metal, and human tension.
+
+21-26s: [Camera follows behind her, then cranes upward over her shoulder] She reaches the vast palace terrace overlooking the Nile. Below, a real Egyptian royal army fills the riverbank and courtyard: rows of bronze-armored infantry, tall standards moving in hot wind, horse-drawn chariots, shield-bearing guards, priests carrying gold sun emblems, and long riverboats waiting beside the water. Dust hangs in the warm dawn light. The scale is enormous but physically believable.
+
+26-30s: [Low-angle close-up, army blurred behind her] The queen stops at the terrace edge. Wind lifts the edge of her blue train. She looks toward the Roman envoy, then toward her assembled army.
+Queen, low and final: “Then Rome will learn whom Egypt follows.”
+Hold on her face as the army below strikes spear shafts once against their shields in a single thunderous response.
+
+Grand historical scale, grounded realism, emotionally restrained acting, physically accurate crowd movement, detailed bronze armor, natural fire and smoke, believable horse and chariot motion, rich blue, gold, ivory and desert-stone palette, elegant stable camera movement, precise English lip sync. No magic, no supernatural symbols, no modern objects, no sci-fi effects, no random text, no logos, no extra main characters, no duplicate limbs, no warped faces or hands, no costume drift, no unstable architecture, no chaotic camera shake.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/cleopatra-by-540828/video-148a664d1d6d89d8.webm)
+
+**Source:** [@VeraVCreates](https://x.com/VeraVCreates/status/2083758894770540828) · 30s · 16:9 · fantasy
+
+---
+
+## 4. Obsidian Giant Transformation
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/obsidian-giant-transformation-531249/video-4efc1ad07cdde5e2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/obsidian-giant-transformation-531249/poster-3be6d948a87d799f.jpg" alt="Obsidian Giant Transformation video preview" width="700" />
@@ -160,7 +231,7 @@ subtitles, no background music, no readable text or logos.
 
 ---
 
-## 3. Celestia Floating Magic City
+## 5. Celestia Floating Magic City
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/celestia-floating-magic-city/video-3d478d420944a020.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/celestia-floating-magic-city/poster-a58bb10119d6eee8.jpg" alt="Celestia Floating Magic City video preview" width="700" />
@@ -300,7 +371,7 @@ SFX：
 
 ---
 
-## 4. Giant and Dragon Lake Battle
+## 6. Giant and Dragon Lake Battle
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/giant-and-dragon-lake-battle/video-b1a38b4d11848024.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/giant-and-dragon-lake-battle/poster-23af6fb01be4ba94.jpg" alt="Giant and Dragon Lake Battle video preview" width="700" />
@@ -325,7 +396,7 @@ A fast-paced action scene with realistic cinematography.
 
 ---
 
-## 5. Hyperspeed FPV Portal Journey
+## 7. Hyperspeed FPV Portal Journey
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/hyperspeed-fpv-portal-journey/video-4065f5eaa6f51ed4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/hyperspeed-fpv-portal-journey/poster-8f0af0fed2882237.jpg" alt="Hyperspeed FPV Portal Journey video preview" width="700" />
@@ -388,7 +459,7 @@ A fast-paced action scene with realistic cinematography.
 
 ---
 
-## 6. Wizard of Oz Scarecrow Plan
+## 8. Wizard of Oz Scarecrow Plan
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/wizard-of-oz-scarecrow-plan/video-8d9bc52c7c69f53a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/wizard-of-oz-scarecrow-plan/poster-6e34dd1a50759c24.jpg" alt="Wizard of Oz Scarecrow Plan video preview" width="700" />
@@ -456,7 +527,7 @@ No character duplication, no changing costumes, no disappearing props, no morphi
 
 ---
 
-## 7. Painterly Underwater Wreck Chase
+## 9. Painterly Underwater Wreck Chase
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/painterly-underwater-wreck-chase/video-e73a1d985b779098.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/painterly-underwater-wreck-chase/poster-90f05607dfb5d26b.jpg" alt="Painterly Underwater Wreck Chase video preview" width="700" />
@@ -547,7 +618,7 @@ Layout: thin black borders, numbers 01-14 in corners, professional film pitch st
 
 ---
 
-## 8. Occult Solo Anime Short
+## 10. Occult Solo Anime Short
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/occult-solo-anime-short/video-ef3f54665f28eb42.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/occult-solo-anime-short/poster-69c3c1efe44ed97c.jpg" alt="Occult Solo Anime Short video preview" width="700" />
@@ -568,7 +639,7 @@ Layout: thin black borders, numbers 01-14 in corners, professional film pitch st
 
 ---
 
-## 9. Amazonian Warrior Animal Transformation
+## 11. Amazonian Warrior Animal Transformation
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/amazonian-warrior-animal-transformation/video-457affc3886e4839.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/amazonian-warrior-animal-transformation/poster-d4092128e07e1187.jpg" alt="Amazonian Warrior Animal Transformation video preview" width="700" />
@@ -599,7 +670,7 @@ Maintain one continuous uninterrupted shot, seamless transitions, consistent cha
 
 ---
 
-## 10. Fantasy Palace Romance Drama
+## 12. Fantasy Palace Romance Drama
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/fantasy-palace-romance-drama/video-b088c21af7168025.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/fantasy-palace-romance-drama/poster-17ab2033bb8a981d.jpg" alt="Fantasy Palace Romance Drama video preview" width="700" />
@@ -620,7 +691,7 @@ A 30-second vertical 9:16 photorealistic fantasy palace romance drama about Prin
 
 ---
 
-## 11. Eryan and Griffin Canyon Flight
+## 13. Eryan and Griffin Canyon Flight
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/eryan-griffin-canyon-flight/video-8e8a324f2fd2f6c4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/eryan-griffin-canyon-flight/poster-e5df9fbe59a866ea.jpg" alt="Eryan and Griffin Canyon Flight video preview" width="700" />

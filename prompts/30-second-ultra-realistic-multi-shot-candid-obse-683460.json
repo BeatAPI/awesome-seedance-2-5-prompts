@@ -1,0 +1,43 @@
+{
+  "slug": "30-second-ultra-realistic-multi-shot-candid-obse-683460",
+  "title": {
+    "en": "Product Commercial Study 683460",
+    "zh": "Product Commercial Study 683460"
+  },
+  "description": {
+    "en": "30-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Naiknelofar788",
+    "url": "https://x.com/Naiknelofar788/status/2086463744314683460"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Naiknelofar788/status/2086463744314683460"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Naiknelofar788/status/2086463744314683460"
+  ],
+  "prompt": "Create a 30-second ultra-realistic multi-shot candid observational video of a young Korean woman relaxing naturally in her bedroom. Use multiple distinct shots and camera angles, not a single continuous take. The footage should feel like an accidentally captured real-life moment.\n\nSTYLE:\nHandheld documentary realism, imperfect framing, subtle camera shake, gentle exposure breathing, autofocus settling slightly late, realistic skin texture, soft natural indoor light and shallow depth of field. Natural blinking, breathing, body movement and restrained authentic expressions. No posing, glossy commercial look or cinematic perfection.\n\nSUBJECT:\nA naturally beautiful young Korean woman in her early 20s with long dark hair. She wears a matching cotton pajama set: scoop-neck sleeveless top and loose shorts. Barefoot, minimal makeup, realistic skin texture.\n\nSETTING:\nA lived-in, slightly messy bedroom with an unmade bed, soft bedding and everyday personal belongings. She relaxes on her stomach across the bed while browsing a shopping page on a black smartphone. A house cat interacts naturally with her.\n\nSHOT 1 — 0–4s:\nShe lies on her stomach, casually scrolling through a shopping page. She frowns slightly, then mutters in Korean: \"아, 뭐 살랬더라...\" (\"Ah... what was I going to buy again?\"). Natural Korean lip sync. Her bare feet gently sway behind her. A low handheld camera glides beside the mattress.\n\nSHOT 2 — 4–8s:\nA house cat jumps onto the bed, compressing the blanket and walking toward her arm. It gives one natural meow. The camera reacts with a tiny jolt, then reframes toward her face, hands and cat.\n\nSHOT 3 — 8–12s:\nShe turns toward the cat and gently strokes it from forehead to shoulders. She affectionately says: \"우리 애기 왔어?\" (\"Did my baby come?\"). Accurate lip sync. The camera pushes closer through the cat's softly blurred foreground.\n\nSHOT 4 — 12–16s:\nHer friend's ringtone sounds. She looks down, checks the caller, swipes to answer and brings the phone to her ear. The camera makes a loose semicircular movement from a slightly tilted overhead angle.\n\nSHOT 5 — 16–21s:\nHer friend talks. She listens with a confused expression, then reacts: \"어, 왜? 진짜 거짓말!\" (\"Huh? Why? No way, you're kidding.\"). She immediately bursts into genuine laughter. The cat kneads the blanket beside her. A close handheld side angle captures her profile and phone.\n\nSHOT 6 — 21–25s:\nA clear doorbell interrupts her laughter. She and the cat turn toward the bedroom door. She pauses, realizing her food has arrived, braces one hand on the mattress and begins getting up. The camera reacts slightly late before correcting back to her movement.\n\nSHOT 7 — 25–30s:\nStill holding the phone, she says in Korean: \"어, 나 밥 왔다. 끊어.\" (\"Oh, my food's here. I'll hang up.\"). She ends the call, gets off the bed and walks toward the door. The cat follows across the blankets. The camera tilts upward as she stands, ending with a natural handheld follow toward the doorway.\n\nAUDIO:\nNo music. Raw realistic production sound: quiet breathing, bedding rustling, finger taps, cat movement, meow, faint purring, ringtone, call connection tone, muffled friend voice, accurate Korean dialogue and lip sync, genuine laughter, doorbell and call-ending tap.\n\nIMPORTANT:\nNo subtitles, captions, logos, watermark or on-screen text. No duplicated subjects, slow motion, exaggerated acting or perfect stabilization. Keep movements spontaneous and observational. Maintain the same woman, outfit, hairstyle, bedroom and cat throughout.\n\nDURATION: 30 SECONDS\nASPECT RATIO: 16:9\nTOTAL SHOTS: 7",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/30-second-ultra-realistic-multi-shot-candid-obse-683460/video-2ae8bcddcd348cca.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/30-second-ultra-realistic-multi-shot-candid-obse-683460/poster-851b5825a7348b47.jpg",
+    "format": "video/webm",
+    "videoBytes": 1355742,
+    "videoSha256": "2ae8bcddcd348cca3fc331b1e46c82e367a4685db90bc821bfbbade1738113a0",
+    "thumbnailBytes": 47147,
+    "thumbnailSha256": "851b5825a7348b47fbd977d55a888951055697e7e4571cc15fdae8a7b53b892e"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

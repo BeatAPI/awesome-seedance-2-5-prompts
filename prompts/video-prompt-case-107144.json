@@ -1,0 +1,43 @@
+{
+  "slug": "video-prompt-case-107144",
+  "title": {
+    "en": "声音：演员现场原声，精准口型同步",
+    "zh": "声音：演员现场原声，精准口型同步"
+  },
+  "description": {
+    "en": "30-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@johnAGI168",
+    "url": "https://x.com/johnAGI168/status/2085751495153107144"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/johnAGI168/status/2085751495153107144"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/johnAGI168/status/2085751495153107144"
+  ],
+  "prompt": "时长：30秒\n画幅：16:9\n语言：自然美式英语\n声音：演员现场原声，精准口型同步；无旁白、无字幕、无背景音乐\n影像：高端欧美现实主义爱情电影质感，克制、冷峻、浅景深，真实皮肤纹理，摄影机运动极轻微\n人物均为原创虚构角色，不参考任何演员、名人或影视作品。\n【人物设定】\n男方 NOAH：28岁，英俊、身材挺拔，深棕色短发，白衬衫袖口卷起。他怀疑女友爱上了一个更富有的男人。表面愤怒，实际害怕自己不值得被爱。\n女方 CLAIRE：26岁，漂亮、气质冷静，金棕色长发，黑色简约连衣裙。她确实曾被另一个男人吸引，但真正动摇她的不是金钱，而是长期被男友忽视。\n全程保持两人脸部、发型、服装、声线和空间位置一致。\n【核心情绪曲线】\n怀疑压制 → 讽刺防御 → 直接逼问 → 短暂坦白 → 男方受伤 → 女方说出关系早已结束的真相。\n两个人不是从第一秒就大吼。真正的情绪峰值出现在女方说出：\n“No. But I wanted to.”\n最终一刀则是：\n“We just kept calling it love.”\n━━━━━━━━━━━━━━━━━━\n【镜头一｜0.0—7.0秒】\n双人中近景。NOAH站在前景，CLAIRE站在几步之外。摄影机缓慢向两人靠近。\n0.0—2.4秒\nNOAH的目的：逼她主动承认。\n他先盯着她沉默半秒，嘴唇压紧，下颌轻微咬住。眉毛向内下压，眼睑收紧，但音量保持克制，不要立刻咆哮。\n他缓慢说道：\n“Tell me the truth. Is it him?”\n“truth”略微加重；说到“him”时才抬起眼睛直视她。\n说完后保持静止，不提前流泪，不移开视线。\n2.4—4.4秒\nCLAIRE的目的：用讽刺挡住羞耻。\n她没有立即回答。鼻腔短促呼气，嘴角出现不足一秒的苦涩微笑，目光扫过他的衬衫，然后重新看回他的眼睛。\n她轻声反问：\n“You mean the man with the car?”\n“car”没有炫耀意味，而是故意刺中他的自卑。\n说完后笑意立刻消失。身体没有后退。\n4.4—7.0秒\nNOAH被刺中，眉间压力增强，向前走半步，但不触碰她。\n声音第一次抬高：\n“Don’t make this a joke. I saw you leave with him.”\n“saw”短促加重；最后的“him”压低声音，像在努力控制失态。\nCLAIRE听他说话时不翻白眼、不抢话。她的眼神短暂变软，随后重新封闭。\n━━━━━━━━━━━━━━━━━━\n【镜头二｜7.0—20.0秒】\n切到CLAIRE肩后拍NOAH，再缓慢转为两人的交替近景。\n7.0—9.3秒\nCLAIRE的目的：让他明白“离开”和“背叛”不是同一件事。\n她停顿半秒，平静说道：\n“And I came home.”\n语速慢，音量低。“home”说得很轻，像提醒他自己曾经选择回来。\n她说完后等待他的反应，不继续解释。\n9.3—12.0秒\nNOAH的愤怒开始失去保护作用。\n他的嘴唇张开，却有半秒没有声音。目光从她的眼睛移到嘴唇，又迅速回到眼睛。胸口出现一次明显但受控的吸气。\n他问：\n“Did you kiss him?”\n不要吼叫。声音比前面更轻、更不稳定，像他真正害怕听见答案。\n12.0—16.0秒\nCLAIRE先保持眼神接触一秒。\n她回答第一个词：\n“No.”\n停顿约0.8秒。她的目光第一次落下，嘴角轻微绷紧；再次抬眼时，攻击性完全消失。\n随后坦白：\n“But I wanted to.”\n“wanted”说得很轻，不能喊。声音尾部出现轻微气息断裂，但不哭。\n这是全片最重要的转折。NOAH听到“wanted”后才出现反应：眼睑轻微抬起，下颌松开，身体像失去支撑一样后移半步。反应不能提前。\n16.0—20.0秒\nNOAH试图用金钱解释这一切，重新保护自尊。\n他短促吸气，眉毛向内收紧，声音突然抬高一次：\n“Because he can give you everything?”\n“everything”达到男方全片最高音量，随后立即降下来。\n说完后他闭紧嘴唇，眼神已经不再愤怒，而是在等待一次能够拯救自己的否认。\n━━━━━━━━━━━━━━━━━━\n【镜头三｜20.0—30.0秒】\nCLAIRE面部特写，随后轻微转焦到她身后的NOAH。摄影机保持克制，不环绕、不快速推进。\n20.0—23.2秒\nCLAIRE终于说出真正原因。\n她的眉毛内侧轻微抬起，眼眶开始湿润，但眼泪不能落下。下巴轻微绷紧，呼吸变浅。\n她直视他说：\n“Because he listened when I spoke.”\n“listened”轻微加重；“spoke”几乎成为耳语。\n这句话不是报复，而是她已经疲惫到不想再争辩。\n23.2—25.0秒\nNOAH所有攻击性消失。\n肩膀下降，目光短暂离开她。他想说更多，却只能低声问：\n“So that’s it?”\n“it”尾音轻微发虚。不要哭，不要做夸张痛苦表情。\n25.0—30.0秒\nCLAIRE轻轻摇头一次。\n她先说：\n“No.”\n停顿0.6秒，像是在决定是否还要给这段关系留下体面。\n随后平静说道：\n“It ended months ago. We just kept calling it love.”\n“ended”保持冷静；说到“love”时声音第一次轻微破裂。\n最后一个词结束后，她仍然直视他约1秒。眼泪停留在下眼睑，不落下来。随后她缓慢移开目光。\nNOAH站在失焦背景中，没有追上去，也没有说话。\n结尾保持两人之间的静止和距离至少1秒，不恢复中性表情，不增加额外对白。\n【表演限制】\n- 不要从第一秒开始吼叫或哭泣。\n- CLAIRE在20秒前眼眶不能明显湿润，全程不连续流泪。\n- NOAH的核心不是暴怒，而是用愤怒掩盖自卑和恐惧。\n- CLAIRE不是冷酷反派，她是在承认一段关系早已被忽视耗尽。\n- 所有停顿都有心理行动，避免机械停顿。\n- 手势克制，不摔东西、不推搡、不发生身体冲突。\n- 保留准确英文对白、角色分配、自然呼吸和精准口型。\nNEGATIVE:\nsubtitles, captions, logos, watermarks, background music, theatrical overacting,\nconstant shouting, premature tears, instant emotional switch, random gestures,\nphysical violence, frozen listener, robotic delivery, lip-sync drift, double mouth,\nwarped face, extra fingers, identity drift, wardrobe drift, abrupt camera movement",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-107144/video-ffe06cf1598632a1.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-107144/poster-d2991dd6595c4c2d.jpg",
+    "format": "video/webm",
+    "videoBytes": 814245,
+    "videoSha256": "ffe06cf1598632a12400451b5d1ab849f413c2111295e335b63ca183eec40181",
+    "thumbnailBytes": 28632,
+    "thumbnailSha256": "d2991dd6595c4c2d41f568b92db45964b2c68e66d3e5d359df8cc3609ccf1d64"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

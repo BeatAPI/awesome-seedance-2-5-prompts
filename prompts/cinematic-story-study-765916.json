@@ -1,0 +1,44 @@
+{
+  "slug": "cinematic-story-study-765916",
+  "title": {
+    "en": "Cinematic Story Study 765916",
+    "zh": "Cinematic Story Study 765916"
+  },
+  "description": {
+    "en": "15-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "reference-generation",
+  "mode": "image-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AIwithSynthia",
+    "url": "https://x.com/AIwithSynthia/status/2084488867705765916"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/AIwithSynthia/status/2084488867705765916"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/AIwithSynthia/status/2084488867705765916"
+  ],
+  "prompt": "Use the uploaded reference image as the exact character reference. Preserve her appearance consistently throughout the video. She wears a relaxed oversized crop top with soft lounge shorts.\nThe couple is getting ready for a weekend brunch in a bright apartment. She helps her boyfriend choose between two jackets, laughs while teasing him, fixes his collar, and brushes lint off his shoulder. While waiting, she happily dances across the bedroom, spinning playfully and smiling toward him. He laughs, joins her for a few seconds, and they continue getting ready together. Before heading out, he gently pulls her closer, they share a quick kiss, smile, and leave the apartment side by side. Cinematic lifestyle aesthetic, warm morning sunlight, natural handheld camera, realistic expressions, premium UGC quality.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/cinematic-story-study-765916/video-74931101259a11c6.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/cinematic-story-study-765916/poster-f4dacc786a7fabae.jpg",
+    "format": "video/webm",
+    "videoBytes": 1173045,
+    "videoSha256": "74931101259a11c6f7808a2f0b6dbc9be05a43f4cdc213f0b1f11a73e5618dcf",
+    "thumbnailBytes": 60925,
+    "thumbnailSha256": "f4dacc786a7fabae41dbaf35d4229820d144dc96a9afa1927032c45d43f9a07c"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

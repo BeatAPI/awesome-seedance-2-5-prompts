@@ -1,0 +1,44 @@
+{
+  "slug": "midjourney-v8-2-gpt-image-2-685091",
+  "title": {
+    "en": "Midjourney v8.2 + GPT Image 2",
+    "zh": "Midjourney v8.2 + GPT Image 2"
+  },
+  "description": {
+    "en": "30-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "reference-generation",
+  "mode": "image-to-video",
+  "duration": "30s",
+  "aspectRatio": "180:191",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@aimikoda",
+    "url": "https://x.com/aimikoda/status/2085803816553685091"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/aimikoda/status/2085803816553685091"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/aimikoda/status/2085803816553685091"
+  ],
+  "prompt": "Midjourney v8.2 + GPT Image 2 + Seedance 2.5\n\nThis video was created using one character reference and one environment reference.\n\nYou can find the Midjourney, the character sheet and the Seedance 2.5 prompts below.\n\nCreated with Seedance 2.5 on @astorie_ai",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/midjourney-v8-2-gpt-image-2-685091/video-6affd86ad50d7d79.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/midjourney-v8-2-gpt-image-2-685091/poster-63e356e163853252.jpg",
+    "format": "video/webm",
+    "videoBytes": 2619757,
+    "videoSha256": "6affd86ad50d7d7965ef9d23f267c314b76d1f83c7bf57c4ab0e03fc5f659b98",
+    "thumbnailBytes": 54747,
+    "thumbnailSha256": "63e356e163853252c7ce992183714d55e44817c72edfa532ff18e452ef6fddab"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

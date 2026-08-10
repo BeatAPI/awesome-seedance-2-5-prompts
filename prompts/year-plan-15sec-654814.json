@@ -1,0 +1,43 @@
+{
+  "slug": "year-plan-15sec-654814",
+  "title": {
+    "en": "因為一時沖動就訂閱了 的 year plan. 其中送了 15sec",
+    "zh": "因為一時沖動就訂閱了 的 year plan. 其中送了 15sec"
+  },
+  "description": {
+    "en": "15-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒cinematic action提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Langby2",
+    "url": "https://x.com/Langby2/status/2086099681537654814"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Langby2/status/2086099681537654814"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Langby2/status/2086099681537654814"
+  ],
+  "prompt": "A continuous 15-second cinematic shot. An immortal swordmaster stands atop a misty cliff. He slowly draws a glowing blue ancient sword. The camera smoothly orbits around him as shimmering spirit particles swirl into the air. He steps forward, executes a fluid 3-step sword sequence, and thrusts his blade forward. A colossal spectral dragon formed of blue energy bursts from the sword tip, flying across the canyon and tearing through the clouds into the distant sunset.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/year-plan-15sec-654814/video-aa3ebb388961266b.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/year-plan-15sec-654814/poster-e833939c52a1548a.jpg",
+    "format": "video/webm",
+    "videoBytes": 862610,
+    "videoSha256": "aa3ebb388961266bf2f877f8749836645a1b8c20b2c4fb49ae1b09abd4184d3d",
+    "thumbnailBytes": 38453,
+    "thumbnailSha256": "e833939c52a1548a3d73697645a15d657398a71af04eaee9ec514a24ef8703cd"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

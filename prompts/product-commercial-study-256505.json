@@ -1,0 +1,43 @@
+{
+  "slug": "product-commercial-study-256505",
+  "title": {
+    "en": "Product Commercial Study 256505",
+    "zh": "Product Commercial Study 256505"
+  },
+  "description": {
+    "en": "10-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "10 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "10s",
+  "aspectRatio": "427:240",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@bmx_ai13",
+    "url": "https://x.com/bmx_ai13/status/2086373669585256505"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/bmx_ai13/status/2086373669585256505"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/bmx_ai13/status/2086373669585256505"
+  ],
+  "prompt": "Create a 10 second cinematic live action video in 16:9, one continuous unbroken shot at night. A quiet roadside parking lot sits beneath a deep navy star filled sky. In the lower left background is a small retro service station or convenience store with cool fluorescent interior light and a thin warm orange roof glow. Dark parked cars, utility poles, overhead wires and tree silhouettes remain stable in the distance. The asphalt is washed with dim amber and reddish streetlight, with natural shadow falloff and faint haze. Two young adults wear simple white oversized T shirts, loose gray trousers and white sneakers. One stands on the asphalt near the lower center of frame. The second person is suspended high above, connected only by one hand, creating a surreal low gravity moment. Keep both identities, clothing, body proportions and hand contact perfectly consistent for the entire shot. Camera is around waist height with a 28 mm full frame lens, slightly tilted upward so the sky dominates. Use restrained handheld micro movement, no obvious pan, no zoom, no artificial stabilization. Preserve realistic perspective, parallax and lens behavior. Exposure favors the night sky while warm light gently models skin, fabric folds and shoes. Use subtle highlight bloom, mild sensor grain, natural motion blur and realistic contrast. Avoid glossy commercial perfection. From 0 to 1.5 seconds, begin with the standing person planted beneath the floating person, arm stretched upward. The floating body is slightly curled, knees bent, torso angled diagonally, hair and shirt moving lightly in the night air. Their joined hands form the visual anchor. From 1.5 to 3 seconds, the floating person glides slowly upward and toward screen right as if carried by a gentle invisible current. The body lengthens from curled to almost horizontal. The standing person raises the shoulder, shifts weight through the hips and pivots one foot to maintain balance. From 3 to 5 seconds, continue the smooth lateral drift. The airborne person becomes nearly horizontal, legs extended behind, toes relaxed, free arm reaching outward. The standing person stays grounded and rotates slightly toward screen right. Their connected arms create a long diagonal line across the frame. From 5 to 7 seconds, let the floating body pass farther into the upper right. Show believable shoulder tension, wrist angle, finger grip, fabric drag and hair movement. The grounded person widens the stance and makes one small natural step, with a faint shoe scrape on asphalt. From 7 to 9 seconds, the airborne person approaches the far upper right edge while staying fully visible. The grounded person leans and follows with another subtle weight shift. Background geometry, stars, poles, wires and parked vehicles remain stable with no warping or flicker. From 9 to 10 seconds, ease the motion into a suspended final pose rather than stopping abruptly. Add tiny breathing movement, cloth flutter and natural body sway. End on the stretched hand connection against the large starry sky. Physics should feel strange but visually credible. Maintain correct anatomy, five fingers, stable faces, natural joints, realistic cloth simulation and coherent lighting. No morphing, no duplicated limbs, no sudden speed changes, no camera jumps, no text, no subtitles, no visible logos. Music should be a dreamy nostalgic instrumental around 116 BPM with soft analog synth pads, a gentle low bass pulse, delicate bell like tones and restrained percussion. No vocals. Let the music lift with the floating motion, swell subtly around 6 seconds, then resolve softly in the final pose. Blend in faint night ambience, distant electrical hum and light wind.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-256505/video-db65a21634fb703b.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-256505/poster-f629adbeb01de616.jpg",
+    "format": "video/webm",
+    "videoBytes": 171468,
+    "videoSha256": "db65a21634fb703b0e0ab4d5626075d6fef3f29207032e9908cdb7e85096b9e4",
+    "thumbnailBytes": 17816,
+    "thumbnailSha256": "f629adbeb01de616fa56147c6242354f043e87e774f1a4b0f478d92456fd99dd"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

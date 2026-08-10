@@ -1,6 +1,6 @@
 # Seedance 2.5 Vlog & Social prompts
 
-[Back to all 100 prompts](../../README.md)
+[Back to all 200 prompts](../../README.md)
 
 ## 1. Summer Resort Waterslide Vlog
 
@@ -60,7 +60,241 @@ REALISM NOTES: Authentic body language, natural blinking, genuine focused smiles
 
 ---
 
-## 3. Korean City Day Vlog
+## 3. 高端交车仪式 vlog（Luxury Car Delivery Vl
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/vlog-luxury-car-delivery-vl-863196/video-44264a6aee4ced61.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/vlog-luxury-car-delivery-vl-863196/poster-25eda75701cf91bc.jpg" alt="高端交车仪式 vlog（Luxury Car Delivery Vl video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 【风格】高端交车仪式 vlog（Luxury Car Delivery Vlog），专业机位 + 手持自拍视角混剪，4K 真实摄影（Photorealistic），自然肤质毛孔可见，无滤镜塑料感，竖屏 9:16 【时长】30秒 【场景】超跑交付展厅（水泥灰地面、黑色墙面、顶部条形射灯）→ 展厅门口坡道 → 傍晚城市高架 【角色】车主@...</summary>
+
+~~~~text
+【风格】高端交车仪式 vlog（Luxury Car Delivery Vlog），专业机位 + 手持自拍视角混剪，4K 真实摄影（Photorealistic），自然肤质毛孔可见，无滤镜塑料感，竖屏 9:16
+【时长】30秒
+【场景】超跑交付展厅（水泥灰地面、黑色墙面、顶部条形射灯）→ 展厅门口坡道 → 傍晚城市高架
+【角色】车主@ 图片1（长发女性，黑发发尾酒红渐层大波浪，细金属框透明镜片眼镜，灰色针织吊带连衣裙）；两名穿黑西装的工作人员（背景功能性人物，不给正脸）
+【车辆】明黄色兰博基尼 Urus（Lamborghini Urus，超级SUV），四门高底盘车身，车头六边形大灯与Y字形日行灯，侧面锐利折线，宽轮眉，23寸黑色轮毂，双边四出排气，车尾贯穿式扰流板
+【全局约束】黑布只在镜头1出现，滑落后堆在车尾地面，之后所有镜头不再出现；鲜花、彩带、丝带只存在于镜头1至镜头7的地面与场地布置中，镜头8车身表面必须干净，无任何花束、丝带、彩带或装饰物
+
+[00:00-00:05] 镜头1：黑布自动后拉揭幕（Crane Up / Reveal）
+低机位，画面中央是一台被整块哑光黑绒布完全罩住的高大车形，布料垂坠贴着车身轮廓，能看出高底盘和方正的车顶线条。
+动作：她从画面右侧走入，停在车头前，抬手示意。黑绒布被车尾方向的牵引绳拉动，整块布从车头开始向车尾方向匀速滑走——先露出明黄色车头和六边形大灯，再是引擎盖和前风挡，接着是车顶、侧窗、宽轮眉，最后布料从车尾滑脱，堆在车尾后方的地面上。
+镜头同步从地面缓缓上升，黄色车漆随着布的后撤一段段亮起来。
+音效：厚重布料在车漆上摩擦滑动的沙沙声，现场轻微惊呼，低频背景音渐起。
+
+[00:05-00:09] 镜头2：360°环绕（Orbit 360）
+镜头贴地绕车身完整转一圈，依次扫过Y字形日行灯、前保险杠进气口、宽轮眉与23寸黑轮毂、侧面锐利折线、车尾贯穿式扰流板和双边四出排气。
+动作：她站在车身左侧，一只手搭在车门把手上，身体随镜头转动始终看向车，头发被空调风轻轻吹动。
+顶部条形射灯在黄色折线车身上扫出一道不断流动的高光。
+
+[00:09-00:13] 镜头3：交车仪式铺花（Slow Dolly Right）
+中景，镜头缓慢向右横移。两名穿黑西装的工作人员从画面两侧走入，把一捧捧白玫瑰和粉色绣球铺在车头前方地面和车身两侧，围成一个半圆花带，车头盖上摆一束系着红丝带的花束。
+画面右侧推入一辆金色小推车，上面放着冰桶和几只高脚杯，冰块表面有细密水珠。
+她站在花带中央，低头看了看脚边的花，抬头笑。
+
+[00:13-00:16] 镜头4：碰杯（Handheld Close-up）
+近景，她端起一只高脚杯，杯中金色气泡不停往上冒，她冲镜头笑着说了句什么，然后把杯沿轻轻磕在镜头前，"叮"的一声，镜头随之轻微晃了一下。
+她眯眼笑，抬起的手臂短暂遮住半边眼镜又移开，指尖在杯壁上留下一点雾痕。
+手持真实轻微抖动，背景的黄色车身虚化成一片暖黄。
+
+[00:16-00:19] 镜头5：礼炮打响（Slow-mo Confetti Burst）
+全景略微升格。她站在车头旁的花带中间，画面左右两侧的礼炮同时"嘣"地打响，大量金色和白色彩带、纸屑向上喷出，在空中缓慢翻卷飘落。
+动作：她被声响吓得肩膀猛地一缩，随即张嘴大笑，双手举高，头发被气流掀起。彩带落在她的肩膀和黄色车漆上。
+
+[00:19-00:22] 镜头6：坐车比耶（Handheld Selfie POV）
+车门向外打开，她踩着侧踏板抬腿坐上高位驾驶座。切到手持自拍视角，她左手对着镜头比耶，右手搭在方向盘上，脸凑近镜头笑，一根彩带还挂在她头发上。
+车内红黑撞色皮革、双联屏中控、六边形出风口、碳纤维饰板清晰可见。画面在逆光下短暂过曝后自动恢复。
+
+[00:22-00:25] 镜头7：准备出发（Rear Seat Fixed Cam）
+后排固定机位，越过驾驶座椅背拍摄，她的后脑勺和酒红色发尾垂在椅背上，前挡风外是展厅门口的亮光。
+动作：她掀开中控台上的红色启动键保护盖，拇指按下去，双联屏和仪表盘瞬间亮起，发动机爆出一声轰鸣，车身轻微抖了一下。她向右后方回头，笑着看向镜头两秒，然后转回去握住方向盘。
+
+[00:25-00:30] 镜头8：上路·航拍收尾（Launch + Drone Pull-back）
+车门"砰"地关合。车全力起步冲出展厅门口坡道，车尾轻微下压，地面的花瓣和彩带被排气气流吹得翻卷起来。车身表面干净，无任何鲜花、丝带或彩带残留。
+镜头切到航拍：无人机高空俯拍，明黄色车身在灰色高架上快速穿行，落日金光从车顶和侧面一路掠过。无人机随车向后上方拉升，城市天际线露出，黄色车身缩成画面里一个明亮的黄点。
+音效：排气轰鸣、轮胎摩擦、风噪，背景音乐在最后两秒推到最高点后骤停。
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/vlog-luxury-car-delivery-vl-863196/video-44264a6aee4ced61.webm)
+
+**Source:** [@johnAGI168](https://x.com/johnAGI168/status/2086424401247863196) · 30s · 16:9 · vlog
+
+---
+
+## 4. 真实骑行 vlog（Authentic Cycling Vlog）
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/vlog-authentic-cycling-vlog-275817/video-fcaae498a56b577e.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/vlog-authentic-cycling-vlog-275817/poster-8fa118f359b21db6.jpg" alt="真实骑行 vlog（Authentic Cycling Vlog） video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 【风格】真实骑行 vlog（Authentic Cycling Vlog），运动相机 + 手机前摄 + 伴随车跟拍混剪，4K 真实摄影（Photorealistic），阴天柔光，皮肤有汗光与真实毛孔，无美颜无磨皮，竖屏 9:16 【时长】30秒 【场景】雨后山区盘山公路，路面湿滑泛着一层亮光，路侧金属护栏，远处山峦挂着流动的云雾，路边草木上挂着水珠...</summary>
+
+~~~~text
+【风格】真实骑行 vlog（Authentic Cycling Vlog），运动相机 + 手机前摄 + 伴随车跟拍混剪，4K 真实摄影（Photorealistic），阴天柔光，皮肤有汗光与真实毛孔，无美颜无磨皮，竖屏 9:16
+
+【时长】30秒
+
+【场景】雨后山区盘山公路，路面湿滑泛着一层亮光，路侧金属护栏，远处山峦挂着流动的云雾，路边草木上挂着水珠
+
+【角色】骑行者（女性，白色公路头盔，蓝色镜面骑行眼镜，深灰色短袖骑行服（胸前城市街景印花、拉链到底、领口下方夹着黑色运动相机遥控器）、酒红色骑行短裤（侧缝两道白色缝线）、粉色运动手表，黑色碳纤维公路车、黑色刀圈轮组）
+
+【眼镜规则】只有全速骑行的镜头（镜头2、镜头5、镜头6）戴着眼镜；停车和自拍的镜头（镜头1、镜头3、镜头4、镜头7、镜头8）眼镜一律架在头盔前额上，整张脸和眼睛完全露出
+
+【全局约束】全程同一套骑行服与头盔，不换装；汗量随时间递增，不可倒退；行进中双手必须都在车把或手机上，不出现第三只手；不出现其他骑行者抢镜
+
+[00:00-00:04] 镜头1：低角度起步（Ground-level Low Angle）
+
+贴地极低机位，画面下缘是湿漉漉的沥青路面。她单脚撑地停在路边，眼镜架在头盔前额，脸完全露出来，低头看了眼镜头笑了一下。
+
+动作：她双手抬起把眼镜拉到眼睛上戴好，随后双手落回车把，脚扣"咔"地扣进踏板，曲柄转动，链条上链，前轮碾过一小片积水，水线甩向镜头两侧。
+
+镜头随车轮向前轻微跟移，湿路面被轮胎压出一道深色湿痕。
+
+音效：脚扣扣合的咔哒声、链条上链、轮胎压水的沙沙声。
+
+[00:04-00:08] 镜头2：侧面伴随跟拍（Car-to-car Side Tracking）
+
+正侧方伴随机位与她等速并行，全身入画。她压低上半身双手握下把，背部拉平，膝盖上下抽动，蓝色镜面眼镜戴在眼睛上。
+
+背景的护栏和云雾山体在她身后横向快速拉过，形成速度线。
+
+细节：额角渗出第一层汗，骑行服背部中缝出现一小块深色汗渍。
+
+[00:08-00:12] 镜头3：路边停车自拍（Front Camera Selfie POV）
+
+手机前置摄像头视角，画面轻微广角畸变。她已经停在路边单脚撑地，先用双手把眼镜推回头盔前额，露出整张脸和眼睛，再拿起手机举在斜前方。
+
+动作：她冲镜头咧嘴笑，喘着气对镜头说了句什么，说话时肩膀随呼吸起伏，另一只手扶着车把稳住车，接着用举手机的那只手把镜头转向前方，扫过弯道和云雾山景，再转回自己脸上。
+
+细节：额头和鼻尖有明显汗光，眼睛清晰可见，鬓角碎发被汗黏在脸上，风把耳边的碎发往后吹。画面有真实手持抖动和风噪爆音。
+
+[00:12-00:16] 镜头4：360全景环绕（360 Action Cam / Invisible Selfie Stick）
+
+模仿360全景运动相机效果，轻微鱼眼畸变，自拍杆被完全抹除。她仍在路边停着，双脚撑地跨在车上，眼镜架在头盔前额。镜头悬在她斜上方约一米处，围着她和车缓慢转一整圈。
+
+画面依次转过：她的正脸和头盔顶、身后的湿路面和护栏、车尾和后轮、路侧的云雾山谷、再回到正脸。
+
+动作：转到正脸时她抬头看镜头，笑着抬手做了个"往前走"的手势，另一只手扶着车把。
+
+细节：手臂皮肤上有细密汗珠，手表带内侧一圈汗渍。
+
+[00:16-00:20] 镜头5：爬坡喘息特写（Handheld Close-up / Uphill）
+
+侧面近景，只拍她的脸和肩膀，背景是缓慢后退的山体和护栏。坡度明显，她重新戴上了眼镜，踩踏频率变慢变重。
+
+动作：她咬着牙站起来摇车，双手死死握住车把，上半身左右摆动，嘴张开大口吸气，颈侧血管随呼吸起伏。一滴汗从太阳穴滑到下颌，被风甩飞。
+
+细节：整件骑行服前胸和后背已经湿透变成深色，紧贴身体，头盔带上有一圈汗渍，镜面眼镜下缘起了一层薄雾。
+
+[00:20-00:23] 镜头6：下坡第一视角（Handlebar POV / First-person）
+
+车把固定机位，第一人称视角。画面能看到黑色车把、缠着的把带、码表屏幕和她握把的双手。
+
+动作：车头快速冲下弯道，视线随身体压弯向左倾斜，路侧护栏和树木在画面两侧飞速掠过，前轮压过一小段积水溅起水花。她的手指按下刹车把，速度略降后再次放开。
+
+风噪骤然放大，画面因高速产生轻微抖动和边缘模糊。
+
+[00:23-00:27] 镜头7：终点擦汗（Static Medium Shot）
+
+固定机位中景。她把车靠在护栏上，跨下车，摘下头盔单手拎着，眼镜随头盔一起摘下来挂在手指上，另一只手把汗湿的刘海往后一捋，头发湿成一缕缕黏在额头上。
+
+动作：她放下头盔，双手拿起水壶仰头灌了一大口，水从嘴角流下脖子，用手背抹了一下下巴，然后长长呼出一口气，肩膀垮下来。
+
+细节：脱头盔后头顶有明显压痕，脸颊通红发亮，眼睛周围有被眼镜压出的浅印，颈侧和锁骨有汗流下来的亮线。
+
+[00:27-00:30] 镜头8：收尾比耶（Low Angle Pull-back）
+
+低角度仰拍，她重新戴回头盔，眼镜架在头盔前额，整张脸露出来。她站在车旁，一只手扶着车座，另一只手举到脸侧比耶，冲镜头笑，还带着喘。身后是整片流动的云雾山谷和湿亮的盘山公路。
+
+镜头缓缓向后下方拉远，人和车缩到画面下三分之一，山雾在她身后慢慢向上翻涌。
+
+音效：全程链条声、变速器咔哒声、轮胎压水声、真实的粗重呼吸声与风噪，背景无音乐，最后两秒只留下风声和喘息声。
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/vlog-authentic-cycling-vlog-275817/video-fcaae498a56b577e.webm)
+
+**Source:** [@johnAGI168](https://x.com/johnAGI168/status/2086014766846275817) · 30s · 9:16 · vlog
+
+---
+
+## 5. The moon took a night off. Everything went wrong in
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/the-moon-took-a-night-off-everything-went-wrong-546768/video-c61aef557b405ecf.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/the-moon-took-a-night-off-everything-went-wrong-546768/poster-9dd968b4f9596121.jpg" alt="The moon took a night off. Everything went wrong in video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — { &quot;title&quot;: &quot;Moon's Night Off&quot;, &quot;style&quot;: &quot;3D Pixar family animation. Night sky and ocean, cosmic and aquatic mix, bioluminescent colors, fast-paced visual chaos, surreal comedy.&quot;,...</summary>
+
+~~~~text
+{ "title": "Moon's Night Off", "style": "3D Pixar family animation. Night sky and ocean, cosmic and aquatic mix, bioluminescent colors, fast-paced visual chaos, surreal comedy.", "shots": [ {"time":"00:00-00:03","type":"WIDE","action":"The Moon, a glowing crescent with arms, hangs a 'GONE FISHING' sign on the night sky. He grabs a shooting star like a surfboard and leaves.","camera":"Wide cosmic shot.","dialogue":"Moon: 'Finally. Some me time.'"}, {"time":"00:03-00:06","type":"WIDE","action":"A temp worker anglerfish inflates into the sky, wobbling into position. His lure is blindingly bright.","camera":"Low angle from ocean looking up.","dialogue":"Anglerfish: 'Don't worry, boss! I got this!'"}, {"time":"00:06-00:09","type":"MEDIUM","action":"An owl puts on tiny sunglasses, annoyed. Worms pop out of ground thinking it's daytime. A rooster crows confusedly.","camera":"Rapid cuts.","dialogue":"Owl: 'Turn it down, Gary!'"}, {"time":"00:09-00:12","type":"WIDE","action":"Tides go sideways. Fish swim through the air. A lighthouse sees the anglerfish's bright lure and gets jealous.","camera":"Chaotic wide, tilting horizon.","dialogue":"Lighthouse: 'Am I a joke to you?'"}, {"time":"00:12-00:15","type":"CLOSE-UP","action":"The lighthouse starts spinning like a disco ball, casting colored beams across the ocean. Party music starts.","camera":"Close-up of lighthouse face.","dialogue":"Lighthouse: 'If you can't beat 'em, join 'em!'"}, {"time":"00:15-00:18","type":"TRACKING","action":"Moon surfs back on his shooting star, furious, leaving a streak across the sky.","camera":"Following shot, fast.","dialogue":"Moon: 'NOBODY. COVERS. MY. SHIFT.'"}, {"time":"00:18-00:22","type":"WIDE","action":"Moon grabs the anglerfish by the lure and yeets him back into the ocean. The anglerfish splashes, deflated.","camera":"Wide action shot.","dialogue":"Anglerfish: 'Worth it!'"}, {"time":"00:22-00:25","type":"WIDE","action":"Moon fixes the sky. Tides return to normal. Fish fall back into water. Lighthouse stops spinning, embarrassed.","camera":"Sweeping wide.","dialogue":"Moon: 'Amateurs.'"}, {"time":"00:25-00:28","type":"CLOSE-UP","action":"Moon settles back into position, pulls out a tiny fishing rod, and actually fishes from the sky. Catches a cloud.","camera":"Push-in.","dialogue":"Moon: 'Now THIS is a break.'"}, {"time":"00:28-00:30","type":"TITLE CARD","action":"Black screen. Title 'MOON'S NIGHT OFF' in glowing letters with a tiny fishing hook.","camera":"Static.","dialogue":"(soft splash)"} ] }
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/the-moon-took-a-night-off-everything-went-wrong-546768/video-c61aef557b405ecf.webm)
+
+**Source:** [@Dheepanratnam](https://x.com/Dheepanratnam/status/2085111949629546768) · 30s · 427:240 · comedy
+
+---
+
+## 6. The Umbrella Escape
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/the-umbrella-escape-488195/video-cd660b188da8f221.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/the-umbrella-escape-488195/poster-d7214a8827fe3e2e.jpg" alt="The Umbrella Escape video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — { &quot;title&quot;: &quot;The Umbrella Escape&quot;, &quot;style&quot;: &quot;3D Pixar family animation. Rainy city afternoon, vibrant reflections on wet pavement, action-comedy chase, warm and cool contrast,...</summary>
+
+~~~~text
+{ "title": "The Umbrella Escape", "style": "3D Pixar family animation. Rainy city afternoon, vibrant reflections on wet pavement, action-comedy chase, warm and cool contrast, dynamic camera.", "shots": [ {"time":"00:00-00:03","type":"CLOSE-UP","action":"Kid in yellow raincoat opens a bright red umbrella. A gust of wind hits. The umbrella inverts and yanks free.","camera":"Macro, raindrops flying.","dialogue":"Umbrella: 'FREEDOM!' Kid: 'Hey!'"}, {"time":"00:03-00:06","type":"TRACKING","action":"Umbrella surfs down the sidewalk, opening and closing to dodge pedestrians. It hops over a puddle like a skipping stone.","camera":"Low tracking, fast.","dialogue":"Umbrella: 'Can't catch me! I'm born to fly!'"}, {"time":"00:06-00:09","type":"WIDE","action":"Umbrella weaves through a flock of pigeons. They scatter. One pigeon gets caught inside and spins out dizzy.","camera":"Chaotic wide.","dialogue":"Pigeon: 'What the-'"}, {"time":"00:09-00:12","type":"ACTION","action":"Umbrella surfs a puddle wave, then catches a crosswind and smacks into a lamppost, spinning around it like a tetherball.","camera":"Spinning camera with umbrella.","dialogue":"Umbrella: 'Wheee! Okay, that hurt.'"}, {"time":"00:12-00:15","type":"TRACKING","action":"A street sweeper approaches. The umbrella gets sucked into the brush, spins wildly, and launches out like a frisbee.","camera":"Following shot, fast.","dialogue":"Umbrella: 'I REGRET NOTHING!'"}, {"time":"00:15-00:18","type":"WIDE","action":"Umbrella glides toward a tree, sticks perfectly in the branches, and sighs. Kid arrives below, out of breath.","camera":"Wide, rain falling.","dialogue":"Kid: 'Got... you...'"}, {"time":"00:18-00:22","type":"TWO-SHOT","action":"Kid climbs up. Reaches for umbrella. Umbrella closes tight, refusing. Kid pouts. Umbrella opens one eye.","camera":"Close two-shot in the tree.","dialogue":"Umbrella: 'I'm not coming back. I tasted the wild.' Kid: 'I'll let you pick the movie.'"}, {"time":"00:22-00:25","type":"CLOSE-UP","action":"Umbrella pauses. Opens fully. Gently covers the kid from the rain, settling onto their shoulder.","camera":"Warm push-in.","dialogue":"Umbrella: 'Fine. But I'm driving next time.'"}, {"time":"00:25-00:28","type":"WIDE","action":"Kid walks home under the umbrella. The umbrella steers them left, then right, playfully. They splash through puddles together.","camera":"Wide, beautiful rainy street.","dialogue":"Kid: 'You're impossible.' Umbrella: 'Thank you.'"}, {"time":"00:28-00:30","type":"TITLE CARD","action":"Black screen. Title 'THE UMBRELLA ESCAPE' in raindrop letters with a red umbrella icon.","camera":"Static.","dialogue":"(soft rain)"} ] }
+
+@dreamina_ai
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/the-umbrella-escape-488195/video-cd660b188da8f221.webm)
+
+**Source:** [@Dheepanratnam](https://x.com/Dheepanratnam/status/2085033492870488195) · 30s · 427:240 · comedy
+
+---
+
+## 7. Vlog Study 019109
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/is-extra-realistic-on-019109/video-580f67b1b994fd87.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/is-extra-realistic-on-019109/poster-5199879ff0ccd7c4.jpg" alt="Vlog Study 019109 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 15s handheld home-video vlog, 7-shot montage. Photorealistic phone footage with slight tilt, natural shake, window light, subtle film grain. A woman (use Image1 only for facial...</summary>
+
+~~~~text
+15s handheld home-video vlog, 7-shot montage. Photorealistic phone footage with slight tilt, natural shake, window light, subtle film grain.
+
+A woman (use Image1 only for facial identity and hairstyle) does laundry alone on a quiet morning. Outfit: oversized cream linen shirt with rolled sleeves, grey knit shorts, loose cotton apron. Cozy sunlit laundry nook with an open front-load washer, overflowing basket, wooden drying rack, clothespins, and warm sunlight. She is the only person in the video.
+
+Sequence: untangles wet clothes → shakes out a shirt → checks a collar stain by the window → hangs it saying "Good enough." → finds a mismatched sock → struggles with a heavy bedsheet while laughing → finishes hanging it and quietly admires the sunlit laundry.
+
+Dialogue is natural spoken Korean (except "Good enough"), reacting casually to each moment. Ambient sound only: washer winding down, wet fabric, clothespins, rustling clothes, soft laughter, breeze. No subtitles, text, logos, or watermarks. Do not recreate or copy the reference image—use it only for facial identity and hairstyle.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/is-extra-realistic-on-019109/video-580f67b1b994fd87.webm)
+
+**Source:** [@doctorwasif](https://x.com/doctorwasif/status/2083779989414019109) · 15s · 16:9 · vlog
+
+---
+
+## 8. Korean City Day Vlog
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/korean-city-day-vlog-993075/video-629787f47dd0f835.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/korean-city-day-vlog-993075/poster-01e06acfd1e65253.jpg" alt="Korean City Day Vlog video preview" width="700" />
@@ -113,7 +347,7 @@ Goal: Authentic Korean neighborhood life captured like a forgotten home video fr
 
 ---
 
-## 4. Trainee Days Camcorder Montage
+## 9. Trainee Days Camcorder Montage
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/trainee-days-camcorder-montage-251247/video-de374f7beeb0bd28.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/trainee-days-camcorder-montage-251247/poster-7011a4dd253a97e3.jpg" alt="Trainee Days Camcorder Montage video preview" width="700" />
@@ -161,7 +395,7 @@ Trainee dorm room (early morning) → vocal lesson room (morning) → dance prac
 
 ---
 
-## 5. Turkish Eggs Mini-DV Recipe Vlog
+## 10. Turkish Eggs Mini-DV Recipe Vlog
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/turkish-eggs-mini-dv-recipe-vlog-107610/video-2503ba98404071af.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/turkish-eggs-mini-dv-recipe-vlog-107610/poster-987c0e2c3109c70d.jpg" alt="Turkish Eggs Mini-DV Recipe Vlog video preview" width="700" />
@@ -206,66 +440,7 @@ Prioritise intimate food sounds: yoghurt stirring, garlic scraping, simmering wa
 
 ---
 
-## 6. Vertical Smartphone Lifestyle Vlog
-
-<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/vertical-smartphone-lifestyle-vlog-333367/video-013a95b8cb0dd2bc.webm">
-  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/vertical-smartphone-lifestyle-vlog-333367/poster-09ec94cc2974d92c.jpg" alt="Vertical Smartphone Lifestyle Vlog video preview" width="700" />
-</a>
-
-<details>
-<summary><strong>Prompt</strong> — Create a 30-second, 9:16 vertical smartphone VLOG with cinematic photorealism, following a young adult Asian woman through one day in a coastal city. The two reference images...</summary>
-
-~~~~text
-Create a 30-second, 9:16 vertical smartphone VLOG with cinematic photorealism, following a young adult Asian woman through one day in a coastal city.
-
-The two reference images depict the same woman. Use the multi-angle facial reference to preserve her facial features, skin tone, shoulder-length black hair, pearl stud earrings, and delicate pearl necklace. Use the full-body three-view reference to preserve her body proportions, pale sage-green floral embroidered halter top, white satin ankle-length skirt, and beige strappy heels.
-
-Only this one main character should appear throughout the video. Keep her face, hairstyle, outfit, jewelry, age, and body proportions consistent in every shot. Do not change her clothes or age. The reference images are character sheets only. The final video must never show a triptych, collage, dividing lines, studio background, or multiple copies of the same woman.
-
-The overall video should feel like a relaxed day-in-the-life VLOG filmed on her own phone: natural and intimate, with subtle handheld breathing motion, realistic skin and fabric physics, and lighting that gradually shifts from warm morning white to golden sunset and cool nighttime blue.
-
-Use clean, decisive hard cuts. Each time segment should focus on one main action, with natural continuity between scenes.
-
-0–4 seconds:
-A bright apartment in the morning. In a medium close-up, she walks toward a floor-to-ceiling window and opens the sheer curtains. Morning sunlight falls across her face and white skirt. The camera gently rises from table height and slowly moves closer.
-
-4–8 seconds:
-A close-up mirror VLOG shot. Looking at herself in the mirror, she gently adjusts the hair around one ear and touches her pearl earring. She then looks toward the camera and gives a subtle smile. The mirror reflection must be physically correct and must not create a second person.
-
-8–12 seconds:
-An open-plan kitchen. Coffee pours into a clear glass, followed by a quick cut to her leaning against the counter, lifting the drink, and taking a small sip. Sunlight glints across the rim of the glass and her satin skirt. Her movements feel natural and unhurried.
-
-12–16 seconds:
-She picks up a simple ivory shoulder bag and leaves the apartment. A handheld tracking shot follows her into the elevator. The doors close, then hard cut to her walking through the ground-floor lobby and outside. Her gait, shoes, and the movement of her skirt must remain natural and stable.
-
-16–20 seconds:
-A street in a coastal city. Begin briefly from a low angle, capturing her footsteps and the movement of her skirt, then rise into a side-tracking medium shot. A gentle sea breeze moves her hair. The street is bright, with a few softly blurred pedestrians in the background, but no one blocks or duplicates the main character.
-
-20–24 seconds:
-A seaside café. From an over-the-shoulder angle, she sits beside the window and works on design sketches on her laptop, with a cup of coffee nearby. She pauses, looks out toward the sea, and then turns back toward the camera. Her hands, fingers, laptop, and tabletop objects must remain anatomically and structurally correct.
-
-24–27 seconds:
-A seaside promenade during golden hour. She holds up her phone and walks forward while filming herself. The camera makes a gentle half-circle movement around her. Sunlight shines through the ends of her hair, the breeze lifts her skirt slightly, and the sea reflects the golden light behind her. She looks relaxed and at ease.
-
-27–30 seconds:
-Back in the apartment at night. She places the phone near the window and leaves it recording in a fixed position. The city and coastline lights are softly blurred behind her. She walks into frame, sets down her shoulder bag, turns back and smiles gently at the camera, then reaches toward the lens to end the recording. Fade naturally to black.
-
-Use only synchronized environmental sounds: curtains brushing, coffee pouring, a glass lightly touching the counter, footsteps, an elevator chime, coastal street ambience, quiet café background noise, sea waves, and subtle nighttime room tone.
-
-No dialogue. No voice-over. No background music. No subtitles. No title cards. No logos. No watermarks. No readable text.
-
-Avoid identity drift, changes in facial structure, longer hair, changes in outfit color or design, additional jewelry, duplicated people, malformed limbs or fingers, disappearing shoes, fabric clipping, incorrect mirror reflections, sudden zooms, exaggerated slow motion, cartoon-like rendering, excessive skin smoothing, or garbled text.
-~~~~
-
-</details>
-
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/vertical-smartphone-lifestyle-vlog-333367/video-013a95b8cb0dd2bc.webm)
-
-**Source:** [@liaojitao](https://x.com/liaojitao/status/2083432555752333367) · 30s · 9:16 · vlog
-
----
-
-## 7. K-Pop Idol Day Camcorder Montage
+## 11. K-Pop Idol Day Camcorder Montage
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/k-pop-idol-day-camcorder-montage-345309/video-b986009c7aa079a7.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/k-pop-idol-day-camcorder-montage-345309/poster-427ba91e0531cba1.jpg" alt="K-Pop Idol Day Camcorder Montage video preview" width="700" />
@@ -319,7 +494,7 @@ Dorm room (morning) → van interior (daytime) → practice room (afternoon) →
 
 ---
 
-## 8. Japanese Game Show Foam Roller
+## 12. Japanese Game Show Foam Roller
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-game-show-foam-roller/video-fa4c5269025df3df.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-game-show-foam-roller/poster-29b656a2da94c5ab.jpg" alt="Japanese Game Show Foam Roller video preview" width="700" />
@@ -340,7 +515,7 @@ Broadcast footage from a real 2000s–2010s Japanese sports entertainment progra
 
 ---
 
-## 9. Robots Text-Hold Studio Comedy
+## 13. Robots Text-Hold Studio Comedy
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/robots-text-hold-studio-comedy/video-79fdcec3211e1023.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/robots-text-hold-studio-comedy/poster-b3e7988ff4b3d0d8.jpg" alt="Robots Text-Hold Studio Comedy video preview" width="700" />
@@ -430,7 +605,7 @@ VISUAL QUALITY: Premium influencer content, realistic studio lighting, natural h
 
 ---
 
-## 10. Casual Apartment Tour
+## 14. Casual Apartment Tour
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/casual-apartment-tour/video-ffc6a2c4af0c11ee.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/casual-apartment-tour/poster-af8e69dea4dd12a9.jpg" alt="Casual Apartment Tour video preview" width="700" />
@@ -499,7 +674,7 @@ studio lighting, no subtitles, no music.
 
 ---
 
-## 11. Parisian City Girl Vlog
+## 15. Parisian City Girl Vlog
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/parisian-city-girl-vlog/video-51ac9026486e09d4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/parisian-city-girl-vlog/poster-7c667166e596d3f6.jpg" alt="Parisian City Girl Vlog video preview" width="700" />
@@ -537,7 +712,7 @@ Goal: Authentic Parisian life captured like a forgotten home video from the earl
 
 ---
 
-## 12. Korean Mini-DV Street Vlog
+## 16. Korean Mini-DV Street Vlog
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/korean-mini-dv-street-vlog/video-460634e42be498c5.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/korean-mini-dv-street-vlog/poster-e6dffaa00544e903.jpg" alt="Korean Mini-DV Street Vlog video preview" width="700" />
@@ -575,7 +750,7 @@ Goal: A quiet, satisfying weekend chore moment grounded, warm, believable.
 
 ---
 
-## 13. Beauty Filter Double Comes Alive
+## 17. Beauty Filter Double Comes Alive
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/filter-double-comes-alive-comedy/video-d39fefc1544a764b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/filter-double-comes-alive-comedy/poster-63a6197ee2aa352b.jpg" alt="Beauty Filter Double Comes Alive video preview" width="700" />
@@ -637,7 +812,7 @@ Goal: A quiet, satisfying weekend chore moment grounded, warm, believable.
 
 ---
 
-## 14. Quiet City Bicycle Ride
+## 18. Quiet City Bicycle Ride
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/quiet-city-bicycle-ride/video-222617624dd8efad.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/quiet-city-bicycle-ride/poster-75ba3ef6aead6c64.jpg" alt="Quiet City Bicycle Ride video preview" width="700" />

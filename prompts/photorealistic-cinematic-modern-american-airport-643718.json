@@ -1,0 +1,44 @@
+{
+  "slug": "photorealistic-cinematic-modern-american-airport-643718",
+  "title": {
+    "en": "Cinematic Travel Study 643718",
+    "zh": "Cinematic Travel Study 643718"
+  },
+  "description": {
+    "en": "30-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "reference-generation",
+  "mode": "image-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Strength04_X",
+    "url": "https://x.com/Strength04_X/status/2085290947747643718"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Strength04_X/status/2085290947747643718"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Strength04_X/status/2085290947747643718"
+  ],
+  "prompt": "Photorealistic cinematic modern American airport terminal, polished marble floors, floor-to-ceiling glass windows, distant departure boards glowing, chrome luggage carts, soft daylight mixed with warm overhead practicals, subtle handheld texture, rich lived-in travel-day detail, heavy film grain. Shot with modern realism and precise temporal control.\nUse the provided reference image as the exact character lock for the bald bearded man in black sunglasses and dark hoodie. Maintain perfect facial structure, beard, head shape, skin texture and clothing consistency at all times.\n0-5s: [Medium Wide] The bald man walks briskly through the terminal. He turns sharply to check a gate sign and collides hard into a food-cart vendor carrying a full tray of coffee cups, pastries and a thermos. Impact is sudden and physical.\n5-12s: [Dynamic Tracking into Super Slow-Motion] Collision detonates. Tray, coffee cups, pastries and thermos explode upward. Coffee erupts into long liquid ribbons and perfect suspended droplets. Camera orbits smoothly around the impact. Time locks completely at the peak of the spill. Every face freezes in pure shock. Only the bald man remains free to move. He freezes for one beat with a clear \"I fucked up\" expression, then quickly grabs a croissant and a floating coffee cup from the debris.\n12-22s: [Tracking Shot] Still inside the frozen terminal, he walks toward the boarding gate while taking deliberate sips of coffee then bites of croissant. All passengers, the vendor and flying food stay perfectly suspended in mid-air.\n22-27s: [Medium Shot] Just as he reaches the gate and is about to scan his boarding pass, time snaps back to normal speed. Everything that was floating crashes down at once — cups, pastries, tray and thermos slam onto the floor with a loud chaotic impact. The vendor and passengers react in sudden real-time shock.\n27-30s: [Medium Close-Up] He pauses, turns slightly, raises his eyebrows and gives a small casual \"it is what it is\" shrug with a quiet half-smile of acceptance, still holding the remaining food.\nPhotorealistic, ultra-detailed fluid and object physics, perfect volume and surface tension on liquids, sharp motion blur only on moving elements, stable character, cinematic lighting, heavy natural film grain, no artifacts, movie-level temporal coherence, high rewatch value.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/photorealistic-cinematic-modern-american-airport-643718/video-cca2cc809ce82386.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/photorealistic-cinematic-modern-american-airport-643718/poster-fe6f0175db283dab.jpg",
+    "format": "video/webm",
+    "videoBytes": 2473509,
+    "videoSha256": "cca2cc809ce82386980312ea65bd1e958e647dd323c1c33a8c1eb54fd7484ae1",
+    "thumbnailBytes": 57241,
+    "thumbnailSha256": "fe6f0175db283dabebc81b1950e5959fbf30d769ec6b68bf4915da2ebf85a688"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

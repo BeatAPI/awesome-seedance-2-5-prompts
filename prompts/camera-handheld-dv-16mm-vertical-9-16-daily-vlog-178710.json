@@ -1,0 +1,43 @@
+{
+  "slug": "camera-handheld-dv-16mm-vertical-9-16-daily-vlog-178710",
+  "title": {
+    "en": "Product Commercial Study 178710",
+    "zh": "Product Commercial Study 178710"
+  },
+  "description": {
+    "en": "16-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "16 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "16s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@maxxmalist",
+    "url": "https://x.com/maxxmalist/status/2085729553461178710"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/maxxmalist/status/2085729553461178710"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/maxxmalist/status/2085729553461178710"
+  ],
+  "prompt": "CAMERA: Handheld DV 16mm **vertical 9:16** daily vlog footage optimized for TikTok, Instagram Reels, and YouTube Shorts. The video MUST begin with her holding the camera at arm's length in selfie mode, speaking directly to the lens while casually walking through the gym. The framing stays vertical throughout, with natural selfie composition, occasional head cropping, imperfect framing, and realistic phone-like movement. The first 20–30 seconds are entirely handheld. Only later does she occasionally place the camera on a dumbbell rack, adjustable bench, stretching mat, gym bag, or water bottle for wider vertical shots. Keep subtle handheld shake, drifting composition, autofocus hunting, rushed reframing, uneven zooms, exposure breathing, brief accidental face cropping, and imperfect framing throughout. The camera itself is never visible.\n\nLOOK: Warm analog tape texture with gentle film grain, slightly softened sharpness, subtle halation around overhead lights, realistic skin tones, low contrast, tiny exposure shifts, and natural motion blur. The footage should feel authentic and completely unstaged, like a real creator documenting her workout on her phone.\n\nSTYLE: An intimate daily fitness vlog filmed in a mostly empty boutique gym. Casual, relaxed, and conversational. Small laughs, pauses, fixing her ponytail, wiping sweat with her towel, catching her breath, looking away while thinking, and talking naturally to the audience instead of delivering lines. She speaks in short, natural sentences with frequent pauses. Never rush dialogue. Leave quiet moments between lines.\n\nCHARACTER: A beautiful white blonde fitness creator in her early 20s. Long blonde hair tied into a loose ponytail, blue eyes, glowing skin, and a slim athletic figure. She wears a fitted black long-sleeve workout top, high-waisted black leggings, white socks, white sneakers, and a white towel loosely resting around her neck.\n\nSETTING: A modern boutique gym late in the evening. Dumbbell racks, kettlebells, medicine balls, mirrors, benches, stretching mats, resistance bands, a gym bag, shaker bottle, and warm overhead lighting. The gym is almost empty with only one or two people blurred in the distant background.\n\nSCENES:\n\nThe vlog opens in selfie mode. She is holding the camera at arm's length while slowly walking through the dumbbell area, smiling naturally.\n\"...okay.\"\n\"I definitely earned dinner.\"\nShe laughs quietly and adjusts the towel around her neck.\n\"I almost skipped today.\"\nShe briefly turns the camera toward the nearly empty gym before pointing it back at herself.\n\"Glad I came.\"\nStill holding the camera, she walks toward the stretching area.\n\"My legs are done.\"\nShe places the camera on a nearby bench for a wider vertical angle and sits down on a stretching mat.\nShe stretches one leg and takes a deep breath.\n\"I really need to stretch more.\"\nShe smiles to herself.\nShe switches sides and rolls one shoulder.\n\"Tomorrow's gonna hurt.\"\nShe picks the camera back up and walks toward her gym bag.\nShe kneels beside it, pulls out a protein shake, and takes a sip.\n\"...that's actually good.\"\nShe laughs.\nThe camera sits on top of the gym bag while she packs away her towel, headphones, and lifting straps.\n\"Worth it.\"\nShe throws the bag over one shoulder and picks the camera back up.\nWalking toward the exit in selfie mode, she smiles into the lens.\n\"See you next workout.\"\nShe gives the camera a small wave before ending the recording.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/camera-handheld-dv-16mm-vertical-9-16-daily-vlog-178710/video-534bb32fcbefccb8.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/camera-handheld-dv-16mm-vertical-9-16-daily-vlog-178710/poster-ad8c383cec00bc7f.jpg",
+    "format": "video/webm",
+    "videoBytes": 1012214,
+    "videoSha256": "534bb32fcbefccb8a9781e1499e86d833dd3fac514504317a2027b249807071b",
+    "thumbnailBytes": 39218,
+    "thumbnailSha256": "ad8c383cec00bc7f9f0627459f1fce25cd762df0b73def6696f291415249f84d"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

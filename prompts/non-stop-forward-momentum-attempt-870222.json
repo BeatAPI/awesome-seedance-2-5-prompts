@@ -1,0 +1,43 @@
+{
+  "slug": "non-stop-forward-momentum-attempt-870222",
+  "title": {
+    "en": "Non-stop forward momentum attempt",
+    "zh": "Non-stop forward momentum attempt"
+  },
+  "description": {
+    "en": "30-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒cinematic action提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "427:240",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@sebatheepan",
+    "url": "https://x.com/sebatheepan/status/2085103425704870222"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/sebatheepan/status/2085103425704870222"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/sebatheepan/status/2085103425704870222"
+  ],
+  "prompt": "A tiny ember drifts in darkness. It lands on dry grass and instantly ignites a chain reaction of fire that races across a field in real time. Flames morph mid-spread into molten glass, then into flowing lava rivers that carve canyons, then into rivers of liquid gold that solidify into ancient temples. The temples crack open under heat, releasing a swarm of phoenix-like firebirds that merge into one colossal bird. The bird dives into the ocean, turning the water into steam and then into a volcanic island that erupts, launching the camera into the stratosphere on a pillar of fire that becomes a rocket trail ending in a silent, glowing ember floating above Earth. Non-stop forward momentum, elemental morphing (fire → glass → lava → gold → birds → volcano), and constant camera chase.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/non-stop-forward-momentum-attempt-870222/video-ced736b46c45a250.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/non-stop-forward-momentum-attempt-870222/poster-e01bf916e7327f03.jpg",
+    "format": "video/webm",
+    "videoBytes": 1675743,
+    "videoSha256": "ced736b46c45a250b1214760bd6619ff96bd5c00ad878c06be97d530d068f7cd",
+    "thumbnailBytes": 50075,
+    "thumbnailSha256": "e01bf916e7327f038368bfd8baf64059d3a6d1e93bbb1fd724bfa73183ab9339"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

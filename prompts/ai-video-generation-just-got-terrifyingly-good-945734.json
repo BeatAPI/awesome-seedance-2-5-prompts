@@ -1,0 +1,43 @@
+{
+  "slug": "ai-video-generation-just-got-terrifyingly-good-945734",
+  "title": {
+    "en": "Horror Film Study 945734",
+    "zh": "Horror Film Study 945734"
+  },
+  "description": {
+    "en": "30-second horror prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒horror提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "horror",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AIwithSarah_",
+    "url": "https://x.com/AIwithSarah_/status/2086301678735945734"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/AIwithSarah_/status/2086301678735945734"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/AIwithSarah_/status/2086301678735945734"
+  ],
+  "prompt": "AI video generation just got terrifyingly good. 🎬\n\nSeedance 2.5 just landed on @itsPolloAI and there’s a limited-time 50% off discount running right now!\n\nThe temporal consistency is next-level. We can finally generate seamless 30-second videos in a single prompt.\n\nThe volumetric lighting, the ethereal energy, and the reflections on the wet asphalt hold up perfectly for the entire half-minute.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/ai-video-generation-just-got-terrifyingly-good-945734/video-b3beaebe93abff93.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/ai-video-generation-just-got-terrifyingly-good-945734/poster-7032c5a8cc002b99.jpg",
+    "format": "video/webm",
+    "videoBytes": 2705480,
+    "videoSha256": "b3beaebe93abff93eb067a3a4d178be3cbe4c9583f795d644e66a1b8ea7c141d",
+    "thumbnailBytes": 39549,
+    "thumbnailSha256": "7032c5a8cc002b99e6cfb53d1186f859589feb8d15730732a407563b1855f5de"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

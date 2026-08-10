@@ -1,0 +1,43 @@
+{
+  "slug": "use-image-only-for-the-womans-face-identity-hair-433265",
+  "title": {
+    "en": "Cinematic Story Study 433265",
+    "zh": "Cinematic Story Study 433265"
+  },
+  "description": {
+    "en": "30-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@doctorwasif",
+    "url": "https://x.com/doctorwasif/status/2086315451970433265"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/doctorwasif/status/2086315451970433265"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/doctorwasif/status/2086315451970433265"
+  ],
+  "prompt": "Use <<image>>only for the WOMAN’s face, identity, hair, skin texture, and body proportions. Do not copy its background, clothing, lighting, or composition.\n\n30s cinematic thriller, photorealistic. Rainy gas-station mini-mart after a car crash. Controlled handheld camera, fluorescent practicals, intermittent red/blue police lights, wet asphalt, haze, realistic sweat/grime, shallow DOF, film grain. No music.\n\nCAST: WOMAN throughout: torn dark jacket, jeans, scraped forearm, messy half-loose hair, sweaty, aggressive and adrenaline-fueled. CLERK: tired 40s man, green vest/flannel, cautious. STRANGER appears only in S9, dark silhouette, face never visible. No other people.\n\nDIALOGUE RULE: Korean, natural quiet speech, perfect lip-sync. Action must completely stop before speaking; speaker faces camera/front 3/4 with unobstructed mouth and remains still during the line. No VO/off-screen speech. S9 silent.\n\nS1 0–2.5: Woman bursts in, grabs unlabeled water from cooler, rushes to counter.\n\nS2 2.5–5: Slams bottle down, stops, faces camera: “붕대 있어요? 빨리요.”\n\nS3 5–7.5: Clerk cautiously gets bandage kit, stops, faces camera: “저기… 괜찮으신 거예요?” Places kit down.\n\nS4 7.5–9.5: Woman grabs kit, stops: “신경 꺼요.” Clerk backs away.\n\nS5 9.5–12: She sits by window, opens kit and wraps forearm. Police lights/wreck briefly visible outside. No dialogue.\n\nS6 12–14.5: Finishes bandage, stops, faces camera: “…살아있네.” Then drinks water.\n\nS7 14.5–16.5: Watches police lights through rainy glass, sets bottle down. No dialogue.\n\nS8 16.5–18.5: Hears something, clenches fist, rises and faces door. No dialogue.\n\nS9 18.5–22: Stranger bursts in and grabs her. Brief raw struggle—she twists free, elbows/shoves him, shelf rattles, bottle rolls, she forces him outside. His face never visible. No dialogue.\n\nS10 22–25: She reaches door, stops, looks back at clerk: “문 잠가요. 아무도 안 들여보내고.” Then exits.\n\nS11 25–30: She sprints through rain, jumps into dark sedan, starts instantly, reverses and speeds away from the police and crash. Police car passes the now-empty station too late. Door remains open/swinging.\n\nCONTINUITY: Same woman/face, store layout, door, red OPEN sign, water bottle and bandage progression throughout. No duplicated props/people, no weapons/blood/gore, no subtitles/text/logos/watermarks, no beauty retouching, no slow motion/speed ramps.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/use-image-only-for-the-womans-face-identity-hair-433265/video-3cb543cf3929d273.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/use-image-only-for-the-womans-face-identity-hair-433265/poster-d8d6abc6180f5135.jpg",
+    "format": "video/webm",
+    "videoBytes": 2191398,
+    "videoSha256": "3cb543cf3929d273dc48c29a2406260ece8ac144f64ea35e951e6e06816b682b",
+    "thumbnailBytes": 75740,
+    "thumbnailSha256": "d8d6abc6180f513573a8c8635583299d0e28eaa6cf4f309e63ec3b8d7bd25ccf"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

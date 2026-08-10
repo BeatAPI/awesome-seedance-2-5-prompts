@@ -1,0 +1,44 @@
+{
+  "slug": "supermodel-woman-wrestling-432306",
+  "title": {
+    "en": "Supermodel Woman Wrestling",
+    "zh": "Supermodel Woman Wrestling"
+  },
+  "description": {
+    "en": "30-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒cinematic action提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "reference-generation",
+  "mode": "image-to-video",
+  "duration": "30s",
+  "aspectRatio": "71:40",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@MusicSatire",
+    "url": "https://x.com/MusicSatire/status/2085852721853432306"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/MusicSatire/status/2085852721853432306"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/MusicSatire/status/2085852721853432306"
+  ],
+  "prompt": "#wrestling\n#promptsharing\n#seedance\nPrompt in comments\nFull 30 sec clip from seedance 2.5 using my director skill in claude and my fight skill.\nstill ironing out some bugs.  (mini morph half way)\nTesting with Character names instead of @ image definitions.\nMore testing full release soon.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/supermodel-woman-wrestling-432306/video-5d2b8c5d54ca198d.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/supermodel-woman-wrestling-432306/poster-be6781eb1ec7efc9.jpg",
+    "format": "video/webm",
+    "videoBytes": 3301685,
+    "videoSha256": "5d2b8c5d54ca198df518ccd97a75b6dfba51579e57a712a0a717da52c140d924",
+    "thumbnailBytes": 49842,
+    "thumbnailSha256": "be6781eb1ec7efc921930a20fd4648f7d297382c3942c59f2a964b87029d320e"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

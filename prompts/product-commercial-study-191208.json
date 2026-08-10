@@ -1,0 +1,43 @@
+{
+  "slug": "product-commercial-study-191208",
+  "title": {
+    "en": "Product Commercial Study 191208",
+    "zh": "Product Commercial Study 191208"
+  },
+  "description": {
+    "en": "15-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "427:240",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@bmx_ai13",
+    "url": "https://x.com/bmx_ai13/status/2086132581016191208"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/bmx_ai13/status/2086132581016191208"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/bmx_ai13/status/2086132581016191208"
+  ],
+  "prompt": "Create a 15 second cinematic street fashion video in 16:9, grounded in real urban photography and practical camera behavior. One stylish young woman remains visually identical in every shot, wearing narrow white futuristic sunglasses, large silver white over ear headphones around her neck, a fitted black crop top, loose ivory cargo pants, and worn black high top canvas sneakers. Her hair is tightly braided. The location is a busy downtown street corner with brick buildings, metal shutters, crosswalks, buses, cars, trees and street poles. Keep background text incidental and naturally unreadable. 0 to 2 seconds. Start inches above sidewalk level with an extreme wide fisheye lens looking upward at a sharp corner building. She stands close to camera, adjusts her headphones, lowers her hands and gives a calm confident look. Slight handheld sway, mild barrel distortion, real skin texture and fabric folds. Cool cyan daylight with warm sun on one side of her face. 2 to 3.5 seconds. She steps toward the crosswalk as camera glides backward at knee height, then rapidly pushes into a face closeup. Her hand briefly touches her lips and sunglasses. Street and sky reflect in the lenses. Preserve believable focus breathing, motion blur and micro shake. 3.5 to 5 seconds. A fast vertical whip reveals a dramatic overhead fisheye view beside the corner storefront, then descends as she sits on a black sidewalk utility box with both knees raised. Building geometry stretches only as real fisheye optics would. 5 to 7 seconds. Hold a low frontal portrait while buses and cars pass behind her with authentic directional motion blur. She changes posture, taps one foot and looks past camera. Add one brief teal reflection smear during the cut, like an in camera glass flare. 7 to 9 seconds. Cut to a full body low angle against a closed metal shutter. Strong late afternoon sun creates a crisp long shadow. A warm amber light streak crosses during a whip pan. Push into a waist and face portrait, then smear upward into the brick facade. 9 to 11.5 seconds. Return to street level with one sneaker close to lens while she crouches behind it. Snap to a one second macro shot of glossy lips with shallow depth of field, then a handheld selfie distance portrait as she raises two fingers near her sunglasses. Keep skin texture, jewelry reflections and distortion physically plausible. 11.5 to 13.5 seconds. Perform a fast clockwise camera roll while she crouches and braces one hand near the pavement, then settle into another low fisheye seated pose. Her limbs remain anatomically correct with natural weight and balance. Let one shoe swing toward camera for a rhythmic foreground wipe. 13.5 to 15 seconds. Finish beside the shutter in side profile, then cut back to her seated at the corner. Introduce a restrained translucent green digital music visualization above and behind her, integrated through realistic light spill and reflections, never covering her face. End on a three quarter rear pose as a subtle double exposure ghost of her movement slides past and resolves into one clean image. Color grade with cool teal shadows, warm amber highlights, slightly crushed blacks, modest film grain and natural highlight rolloff. Keep real shutter blur, slight rolling shutter on fast pans, tiny autofocus corrections, consistent anatomy and clothing, no face warping, no extra fingers, no floating objects, no plastic skin, no impossible reflections. Use an edgy urban",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-191208/video-eb66e0c349a26609.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-191208/poster-1e6963c541eeedb4.jpg",
+    "format": "video/webm",
+    "videoBytes": 1088034,
+    "videoSha256": "eb66e0c349a26609ec6040d859e87123426f9446ec2f20eb3673bed55acdc069",
+    "thumbnailBytes": 47995,
+    "thumbnailSha256": "1e6963c541eeedb4137b862320e9474d5eed983473c1ee544fa5750efbb78e4c"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

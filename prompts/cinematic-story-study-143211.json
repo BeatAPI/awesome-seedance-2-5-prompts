@@ -1,0 +1,43 @@
+{
+  "slug": "cinematic-story-study-143211",
+  "title": {
+    "en": "Cinematic Story Study 143211",
+    "zh": "Cinematic Story Study 143211"
+  },
+  "description": {
+    "en": "30-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Strength04_X",
+    "url": "https://x.com/Strength04_X/status/2085266065878143211"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Strength04_X/status/2085266065878143211"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Strength04_X/status/2085266065878143211"
+  ],
+  "prompt": "00:00–00:03 — Wide cinematic shot of an abandoned amusement park at dusk. Dark storm clouds roll in fast. A teenage boy in a red jacket walks alone.\n00:03–00:06 — Strong wind hits. A loose metal sign swings violently and crashes behind him. He starts running.\n00:06–00:09 — He reaches the old carousel and climbs onto a faded wooden horse as heavy rain begins.\n00:09–00:12 — Lightning flashes, illuminating the entire park in stark white. The carousel slowly starts turning from the wind.\n00:12–00:15 — Rain hammers the metal roof. He holds on tightly as the carousel spins faster.\n00:15–00:18 — Another lightning strike reveals a girl in a yellow raincoat standing at the entrance, watching him.\n00:18–00:21 — She steps inside the spinning carousel as the storm intensifies.\n00:21–00:24 — The boy looks at her. Both stay silent while rain pours and the ride turns.\n00:24–00:27 — Camera slowly pushes in to a medium two-shot. Another lightning flash freezes the moment.\n00:27–00:30 — Final close-up of their faces as rain streaks down. Atmosphere: eerie, melancholic, charged with quiet tension.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/cinematic-story-study-143211/video-0192e622d767fb4f.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/cinematic-story-study-143211/poster-8b409eac30d9574d.jpg",
+    "format": "video/webm",
+    "videoBytes": 1492243,
+    "videoSha256": "0192e622d767fb4f0f142efd460317386e7de8034fb3f25462be06690e91d680",
+    "thumbnailBytes": 41266,
+    "thumbnailSha256": "8b409eac30d9574df43628b1f180c5884a52bd4df6f5d457b485a479ef381907"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

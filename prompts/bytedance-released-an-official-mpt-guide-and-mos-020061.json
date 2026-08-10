@@ -1,0 +1,43 @@
+{
+  "slug": "bytedance-released-an-official-mpt-guide-and-mos-020061",
+  "title": {
+    "en": "Cinematic Travel Study 020061",
+    "zh": "Cinematic Travel Study 020061"
+  },
+  "description": {
+    "en": "25-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "25 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "25s",
+  "aspectRatio": "43:30",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@twoclipping",
+    "url": "https://x.com/twoclipping/status/2085247950700020061"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/twoclipping/status/2085247950700020061"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/twoclipping/status/2085247950700020061"
+  ],
+  "prompt": "ByteDance released an official Seedance 2.5 prompt guide and most people still don't know it exists\n\ni turned the whole thing into a Claude skill\n\nby the time Seedance 2.5 hits every platform your claude will already be an expert at every prompting style the official ByteDance team uses, while everyone else starts from zero\n\n30 seconds to install, then you just describe what you want\n\n• ultra realistic travel vlogs, same face in every location\n• cinematics that hold 4 characters without drifting\n• meta ads that don't read as AI\n• swap the product in a winning ad, every cut identical\n• bullet time, FPV, one-take, dolly zoom, all named in the spec\n\n23 task types, 67 templates, straight from ByteDance and sitting inside your claude\n\ncomment 'SEEDANCE' and ill send you the skill i built\n(must be following so the dm goes through)",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/bytedance-released-an-official-mpt-guide-and-mos-020061/video-8af66bbcadcaf927.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/bytedance-released-an-official-mpt-guide-and-mos-020061/poster-b699392491f5cafc.jpg",
+    "format": "video/webm",
+    "videoBytes": 2200449,
+    "videoSha256": "8af66bbcadcaf927966825ae25b495802ef04916a3f35dcc4458f2f2c5711407",
+    "thumbnailBytes": 58307,
+    "thumbnailSha256": "b699392491f5cafc8524779edc3f3e9899083c5e77a429c0b7f81ccae8bbeb15"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

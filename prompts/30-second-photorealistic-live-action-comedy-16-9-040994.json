@@ -1,0 +1,43 @@
+{
+  "slug": "30-second-photorealistic-live-action-comedy-16-9-040994",
+  "title": {
+    "en": "Anime Film Study 040994",
+    "zh": "Anime Film Study 040994"
+  },
+  "description": {
+    "en": "30-second animation prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒animation提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "animation",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Naiknelofar788",
+    "url": "https://x.com/Naiknelofar788/status/2086137358358040994"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Naiknelofar788/status/2086137358358040994"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Naiknelofar788/status/2086137358358040994"
+  ],
+  "prompt": "30-second photorealistic live-action comedy, 16:9 horizontal, 4K, 30fps. Adult East Asian woman, late 20s, long glossy black wavy hair, natural makeup, expressive dark eyes. Fitted midnight-blue satin lounge dress, turquoise socks. She carries an ornate navy-and-gold hardcover book with geometric decoration, no readable text.\n\nReal lived-in townhouse bedroom and narrow hallway: honey-oak floors, cream walls, framed art, beige patterned bed, grey velvet bench, faded Persian rug, sheer daylight curtains, cast-iron radiator, vintage brass-and-white ceiling fan. Heavy black medicine ball in hallway. Maintain perfect character, wardrobe, book, prop, environment, lighting and spatial continuity.\n\n0–5s: Waist-height wide 24mm phone-camera shot. She walks toward camera reading, absorbed. Her socked foot hits the medicine ball; she briefly loses balance and protects the book.\n\n5–10s: She stumbles sideways into the bedroom and falls onto the bed. Realistic weight, inertia, hair and satin movement; mattress visibly compresses and rebounds. Book stays in her hands.\n\n10–15s: Side close-up. She sits up, checks the exact line and immediately keeps reading. Ball rebounds behind her, rolls toward her. She notices it, calmly leans backward as it passes her face, sits upright and pulls the blanket over herself without stopping.\n\n15–20s: Low angle toward rotating ceiling fan. Ball bounces into the blades, producing believable collisions, spin, gravity and rebounds. Fan wobbles and dust shakes loose. Ball drops and rolls across the room.\n\n20–24s: Ball hits cast-iron radiator with believable heavy impact, briefly compresses, drops to the wood floor and rolls away. Radiator vibrates subtly.\n\n24–30s: Wide bedside shot. She lies under blanket reading, completely calm. Ball rolls back from hallway and lightly hits bed frame. She stops, looks at it, then slowly looks directly into camera with a deadpan, mildly irritated expression. Beat. She looks back at the book and continues reading. Hold final absurdly calm image for one second.\n\nSTYLE / PHYSICS: Photorealistic live action, authentic human movement, realistic skin, hair, cloth, weight, collisions, gravity, momentum, motion blur and mattress compression. Soft daylight, natural shadows, slight phone-lens distortion, deep focus, subtle handheld vibration and minor exposure shifts. Comedy comes from realistic physics and deadpan reaction, never cartoon behavior.\n\nEDITING / SOUND: Fast comedic cuts with consistent screen direction, one imperfect whip-pan during chaos. Understated comedy music, footsteps, fabric, book sounds, mattress impact, ball collisions, fan wobble, radiator vibration and rolling-ball audio. Music drops during final deadpan look.\n\nNEGATIVE: No subtitles, watermark, readable text, anime, animation, cartoon physics, CGI appearance, exaggerated expressions, object deformation, identity drift or continuity errors.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/30-second-photorealistic-live-action-comedy-16-9-040994/video-447d537c3de4cdd2.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/30-second-photorealistic-live-action-comedy-16-9-040994/poster-2120348cf75c76e6.jpg",
+    "format": "video/webm",
+    "videoBytes": 1090529,
+    "videoSha256": "447d537c3de4cdd2cdf19975c74b71db812ed34dfcd2fc8f813192b807603efb",
+    "thumbnailBytes": 49014,
+    "thumbnailSha256": "2120348cf75c76e6d4d292fb550b8dba60a87f72bb11d23b586ae52f0513b025"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

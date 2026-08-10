@@ -7,6 +7,8 @@ import {
 } from 'node:fs/promises';
 import path from 'node:path';
 
+import { normalizeSourceCategory } from './source-category.mjs';
+
 const sourceRepo = process.env.SEEDANCE_2_5_SOURCE_REPO;
 if (!sourceRepo) {
   throw new Error('SEEDANCE_2_5_SOURCE_REPO is required');
@@ -149,17 +151,6 @@ const categoryLabels = {
   vlog: 'vlog',
 };
 
-const sourceCategoryMap = {
-  action: 'cinematic-action',
-  advertising: 'brand-film',
-  experimental: 'cinematic-story',
-  historical: 'cinematic-story',
-  lifestyle: 'vlog',
-  music: 'music-video',
-  sports: 'brand-film',
-  thriller: 'cinematic-story',
-};
-
 function titleCase(value) {
   return value
     .split('-')
@@ -168,7 +159,7 @@ function titleCase(value) {
 }
 
 function buildEntry(record) {
-  const category = sourceCategoryMap[record.category] ?? record.category;
+  const category = normalizeSourceCategory(record.category);
   const categoryName = categoryLabels[category] ?? category;
   const statusLabel =
     record.output_status === 'official-example'

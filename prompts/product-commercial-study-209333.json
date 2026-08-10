@@ -1,0 +1,43 @@
+{
+  "slug": "product-commercial-study-209333",
+  "title": {
+    "en": "Product Commercial Study 209333",
+    "zh": "Product Commercial Study 209333"
+  },
+  "description": {
+    "en": "30-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@bmx_ai13",
+    "url": "https://x.com/bmx_ai13/status/2086483957219209333"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/bmx_ai13/status/2086483957219209333"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/bmx_ai13/status/2086483957219209333"
+  ],
+  "prompt": "Create a 30 second vertical 9:16 photorealistic lifestyle vlog, filmed entirely as if a young woman is recording her own afternoon using an iPhone Ultra. The video must feel like a genuine social media vlog, not a commercial or traditional cinematic film. CHARACTER CONTINUITY One stylish young woman in her early 20s. Natural expressive face, warm personality, subtle makeup, realistic skin texture, slightly wavy dark-brown hair worn loose. She wears the same outfit throughout the entire video: oversized cream linen shirt over a fitted white top, relaxed blue jeans, small gold hoop earrings, thin necklace, simple shoulder bag. Maintain exactly the same face, hairstyle, outfit, accessories, body proportions and voice throughout every shot. She is confident but casual, speaking naturally to her phone like she is talking directly to her followers. VISUAL STYLE Authentic premium iPhone vlog photography. Natural HDR smartphone exposure, realistic skin tones, subtle computational photography, crisp foreground detail, realistic highlight roll-off, natural depth of field. Slight handheld micro-shake, tiny framing imperfections, natural autofocus shifts and exposure adaptation. Do NOT make the footage look like it was filmed on a cinema camera or stabilized gimbal. Natural late-afternoon golden-hour color palette throughout. Fast but smooth social-media editing. Every cut should happen naturally on a movement, gesture, camera turn or change of location. SHOT 1 — 0:00–0:04 BEDROOM — MIRROR VLOG She stands in front of a full-length bedroom mirror holding the iPhone Ultra in one hand. Medium mirror selfie framing. She quickly fixes one strand of hair, grabs her shoulder bag and smiles at herself through the phone. Slight handheld movement. Warm sunlight enters through the bedroom window. She speaks directly while moving toward the door: GIRL: \"Okay, I have thirty minutes to rescue this boring afternoon.\" Natural playful delivery. CUT as she swings the phone away from the mirror. SHOT 2 — 0:04–0:09 ELEVATOR / HALLWAY — WALKING SELFIE Front-camera handheld selfie. She walks toward the elevator while holding the phone slightly below eye level. The frame gently bounces with her footsteps. Elevator doors open behind her. She looks into the lens and says: GIRL: \"First mission: coffee. Because apparently water isn't enough for my personality.\" She gives a tiny amused smile after saying \"personality.\" Real hallway ambience, footsteps and elevator ding. CUT as she steps inside the elevator. SHOT 3 — 0:09–0:14 CITY STREET — GOLDEN HOUR Jump cut to outdoors. She walks along a stylish city sidewalk. Front-facing wide smartphone camera. Pedestrians and traffic move naturally behind her. Warm golden sunlight hits the side of her face. She briefly turns the phone toward the glowing street, then immediately brings it back toward herself. While walking she says: GIRL: \"Look at this light. Why does everything suddenly look expensive at golden hour?\" She laughs softly at her own comment. Natural traffic, footsteps and distant city ambience. CUT during the camera turn. SHOT 4 — 0:14–0:19 COFFEE SHOP — ORDER ARRIVES Close handheld rear-camera shot of a beautiful oversized iced coffee being placed on the counter. Camera quickly tilts from the drink back toward her face. She raises her eyebrows when she sees how large the cup is. She says: GIRL: \"I said small. They heard emotional-support size.\" She laughs naturally and takes the cup. Realistic coffee-shop ambience: espresso machine hiss, cups touching, quiet conversations. CUT while she lifts the drink toward the camera. SHOT 5 — 0:19–0:25 CAFÉ WINDOW — PERSONAL MOMENT She sits beside a large café window. The iPhone is now positioned naturally against something on the table, creating a casual static vlog frame. Medium close-up. Warm sunlight falls across her face. She takes a sip, looks outside for half a second, then looks directly back toward the phone. Her energy becomes slightly softer and more sincere. She says: GIRL: \"You know what? This might actually be the best part of my day.\" Small genuine smile. She reaches forward and picks up the phone. CUT naturally as her hand covers part of the lens. SHOT 6 — 0:25–0:30 OUTSIDE CAFÉ — WALKING ENDING Immediate handheld selfie shot outside the café. She walks down the sidewalk holding her coffee. Golden-hour city background. Natural movement and slight lens flare. She looks directly into the camera while walking and says: GIRL: \"Tiny plan, good coffee, better mood. I'll take it. See you tomorrow.\" She smiles, moves the phone slightly closer to her face and casually covers the lens with her hand. END. AUDIO DIRECTION Generate native synchronized dialogue audio. Same female voice throughout all six shots. Voice should sound close to an actual iPhone microphone: clean but not studio-recorded. Perfect natural lip synchronization. Conversational English delivery with small pauses, breaths, tiny laughs and realistic vocal imperfections. Dialogue must never sound like narration or advertising. Every spoken line comes directly from the woman visible in that shot. Maintain realistic spatial ambience for each location: bedroom room tone, footsteps and elevator ding, city traffic, coffee-shop ambience, cups and espresso-machine sounds. No voice-over. No narrator. No background music. Dialogue and environmental sound only. IMPORTANT CONTINUITY RULES Maintain one identical woman throughout the entire 30 seconds. No facial changes between cuts. No hairstyle changes. No outfit changes. No unexplained objects appearing or disappearing. Keep the same late-afternoon time of day and warm visual palette. Preserve spatially realistic body motion and hand anatomy. Keep smartphone-style framing throughout. Use genuine vlog editing rather than cinematic montage editing. All six scenes belong to one continuous afternoon. DO NOT GENERATE No subtitles. No captions. No floating text. No logos or watermarks. No beauty-filter skin. No exaggerated cinematic bokeh. No impossible camera movement. No drone shots. No third-person cinematic shots. No random music. No additional speakers. No duplicated character. No dialogue assigned to the wrong shot. No dialogue continuing across a cut unless naturally motivated. Final result should feel like a real 30-second iPhone Ultra vlog casually filmed and edited by the woman herself, with believable dialogue, imperfect handheld framing, natural reactions, strong character continuity and seamless multi-shot storytelling.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-209333/video-796cc0f305081e8a.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-209333/poster-8ca023c7dd321f95.jpg",
+    "format": "video/webm",
+    "videoBytes": 2337797,
+    "videoSha256": "796cc0f305081e8a106e933ce3929d2ac877b0150f5a6614b697f5d4803751a0",
+    "thumbnailBytes": 45064,
+    "thumbnailSha256": "8ca023c7dd321f95880a64245f8bcc677ca1f35059ae2fb8b4166fb7fd906c17"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

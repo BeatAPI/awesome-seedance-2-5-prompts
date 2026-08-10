@@ -1,0 +1,43 @@
+{
+  "slug": "fantasy-film-study-565204",
+  "title": {
+    "en": "Fantasy Film Study 565204",
+    "zh": "Fantasy Film Study 565204"
+  },
+  "description": {
+    "en": "30-second fantasy prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒fantasy提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "fantasy",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Dheepanratnam",
+    "url": "https://x.com/Dheepanratnam/status/2085701526920565204"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Dheepanratnam/status/2085701526920565204"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Dheepanratnam/status/2085701526920565204"
+  ],
+  "prompt": "☀️ Pushing atmospheric lighting and complex particle VFX inside Seedance 2.5.\n\nFrom a single Midjourney concept render to a\n30s dark-fantasy intro trailer with glowing plasma, solar disintegration, and dynamic audio cues\n\nall rendered in a single generation.Full prompt breakdown in the thread below 👇 🧵\n\nRef image + Sharing Prompt in Thread Reply ⤵️\n@dreamina_ai",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/fantasy-film-study-565204/video-999f8eace5c51712.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/fantasy-film-study-565204/poster-11b6456b8eb4a68a.jpg",
+    "format": "video/webm",
+    "videoBytes": 2566224,
+    "videoSha256": "999f8eace5c51712e619ddbd3ffba8c0bfe12d6dc54d6d706614e9e73a32798a",
+    "thumbnailBytes": 61346,
+    "thumbnailSha256": "11b6456b8eb4a68a4334f31273022b59c4866859e160b066ef7cb422213b17fe"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

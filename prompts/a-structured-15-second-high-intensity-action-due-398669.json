@@ -1,0 +1,43 @@
+{
+  "slug": "a-structured-15-second-high-intensity-action-due-398669",
+  "title": {
+    "en": "Action Film Study 398669",
+    "zh": "Action Film Study 398669"
+  },
+  "description": {
+    "en": "15-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒cinematic action提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Langby2",
+    "url": "https://x.com/Langby2/status/2086494563347398669"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Langby2/status/2086494563347398669"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Langby2/status/2086494563347398669"
+  ],
+  "prompt": "A structured 15-second high-intensity action duel with explicit hard cuts. [SHOT 1: 0s-4s] Dissolving smoke on the lantern-lit street reveals the dark warlord unharmed, standing tall as his eyes glow with fierce red energy, raising his black dragon staff. [HARD CUT TO SHOT 2: 4s-8s] Dynamic low-angle tracking shot of the beautiful white-robed female swordswoman sprinting forward at lightning speed across the stone cobblestones, her glowing silver sword leaving a trail of blue light, white silk dress fluttering. [HARD CUT TO SHOT 3: 8s-15s] Intense close-quarters martial arts collision! The female swordswoman leaps and strikes her silver sword violently against the warlord's dragon staff, unleashing a blinding explosion of bright sparks and shockwaves. They rapidly exchange three furious parries—a spin kick, a staff thrust, and a sword slash—ending in a fierce weapon lock-up with intense face-to-face eye contact under floating red lanterns.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/a-structured-15-second-high-intensity-action-due-398669/video-0b307f3b0df4248b.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/a-structured-15-second-high-intensity-action-due-398669/poster-4865ca414cd619f3.jpg",
+    "format": "video/webm",
+    "videoBytes": 1335331,
+    "videoSha256": "0b307f3b0df4248b5efb3a361fbf38eb146047aabae7c37304f2326799159932",
+    "thumbnailBytes": 73514,
+    "thumbnailSha256": "4865ca414cd619f3edefe93b42c656287aefa9bc52fefca4e45fd3738f969396"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "i-just-created-this-entire-animated-short-using-341887",
+  "title": {
+    "en": "Animation Study 341887",
+    "zh": "Animation Study 341887"
+  },
+  "description": {
+    "en": "30-second animation prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒animation提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "animation",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ManuAGI01",
+    "url": "https://x.com/ManuAGI01/status/2086035048701341887"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/ManuAGI01/status/2086035048701341887"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/ManuAGI01/status/2086035048701341887"
+  ],
+  "prompt": "I just created this entire animated short using Seedance 2.5 on @higgsfield  — pure Text-to-Video. 🤯\n\n- No storyboard.\n- No character images.\n- No reference frames.\n\nJust one detailed prompt → a full 30-second story.\n\n“The Cloud That Followed One Sad Boy” ☁️❤️\n\nSeedance 2.5 is getting seriously good at:\n\n• Character consistency\n• Cinematic camera movement\n• Emotional storytelling\n• Dialogue + sound\n• 3D animation\n\nThis is probably one of my favorite AI animation tests so far.\n\nWould you watch a full series made like this? 👀",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/i-just-created-this-entire-animated-short-using-341887/video-fa2aa479f20f62da.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/i-just-created-this-entire-animated-short-using-341887/poster-8febb7853c53c140.jpg",
+    "format": "video/webm",
+    "videoBytes": 2222159,
+    "videoSha256": "fa2aa479f20f62da79d0c1385c11515e84bd23217a9c2f46c56eaa8240be78b5",
+    "thumbnailBytes": 69062,
+    "thumbnailSha256": "8febb7853c53c140bdbf98468b89a76ac0adfbaf0a8e0a214621b3cbac674c8b"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

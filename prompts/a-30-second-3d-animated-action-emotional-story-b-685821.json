@@ -1,0 +1,43 @@
+{
+  "slug": "a-30-second-3d-animated-action-emotional-story-b-685821",
+  "title": {
+    "en": "A 30-second 3D animated action + emotional story built around",
+    "zh": "A 30-second 3D animated action + emotional story built around"
+  },
+  "description": {
+    "en": "30-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒cinematic action提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ManuAGI01",
+    "url": "https://x.com/ManuAGI01/status/2085932403596685821"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/ManuAGI01/status/2085932403596685821"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/ManuAGI01/status/2085932403596685821"
+  ],
+  "prompt": "A 30-second 3D animated action + emotional story built around one character image.\n\n- Sword fights.\n- Cinematic camera movement.\n- Character consistency.\n- Facial emotion.\n- Storytelling.\n- A real emotional payoff.\n\nAnd Seedance 2.5 handled it surprisingly well.\n\nThe craziest part?\n\nIt feels less like generating random clips and more like directing a mini animated movie with a prompt.\n\nAI filmmaking is getting wild. 🔥\n\nWatch till the ending ...🎬\n\nPrompt & character details...👇",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/a-30-second-3d-animated-action-emotional-story-b-685821/video-fafc0fb10175d81d.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/a-30-second-3d-animated-action-emotional-story-b-685821/poster-c9f1a5faa82c731f.jpg",
+    "format": "video/webm",
+    "videoBytes": 1903167,
+    "videoSha256": "fafc0fb10175d81dac380546bdf60123f2544518b89030e2fa04d0b92e5ad856",
+    "thumbnailBytes": 48392,
+    "thumbnailSha256": "c9f1a5faa82c731fd5a9fdd6ca0d0d28399bdfbbc69f4741489af09cf7531996"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

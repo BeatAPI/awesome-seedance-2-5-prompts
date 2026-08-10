@@ -1,0 +1,43 @@
+{
+  "slug": "tokyo-fisheye-streetwear-fashion-film-562052",
+  "title": {
+    "en": "Tokyo Fisheye Streetwear Fashion Film",
+    "zh": "Tokyo Fisheye Streetwear Fashion Film"
+  },
+  "description": {
+    "en": "20-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "20 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "text-generation",
+  "mode": "text-to-video",
+  "duration": "20s",
+  "aspectRatio": "427:240",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@bmx_ai13",
+    "url": "https://x.com/bmx_ai13/status/2083814808319562052"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/bmx_ai13/status/2083814808319562052"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/bmx_ai13/status/2083814808319562052"
+  ],
+  "prompt": "Cinematic 13-second raw handheld streetwear fashion video shot on 8mm vintage fisheye lens, ultra wide 16mm perspective, fast-paced energetic Tokyo urban night sequence, dynamic raw Y2K hip hop aesthetic, 16:9 aspect ratio. 0 to 2 seconds: Extreme close-up opening through a narrow vertical zipper slit in pitch blackness, revealing a young Asian man wearing a black streetwear bucket hat and embroidered jacket crouching down. The camera rapidly pans out through the slit into a super wide fisheye low-angle perspective looking up at two young men standing in a glowing Tokyo street corner at night surrounded by tall neon skyscrapers under dark skies. 2 to 4 seconds: Quick handheld whip-pan to the right down a neon lit sidewalk. A young black man with braided hair wearing a bright royal blue sweater with yellow lettering and a green paisley scarf steps casually through the frame while gesturing at the camera. Fast rotational motion blur transition sweeps across the screen. 4 to 6 seconds: Scene cuts smoothly inside a bright Japanese claw machine arcade filled with pastel pink interior walls and fluorescent overhead lights. The camera tracks backward as the young man in the blue sweater walks forward holding a small pink object to his ear while smiling and talking. An animated stylized liquid frame graphic swirls briefly around the edges of the frame. 6 to 8 seconds: Seamless cut to a retro mint green fast-food diner booth with warm overhead hanging lamp lighting. Low-angle wide view on the white tabletop as the man in the blue sweater reaches his hand directly toward the camera glass offering food. A quick dynamic psychedelic thermal infrared visual effect flashes over the screen for half a second showing vivid heat map colors of red, neon green, and deep blue before snapping back to real life. 8 to 10 seconds: The second man wearing the black jacket suddenly pops up from the diner table with an energetic reaction, holding a drink cup as the camera sweeps low. Fast cut to outdoors on a night street where both men walk along the pavement and high five each other in motion under glowing urban shop signs. 10 to 13 seconds: Camera drops to an extreme ground-level fisheye lens pointing straight up from the asphalt of a narrow alleyway. Both men loom over the lens under vertical glowing Japanese neon signboards. One subject stoops down and reaches his palm directly over the camera lens, causing a rapid spinning rotational motion blur that wipes the screen to black. Visual details: Authentic analog film grain, natural subtle lens distortion, realistic handheld camera shake, rich contrasty neon lighting, crisp reflections on pavement, high energy streetwear styling, realistic 90s hip hop music video camera direction. Audio includes an upbeat boom bap 90s hip hop beat with heavy bass, classic vinyl scratches, energetic vocal chops, synth accents, dynamic street ambiance, arcade sound effects, and clean rhythmic percussion layered throughout.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/tokyo-fisheye-streetwear-fashion-film-562052/video-ac0b004df3b00171.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/tokyo-fisheye-streetwear-fashion-film-562052/poster-a8d15527be0ab0a4.jpg",
+    "format": "video/webm",
+    "videoBytes": 1147312,
+    "videoSha256": "ac0b004df3b00171dc3d163aba4a98f9d3dd171f8361d414ebd7174ad01d00a6",
+    "thumbnailBytes": 42792,
+    "thumbnailSha256": "a8d15527be0ab0a42fb6319b8c836c7ca7e2fbe11b2d6f3eae33ab51f1437a16"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}
