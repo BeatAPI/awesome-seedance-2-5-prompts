@@ -204,8 +204,6 @@ const gallery = `${startMarker}
 
 **Browse by use case:** ${useCaseLinks}
 
-**[Browse all ${entries.length} prompts](./prompts/README.md)**
-
 ${entries.slice(0, featuredCount).map((entry, index) => renderEntry(entry, index)).join('\n\n')}
 
 ${endMarker}

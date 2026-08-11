@@ -26,8 +26,6 @@ remain consistent.
 
 **Browse by use case:** [Stories & Films](./prompts/use-cases/stories-films.md) · [Action & Fantasy](./prompts/use-cases/action-fantasy.md) · [Ads & Products](./prompts/use-cases/ads-products.md) · [Music & Performance](./prompts/use-cases/music-performance.md) · [Vlog & Social](./prompts/use-cases/vlog-social.md)
 
-**[Browse all 200 prompts](./prompts/README.md)**
-
 ### 1. Vietnamese Mythic Sea Battle
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/vietnamese-mythic-sea-battle/video-e03498e492c4affa.webm">

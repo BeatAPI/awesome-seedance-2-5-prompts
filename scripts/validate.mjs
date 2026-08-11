@@ -37,7 +37,9 @@ assert.equal(
   'README should display a bounded featured gallery'
 );
 assert.ok(
-  englishReadme.includes(`Browse all ${catalog.prompts.length} prompts`),
+  englishReadme.includes(
+    `Browse all ${catalog.prompts.length} prompt + video examples`
+  ),
   'README should link to the full generated catalog'
 );
 const pageSize = 25;
