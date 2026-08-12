@@ -1,0 +1,43 @@
+{
+  "slug": "film-empresses-in-the-palace-segment-the-jinghong-dance-967532",
+  "title": {
+    "en": "Film: *Empresses in the Palace* 甄嬛传 Segment: The Jinghong Dance 惊鸿舞",
+    "zh": "Film: *Empresses in the Palace* 甄嬛传 Segment: The Jinghong Dance 惊鸿舞"
+  },
+  "description": {
+    "en": "30-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ibestools",
+    "url": "https://x.com/ibestools/status/2086739067014967532"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/ibestools/status/2086739067014967532"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/ibestools/status/2086739067014967532"
+  ],
+  "prompt": "[STYLE + CAMERA + ATMOSPHERE]\nOpulent Qing-dynasty palace drama television look, shot on ARRI Alexa with warm amber candlelit tones mixed with cool jade accents, refined ceremonial atmosphere. Slow circling crane shots combined with graceful tracking movements, elegant restrained pacing throughout.\n\n[CHARACTERS]\nA young elegant woman with an elaborate traditional updo adorned with pearl and jade ornaments, dressed in a flowing pale silk gown with wide draping sleeves, moving with graceful controlled fluidity. Seated nobility and officials in formal Qing-dynasty attire watching intently from surrounding cushioned seats.\n\n[LOCATION]\nGrand imperial palace hall with red lacquered pillars, intricate carved wooden screens, warm lantern light glowing against dark polished floors, silk banners hanging from high ceilings.\n\n[TIMELINE]\n0-6s: [Wide crane shot descending into the hall] The woman stands center stage in the flowing pale gown, arms raised gracefully as soft instrumental music implied through her poised stillness, seated guests watching with anticipation.\n\n6-12s: [Slow circling tracking shot around her] She begins moving through a series of fluid controlled poses, wide sleeves trailing through the air like wings, jade ornaments catching the lantern light.\n\n12-18s: [Low tracking shot following her sleeve movements] Her long sleeves sweep low and rise again in perfect synchronization with her turning steps, silk fabric rippling elegantly with each motion.\n\n18-24s: [Medium shot capturing a dramatic spin] She executes a graceful spinning turn, sleeves flaring outward in a wide circular arc, expression serene yet intensely focused, seated guests leaning forward in admiration.\n\n24-30s: [Wide pull-back crane shot] She settles into a final elegant pose, sleeves draping gently to the floor, the entire hall falling into a moment of hushed appreciation before quiet approving murmurs ripple through the seated guests.\n\n[STYLE & QUALITY BOOSTERS]\nExact period production texture of premium Qing-dynasty court drama, coherent silk fabric and sleeve physics, stable character continuity, warm lantern-lit color grading, no modern digital sharpness, refined ceremonial grace throughout.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/film-empresses-in-the-palace-segment-the-jinghong-dance-967532/video-bb3b77fd4b70d47b.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/film-empresses-in-the-palace-segment-the-jinghong-dance-967532/poster-313033683cc3665b.jpg",
+    "format": "video/webm",
+    "videoBytes": 2409449,
+    "videoSha256": "bb3b77fd4b70d47b58fb4816ef4b4f750321fc5fb0b77318b9663a8ee01ee40f",
+    "thumbnailBytes": 50609,
+    "thumbnailSha256": "313033683cc3665b61f2a637d5ba256293384bf032cd7aa71febb9ba1e245565"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

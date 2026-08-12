@@ -1,0 +1,44 @@
+{
+  "slug": "expression-motion-light-different-class-from-2-0-937224",
+  "title": {
+    "en": "expression, motion, light. different class from 2.0.",
+    "zh": "expression, motion, light. different class from 2.0."
+  },
+  "description": {
+    "en": "30-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Iancu_ai",
+    "url": "https://x.com/Iancu_ai/status/2085751213534937224"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/Iancu_ai/status/2085751217670455455"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Iancu_ai/status/2085751213534937224"
+  ],
+  "prompt": "Use reference image 1 for the lead. Her look must stay identical to\nimage 1 for the entire video. Ignore any UI or text in the image.\nThe video has exactly one lead. Every shot is built around her.\nOther people appear only briefly as background figures, ghostly\naudience members or blurred dancers. Every face except the lead's\nmust be blurred, or hidden behind curtains, candelabra, hat brims,\nveils, backlight or foreground objects. No second face may ever be\nreadable. No second lead.\n\nStyle: gothic dark female vocal music video, live-action cinematic.\nRuin romance, Victorian mourning aesthetic, cold mystery. Locations\nrun from rain-soaked stone steps to a flooded opera house hall, a\nred velvet stage, and a corridor of shattered mirrors. Rain streaks,\ncandle flame, drifting dust, volumetric light, light film grain,\nsuspended particles in the air.\nPalette: ink black, cold stone grey, dark wine red, moon white. The\nonly warm light source is candle flame and chandeliers. The image\nmust be high contrast. Blacks crushed to full black, highlights with\na visible source. No flat washed-out grey image.\n\nLIGHTING BAN, HIGHEST PRIORITY: lens flares, bokeh orbs, glare and\nout-of-focus foreground objects may only appear at the edges of frame\nor behind the subject. At no point may any of them cover, obstruct or\nland on the lead's face. Her features stay clearly readable\nthroughout.\n\nCAMERA: the camera never stops. Every beat has a clear, obvious\ndisplacement. No locked-off shots, no tripod. Close-ups, medium,\nwide, all of them, cut often but naturally. Transitions happen\nthrough a curtain sweeping past, a rain sheet, candle flame blowing\nout the exposure, a mirror reflection, or the subject walking through\nframe. Never soften a camera move with words like \"slight\" or \"slow\".\n\nMUSIC, GLOBAL: gothic dark female pop, 3/4 dark waltz, around 86 BPM.\nCello, harpsichord, deep heartbeat drum, female lead vocal, wordless\nfemale choir bed. Young female voice, cold and airy with a\nsuppressed vibrato. English lyrics with a clear hook. Backing track\nloud, full low end, clear drums.\n\n0-5s [MUSIC: rain, distant thunder and one isolated sustained cello\nnote. No vocal, no drums.] Rain at night on the wide stone steps of\nan abandoned opera house. The lead stands alone halfway up, her black\ngothic dress soaked, rain streaking through the porch light behind\nher. Camera starts on an extreme wide from above, dives down along\nthe steps, pushes in to a medium, and settles as she lifts her chin.\nBackground: two blurred figures under black umbrellas walk up the\nsteps from the left and right edges, backs to camera, never turning\naround. No lyrics, no lip sync.\n\n5-10s [MUSIC: heartbeat drum and harpsichord enter together, the\nwaltz locks in, verse begins.] Cut inside the hall. A sheet of\nstanding water on the floor reflects the broken chandeliers above.\nShe walks through it, each step throwing ripples. Camera tracks\nsideways low over the water surface, catches the reflection first,\nthen tilts up to a close-up of her face, then cuts to her fingertips\ndragging along a wet stone column. Background: three figures with\nblurred faces sit motionless in the audience seats, backs to camera,",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/expression-motion-light-different-class-from-2-0-937224/video-5993c98f30b467cb.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/expression-motion-light-different-class-from-2-0-937224/poster-8c8bb136f1601aa2.jpg",
+    "format": "video/webm",
+    "videoBytes": 2430981,
+    "videoSha256": "5993c98f30b467cbe33b319b631c6d560c2b207a7de023aca0335df1415e3812",
+    "thumbnailBytes": 86364,
+    "thumbnailSha256": "8c8bb136f1601aa2cce85a5210218e66490537cd886814b43f9e51046b833f78"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

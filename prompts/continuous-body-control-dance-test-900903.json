@@ -29,7 +29,7 @@
   "modelEvidenceUrls": [
     "https://x.com/noman23761/status/2083478189028900903"
   ],
-  "prompt": "Every movement is precisely synchronized to the beat. The dancer alternates between quick hip pulses, controlled hip drops, figure-eight hip rolls, and rapid side-to-side shakes. Motion remains smooth, physically accurate, and continuous with realistic muscle dynamics and balanced body mechanics. Professional dance performance, energetic, expressive, high-quality motion capture style.\n\nI'm planning to run more experiments with different choreography styles and prompts. Curious to see how it compares with other video models using the same prompt.",
+  "prompt": "Every movement is precisely synchronized to the beat. The dancer alternates between quick hip pulses, controlled hip drops, figure-eight hip rolls, and rapid side-to-side shakes. Motion remains smooth, physically accurate, and continuous with realistic muscle dynamics and balanced body mechanics. Professional dance performance, energetic, expressive, high-quality motion capture style.",
   "media": {
     "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/continuous-body-control-dance-test-900903/video-ce32b9dcf44a7daf.webm",
     "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/continuous-body-control-dance-test-900903/poster-337e62e08b39fe2a.jpg",

@@ -1,0 +1,43 @@
+{
+  "slug": "create-a-30-second-ultra-realistic-documentary-home-video-of-620321",
+  "title": {
+    "en": "Create a 30-second ultra-realistic documentary/home-video of the SAME young",
+    "zh": "Create a 30-second ultra-realistic documentary/home-video of the SAME young"
+  },
+  "description": {
+    "en": "30-second vlog prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒vlog提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "vlog",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@john_my07",
+    "url": "https://x.com/john_my07/status/2087119362486620321"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/john_my07/status/2087119362486620321"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/john_my07/status/2087119362486620321"
+  ],
+  "prompt": "Create a 30-second ultra-realistic documentary/home-video of the SAME young Korean woman throughout. Early 20s, natural appearance, realistic skin, minimal makeup, warm personality. Faded charcoal-grey sleeveless crop top, loose high-waisted light-wash jeans, black canvas sneakers, black cord necklace. Black wavy hair in a messy side ponytail with wispy bangs. Keep identical face, body, outfit, hairstyle and identity throughout.\n\nLocation: Quiet authentic Korean residential neighborhood in late morning: narrow concrete alleys, low-rise homes, terraces, potted plants, laundry lines, bicycles, utility poles, overhead wires, mature trees and weathered concrete walls. No shops, cafés, ads, crowds or commercial activity.\n\nVisual style: Ultra-realistic candid documentary footage with genuine unscripted behavior. Early-2000s consumer DV camcorder aesthetic, casually filmed by a friend: heavy handheld shake, imperfect framing, autofocus hunting, lens breathing, exposure pumping between sun/shade, occasional motion blur, subtle rolling shutter, mild compression artifacts, faded colors, soft contrast and slight sensor noise. No stabilization, cinematic moves, modern grading or beauty filters.\n\n00:00–00:03: Outside a small house, she sits on a low concrete wall adjusting her ponytail with both hands. Breeze moves loose hair. She smiles naturally. Camera struggles to focus.\n\n00:03–00:06: She walks into the narrow alley. Camera follows imperfectly. She briefly looks back. Moving tree shadows and sunlight naturally affect exposure.\n\n00:06–00:09: A stray cat approaches. She notices it, smiles and crouches down. Camera reacts slightly late and drifts off-center.\n\n00:09–00:12: She gently pets and feeds the cat. Autofocus shifts between her face and the animal. Leaves create flickering sunlight.\n\n00:12–00:15: She continues down the alley, casually avoiding a bicycle. She smiles at something off-camera. Camera briefly points too low before correcting.\n\n00:15–00:18: Beside her house, she hangs laundry. Fabrics sway in the breeze. Clouds briefly cover the sun, causing natural exposure changes.\n\n00:18–00:21: She fixes a piece of laundry, gives a small laugh and brushes hair away. Camera moves slightly closer with imperfect autofocus.\n\n00:21–00:24: On a quiet terrace, she sits with a ceramic coffee cup, takes a sip and watches the neighborhood. She brushes hair behind her ear. Loose handheld side angle.\n\n00:24–00:26: Close side profile. Someone off-camera greets her. She turns, waves, smiles warmly and says, “Annyeong.” Camera catches it slightly late and briefly loses focus.\n\n00:26–00:29: She walks slowly down a tree-lined residential lane holding the coffee cup. She notices the camera, gives a small genuine smile, looks away and continues walking.\n\n00:29–00:30: Camera shakes and drifts toward the trees/houses. Recording abruptly cuts to black mid-motion, like an old camcorder being switched off.\n\nAudio: Natural ambience only — birds, distant motorcycles, wind, leaves, faint chatter, cat sounds, footsteps and laundry movement. “Annyeong” clearly audible. No music, narration or sound design.\n\nGoal: One continuous-feeling forgotten early-2000s Korean home video: warm, candid, imperfect and deeply believable. Natural blinking, breathing, walking, expressions and environmental motion. No staged poses, glossy skin, cinematic movement, modern color grading or AI-looking perfection.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/create-a-30-second-ultra-realistic-documentary-home-video-of-620321/video-b51bdf9fed1d559e.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/create-a-30-second-ultra-realistic-documentary-home-video-of-620321/poster-1fd813bd20ea05ef.jpg",
+    "format": "video/webm",
+    "videoBytes": 2753446,
+    "videoSha256": "b51bdf9fed1d559e1a19bed3c0ff98e11f061c5a27b603b9039ff918db32bc59",
+    "thumbnailBytes": 99899,
+    "thumbnailSha256": "1fd813bd20ea05ef4adcf5198169934369ea066ef06f6c95dd132de9f5de81f8"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

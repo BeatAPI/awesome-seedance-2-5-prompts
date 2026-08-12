@@ -1,0 +1,43 @@
+{
+  "slug": "y-han-abierto-el-proyecto-al-pblico-086191",
+  "title": {
+    "en": "Y han abierto el proyecto al público",
+    "zh": "Y han abierto el proyecto al público"
+  },
+  "description": {
+    "en": "32-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "32 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "32s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@igus_ai",
+    "url": "https://x.com/igus_ai/status/2087188574194086191"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/igus_ai/status/2087188574194086191"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/igus_ai/status/2087188574194086191"
+  ],
+  "prompt": "• cada asset\n• cada decisión de escena\n\n2.000.000$ de producción, 28 personas en 4 semanas, estreno mundial el 5 de agosto en The Glasshouse de Nueva York.\n\nTodo el proceso es tuyo ahora. Puedes hacer con el proyecto lo que quieras.\n\nTodo hecho con Seedance 2.5 en Higgsfield.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/y-han-abierto-el-proyecto-al-pblico-086191/video-80a83f86bfb0090c.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/y-han-abierto-el-proyecto-al-pblico-086191/poster-941fb3bb5144dfe5.jpg",
+    "format": "video/webm",
+    "videoBytes": 1331955,
+    "videoSha256": "80a83f86bfb0090cff1894e94325a9e0d905edb5a8204e0c8fa2ede16c757c25",
+    "thumbnailBytes": 50066,
+    "thumbnailSha256": "941fb3bb5144dfe532d9832e2d1c6f970a9891b4bec03b68053b4f884308f119"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

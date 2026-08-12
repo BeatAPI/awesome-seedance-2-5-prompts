@@ -1,0 +1,43 @@
+{
+  "slug": "created-with-seedance-2-5-on-822971",
+  "title": {
+    "en": "Created with Seedance 2.5 on",
+    "zh": "Created with Seedance 2.5 on"
+  },
+  "description": {
+    "en": "30-second animation prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒animation提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "animation",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@MrDasOnX",
+    "url": "https://x.com/MrDasOnX/status/2087099309057822971"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/MrDasOnX/status/2087099309057822971"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/MrDasOnX/status/2087099309057822971"
+  ],
+  "prompt": "Create a charming 30-second animated cinematic story told as one continuous uninterrupted shot, with no cuts or transitions. A tiny fluffy golden puppy discovers a small orange-and-white kitten sitting alone beside a flower-covered garden fence. The puppy gently approaches and offers the kitten a tiny red flower. The kitten becomes curious, smiles, and follows the puppy into a magical backyard filled with oversized flowers, glowing fireflies, colorful butterflies, and floating soap bubbles. They playfully chase the bubbles together, jumping and tumbling through soft grass. The puppy suddenly notices a small wooden bridge over a sparkling stream and runs across it, with the kitten happily chasing behind. Halfway across, the kitten pauses nervously, so the puppy turns back and gently encourages the kitten forward. They cross together and reach a beautiful hill overlooking the glowing garden at sunset. The puppy and kitten sit side by side as dozens of fireflies illuminate the scene around them. The kitten rests its head against the puppy while the puppy gently leans toward it. End with the camera slowly rising above them, revealing the entire magical garden glowing beneath the warm evening sky. Adorable stylized 3D animation, expressive faces, soft fur, playful body language, whimsical environments, smooth character animation, cinematic depth of field, warm lighting, consistent character design, detailed environment, emotional storytelling, seamless camera movement, no dialogue, no text, no cuts.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-on-822971/video-9bc5f48c72d506ac.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-on-822971/poster-a9607a2eb380559e.jpg",
+    "format": "video/webm",
+    "videoBytes": 2444494,
+    "videoSha256": "9bc5f48c72d506acf75e2ff35eca439cf3ebfc8286afc5eebcfae5b63e98676e",
+    "thumbnailBytes": 61851,
+    "thumbnailSha256": "a9607a2eb380559e8c81c2e62aaec857ae405e20c68ad0994f84cc243d396225"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "made-with-seedance-2-5-on-576337",
+  "title": {
+    "en": "Made with Seedance 2.5 on",
+    "zh": "Made with Seedance 2.5 on"
+  },
+  "description": {
+    "en": "30-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@aziz4ai",
+    "url": "https://x.com/aziz4ai/status/2087161332298576337"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/aziz4ai/status/2087161336526520538"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/aziz4ai/status/2087161332298576337"
+  ],
+  "prompt": "[DIY BUILD: __________________]\n\nCreate a highly satisfying cinematic DIY build video of [DIY BUILD], starting from completely raw materials and ending with the fully finished, functional object.\n\nAutomatically infer the correct materials, tools, fabrication methods, assembly logic, and finishing techniques required specifically for this object.\n\nShow the entire transformation as one visually coherent construction journey:\n\nempty workspace → raw materials → measuring → cutting/shaping → component preparation → progressive assembly → structural details → functional parts → finishing → final reveal.\n\nEvery visible change must have a physical cause. Nothing appears magically. Every component must originate from previously shown materials and remain geometrically consistent throughout the build.\n\nCompress repetitive work intelligently with seamless match cuts and satisfying action-driven transitions: a tool movement, hand movement, rotating part, falling material, dust burst, paint stroke, or component placement naturally bridges into the next construction stage.\n\nMake each step increasingly reveal the final form.\n\nUse premium DIY cinematography: overhead shots for assembly, extreme macro shots for craftsmanship, close-ups of tools contacting materials, smooth tracking shots, tactile textures, realistic hands, physically accurate interactions, natural workshop lighting, shallow depth of field, subtle particles, crisp photorealistic detail.\n\nPacing begins mysterious and methodical, accelerates through construction, then slows for the final satisfying assembly.\n\nEnd with the last component clicking perfectly into place. Hands leave frame. Reveal the completed [DIY BUILD] in a clean cinematic hero shot, clearly showing that the final object is the logical result of everything constructed before it.\n\nMaintain strict continuity of scale, geometry, materials, components, tools, hands, workspace, and construction progress. No teleporting parts, instant unexplained transformations, duplicate pieces, impossible fabrication, warped tools, malformed hands, floating objects, or spontaneous completion.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-on-576337/video-c9badc8d8df5f12a.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-on-576337/poster-cbb66153cdddac7b.jpg",
+    "format": "video/webm",
+    "videoBytes": 1258041,
+    "videoSha256": "c9badc8d8df5f12ac296dbd4a3f97e80fde95dc9d1197cd23c27e412c949b38c",
+    "thumbnailBytes": 41872,
+    "thumbnailSha256": "cbb66153cdddac7baa41760802f840d338f07e7a111e7582f6fe79be40f81c44"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

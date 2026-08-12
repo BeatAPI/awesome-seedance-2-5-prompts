@@ -1,0 +1,44 @@
+{
+  "slug": "justice-awakens-the-scales-of-truth-begin-to-move-887120",
+  "title": {
+    "en": "Justice awakens. The scales of truth begin to move.",
+    "zh": "Justice awakens. The scales of truth begin to move."
+  },
+  "description": {
+    "en": "19-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "19 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "19s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@FaithAifilm",
+    "url": "https://x.com/FaithAifilm/status/2086732642649887120"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/FaithAifilm/status/2086732642649887120"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/FaithAifilm/status/2086732642649887120"
+  ],
+  "prompt": "0:01–0:02 — THE WOMAN AWAKENS CAMERA MOVEMENT: FPV camera gently rises and moves diagonally left. It passes just above the kneeling woman's shoulder. The camera creates strong foreground/background parallax. ACTOR: The kneeling woman subtly raises her chin. Her extended hand trembles. ENVIRONMENT: The blue veil responds to a faint airflow. FOLEY: Soft fabric rustle. 0:02–0:03 — THE CHILD CAMERA: Brief controlled banking movement toward the child. Do not stop completely. CHILD: Tiny chest movement from breathing. One tiny finger moves against the wrapping cloth. MOTHER: Her arm instinctively tightens slightly around the child. FACIAL EXPRESSION: Fear mixed with determination. LIGHT: Warm light touches the child's pale wrapping. 0:03–0:04 — THE HAND OF DESPERATION CAMERA: FPV camera rises past the mother's extended hand. The fingertips move slightly toward Justice. The camera passes within inches of the fingers. FOLEY: Soft skin/fabric movement. ACTOR: The woman's fingers tremble once. She looks toward the blindfolded figure. 0:04–0:05 — ENTER THE SCALES CAMERA MOVEMENT: The FPV drone accelerates gently upward. The balance scales enter the center of frame. The camera flies between the two hanging bowls. The bowls swing naturally from the camera's displaced air. FOLEY: small metallic clink Then: chain creak PHYSICS: The scales oscillate realistically. 0:05–0:06 — THE WEIGHT OF JUSTICE CAMERA: Slow 15° FPV roll around the horizontal balance beam. The beam becomes a strong cinematic foreground element. The golden bowls pass close to the lens. LIGHTING: Warm highlight travels across the metal. ENVIRONMENT: Background remains dark and painterly. FOLEY: Very subtle metal resonance. 0:06–0:07 — FOLLOW THE CHAIN CAMERA: The drone follows the thin vertical chain upward. Perform a smooth vertical climb. The chain stays perfectly centered. Depth of field gradually shifts: chain sharp → hand becomes sharp 0:07–0:08 — THE HAND OF JUSTICE CAMERA: Arrive near the raised hand. The woman's fingers gently tighten around the chain. The chain responds with a tiny movement. ACTOR: Justice's wrist subtly rotates. The balance reacts naturally. FACIAL EXPRESSION: Still calm and unreadable. FOLEY: Tiny metal vibration. 0:08–0:09 — THE REVEAL CAMERA: FPV drone arcs around the raised arm. Move from behind the hand toward the woman's upper body. The golden-brown fabric becomes visible. The white sleeve catches warm light. The camera slowly climbs toward her face. 0:09–0:10 — THE BLINDFOLD CAMERA: Extremely slow push toward the blindfold. The white fabric texture becomes highly detailed. Individual threads are visible. The woman's head moves approximately 1–2 degrees. FACIAL EXPRESSION: Although blindfolded, her mouth and jaw subtly tighten. She appears resolute. LIGHT: A warm highlight crosses her cheek. 0:10–0:11 — THE LIVING PAINTING CAMERA: Perform a slow half-orbit around her head. The background begins showing dimensional depth. Painted darkness now feels like a real atmospheric space. The camera briefly catches: woman's face raised arm scales kneeling mother below all within one composition. FOLEY: Room ambience deepens. 0:11–0:12 — THE CONNECTION CAMERA: Tilt downward while moving backward. The entire vertical composition becomes visible. Justice stands above. The desperate mother remains below. The scales occupy the center. This establishes the symbolic relationship between them. ACTOR BLOCKING: Mother continues looking upward. Justice remains motionless except for breathing. 0:12–0:13 — THE SCALE MOVES CAMERA: Slow lateral FPV drift toward the balance. One bowl descends slightly. The opposite bowl rises. Not exaggerated. Just enough to suggest that a decision has weight. FOLEY: clink... The sound echoes softly. 0:13–0:14 — THE MOMENT OF JUDGMENT CAMERA: The drone performs a slow backward pull. The composition begins resembling the original painting again. Movement becomes progressively smaller. Mother's hand stops trembling. Justice's fingers remain firmly around the chain. FACIAL EXPRESSIONS: Mother: pleading but hopeful. Justice: calm, impartial, unwavering. Child: peaceful. 0:14–0:15 — RETURN TO THE MASTERPIECE CAMERA: FPV drone pulls backward through the dark environment. All movement gradually slows. The colors become slightly more painterly. The physical depth subtly collapses back toward the original painted appearance. The scales perform one final tiny swing. FINAL IMAGE: The camera settles on a composition almost identical to the supplied reference: Justice above. The scales suspended between worlds. The mother below. The child in her arms. Darkness surrounding them. The final frame holds for approximately 8 frames. FINAL FOLEY One final delicate: “clink.” Then silence.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/justice-awakens-the-scales-of-truth-begin-to-move-887120/video-23f56247ba47db2a.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/justice-awakens-the-scales-of-truth-begin-to-move-887120/poster-216c68644e668026.jpg",
+    "format": "video/webm",
+    "videoBytes": 1305061,
+    "videoSha256": "23f56247ba47db2a99dec122ead8d06252da276dd54e7aa5c102ed6caac2cab2",
+    "thumbnailBytes": 58421,
+    "thumbnailSha256": "216c68644e668026805e940e7b86e036c327e795adfec3f5d15ebae0aad1d4a4"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

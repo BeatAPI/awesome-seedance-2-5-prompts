@@ -2,7 +2,28 @@
 
 [Back to the featured gallery](../../README.md) · [Catalog index](../README.md)
 
-## 1. Horror Film Study 945734
+## 1. Created on with Seedance 2.5
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-on-with-seedance-2-5-606682/video-a82b2a9792ebef6d.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-on-with-seedance-2-5-606682/poster-cd615b1aeb3b5800.jpg" alt="Created on with Seedance 2.5 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — A 15-second grimy and electric one-shot: a netrunner jacks into a black-market terminal hidden under a noodle stall and the alley around her freezes as the data hits, shot with...</summary>
+
+~~~~text
+A 15-second grimy and electric one-shot: a netrunner jacks into a black-market terminal hidden under a noodle stall and the alley around her freezes as the data hits, shot with camera low at counter height one meter from her, slow push-in, holding the alley depth behind her; keeping the subject off-centre and letting the lead space carry the tension. [0-5s] She sits at the counter, pushes the bowl aside and feels under the counter lip for the terminal port. The camera low at counter height, slow push-in from screen-left. She uncoils the optical cable and seats one end into the port with a hard snap. [5-10s] Continuing seamlessly in the same unbroken move: she lifts the other end to her temple; her jaw sets and the chrome port lights. The camera pushes to a tight profile on the temple port. The connection lands and every moving thing in the alley stops mid-motion except her. A second light source cuts in from the opposite side and rewrites every shadow. [10-15s] Still continuous, no cut: data ghosts scroll across the standing water below her feet and she opens her eyes into it. The camera tilts down to the reflection, then back up to her face. Setting: a two-meter-wide alley at night, steam from the noodle stall, stacked signage in four languages, standing water reflecting everything, during the first hour after sunrise, with a thin haze separating every depth plane. Subject: a 27yo netrunner in a translucent rain shell over a wired undersuit, shaved left temple with a chrome port, a coiled optical cable in her left hand. Technical specs: neon-noir photoreal, wet-street cyberpunk, anamorphic flare, heavy atmospheric haze; magenta-cyan complementary grade, wet speculars everywhere, steam and rain in three depth layers, shallow focus on the port; bleached highlights with heavy shadow grain. Lighting: no natural light: magenta and cyan signage as key and rim, the noodle burner as a warm underlight on her jaw, wet ground bouncing colour up. Physics: steam moves with the extractor draft; rain drips off signage in real streams; the cable has stiffness and memory and does not hang like string; her jaw tenses at the port connection. Sound: wok clatter, rain on plastic sheeting, layered street chatter, a hard electrical snap at the jack-in; no music until the freeze. One continuous take, seamless and unbroken, no cuts, no on-screen text.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/created-on-with-seedance-2-5-606682/video-a82b2a9792ebef6d.webm)
+
+**Source:** [@vkuoo](https://x.com/vkuoo/status/2086778445141606682) · 15s · 16:9 · horror
+
+---
+
+## 2. Horror Film Study 945734
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/ai-video-generation-just-got-terrifyingly-good-945734/video-b3beaebe93abff93.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/ai-video-generation-just-got-terrifyingly-good-945734/poster-7032c5a8cc002b99.jpg" alt="Horror Film Study 945734 video preview" width="700" />
@@ -29,18 +50,16 @@ The volumetric lighting, the ethereal energy, and the reflections on the wet asp
 
 ---
 
-## 2. Making of movie - Titanoboa - Behind the scenes!!
+## 3. Making of movie - Titanoboa - Behind the scenes!!
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/making-of-movie-titanoboa-behind-the-scenes-515958/video-4d7e558ae5fb154e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/making-of-movie-titanoboa-behind-the-scenes-515958/poster-79af62364fba586a.jpg" alt="Making of movie - Titanoboa - Behind the scenes!! video preview" width="700" />
 </a>
 
 <details>
-<summary><strong>Prompt</strong> — Made on @krea_ai Ultra-realistic behind-the-scenes film set footage, slightly high vantage point, shot like a real making-of video on a professional handheld camera from the side...</summary>
+<summary><strong>Prompt</strong> — Ultra-realistic behind-the-scenes film set footage, slightly high vantage point, shot like a real making-of video on a professional handheld camera from the side of a soundstage....</summary>
 
 ~~~~text
-Made on @krea_ai
-
 Ultra-realistic behind-the-scenes film set footage, slightly high vantage point, shot like a real making-of video on a professional handheld camera from the side of a soundstage. The set is dressed like a dense Amazon jungle location: wet muddy ground, artificial trees and vines, haze in the air, hanging rigging, practical lights, camera tracks, crew members standing off to the side, and a giant hyper-realistic animatronic anaconda dominating the set. The snake looks absolutely massive, with detailed scales, wet reflections, huge fangs, and mechanical realism.
 
 The clip begins with the director shouting, “Action!” A female actor in adventure-film costume stands in front of the giant snake, backing away nervously as if in a creature movie scene. The snake suddenly lifts its head, opens its mouth wide, and gives a loud threatening hiss. The woman starts stepping backward and says “No, no, no!” in character. The snake lunges, coils upward, lifts her, throws her into the air so she spins once in a full 360, then catches her cleanly in its mouth and appears to swallow her whole. Everyone watching is stunned for a beat.  Then immediately someone off camera yells “Cut! Cut! Cut!” The illusion breaks. The animatronic snake lowers its head and its mouth section is mechanically opened downward by the crew.
@@ -56,7 +75,7 @@ The actress casually climbs back out of the snake’s mouth, laughing and dustin
 
 ---
 
-## 3. Japanese Horror Root-Vegetable Village
+## 4. Japanese Horror Root-Vegetable Village
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-horror-root-vegetable-village/video-85963d277c9d9d32.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-horror-root-vegetable-village/poster-aebb2080a96f2c01.jpg" alt="Japanese Horror Root-Vegetable Village video preview" width="700" />

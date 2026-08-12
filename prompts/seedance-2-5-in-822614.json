@@ -1,0 +1,44 @@
+{
+  "slug": "seedance-2-5-in-822614",
+  "title": {
+    "en": "Seedance 2.5 in",
+    "zh": "Seedance 2.5 in"
+  },
+  "description": {
+    "en": "30-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@airina_xyz",
+    "url": "https://x.com/airina_xyz/status/2086831052752822614"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/airina_xyz/status/2086831055521112102"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/airina_xyz/status/2086831052752822614"
+  ],
+  "prompt": "Character: Moira Conti [referenceimages] (only use the reference images to maintain facial features consistency, not for the outfit).\n\n30秒电影感视频提示词——《六扇门》\n\n一段电影级、30秒、**真正的一镜到底（One Continuous Shot）**视频。整个视频没有任何可见剪辑，所有空间变化都发生在 Moira 穿越门框的瞬间。\n\n主角为 Moira Conti——20岁的那不勒斯女性，典型意大利南部/地中海特征。她留着深棕色齐下巴短发，中分，发尾微微向外翘；蓝色眼睛；柔和但清晰的下颌线；笔直、鼻尖略圆的鼻子；自然玫瑰色嘴唇；几颗小痣；鼻翼略微泛红；皮肤真实、不过度磨皮。\n\n她全程穿着完全相同的服装：黑色无袖高领上衣、宽松象牙白亚麻长裤、小巧金色圆环耳环、黑色踝靴。整个视频中，她的外貌、服装、发型、比例、步伐、速度全部保持一致。\n\n核心空间规则（非常重要）\n\n整部影片由 6个彼此完全不同的房间 组成。\n\n每一个房间都只有两扇完全相同的门：\n\n左侧墙壁有一扇门（入口）\n\n右侧墙壁有一扇门（出口）\n\n两扇门外观完全一致，只是位置相反。\n\n影片开始时，Moira 已经从画面最左侧进入第一间房。\n\n之后每一次转换都严格遵循完全相同的流程：\n\nMoira 从房间左侧开始向右行走。\n\n摄影机始终侧面跟拍。\n\n她走到房间右侧。\n\n她清楚地伸手握住右侧门把。\n\n她把右侧的门打开。\n\n镜头完整拍到她跨过门槛。\n\n她穿过门。\n\n镜头保持连续，没有剪辑。\n\n穿过门后，她立刻从下一间房间左侧的完全相同的门走出来。\n\n她继续保持同样速度向右行走。\n\n重复上述过程。\n\n观众必须能够非常清楚地理解：\n\n每一扇右侧的门，都会直接连接到下一间房间左侧的门。\n\n整个过程像真正穿过一道门进入另一间房，而不是空间突然变化。\n\n摄影机规则（绝对固定）\n\n摄影机始终保持完全相同：\n\n永远侧面拍摄\n\n永远与 Moira 保持垂直\n\n永远同步侧向跟拍\n\n永远保持相同距离\n\n全身始终完整可见\n\n约40mm电影镜头\n\n摄影机高度始终位于腰部\n\n不允许推拉镜头\n\n不允许摇镜\n\n不允许旋转\n\n不允许重新构图\n\n不允许改变焦距\n\n不允许改变透视\n\n摄影机始终跟着 Moira 前进。\n\n摄影机永远不会先进入下一间房，而是随着 Moira 一起真正穿过门框。\n\n观众能够完整看到：\n\nMoira 打开门\n\n门扇旋转\n\n她迈步跨过门槛\n\n她的整个身体穿过门框\n\n摄影机随后跟着穿过门框\n\n下一间房间自然出现在镜头中\n\n整个动作必须十分流畅，没有任何跳跃感。\n\n门的连续性（极其重要）\n\n所有世界使用完全相同款式的门：\n\n相同尺寸\n\n相同高度\n\n相同厚度\n\n相同颜色\n\n相同门把\n\n相同开启方式\n\n相同门框\n\n唯一不同的是：\n\n门后连接着完全不同的世界。\n\n摄影机必须拍到：\n\n右侧门 → 门框 → 门后空间 → 下一间房左侧门 → Moira 从门中走出。\n\n观众能够明确理解这是同一扇门连接两个空间。\n\n绝不能让环境突然替换，也不能让房间像舞台布景一样整体滑动。\n\n真正发生变化的是：\n\n门另一侧连接着新的世界。\n\n世界一（0:00–0:05）\n\n宁静的那不勒斯公寓。\n\n午后阳光。\n\n木百叶窗。\n\n彩色瓷砖。\n\n蕾丝窗帘。\n\n温暖柔和。\n\nMoira 从左向右走。\n\n走到右侧木门。\n\n她握住门把。\n\n打开门。\n\n迈步穿过。\n\n摄影机跟随她一起穿过门框。\n\n世界二（0:05–0:10）\n\n摄影机穿过门后，已经来到海底玻璃宫殿。\n\n注意：\n\nMoira 是从房间左侧那扇完全相同的门中走出来。\n\n门就在她身后缓缓关闭。\n\n她没有停顿。\n\n继续向右行走。\n\n窗外巨大鱼群、水母和阳光光柱缓缓移动。\n\n她走到房间右侧。\n\n再次打开同样的门。\n\n穿过去。\n\n摄影机继续跟随。\n\n世界三（0:10–0:15）\n\n未来霓虹都市。\n\nMoira 从左侧同样的门走出来。\n\n继续向右。\n\n窗外飞行汽车。\n\n雨水滑落玻璃。\n\n霓虹灯不断变化。\n\n走到右侧门。\n\n打开。\n\n穿过。\n\n摄影机同步穿过。\n\n世界四（0:15–0:20）\n\n远古热带神庙。\n\nMoira 从左侧门进入画面。\n\n继续向右。\n\n阳光穿过屋顶。\n\n瀑布。\n\n藤蔓。\n\n蝴蝶。\n\n她打开右侧门。\n\n穿过。\n\n摄影机跟随。\n\n世界五（0:20–0:25）\n\n北极科研站。\n\nMoira 从左侧门走出来。\n\n窗外暴风雪。\n\n绿色极光。\n\n白色呼气。\n\n继续向右。\n\n打开右侧门。\n\n穿过去。\n\n摄影机继续跟拍。\n\n世界六（0:25–0:30）\n\n漂浮云端的白色大厅。\n\nMoira 从左侧门进入。\n\n继续向右。\n\n金色晨光。\n\n白色大理石。\n\n轻轻飘动的纱帘。\n\n她走到最后一扇门。\n\n打开。\n\n门后再次出现最初那间那不勒斯公寓。\n\n她微微一笑。\n\n走进去。\n\n摄影机最后一次跟随穿过门框。\n\n房门缓缓关闭。\n\n30秒整切黑。\n\n严禁出现\n\n剪辑\n\n硬切\n\n淡入淡出\n\nGlitch\n\n环境整体滑动\n\n房间像舞台一样移动\n\n瞬移\n\nMoira 跳跃位置\n\n门消失\n\n门位置变化\n\n门尺寸变化\n\n摄影机提前进入下一房间\n\nMoira 改变方向\n\nMoira 停下脚步\n\n门不是左右对应\n\n门型式发生变化\n\n整个视频必须让观众产生一种直观感觉：\n\nMoira 正在穿过一连串真正相连的房间，每一扇右侧的门都直接通向下一间房间左侧完全相同的门，而摄影机始终陪伴她一起连续穿越这些空间。",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-in-822614/video-90fe0f039f9e895e.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-in-822614/poster-99ad10346b3fcff3.jpg",
+    "format": "video/webm",
+    "videoBytes": 2424323,
+    "videoSha256": "90fe0f039f9e895e2cf053b5afcd52492d70f4ca910cd84c629a2b72ebb9a853",
+    "thumbnailBytes": 81326,
+    "thumbnailSha256": "99ad10346b3fcff3dc700c5eb1cf80921e768401adaa4dffbc5c8100acb804bf"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "i-made-this-full-video-in-5-minutes-100-automated-857085",
+  "title": {
+    "en": "i made this full video in 5 minutes 100% AUTOMATED with my seedance 2.5 workflow..",
+    "zh": "i made this full video in 5 minutes 100% AUTOMATED with my seedance 2.5 workflow.."
+  },
+  "description": {
+    "en": "98-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "98 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "98s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Mho_23",
+    "url": "https://x.com/Mho_23/status/2086953211483857085"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Mho_23/status/2086953211483857085"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Mho_23/status/2086953211483857085"
+  ],
+  "prompt": "if you're still waiting days for revisions this replaces that entire workflow.\n\ni'm finally sharing my FULL system with you..\n\nhere's what you're getting:\n> my prompting method for realistic human movements and breathing\n> how to get 30 second single shot edited videos with no stitching\n> my exact workflow for using up to 50 references in one generation\n\nRT + reply \"SEEDANCE\" and i'll send you the step-by-step system (must follow so i can dm)",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/i-made-this-full-video-in-5-minutes-100-automated-857085/video-a33093f28a1daa8b.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/i-made-this-full-video-in-5-minutes-100-automated-857085/poster-8abcc1dff835a5a5.jpg",
+    "format": "video/webm",
+    "videoBytes": 7037244,
+    "videoSha256": "a33093f28a1daa8b8dc997c6d903ad4753b720bade5b9d483e0ebc1ab44b0a84",
+    "thumbnailBytes": 68114,
+    "thumbnailSha256": "8abcc1dff835a5a5898b600f3cab4a8a56beb9358dd9f9867213fcbb091ac4fb"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

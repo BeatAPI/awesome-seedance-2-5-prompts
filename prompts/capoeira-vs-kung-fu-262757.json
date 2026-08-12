@@ -1,0 +1,43 @@
+{
+  "slug": "capoeira-vs-kung-fu-262757",
+  "title": {
+    "en": "Capoeira vs. Kung Fu.",
+    "zh": "Capoeira vs. Kung Fu."
+  },
+  "description": {
+    "en": "30-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@pyona_ai",
+    "url": "https://x.com/pyona_ai/status/2086824785628262757"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/pyona_ai/status/2086824785628262757"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/pyona_ai/status/2086824785628262757"
+  ],
+  "prompt": "[素材角色声明]\nimg1  定义主角拳手——面部、发型、白色功夫练功服与腰带的身份特征全程严格保持。不使用角色设定图的白色背景。\nimg2  定义对手卡波耶拉武者——仅使用其面部、体格、项链与黄色下装的身份特征，保持赤裸上身状态。不使用图中海滩、海洋与天空背景。\n\n[一句话概要]\n户外擂台木质高台上，卡波耶拉武者（img2）不间断地倾泻旋转踢，主角（img1）沉着化解，并以最后一记强力攻击将对手击飞制伏的30秒香港武侠风格对决。\n\n[全局设定]\n35mm胶片，变形宽银幕镜头，温暖的午后自然光，细腻胶片颗粒，香港武侠电影质感，低饱和大地色调。剪辑式结构，快节奏。户外擂台木台，四周密集围观的年代感人群，台边裁判，午后薄雾。构图全程遵守三分法偏置——人物绝不居中，在视线与移动方向一侧留出引导空间，侧面轮廓与3/4角度交替使用。无音乐，仅现场音：脚踏木板声、衣料摩擦声、踢腿破风声、击打声、人群屏息声。\n\n[时间戳分镜]\n0-3秒：低角度中远景，img1 主角站在画面右侧三分线处摆出防御架势，左侧留引导空间。img2 卡波耶拉武者以ginga摆荡步从左侧画外滑入，顺势起meia lua de compasso——单手撑地的旋转鞭腿——直扫头部高度。主角仅后仰上身卸过，脚尖擦面而过。<人群倒吸气声，踢腿破风声>\n\n3-6秒：3/4角度中景。武者不落停顿，顺势armada旋转踢接queixada连环扫踢。主角以前臂两次卸力，沿对角线各退半步。终态：两人分立画面左右三分线对峙。<前臂擦击的闷响>\n\n6-9秒：侧面轮廓中景。武者以aú侧手翻收近距离，出翻瞬间接martelo鞭踢。主角上架前臂格挡，随即短促日字冲拳回击，武者以esquiva低位滑开。<一记击打声，人群骚动>\n\n9-12秒：低位特写。rasteira低扫直取主角前腿，主角轻跳避过，武者顺势接地面旋转踢。主角以下压前臂截断。<扫过木地板的摩擦声>\n\n12-15秒：中景。bênção蹬踢接martelo——主角掌根拨开蹬踢，拍手挡甩开第二击，抢入中线连发三记日字冲拳。武者以macaco后空翻弹开拉回距离。<连续击打声，人群开始起立>\n\n15-18秒：中远景，两人均偏置构图。武者以摆荡节奏大幅绕圈虚晃，queixada接meia lua二连旋转踢。主角三角步转轴，两踢均从面前数厘米掠过。<仅衣料与破风声>\n\n18-21秒：3/4角度。武者低位突进再起旋转踢，主角以低位截踢击其前腿，接正蹬踢击其躯干，首次前压。武者大幅后仰闪避。<两记踢击声>\n\n21-24秒：紧凑动作镜头。武者孤注一掷的armada——主角以拍击截断旋转线路，缠腿一拽破其平衡，贴身补一记短肘。<肘击声，人群呼声高涨>\n\n24-27秒：侧面轮廓近景。武者踉跄失衡，主角顺势压上，沉肩转胯，爆发一记强力日字冲拳正中躯干，将武者整个人猛然击飞出去。武者身体离地，向左后方飞出，黄色下装与项链在空中甩动，重重摔向木台边缘。终态：主角立于右侧三分线，武者被击飞至左后方。<强烈击打声，木台震响，人群爆发欢呼>\n\n27-30秒：低角度中远景。主角在右侧三分线处收势回到沉稳的扎马站姿，面朝3/4方向静立。呼吸缓缓平复，目光低垂而沉着。左后方可见倒地的武者挣扎不起，裁判与围观人群情绪高涨但不夸张。欢呼渐弱，画面淡出。\n\n[全局收尾]\n全程严格保持 img1 与 img2 的面部、服装、体格一致性。两人身体不得融合穿模，动作编排清晰可读。人群动态自然不夸张。禁止人物居中构图，禁止生成字幕，禁止生成背景音乐，禁止随意添加台词。",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/capoeira-vs-kung-fu-262757/video-be57f0f9245f362d.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/capoeira-vs-kung-fu-262757/poster-a7f799f28444f1a9.jpg",
+    "format": "video/webm",
+    "videoBytes": 2528436,
+    "videoSha256": "be57f0f9245f362dcfb80950918ef875b215bacf84ed008bb49976d859e35c01",
+    "thumbnailBytes": 44959,
+    "thumbnailSha256": "a7f799f28444f1a98a4fb762e3e09c5bee14058fe4c536d00fb49956fcfa08d1"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

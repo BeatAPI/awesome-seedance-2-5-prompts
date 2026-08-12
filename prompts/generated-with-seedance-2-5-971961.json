@@ -1,0 +1,43 @@
+{
+  "slug": "generated-with-seedance-2-5-971961",
+  "title": {
+    "en": "Generated with Seedance 2.5",
+    "zh": "Generated with Seedance 2.5"
+  },
+  "description": {
+    "en": "16-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "16 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "16s",
+  "aspectRatio": "427:240",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@migrok293703",
+    "url": "https://x.com/migrok293703/status/2086921252329971961"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/migrok293703/status/2086921252329971961"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/migrok293703/status/2086921252329971961"
+  ],
+  "prompt": "使用[视频1]中的龙角色。场景1：龙角色被关在地牢牢房里，双臂被锁链高举过头，背靠着墙壁，拼命挣扎着，愤怒地要求被释放。一个人类审讯员站在他面前，脸上带着一丝狡黠的笑容，逼问龙族藏身之处。龙听到这话，愤怒地冲着审讯员吼道，他绝不会背叛自己的族群，并固执地甩开审讯员，拒绝开口。场景2：人类狡黠地一笑，在龙面前抽出一根羽毛，龙有些摸不着头脑。人类用羽毛伸向龙裸露的腋窝，龙困惑地跟着手的动作移动。场景3：特写镜头，人类用羽毛轻柔流畅地上下拂过龙的腋窝，背景中传来龙闷闷的笑声，表明它非常怕痒。场景4：特写镜头，拍摄龙的上半身，人类用羽毛挠龙的腋窝，龙闭着眼睛，咧嘴大笑，发出闷闷的笑声。人类一边继续用羽毛挠龙的腋窝，一边说：“看来你很怕痒啊。”场景5：人类继续用羽毛挠龙的腋窝，龙发出响亮的笑声，扭动上半身试图躲开羽毛，但人类只是跟着它的动作，继续用羽毛挠龙的腋窝，龙咯咯地笑个不停。巨龙咯咯笑着说：“我什么都不会告诉你。”说完，他又开始大笑起来，而人类则继续用羽毛挠巨龙的腋窝。人类比巨龙小。语音为日语。",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/generated-with-seedance-2-5-971961/video-14178869ff82a795.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/generated-with-seedance-2-5-971961/poster-e2bdca9eb7030a91.jpg",
+    "format": "video/webm",
+    "videoBytes": 681938,
+    "videoSha256": "14178869ff82a7950cdcf3ea200843b16ac50122b703fb24e43c2afea1a17f2a",
+    "thumbnailBytes": 37657,
+    "thumbnailSha256": "e2bdca9eb7030a91994cf92032e3d57581f3bc2e7a308d1be1fc34848fc69b5b"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

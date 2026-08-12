@@ -1,0 +1,43 @@
+{
+  "slug": "a-pixar-style-short-dave-checks-the-sky-before-leaving-551127",
+  "title": {
+    "en": "\"A Pixar style short. Dave checks the sky before leaving home, gets ambushed by",
+    "zh": "\"A Pixar style short. Dave checks the sky before leaving home, gets ambushed by"
+  },
+  "description": {
+    "en": "20-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "20 秒cinematic action提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "20s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ContentStudioio",
+    "url": "https://x.com/ContentStudioio/status/2086845291282551127"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/ContentStudioio/status/2086845291282551127"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/ContentStudioio/status/2086845291282551127"
+  ],
+  "prompt": "\"A Pixar style short. Dave checks the sky before leaving home, gets ambushed by one furious city pigeon, and the chase does not end well for him.\"\n\nSame prompt bar, two very different looks.\n\nBoth live in ContentStudio.\n\nWhich would you run?",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/a-pixar-style-short-dave-checks-the-sky-before-leaving-551127/video-c42964de7b1f0dbb.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/a-pixar-style-short-dave-checks-the-sky-before-leaving-551127/poster-b75ebfa56237a3bb.jpg",
+    "format": "video/webm",
+    "videoBytes": 1659312,
+    "videoSha256": "c42964de7b1f0dbbeb62ad564dd0955f5509ce26cf110448173ebeefe9116a68",
+    "thumbnailBytes": 67894,
+    "thumbnailSha256": "b75ebfa56237a3bb5858c3fe893597cb511a8b20c33495955d10f86b850df83f"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

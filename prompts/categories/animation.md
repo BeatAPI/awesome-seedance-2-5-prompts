@@ -2,7 +2,306 @@
 
 [Back to the featured gallery](../../README.md) · [Catalog index](../README.md)
 
-## 1. One 30-second fight scene
+## 1. Created with Seedance 2.5
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-141060/video-b7fdf0a40fd8d0a4.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-141060/poster-edfaca55b2e73133.jpg" alt="Created with Seedance 2.5 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — character sheet prompt Character turnaround model sheet, four consistent full-body views in a row evenly spaced — front view, 3/4 view, side profile, back view — identical...</summary>
+
+~~~~text
+character sheet prompt
+
+Character turnaround model sheet, four consistent full-body views in a row evenly spaced — front view, 3/4 view, side profile, back view — identical original character in every view, single subject per view, pure white seamless studio background, professional character sheet presentation, standing full-body head-to-toe with both feet flat and fully visible, not cropped, not sitting.
+
+CHARACTER: original 41-year-old Indian man, a Mumbai tiffin carrier, dark brown skin with a sun-hardened forehead, mature adult bone structure, square heavy jaw, broad nose, deep crow's feet and a permanent frown line, small dark eyes with muted catchlights, thick grey-flecked moustache, grey stubble, a small pale scar across the bridge of the nose, close-cropped grey-black hair.
+
+BUILD: short and extremely broad — a porter's body. Thick neck, barrel chest, sloping heavy shoulders, cable forearms, huge hands, short bandy legs, exaggerated stylised proportions with an oversized head. The silhouette is a wide, low, immovable block.
+
+WARDROBE head to toe: a white cotton Gandhi topi cap, a loose white cotton kurta yellowed at the collar and cuffs with sweat rings under the arms, white cotton trousers rolled to mid-calf, plain blue rubber slippers, a thick coiled red cotton load-pad sitting on the crown of the head, a plain steel wristwatch worn with the face turned to the inside of the wrist, no bag.
+
+PROPS (small inset row, bottom right): a stack of four cylindrical steel tiffin tins clipped in a wire frame.
+
+RENDER: stylised 3D character render in high-end feature animation style, faceted low-poly geometry with hand-chiselled planar cuts, fabric folds carved as hard wedges rather than simulated cloth, matte painterly surfaces with zero gloss, fine canvas grain, cel-adjacent shading with crisp terminator lines, soft subsurface warmth in the skin, soft ambient occlusion in every crease.
+
+LIGHTING: soft neutral three-point studio lighting with a gentle warm rim light on the right edge, even and identical across all four views, no harsh shadows.
+
+QUALITY: high-end 3D animation studio quality, appealing exaggerated proportions, clean silhouette readable at thumbnail size, consistent character model across every view, sharp, 4K.
+
+NEGATIVE: no text, no watermark, no logos, no frame borders, no babyface, no youthful rounded proportions, no photorealism, no glossy or plastic skin, no beauty filter, no digital smoothing, no other people, no duplicate figures, no mannequin, no reflections, no furniture, no background objects, no distorted anatomy, no extra fingers, empty seamless studio, original character not resembling any real person or existing property.
+
+Seedance 2.5 Animation prompt
+
+30-second stylised 3D animated short film. 19 hard cuts, average 1.58s per shot. NO on-screen text, NO subtitles, NO readable lettering anywhere.
+
+STYLE (every frame): Stylised feature-animation 3D CG. Faceted low-poly geometry with hand-chiselled planar cuts — folds read as carved wedges, not simulation. Exaggerated cartoon proportions. Matte painterly surfaces, zero gloss, fine canvas grain. Cel-adjacent shading, crisp terminators, soft ambient occlusion, hard rim light. Wide-angle 18-24mm, barrel distortion, shallow depth of field. Cuts land hard on the beat.
+
+KINETIC RULES — TRAVERSAL, not a location. The subject is travelling and the world changes behind them; never return to an earlier environment. Subject moves LEFT TO RIGHT or into screen except in the shot marked REVERSE. Camera TRACKS with the subject and never orbits except the shot marked ORBIT. Hold the subject at constant height in frame while the background changes completely. Speed lives in the background: heavy radial blur plus foreground occluders swiping the lens. Most cuts are WIPE CUTS — an occluder crosses the lens and the next shot is already mid-motion.
+
+CAST (locked, identical in every shot): ARUN — 41-year-old Mumbai dabbawala. Short and extremely broad, thick neck, barrel chest, bandy legs, huge hands, forearms like cable. Dark brown skin, deep crow's feet, thick grey-flecked moustache, grey stubble, a small scar on the bridge of the nose. Wardrobe: white Gandhi topi cap, white cotton kurta yellowed at the collar, white trousers rolled to mid-calf, blue rubber slippers, a coiled red cotton load-pad on his head, a steel wristwatch worn face-inward. Props: a tower of steel tiffin tins.
+
+ROUTE (four acts, never revisited): Churchgate platform — crowd, tiles, pigeons, hard noon | Train doorway — strobing light, city flickering past | Market lane then bicycle — saturated chaos, trucks | Glass tower — lift shaft, cold interior, one desk
+
+PALETTE: hard vertical noon key. White cotton on ochre dust, steel tin grey, saturated market colour mid-film, cold blue-grey glass at the end. One accent throughout: the red head-cloth.
+
+STORY: A Mumbai dabbawala moves one lunch tin across six modes of transport and gets it to a desk hot.
+
+BEATS:
+0.0-1.4 ACT 1. Macro static: a steel tiffin lid clicks shut, red cloth coiled beside it. A body wipes the lens.
+1.4-2.6 Ground-level 18mm tracking right: white-clad legs and blue slippers surge along platform tiles, feet only.
+2.6-4.2 Low hero track: Arun rises into frame under a tower of tins, crowd streaming past both sides.
+4.2-5.6 WIPE — a train slams across the foreground, cut through it.
+5.6-7.2 Interior tracking, doorway light strobing: he braces the stack, city flickering past behind him.
+7.2-8.4 Macro snap: the wristwatch worn face-inward, second hand sweeping. Two frames.
+8.4-10.2 ACT 2. Speed ramp, low wide: he steps off a still-moving train, the tins never tilting a degree.
+10.2-11.6 Ground-level track: sandals hit tile, pigeons exploding upward across the lens as occluders.
+11.6-13.2 ACT 3. Fast lateral track through a market lane, awnings and fruit smearing to colour bands.
+13.2-14.4 Crash zoom on his face: jaw set, sweat cutting through dust, noon glare.
+14.4-16.2 REVERSE — a handcart cuts right-to-left across him; he stops dead, the whole stack swaying.
+16.2-17.6 ORBIT, slow motion, macro: one tin tips off the top of the tower.
+17.6-19.2 Snap to real time, whip tilt: he catches it against his chest without looking up.
+19.2-20.6 Low track alongside a bicycle now, a crate of tins lashed to the rear rack, lane blurring.
+20.6-22.4 WIPE — a bus fills the frame, cut through it.
+22.4-24.0 Reverse low angle: he threads the gap between two trucks, the city opening ahead of him.
+24.0-25.8 ACT 4. Drone crane pull-up: the bicycle a white dot in a river of traffic, glass towers rising.
+25.8-27.8 Vertical track up a lift shaft: he stands still for the first time, tins on his hip, floors ticking past.
+27.8-30.0 Static: a tin lands on a desk, the lid opens, steam rises — and he is already gone from frame. Hold, fade.
+
+AUDIO — DIEGETIC SFX ONLY. Do NOT generate music, score, soundtrack, BGM or any musical instrument; the track is composed separately. No dialogue, no singing, no voiceover. Only: platform announcements as unintelligible murmur, a train horn, wheels on rail joints, thousands of sandals on tile, pigeon wings, market shouting as texture, bicycle chain, truck air horns, a lift motor, the small click of a tin lid, and clean silence under the final beat.
+
+NEGATIVE: no music, no score, no soundtrack, no BGM, no musical instruments, no singing, no voiceover, no text, no lettering, no watermark, no photorealism, no gloss, no live action, no plastic skin, no extra fingers, no morphing faces, no character/wardrobe/palette drift, no crossfades, no still frames, no returning to an earlier location.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-141060/video-b7fdf0a40fd8d0a4.webm)
+
+**Source:** [@Dheepanratnam](https://x.com/Dheepanratnam/status/2087207404463141060) · 31s · 16:9 · animation
+
+---
+
+## 2. Try it now on
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/try-it-now-on-336575/video-784f0d1bf377b35f.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/try-it-now-on-336575/poster-4e7b3b12e3e12178.jpg" alt="Try it now on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a breathtaking 30-second continuous animated sequence centered around an artist painting on a blank canvas. The painting gradually comes alive, transforming from a simple...</summary>
+
+~~~~text
+Create a breathtaking 30-second continuous animated sequence centered around an artist painting on a blank canvas. The painting gradually comes alive, transforming from a simple artwork into an entire living world.
+
+0–5s
+A young artist sits in a quiet sunlit studio, painting a landscape on a large blank canvas. Close-up of the brush touching the surface. Rich paint spreads naturally across the canvas, forming blue skies, mountains, trees, and a flowing river.
+
+5–10s
+The camera moves closer to the painted landscape. The brushstroke suddenly becomes a real flowing river. The painted clouds begin moving, trees sway in the wind, and birds emerge from the canvas and fly into the air. The camera slowly travels INTO the painting.
+
+10–15s
+Inside the painted world, the environment transforms continuously through different artistic styles: delicate watercolor, expressive ink illustration, colorful anime artwork, and textured oil painting. Mountains shift into forests, flowers bloom, and sunlight moves across the landscape.
+
+15–20s
+The camera flies through the living painting as the world becomes increasingly magical. A river turns into a glowing stream, trees grow enormous, floating islands appear above the clouds, and thousands of luminous particles fill the air.
+
+20–25s
+The entire landscape begins transforming again. The magical world folds back into brushstrokes and colorful paint. The camera follows the movement backward through the landscape until the original canvas comes back into view.
+
+25–30s
+The artist adds one final brushstroke. The painting is now completely alive, with subtle movement inside the canvas: flowing water, drifting clouds, swaying trees, and tiny birds flying across the painted sky.
+
+The camera slowly pulls backward, revealing the artist sitting peacefully in the studio, looking at the finished masterpiece.
+
+VISUAL STYLE:
+Beautiful cinematic animation combining hand-painted artwork, watercolor, oil painting, ink illustration, stylized anime art, and subtle 3D depth. Rich painterly textures, expressive brushwork, warm natural lighting, atmospheric perspective, delicate particles, smooth camera movement, elegant transitions, and breathtaking visual composition.
+
+The transformation from painting to reality should feel seamless and magical. Maintain visual continuity between the artist, brush, canvas, and painted world throughout the sequence.
+
+No text, no subtitles, no logos, no watermark.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/try-it-now-on-336575/video-784f0d1bf377b35f.webm)
+
+**Source:** [@apiframe](https://x.com/apiframe/status/2087194284806336575) · 30s · 16:9 · animation
+
+---
+
+## 3. Who else is cooking superhero cats with Seedance 2.5?
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/who-else-is-cooking-superhero-cats-with-seedance-2-5-562528/video-b5eb24739b53ca1c.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/who-else-is-cooking-superhero-cats-with-seedance-2-5-562528/poster-ea8f04ce61213807.jpg" alt="Who else is cooking superhero cats with Seedance 2.5? video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — A cute fluffy cat sits on a wide windowsill in a messy Brooklyn-style bedroom. Keep it fully feline: realistic fur, four paws, natural proportions and movement, no humanoid...</summary>
+
+~~~~text
+A cute fluffy cat sits on a wide windowsill in a messy Brooklyn-style bedroom. Keep it fully feline: realistic fur, four paws, natural proportions and movement, no humanoid anatomy. It wears a tiny dark tie-style collar, gray bandana, and miniature black over-ear headphones.
+
+The room is cluttered with anime posters, manga, collectibles, an energy drink can, gaming items, scattered clothes, and an unmade bed. Outside is a cloudy New York skyline of red-brick buildings, fire escapes, and rooftop water towers.
+
+The cat looks at the camera mischievously, tilts its head, pushes the headphones onto its ears with one paw, crouches, flicks its tail, then jumps backward out the window and shoots a thin white web line toward a nearby building.
+
+Dynamic tracking shots follow the cat web-slinging through New York. It swings with its front paws while its hind legs stretch, tuck, and rotate naturally, tail balancing the motion. It flies between brick buildings, over intersections with yellow taxis and pedestrians, past corner stores, traffic lights, fire escapes, signs, and water towers.
+
+Use low-angle, high-angle, side-tracking, POV dive, and wide skyline shots with whip pans and natural motion blur. The cat curls, twists, stretches all four paws mid-air, rotates, catches new web lines, and lands naturally on walls and rooftops.
+
+At golden hour, it swings upward, releases the web, flips, and lands on a Brooklyn rooftop ledge in a heroic feline pose: four paws planted, chest raised, tail lifted, looking over dense rooftops, the East River, distant Manhattan, and One World Trade Center glowing in sunset light.
+
+Ultra-realistic live-action superhero style, vibrant colors, energetic movement, cinematic VFX, realistic physics, detailed NYC environments, seamless character consistency.
+
+Important: same cat in every scene; never humanoid; no human hands or body proportions; accessories stay cat-sized; spectacular superhero energy with believable feline mechanics.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/who-else-is-cooking-superhero-cats-with-seedance-2-5-562528/video-b5eb24739b53ca1c.webm)
+
+**Source:** [@Tim_AIProduct](https://x.com/Tim_AIProduct/status/2087164614903562528) · 15s · 16:9 · animation
+
+---
+
+## 4. Created with Seedance 2.5 on
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-on-822971/video-9bc5f48c72d506ac.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-on-822971/poster-a9607a2eb380559e.jpg" alt="Created with Seedance 2.5 on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a charming 30-second animated cinematic story told as one continuous uninterrupted shot, with no cuts or transitions. A tiny fluffy golden puppy discovers a small...</summary>
+
+~~~~text
+Create a charming 30-second animated cinematic story told as one continuous uninterrupted shot, with no cuts or transitions. A tiny fluffy golden puppy discovers a small orange-and-white kitten sitting alone beside a flower-covered garden fence. The puppy gently approaches and offers the kitten a tiny red flower. The kitten becomes curious, smiles, and follows the puppy into a magical backyard filled with oversized flowers, glowing fireflies, colorful butterflies, and floating soap bubbles. They playfully chase the bubbles together, jumping and tumbling through soft grass. The puppy suddenly notices a small wooden bridge over a sparkling stream and runs across it, with the kitten happily chasing behind. Halfway across, the kitten pauses nervously, so the puppy turns back and gently encourages the kitten forward. They cross together and reach a beautiful hill overlooking the glowing garden at sunset. The puppy and kitten sit side by side as dozens of fireflies illuminate the scene around them. The kitten rests its head against the puppy while the puppy gently leans toward it. End with the camera slowly rising above them, revealing the entire magical garden glowing beneath the warm evening sky. Adorable stylized 3D animation, expressive faces, soft fur, playful body language, whimsical environments, smooth character animation, cinematic depth of field, warm lighting, consistent character design, detailed environment, emotional storytelling, seamless camera movement, no dialogue, no text, no cuts.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-on-822971/video-9bc5f48c72d506ac.webm)
+
+**Source:** [@MrDasOnX](https://x.com/MrDasOnX/status/2087099309057822971) · 30s · 16:9 · animation
+
+---
+
+## 5. 19.0-20.6 Crash zoom into her eyes; one brow lifts a millimetre.
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/19-0-20-6-crash-zoom-into-her-eyes-one-305933/video-d192ecd33f0bf72f.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/19-0-20-6-crash-zoom-into-her-eyes-one-305933/poster-cc7ad45ad226af33.jpg" alt="19.0-20.6 Crash zoom into her eyes; one brow lifts a millimetre. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Seedance 2.5 Animation prompt (raw output) + added Suno Bgm 30-second stylised 3D animated short film. 19 hard cuts, average 1.6s per shot. NO on-screen text, NO subtitles, NO...</summary>
+
+~~~~text
+Seedance 2.5 Animation prompt (raw output) + added Suno Bgm
+
+30-second stylised 3D animated short film. 19 hard cuts, average 1.6s per shot. NO on-screen text, NO subtitles, NO readable lettering anywhere — all signage is abstract glowing colour shapes only.
+
+STYLE (every frame): Stylised feature-animation 3D CG. Faceted low-poly geometry with hand-chiselled planar cuts — fabric folds read as carved wedges, not cloth simulation. Exaggerated cartoon proportions: heavy shoulders, thick forearms, small hands, short legs, oversized head. Matte painterly surfaces, zero PBR gloss, fine canvas grain over the whole image. Skin has soft subsurface warmth and a hard wet rim light. Cel-adjacent shading with crisp terminator lines and soft ambient occlusion in creases. Wide-angle 18-24mm lens throughout with visible barrel distortion, shallow depth of field, heavy radial motion blur on backgrounds, volumetric shafts through steam and rain. Rain is faceted streaks, not particles. Cuts land hard on the beat.
+
+CAST (locked, identical in every shot): KAVI — 27-year-old Tamil woman tea master. Compact and broad, low centre of gravity, thick forearms, short legs. Deep brown skin, broad flat nose, heavy straight brows, thin steel nose ring, pale old burn scar across the left forearm. Black hair oiled into a tight low bun with one white jasmine strand. Wardrobe: sun-bleached crimson work sari hitched short over black shorts, scorched grey thermal sleeves shoved to the elbow, black rubber apron, a stack of steel bangles on the right wrist only. Props: two dented brass tumblers.
+
+PALETTE: monsoon night. Wet blue-black asphalt, cold slate rain, one sodium-orange stall lamp as the only key, magenta and cyan neon bleeding in from off-frame, brass and copper highlights, a single crimson accent, pale steam white.
+
+STORY: The 9pm rush hits a rain-flooded street-food lane and Kavi outruns it on pure craft, ending alone in the steam.
+
+BEATS:
+0.0-1.4 Macro, static, rack focus: a raindrop bursts on the rim of a brass tumbler into faceted shards, sodium lamp flaring behind.
+1.4-2.8 Puddle-height 18mm, low tracking dolly right: her rubber sandals stamp into standing water, sheets peeling sideways in solid slabs.
+2.8-4.4 Low hero angle, slow crane up into a 4-frame snap zoom: she plants both hands on the counter as the lamp bangs on and steam blooms up her body.
+4.4-5.8 Whip pan across a queue of blurred umbrella silhouettes, settling on her hands seizing two tumblers.
+5.8-7.0 Fast dolly in on her face: jaw set, magenta on one cheek, orange on the other, rain beading on her brows.
+7.0-8.6 Vertical crane down following the pour: she rips the tumblers a metre apart, an amber ribbon of tea stretched taut between them.
+8.6-10.2 Full 360 orbit at waist height, background smearing to streaks as she pours again without looking.
+10.2-11.4 Top-down bird's-eye snap: the tea hits the lower tumbler dead centre, crown splash held two frames then blurred.
+11.4-13.0 Handheld push through a curtain of steam, her silhouette resolving out of pure white.
+13.0-14.6 Whip pan right to a rival stall's neon guttering out, a cook staring; her hands keep working at frame edge.
+14.6-16.0 Low wide, speed ramp: a scooter tears a puddle open, a wall of water slabbing up; she pivots and shields the tray with her back without losing rhythm.
+16.0-17.8 Slow-motion macro arc around one tumbler tipping off the tray edge, bangles blurring past.
+17.8-19.0 Snap to real time, whip tilt up: she catches it behind her back on two fingers.
+19.0-20.6 Crash zoom into her eyes; one brow lifts a millimetre.
+20.6-22.2 Fast lateral dolly along the counter as she slides seven full tumblers down it, one per hand-flick, steam trailing each.
+22.2-23.6 Reverse low angle from behind the queue: hands reaching in from every side taking cups, her figure small and centred, lamp flaring.
+23.6-25.4 Drone crane pull-up out of the lane: the stall is one hot orange dot in a grid of wet blue-black rooftops, rain thinning.
+25.4-27.4 Cut to ground level, slow push in: the lane empty, the last umbrella turning a corner, puddles gone glass-still.
+27.4-30.0 Static low hero: Kavi pours one last tumbler for herself, steam rising straight up as the rain stops, she exhales, the lamp flickers once, hold, slow fade.
+
+AUDIO: No dialogue. Rain drumming on tin, kettle hiss, brass ringing on brass, the hard splash of the long pour, scooter doppler, crowd murmur, bangles clattering. Music: driving Tamil percussion — thavil and kanjira over a low sub-bass pulse, tempo climbing to a peak at 22.2s, everything dropping to rain and one held drone at 27.4s.
+
+NEGATIVE: no text, no lettering, no watermark, no photorealism, no PBR gloss, no live action, no plastic skin, no extra fingers, no morphing faces, no character/wardrobe/palette drift, no daylight, no drifting camera, no crossfades, no bloom overload, no still frames.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/19-0-20-6-crash-zoom-into-her-eyes-one-305933/video-d192ecd33f0bf72f.webm)
+
+**Source:** [@Dheepanratnam](https://x.com/Dheepanratnam/status/2087052653549305933) · 30s · 16:9 · animation
+
+---
+
+## 6. → Zero uncanny valley
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/zero-uncanny-valley-152696/video-6ff93f2ad1613825.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/zero-uncanny-valley-152696/poster-16a4e03c209df5e8.jpg" alt="→ Zero uncanny valley video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Prompt for the video: A gritty, cinematic miniature world where hyper-detailed articulated action figures with visible plastic joints are playing an intense poker game inside a...</summary>
+
+~~~~text
+Prompt for the video:
+
+A gritty, cinematic miniature world where hyper-detailed articulated action figures with visible plastic joints are playing an intense poker game inside a dirty underground hideout. The room is filled with graffiti, empty beer cans, cigarette smoke, pizza boxes, an old CRT television with static, dim fluorescent lighting, and a worn wooden poker table covered in chips and cards. Everything feels like a realistic toy set, with subtle plastic reflections and stop-motion-inspired imperfections. The players exchange suspicious glances in a series of tight cinematic close-ups: eyes shifting, fingers tapping poker chips, smoke drifting through the air, hands holding cards. The atmosphere is tense and silent. Suddenly, a tiny doorbell rings. Everyone freezes. One of the action figures slowly stands up, pushes his chair back, and walks cautiously toward the entrance. Tracking shot following behind him.
+
+He opens the door… Outside is an absurd surprise. Parked in front of the tiny house is a glossy pink toy-style convertible toy car. Behind the wheel sits a tiny smiling block toy (simple colorful building-block figure) enthusiastically waving. In the back seats ride a classic wooden toy doll and a small plush teddy bear, all cheerfully looking at him. They gesture excitedly, inviting him to come along. Reverse shot from behind the action figure reveals the true scale of the world: the tiny pink toy house sits inside the gigantic bedroom of a child. Massive furniture towers overhead, enormous shelves filled with toys, scattered toy bricks, crayons, books, and plush animals surround them. Warm afternoon sunlight streams through a huge bedroom window, filling the room with a magical sense of scale. Cinematic realism. The action figure hesitates for a second, then smiles, jumps into the tiny pink car, and the toy vehicle speeds away across the bedroom floor between giant toys and everyday objects.
+
+Dynamic camera movements, low-angle tracking shots, miniature depth of field, whimsical adventure energy, highly cinematic, expressive animation, rich environmental storytelling, smooth character animation, playful yet epic tone.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/zero-uncanny-valley-152696/video-6ff93f2ad1613825.webm)
+
+**Source:** [@magnific](https://x.com/magnific/status/2086795511152152696) · 20s · 4:5 · animation
+
+---
+
+## 7. Every fingerprint, every frame stutter
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/every-fingerprint-every-frame-stutter-227781/video-069063c71273733d.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/every-fingerprint-every-frame-stutter-227781/poster-95c0a3940cc64626.jpg" alt="Every fingerprint, every frame stutter video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;Handcrafted stop-motion claymation inspired by classic films: visible fingerprints, sculpted clay textures, hand-painted surfaces, miniature practical sets, subtle frame jitter....</summary>
+
+~~~~text
+"Handcrafted stop-motion claymation inspired by classic films: visible fingerprints, sculpted clay textures, hand-painted surfaces, miniature practical sets, subtle frame jitter. All characters are clay with exaggerated squash-and-stretch. Warm cinematic lighting, colorful sets, expressive faces, whimsical comedic timing.
+
+Shot 1 – wide: a stout clay woman laughs on a grassy hill at sunset, holding an oversized homemade flamethrower. A huge friendly dragon sits in front, curious. Mini set: sculpted grass, painted mountains, cottony clouds.
+Shot 2 – medium: she fires. Stylized clay flames (orange/yellow/red) flicker frame by frame as she cackles.
+Shot 3 – dragon close-up: eyes closed, blissful grin, leaning into the heat; tiny clay smoke from its nostrils.
+Shot 4 – woman close-up: cheeks wobble, goggles bounce, flamethrower rattles as flames dance.
+Shot 5 – dragon reaction: it rolls and stretches like a sleepy cat, sighs happily, then smiles at her for more.
+Shot 6 – quick cuts: flames, delighted dragon, her laughter, mechanical clay details, harmless clay embers.
+Shot 7 – hero wide: she sweeps playful arcs upward; the dragon turns to warm different sides. Sunset glow, tiny clay birds overhead, landscape gently sways.
+Final: the flamethrower puffs out. The dragon grins and blows a small heart-shaped puff of smoke. They share a satisfied laugh as the camera pulls back over the miniature scene.
+
+Premium practical stop-motion: tactile materials, shallow depth of field, no cgi, no text, no logos."
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/every-fingerprint-every-frame-stutter-227781/video-069063c71273733d.webm)
+
+**Source:** [@magnific](https://x.com/magnific/status/2086771389479227781) · 19s · 4:5 · animation
+
+---
+
+## 8. One 30-second fight scene
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/one-30-second-fight-scene-252981/video-b2e61a88132e5e20.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/one-30-second-fight-scene-252981/poster-6596d53c7b749aae.jpg" alt="One 30-second fight scene video preview" width="700" />
@@ -26,7 +325,7 @@ A cinematic wuxia battle with fast sword combat, heavy rain, dynamic camera move
 
 ---
 
-## 2. 週刊アニメ＆MVプロンプト Vol.33
+## 9. 週刊アニメ＆MVプロンプト Vol.33
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/mv-vol-33-303988/video-87ab817ff5a06849.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/mv-vol-33-303988/poster-c00422ccebae6767.jpg" alt="週刊アニメ＆MVプロンプト Vol.33 video preview" width="700" />
@@ -101,7 +400,7 @@ The final subject is the heroine in a medium shot. Her final action is one forwa
 
 ---
 
-## 3. Anime Film Study 040994
+## 10. Anime Film Study 040994
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/30-second-photorealistic-live-action-comedy-16-9-040994/video-447d537c3de4cdd2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/30-second-photorealistic-live-action-comedy-16-9-040994/poster-2120348cf75c76e6.jpg" alt="Anime Film Study 040994 video preview" width="700" />
@@ -142,37 +441,303 @@ NEGATIVE: No subtitles, watermark, readable text, anime, animation, cartoon phys
 
 ---
 
-## 4. Animation Study 341887
+## 11. Animation Study 341887
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-just-created-this-entire-animated-short-using-341887/video-fa2aa479f20f62da.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-just-created-this-entire-animated-short-using-341887/poster-8febb7853c53c140.jpg" alt="Animation Study 341887 video preview" width="700" />
 </a>
 
 <details>
-<summary><strong>Prompt</strong> — I just created this entire animated short using Seedance 2.5 on @higgsfield — pure Text-to-Video. 🤯 - No storyboard. - No character images. - No reference frames. Just one...</summary>
+<summary><strong>Prompt</strong> — Create a complete 30-second vertical 9:16 cinematic 3D animated short titled “The Cloud That Followed One Sad Boy.” Generate the entire story directly from text only. Do not rely...</summary>
 
 ~~~~text
-I just created this entire animated short using Seedance 2.5 on @higgsfield  — pure Text-to-Video. 🤯
-
-- No storyboard.
-- No character images.
-- No reference frames.
-
-Just one detailed prompt → a full 30-second story.
-
-“The Cloud That Followed One Sad Boy” ☁️❤️
-
-Seedance 2.5 is getting seriously good at:
-
-• Character consistency
-• Cinematic camera movement
-• Emotional storytelling
-• Dialogue + sound
-• 3D animation
-
-This is probably one of my favorite AI animation tests so far.
-
-Would you watch a full series made like this? 👀
+Create a complete 30-second vertical 9:16 cinematic 3D animated short titled “The Cloud That Followed One Sad Boy.”
+Generate the entire story directly from text only. Do not rely on reference images, character sheets, storyboard images, existing characters, logos, brands, or copyrighted IP.
+VISUAL STYLE LOCK:
+Premium original stylized 3D animated short-film aesthetic with appealing rounded character designs, expressive faces, slightly exaggerated animation poses, soft handcrafted textures, colorful storybook architecture, lush vegetation, cinematic global illumination, gentle volumetric sunlight, soft depth of field, warm pastel colors, highly readable silhouettes, fluid character animation, believable cloth and rain physics, polished feature-animation quality.
+The visual tone begins playful and slightly frustrating, becomes quiet and emotional in the middle, then ends warm, magical and heartwarming.
+Maintain exactly the same visual style throughout the entire 30 seconds.
+MAIN CHARACTER — NOAH:
+Noah is an original 8-year-old boy.
+Small child proportions, slim build, warm medium-brown skin, round expressive face, large dark-brown eyes, small nose, soft cheeks, messy short dark-brown curly hair.
+Wardrobe must remain identical for the entire video:
+bright mustard-yellow hooded jacket worn open,
+soft turquoise T-shirt,
+navy-blue knee-length shorts,
+white ankle socks,
+red canvas sneakers with white soles,
+small faded green cross-body satchel.
+His clothes become progressively damp because of the rain, but their design and colors never change.
+Noah initially looks lonely and mildly frustrated rather than deeply distressed.
+SECOND CHARACTER — PUFF:
+Puff is a tiny magical cloud, roughly 60 cm wide, floating about 30–50 cm above Noah's head.
+Puff has a soft rounded fluffy white body with pale blue-gray undersides, tiny rounded cloud puffs around its edges, two small expressive dark eyes and a tiny simple mouth.
+Puff has no arms, no legs and no clothing.
+Puff floats by gently bobbing through the air.
+Its shape remains consistent throughout the film.
+Puff can subtly squash, stretch and curl its edges to communicate emotion, but never transforms into another object or creature.
+When happy, Puff becomes brighter and fluffier.
+When sad, its underside becomes slightly grayer and it droops lower.
+Only Puff produces the localized rain following Noah.
+FLOWER:
+One tiny wilted fantasy flower grows beside the cobblestone path.
+It has a thin green stem, two drooping leaves and one closed pale-pink blossom.
+After receiving water it naturally transforms into one large glowing peach-and-pink flower, roughly large enough to shelter Noah and Puff beneath its petals.
+ENVIRONMENT LOCK:
+A whimsical fantasy village on a beautiful sunny afternoon.
+Cream stone cottages with curved terracotta roofs, colorful flower boxes, winding cobblestone streets, tiny market stalls, hanging fabric banners, distant green hills and a bright blue sky filled with soft white clouds.
+Warm golden sunlight illuminates the village everywhere except directly underneath Puff.
+There is no storm.
+The unusual visual joke is that a miniature rain shower follows only Noah while everyone and everything around him remains sunny and dry.
+Maintain consistent village architecture and geography between shots.
+STORYTELLING RULE:
+The audience must understand the premise visually within the first two seconds.
+Use clean cinematic cuts between story beats.
+Do not teleport characters between shots.
+Every action must clearly cause the next action.
+Keep acting large, charming and easily readable on a phone screen.
+Never overcrowd the frame.
+==================================================
+0:00–0:04 — IMMEDIATE VIRAL HOOK
+Open immediately on a medium-wide frontal tracking shot.
+Noah walks slowly down the perfectly sunny village street looking gloomy.
+Directly above him floats tiny Puff.
+A ridiculous narrow column of rain pours only onto Noah.
+The cobblestones immediately around Noah are wet while everything just one meter away is completely dry and glowing in sunshine.
+Noah's curly hair and mustard-yellow jacket are damp.
+He takes two annoyed steps.
+Puff perfectly follows.
+Noah suddenly stops.
+Puff stops.
+Noah steps sideways.
+Puff glides sideways with him.
+Noah looks straight upward with exhausted disbelief.
+CAMERA:
+Smooth backward tracking movement keeping Noah centered.
+At the final second, gently tilt upward toward Puff.
+DIALOGUE — NOAH, young natural child voice, frustrated but funny:
+“Seriously? Again?”
+AUDIO:
+Bright whimsical pizzicato music begins immediately.
+Tiny rain patter directly above Noah.
+Light village ambience.
+Birds chirping in the dry sunny background.
+Soft wet sneaker footsteps.
+==================================================
+0:04–0:09 — COMEDY ESCALATION
+Noah suddenly runs.
+Cut to energetic side tracking.
+He races past a fruit stand.
+Puff accelerates effortlessly above him and the tiny rain shower continues following him perfectly.
+Noah ducks beneath a striped market awning.
+The rain stops hitting him for half a second.
+Noah smiles triumphantly.
+Puff calmly floats around the edge of the awning and lowers itself beside the opening.
+Rain immediately splashes Noah again.
+Noah's smile disappears.
+A vendor in the distant background looks confused but does not become an important character.
+Noah runs onward.
+CAMERA:
+Fast smooth side tracking with Noah.
+Brief static comedic hold when Noah believes he has escaped.
+Quick push-in on Noah's disappointed face when the rain returns.
+AUDIO:
+Fast playful percussion joins the music.
+Running footsteps.
+Little splashes.
+Fabric awning flutter.
+Tiny comedic musical “plink” when Puff finds him.
+No dialogue.
+==================================================
+0:09–0:14 — CONFRONTATION
+Cut to a quieter small cobblestone lane beside the village.
+Noah stops abruptly.
+Puff nearly floats past him, then gently drifts backward.
+The rain continues.
+Noah turns around, plants both feet, looks directly upward and points at Puff.
+Camera moves into a medium close-up including Noah and Puff.
+Noah says:
+“Why are you following me?”
+The music immediately softens.
+Puff's rain stops.
+Puff's fluffy edges droop.
+Its pale underside becomes slightly gray.
+Puff lowers several centimeters and gives one tiny apologetic cloudy whimper.
+Noah's angry expression slowly changes into confusion.
+CAMERA:
+Begin medium shot.
+Slow emotional push-in.
+Hold long enough to clearly read Puff's sadness.
+AUDIO:
+Music reduces to soft piano and glockenspiel.
+Rain fades naturally to silence.
+Tiny airy “puff” whimper from Puff.
+Distant village ambience remains.
+==================================================
+0:14–0:19 — DISCOVERY
+Noah turns to leave.
+Camera follows his movement.
+He takes one step and notices the tiny wilted pale-pink flower beside the hot dry cobblestone path.
+Cut to a close insert of the flower:
+drooping stem,
+dry soil,
+curled leaves.
+Noah looks from the flower...
+to Puff...
+back to the flower.
+His eyes widen as he gets an idea.
+His expression shifts from frustration to gentle excitement.
+He crouches beside the flower and points toward it.
+DIALOGUE — NOAH, quiet realization:
+“Wait... you can help.”
+Puff perks up slightly.
+CAMERA:
+Close-up flower insert.
+Cut to Noah's face.
+Then rack focus from Noah's pointing hand to Puff floating behind him.
+AUDIO:
+One hopeful musical note.
+Soft magical bell texture begins underneath the score.
+No rain yet.
+==================================================
+0:19–0:25 — MAGICAL PAYOFF
+Noah carefully gestures for Puff to move over the wilted flower.
+Puff hesitates for a fraction of a second, then happily floats directly above it.
+One single sparkling raindrop forms underneath Puff.
+Extreme close-up:
+the drop falls in slow motion.
+It lands in the dry soil.
+Soft magical light travels through the soil into the stem.
+Then Puff releases a gentle miniature shower.
+The wilted flower straightens.
+Leaves unfold.
+The small closed blossom rapidly but organically blooms into a huge luminous peach-and-pink fantasy flower.
+Its petals spiral outward above Noah like a beautiful umbrella.
+Golden pollen sparkles drift through the sunlight.
+Noah's mouth opens in amazement.
+Puff's body becomes brighter and fluffier.
+CAMERA:
+Macro close-up of the first raindrop.
+Follow the droplet downward.
+Tilt upward with the growing flower.
+Finish on a dramatic wide reveal showing Noah, Puff and the enormous flower.
+AUDIO:
+Clear single water-drop sound.
+Growing magical shimmer.
+Soft leaf unfurling sounds.
+Music swells into warm strings and bells.
+Gentle rain remains audible.
+No dialogue during the transformation.
+==================================================
+0:25–0:30 — HEARTWARMING END + VISUAL CALLBACK
+The huge flower now shelters Noah beneath its enormous curved petals.
+Puff floats happily beside him.
+Noah looks at Puff and smiles for the first time.
+Puff gives one happy little bounce.
+A few tiny raindrops begin falling again.
+Noah notices.
+Instead of getting annoyed, he laughs.
+Noah opens a tiny folded red umbrella from his green satchel.
+But instead of holding it over himself, Noah stretches his arm upward and carefully holds the miniature umbrella ABOVE PUFF.
+The tiny cloud is now being protected from its own rain.
+Puff freezes in surprise.
+Its eyes widen.
+Then Puff becomes bright, fluffy and extremely happy.
+Noah smiles warmly.
+DIALOGUE — NOAH, gentle and sincere:
+“Okay. You can stay.”
+Puff makes a tiny joyful chirp.
+End on Noah walking toward the glowing village with Puff floating happily beside him while Noah continues absurdly holding the tiny umbrella over the cloud.
+The huge flower glows behind them.
+CAMERA:
+Medium two-character shot for the dialogue.
+Slow pull-back into a wider sunset composition as they walk away.
+Hold the final readable silhouette for the last second.
+AUDIO:
+Warm emotional orchestral resolve.
+Soft footsteps.
+Very gentle rain.
+Tiny joyful Puff chirp.
+Birdsong returns.
+Music ends with a delicate bell note.
+==================================================
+PERFORMANCE AND ANIMATION
+Noah's body language must clearly evolve:
+beginning:
+slumped shoulders, slow walking, frustrated eyes.
+comedy:
+fast exaggerated running, annoyed reactions.
+confrontation:
+firm stance, pointing upward.
+discovery:
+curiosity, softened eyes.
+payoff:
+wonder and excitement.
+ending:
+relaxed shoulders, genuine smile and playful friendship.
+Puff communicates entirely through:
+eye expressions,
+tiny mouth shapes,
+floating height,
+subtle squash and stretch,
+edge curls,
+brightness,
+rain intensity,
+and small airy vocalizations.
+Puff does not speak human words.
+Character motion should have clear anticipation, action, reaction and recovery.
+Rain must obey gravity and interact naturally with Noah's clothing, hair, ground and flower.
+==================================================
+AUDIO MIX
+Generate synchronized audio.
+Dialogue must be clean, intelligible and naturally lip-synced to Noah.
+No narrator.
+No unnecessary dialogue.
+No characters talking over each other.
+No lyrics in the music.
+Music progression:
+0:00–0:09 playful whimsical comedy.
+0:09–0:19 soft emotional piano and bells.
+0:19–0:25 magical uplifting crescendo.
+0:25–0:30 warm friendship resolution.
+Prioritize dialogue above music.
+Rain, footsteps, cloth movement, flower growth and Puff vocalizations should be clearly synchronized with visual actions.
+==================================================
+STRICT CONTINUITY
+Only one Noah.
+Only one Puff.
+No duplicates.
+No character redesign.
+No face drift.
+No age change.
+No wardrobe change.
+No unexplained accessories.
+No random people suddenly entering close foreground.
+No extra magical clouds.
+Puff remains approximately 60 cm wide.
+Puff always floats close to Noah until Noah deliberately directs it toward the flower.
+Rain originates only beneath Puff.
+The rest of the village remains sunny and dry.
+No random weather change.
+The flower exists in the same physical location before and after blooming.
+No teleporting.
+No object morphing except the explicitly described flower blooming.
+Maintain Noah's exact mustard-yellow jacket, turquoise T-shirt, navy shorts, white socks, red sneakers and faded green satchel in every shot.
+Maintain Noah's exact medium-brown skin, dark-brown curly hair and dark-brown eyes in every shot.
+Maintain Puff's exact white fluffy body, pale blue-gray underside, two dark eyes and tiny mouth in every shot.
+No subtitles.
+No captions.
+No written text.
+No logos.
+No watermark.
+No UI.
+No split screen.
+No panel borders.
+No photorealism.
+No horror.
+No violence.
+No sad ending.
+Create one coherent, charming, funny and emotionally satisfying 30-second animated short whose visual story remains understandable even with the sound muted.
 ~~~~
 
 </details>
@@ -183,7 +748,7 @@ Would you watch a full series made like this? 👀
 
 ---
 
-## 5. Animation Study 256736
+## 12. Animation Study 256736
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/another-experiment-with-a-30-second-cinematic-in-256736/video-7a23a7826e25c5be.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/another-experiment-with-a-30-second-cinematic-in-256736/poster-6bcd7b50fdad9b5c.jpg" alt="Animation Study 256736 video preview" width="700" />
@@ -208,7 +773,7 @@ Another experiment with Seedance 2.5 #Seedance25 , a 30 second cinematic inspire
 
 ---
 
-## 6. 纯属虚构的荒诞动作短片
+## 13. 纯属虚构的荒诞动作短片
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-395138/video-a88825a66f7dbc8a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-395138/poster-f7ec9fe86ec89158.jpg" alt="纯属虚构的荒诞动作短片 video preview" width="700" />
@@ -232,7 +797,7 @@ HO2iXF9a4AAZsco
 
 ---
 
-## 7. （元はThreadsのdopamin.wxyさんを参考にしています）
+## 14. （元はThreadsのdopamin.wxyさんを参考にしています）
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/threadsdopamin-wxy-624764/video-f6395cf919272869.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/threadsdopamin-wxy-624764/poster-ad1b652c4813960f.jpg" alt="（元はThreadsのdopamin.wxyさんを参考にしています） video preview" width="700" />
@@ -387,24 +952,43 @@ HO2iXF9a4AAZsco
 
 ---
 
-## 8. She herds clouds
+## 15. She herds clouds
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/she-herds-clouds-651566/video-2a707fb1c05bf14a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/she-herds-clouds-651566/poster-68774873b6f3ca41.jpg" alt="She herds clouds video preview" width="700" />
 </a>
 
 <details>
-<summary><strong>Prompt</strong> — She herds clouds. One of them rides a tiny bike. When the storm comes, the whole flock becomes her shelter. Seedance 2.5 keeps making these little worlds feel alive. Prompt below...</summary>
+<summary><strong>Prompt</strong> — { &quot;title&quot;: &quot;Cloud Shepherd&quot;, &quot;style&quot;: &quot;3D Pixar family animation. Floating islands, pastel sky, fluffy cloud-sheep with little legs, golden morning light, whimsical.&quot;, &quot;shots&quot;: [...</summary>
 
 ~~~~text
-She herds clouds.
-One of them rides a tiny bike.
-When the storm comes, the whole flock becomes her shelter.
+{
 
-Seedance 2.5 keeps making these little worlds feel alive.
+"title": "Cloud Shepherd",
 
-Prompt below if you want to try it.
-Pixar style 3d animation- Created with @dreamina_ai #DreaminaCPP
+"style": "3D Pixar family animation. Floating islands, pastel sky, fluffy cloud-sheep with little legs, golden morning light, whimsical.",
+
+"shots": [
+
+{"time":"00:00-00:03","type":"EXTREME WIDE","action":"Crane shot down through cotton-candy clouds. Shepherd whistles, herding cloud-sheep with feather-duster staff.","camera":"Crane descending. Sun flares.","dialogue":"(whistling)"},
+
+{"time":"00:03-00:06","type":"WIDE","action":"One cloud-sheep drifts away, forms T-rex, then bicycle. Other clouds confused. Shepherd's shoulders drop.","camera":"Static.","dialogue":"Shepherd: 'Bramble, stop becoming a dinosaur! You are a sheep!'"},
+
+{"time":"00:06-00:09","type":"CLOSE-UP","action":"Cloud-sheep shifts into heart shape, floats down, nuzzles shepherd's cheek. She gets slightly damp.","camera":"Macro. Water droplets on freckles.","dialogue":"Shepherd: (giggles, softening) 'Okay, one dinosaur.'"},
+
+{"time":"00:09-00:13","type":"TRACKING","action":"Shepherd chases flock to wooden pen. Cloud-sheep becomes slide, duck, then sheep again, hops inside.","camera":"Side-tracking, fast. Vapor trails.","dialogue":"Shepherd: 'Then we go inside.'"},
+
+{"time":"00:13-00:17","type":"WIDE","action":"Dark grumpy-faced storm cloud approaches. Shepherd looks up worried. Opens tiny umbrella.","camera":"Low angle. Thunder rumbles.","dialogue":"(none)"},
+
+{"time":"00:17-00:23","type":"MEDIUM","action":"Cloud-sheep huddle under tiny umbrella, spilling out. Bramble becomes umbrella shape to help cover.","camera":"High angle. Rain falls golden around them, not on them.","dialogue":"(rain patter, contented baaing)"},
+
+{"time":"00:23-00:27","type":"CLOSE-UP","action":"Shepherd hugs Bramble. Feels like warm cotton. Rainbows in vapor. Eyes closed peaceful.","camera":"Extreme close-up.","dialogue":"(soft humming)"},
+
+{"time":"00:27-00:30","type":"WIDE","action":"Storm passes. Sun returns. Shepherd and flock walk across rainbow bridge to next island, perfectly in line.","camera":"Pull back. Pastel sky.","dialogue":"(whistling resumes)"}
+
+]
+
+}
 ~~~~
 
 </details>
@@ -415,7 +999,7 @@ Pixar style 3d animation- Created with @dreamina_ai #DreaminaCPP
 
 ---
 
-## 9. text to video 30s
+## 16. text to video 30s
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/text-to-video-30s-552259/video-69422f6908b6161d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/text-to-video-30s-552259/poster-3ec3b4409b1d49b9.jpg" alt="text to video 30s video preview" width="700" />
@@ -436,7 +1020,7 @@ Once upon a time there lived a hare. The hare could run very fast. It was proud 
 
 ---
 
-## 10. 実写でフォトリアリスティック、重厚でシネマティックな映像美
+## 17. 実写でフォトリアリスティック、重厚でシネマティックな映像美
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-871501/video-e8d6ef9f08542cd8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-871501/poster-b862ef102c73ae36.jpg" alt="実写でフォトリアリスティック、重厚でシネマティックな映像美 video preview" width="700" />
@@ -508,7 +1092,7 @@ Once upon a time there lived a hare. The hare could run very fast. It was proud 
 
 ---
 
-## 11. Handmade Doll Boxer Swarm
+## 18. Handmade Doll Boxer Swarm
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/handmade-doll-boxer-swarm-594949/video-282199aef2aa862c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/handmade-doll-boxer-swarm-594949/poster-4ae50c2531b5ed41.jpg" alt="Handmade Doll Boxer Swarm video preview" width="700" />
@@ -544,7 +1128,7 @@ P07-P08: Regroup then pose: the crowd bunches up and piles in again around the t
 
 ---
 
-## 12. Children and Dragons Picnic Chaos
+## 19. Children and Dragons Picnic Chaos
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/children-and-dragons-picnic-chaos-175096/video-9ba2f4f7b5730c0b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/children-and-dragons-picnic-chaos-175096/poster-3c2a5097f6d53590.jpg" alt="Children and Dragons Picnic Chaos video preview" width="700" />
@@ -589,7 +1173,7 @@ Now completely full, the dragons happily fly back through sunset clouds carrying
 
 ---
 
-## 13. Dark-Fantasy Anime Flythrough Opening
+## 20. Dark-Fantasy Anime Flythrough Opening
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/dark-fantasy-anime-flythrough-opening-591666/video-5bb0becf20c97614.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/dark-fantasy-anime-flythrough-opening-591666/poster-dc04b427b06df0e5.jpg" alt="Dark-Fantasy Anime Flythrough Opening video preview" width="700" />
@@ -610,7 +1194,7 @@ type: anime_opening_continuous_camera_flythrough style: visual: dark fantasy ani
 
 ---
 
-## 14. Watercolor Aquarium Octopus Journey
+## 21. Watercolor Aquarium Octopus Journey
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/watercolor-aquarium-octopus-journey-962531/video-cb3254ef61621e2b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/watercolor-aquarium-octopus-journey-962531/poster-78d387b6fd099506.jpg" alt="Watercolor Aquarium Octopus Journey video preview" width="700" />
@@ -647,7 +1231,7 @@ type: anime_opening_continuous_camera_flythrough style: visual: dark fantasy ani
 
 ---
 
-## 15. Illustrated Creature Flood Escape
+## 22. Illustrated Creature Flood Escape
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/illustrated-creature-flood-escape-172377/video-1e799988479e3f91.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/illustrated-creature-flood-escape-172377/poster-ed6b60e54ff6e89e.jpg" alt="Illustrated Creature Flood Escape video preview" width="700" />
@@ -700,7 +1284,7 @@ A majestic vertical drone shot rises high into the sky. The flood forms beautifu
 
 ---
 
-## 16. Handcrafted Illustrated Animation
+## 23. Handcrafted Illustrated Animation
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/handcrafted-illustrated-animation/video-105ff8a6759b0dca.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/handcrafted-illustrated-animation/poster-0d53a400b6e2a7eb.jpg" alt="Handcrafted Illustrated Animation video preview" width="700" />
@@ -747,7 +1331,7 @@ Avoid camera movement, zooming, morphing, duplicated objects, floating elements,
 
 ---
 
-## 17. Stylized Family Animation
+## 24. Stylized Family Animation
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/stylized-family-animation/video-7936b1d3f39a03f0.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/stylized-family-animation/poster-92f62b18d476f20a.jpg" alt="Stylized Family Animation video preview" width="700" />
@@ -829,7 +1413,7 @@ logos.
 
 ---
 
-## 18. Rainy Night-Market Family Animation
+## 25. Rainy Night-Market Family Animation
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/rainy-night-market-family-animation-775828/video-1136580a143df3c3.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/rainy-night-market-family-animation-775828/poster-75cb6c2dcb15f508.jpg" alt="Rainy Night-Market Family Animation video preview" width="700" />
@@ -922,7 +1506,7 @@ geometry.
 
 ---
 
-## 19. Youth Motorcycle Racing Memory
+## 26. Youth Motorcycle Racing Memory
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/youth-motorcycle-racing-memory/video-a17e473dda32cdc3.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/youth-motorcycle-racing-memory/poster-6907514780819ab5.jpg" alt="Youth Motorcycle Racing Memory video preview" width="700" />

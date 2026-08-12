@@ -1,0 +1,43 @@
+{
+  "slug": "seedance-2-5-on-832715",
+  "title": {
+    "en": "seedance 2.5 on",
+    "zh": "seedance 2.5 on"
+  },
+  "description": {
+    "en": "30-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Dheepanratnam",
+    "url": "https://x.com/Dheepanratnam/status/2086819088005832715"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/Dheepanratnam/status/2086819091537432920"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Dheepanratnam/status/2086819088005832715"
+  ],
+  "prompt": "How it holds together:   every change is silhouette-level, not texture\nthe eye stays pinned in frame throughout\ncounters that can't reverse: legs 4→2→0, tail→fluke, nostrils→blowhole, 1m→30m — camera pulls back all 30s, so scale is the drama\n\nSeedance 2.5, one prompt.\n\n30-second SINGLE CONTINUOUS SHOT, 16:9. NO CUTS, NO DISSOLVES - one unbroken take containing EXACTLY 15 transformations, one every 2 seconds. No text anywhere in frame.\n\nSTYLE: photoreal natural-history cinematography, large-sensor camera, water-housing lens. Rapid kinetic energy - the animal is always mid-action, never posing. Real muscle, blubber, wet hide, spray, silt, bubbles, shafts of sun through water. BBC realism, never a video game.\n\nSUBJECT: ONE animal, first frame to last. Never replaced, never cut away from, never leaving frame. Its dark eye stays at roughly the same point in frame the whole time - the thread the viewer follows. Every change is CONTINUOUS PHYSICAL DEFORMATION of this same living body: bone lengthening under skin, limbs shrinking into the torso, muscle rebuilding mid-stroke. Never a cut, never a dissolve, never a replacement. Changes are FAST and violent, not gentle.\n\nMASK RULE (critical): EVERY transformation is hidden by water. The animal drives into a splash, foam, a silt cloud, a bubble curtain, spray or its own blow, and comes out the other side as the next form. It enters white water as one animal and leaves it as the next. NEVER morph in clear open water.\n\nCOUNTERS - these change in this exact order and never reverse: LEGS four, then two, then none. TAIL furry rope, then thick muscular trunk, then a wide horizontal fluke. NOSTRILS at the snout tip, then mid-skull, then a blowhole on top of the head. LENGTH 1 metre, then 5, then 18, then 30.\n\nPACING: each 2-second stage is split in half - roughly one second holding the new form in clear open motion so it reads, then one second driving hard into the next mask. The animal is never still and never drifts. All 15 forms must be individually recognisable across the 30 seconds, not a continuous blur.\n\nCAMERA: one single continuous move - the camera is PULLING BACK for the entire 30 seconds, retreating steadily as the animal grows, so it always fills the frame. Never locked off, never still until the end.\n\nLIGHT AND PALETTE: a continuous slide from warm shallow green-brown river light, through silt and turquoise coastal water, into deep cold blue ocean, ending in bright open sunlit surface. Never jumps.\n\nSTORY: 50 million years of whale evolution - a furry four-legged land animal walks into a river and never comes out, becoming the largest animal that has ever lived.\n\nBEATS - hit all 15, one every 2 seconds:\n00:00-00:02 [1/15] Pakicetus: a wolf-sized furry four-legged predator with hooved toes wades into a shallow river, drinking.\n00:02-00:04 [2/15] It plunges under. SPLASH. Legs shorten, feet splay and web, the snout flattens forward.\n00:04-00:06 [3/15] Ambulocetus: sprawled crocodile-shaped body undulating through brown shallows, silt boiling around it.\n00:06-00:08 [4/15] It powers through a SILT CLOUD - the body doubles in length, the hips loosen, the tail thickens.\n00:08-00:10 [5/15] Rodhocetus: hind legs collapse to short paddles, the thick tail now drives the whole body.\n00:10-00:12 [6/15] It breaches into SPRAY - forelimbs flatten into smooth flippers, fur thins away to bare grey skin.\n00:12-00:14 [7/15] It exhales a hard BLOW of vapour; through it, the nostrils crawl backward up the skull.\n00:14-00:16 [8/15] White water off the tail - two hindlimbs shrink to buried nubs and a wide horizontal FLUKE snaps open.\n00:16-00:18 [9/15] Dorudon: fully aquatic, streamlined, driving downward with vertical fluke strokes into darker water.\n00:18-00:20 [10/15] Through a BUBBLE CURTAIN the body elongates violently into an 18-metre serpent - Basilosaurus, sinuous.\n00:20-00:22 [11/15] A PLANKTON CLOUD swallows it; it re-emerges shorter, massively thicker, blubber swelling the silhouette.\n00:22-00:24 [12/15] Lunging through a KRILL SWARM the skull broadens and the jaw widens enormously.\n00:24-00:26 [13/15] Teeth recede into the gums and dark BALEEN plates unfurl down from the upper jaw like a curtain.\n00:26-00:28 [14/15] A lunge-feed water SURGE - long throat pleats carve down the underside and the whole body balloons.\n00:28-00:30 [15/15] Blue whale, 30 metres, rising into sunlight. It blows once. The camera stops moving for the first time.\n\nAUDIO: diegetic sound only - NO music, NO narration, NO voices. Wading and splashing, heavy wet breathing, muffled underwater pressure, rushing water over the body, bubble roar, the deep boom of a fluke stroke, distant whale groans and clicks, krill hiss, one huge wet blow at the end.\n\nNEGATIVE: no cuts, no jump cuts, no dissolves, no cross-fades, no fade to black; no text, no captions, no logos, no watermark; no humans, no boats, no other animals except distant krill; no second whale in frame; no morph flicker, no ghosting, no double exposure, no detaching limbs; no video-game or CGI look, no slow motion, no locked-off camera, no gentle slow morphing.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-on-832715/video-061ab1d16601bfdf.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-on-832715/poster-e4f315a7a05b0d78.jpg",
+    "format": "video/webm",
+    "videoBytes": 2350716,
+    "videoSha256": "061ab1d16601bfdf8b22a37f2a4d71c20a115f3479dfc92a76e5969a5184795e",
+    "thumbnailBytes": 31337,
+    "thumbnailSha256": "e4f315a7a05b0d78fe47e3e051a01bf0c35ee1faf6764f5637436ba03c1a5e1d"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

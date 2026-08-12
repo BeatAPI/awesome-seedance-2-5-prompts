@@ -1,0 +1,43 @@
+{
+  "slug": "2-generated-the-video-with-seedance-2-5-which-is-821090",
+  "title": {
+    "en": "2️⃣ Generated the video with Seedance 2.5, which is available with exclusive first access on Lovart.",
+    "zh": "2️⃣ Generated the video with Seedance 2.5, which is available with exclusive first access on Lovart."
+  },
+  "description": {
+    "en": "25-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "25 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "25s",
+  "aspectRatio": "719:360",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ZabihullahAtal",
+    "url": "https://x.com/ZabihullahAtal/status/2085671707738821090"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/ZabihullahAtal/status/2085671707738821090"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/ZabihullahAtal/status/2085671707738821090"
+  ],
+  "prompt": "A strong and disciplined young woman stands inside an ancient Chinese martial arts academy nestled high in the misty mountains. The grand wooden training hall is built in authentic ancient Chinese style, featuring towering red pillars, intricately carved dragon beams, elegant silk banners with traditional calligraphy, bronze incense burners, antique weapon racks, polished wooden floors, and rows of glowing lanterns. At the far end of the hall stands a magnificent stone statue of the legendary Grandmaster who founded the martial arts school. The statue radiates wisdom, discipline, and unwavering strength.\n\nThe woman has an athletic yet graceful physique and wears a traditional black and deep-red Chinese martial arts uniform with a flowing sash, cloth wrist wraps, leather boots, and long black hair tied neatly behind her. Her expression is calm, focused, and filled with respect.\n\nShe slowly walks toward the Grandmaster's statue, stops several steps before it, places her right fist into her left open palm in the traditional Bao Quan Li martial arts salute, lowers her head respectfully, and bows toward the statue. She silently pays tribute to the master before turning with controlled, deliberate movements and walking to the center of the training hall.\n\nShe takes a deep breath, settles into a perfectly balanced horse stance, and begins demonstrating a master-level traditional martial arts form.\n\nEvery movement is executed with absolute precision, perfect timing, and complete body control. She transitions seamlessly through deep horse stances, bow stances, cat stances, and low drop stances before exploding into lightning-fast chain punches, powerful palm strikes, spear-hand thrusts, tiger claw techniques, elbow strikes, knee strikes, spinning back kicks, tornado kicks, butterfly kicks, sweeping leg attacks, jumping crescent kicks, and perfectly controlled aerial rotations.\n\nShe performs rapid combinations without hesitation, flowing effortlessly from attack to defense. Her breathing remains calm and synchronized with every movement. Each strike stops with pinpoint accuracy, demonstrating exceptional control rather than unnecessary force. Her footwork is fluid, her balance never falters, and every technique reflects decades of disciplined training.\n\nThe camera captures the performance with sweeping cinematic movements—slow circular tracking shots, dramatic low-angle angles emphasizing powerful stances, overhead shots showcasing intricate footwork, close-ups of her focused eyes and controlled breathing, and wide shots revealing the majestic scale of the academy. Her uniform, sash, and hair move naturally with every technique while fine dust rises gently from the polished wooden floor beneath her feet.\n\nAs the demonstration reaches its climax, she performs an extraordinary sequence of master-level techniques: a rapid series of spinning strikes, an aerial butterfly twist, a perfectly controlled tornado kick, a seamless landing into a deep horse stance, followed immediately by explosive palm strikes, tiger claw combinations, and a final powerful straight punch that stops precisely at full extension.\n\nShe slowly exhales and returns to a composed ready stance.\n\nWithout turning her back on the Grandmaster, she carefully steps backward several paces while continuing to face the statue. She once again performs the traditional Bao Quan Li salute, lowers her head respectfully, and bows deeply toward the Grandmaster's statue, honoring the legacy and teachings before standing silently in complete discipline.\n\nThe camera slowly pulls back, revealing the majestic academy, the towering statue of the Grandmaster, and the lone martial artist standing respectfully before the master whose teachings continue to live through her.\n\nStyle\n\nUltra-cinematic ancient Chinese martial arts film, authentic traditional Chinese academy, photorealistic human movement, realistic Wushu and traditional Kung Fu choreography, master-level martial arts performance, fluid footwork, expressive facial acting, elegant costume physics, dramatic natural lighting, cinematic camera movement, volumetric light rays, highly detailed architecture, respectful atmosphere, epic historical realism, AAA film quality, IMAX composition, ultra-detailed textures.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/2-generated-the-video-with-seedance-2-5-which-is-821090/video-27610c0b0044f6f9.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/2-generated-the-video-with-seedance-2-5-which-is-821090/poster-b8af7d9068cdcace.jpg",
+    "format": "video/webm",
+    "videoBytes": 671731,
+    "videoSha256": "27610c0b0044f6f9f1a382ec67c7e43bc19cd02ce2810b33c5816b11e413e1c3",
+    "thumbnailBytes": 44818,
+    "thumbnailSha256": "b8af7d9068cdcace63657f3f5642fd99cb373b1883e3174c0f0d47b9ae7c26f9"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

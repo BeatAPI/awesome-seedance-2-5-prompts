@@ -1,0 +1,44 @@
+{
+  "slug": "catch-it-clean-it-grill-it-eat-it-all-100-657649",
+  "title": {
+    "en": "catch it, clean it, grill it, eat it, all 100% AI with Seedance 2.5",
+    "zh": "catch it, clean it, grill it, eat it, all 100% AI with Seedance 2.5"
+  },
+  "description": {
+    "en": "28-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "28 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "28s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@abxxai",
+    "url": "https://x.com/abxxai/status/2087189194720657649"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/abxxai/status/2087189194720657649"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/abxxai/status/2087189194720657649"
+  ],
+  "prompt": "SCENE CONTEXT\nPOV river-to-campfire sequence at a jade-green alpine river through birch/cedar forest, late-afternoon light. A trout is caught, cleaned, seasoned, grilled over an open fire, then eaten, with one sip from a glass bottle while it cooks. 30s, four continuous segments, three hard cuts, real chest-mounted action camera.\n\nACTIVE REFERENCES\n@location1: jade-green river, granite boulders, gravel bar, stone fire-ring, tree-stump table, birch/cedar tree line, faint peaks. 100% matches reference.\n@hands1: sun-tanned forearms, light-blond arm hair, olive sleeve rolled to elbow, braided wrist cord. Same fly rod, folding knife, wood board, wire grill basket, plain glass bottle, brown fizzy liquid, no label. 100% matches reference.\n\nLOCATION MAP\nSegment A: river foreground, tree line behind. Segments B-D: gravel bar foreground, fire-ring and stump table midground, tree line and peaks background. POV chest-to-eye height, moving only with the body. Key light low, behind camera-left.\n\nFIRST FRAME / BLOCKING\nNon-empty opening frame: already mid-cast, rod raised, line already peeling off the reel. Water fills the lower two-thirds, forest/sky the top third.\n\nFORMAT MODE\nControlled multi-shot, three HARD CUTs, camera does not cut anywhere else:\nA (0-9s) river, one continuous take. HARD CUT.\nB (9-21s) board, one continuous take. HARD CUT.\nC (21-27s) fire, one continuous take. HARD CUT.\nD (27-30s) eating, one continuous take.\n\nOPTICS\n84° in A easing to 63° through the fight. 63° easing to 18° across B. 63° opening to 29° in C. 29° held in D. No drift within any segment.\n\nCAMERA\nChest-height POV, moving only with body motion — forward stroke on the cast, downward tilt on the knife and grate, forward lean when hands work close. Soft highlight roll-off on bright water and hot metal.\n\nACTION\nA: rod arcs, line whistles; tip snaps down as the trout strikes; rod pumps, reel clicking, fish surfacing closer each pump; hand closes behind the gills, lifts the fish clear, holds it still one beat as water streams off. B: boots cross the gravel, fish set on the board, knife meets scales, scrapes tail to head; one clean line opens the belly, organs lift free; fish rinses in the shallows, pink cloud drifting off; salt, pepper, herbs scatter over the flesh; fish folds into the basket, latch clacks. C: kindling catches from a breath, flame licks up; basket lowers onto the grate, skin bubbles and browns, smoke lifts. D: bottle tips up for one swallow; fork pauses a half-second at the flesh before splitting it open, steam lifting as a piece rises toward camera, one quiet exhale closing the shot.\n\nPERFORMANCE\nHands stay continuously busy with real working tasks, never idle. Pore-level realism: vellus arm hair in the breeze, capillary flush from cold water. Movements read practiced, unhurried, one deliberate pause at the fish-lift and one at the first bite, restrained and human, never cartoonish.\n\nPHYSICS\nNo floating props. Correct contact shadows under every prop, every segment. Water carries real weight and splash. Fire holds true flicker, heat-shimmer, smoke on a light breeze. Mass and inertia carry through the rod bend, the fish's thrashing and the latch.\n\nLIGHTING\nWB locked 5600K, warm low sun behind camera-left as key, cool sky fill through A-B. From C onward, ember-orange fire light adds a low rim on hands and fish alongside the same key.\n\nCOLOR GRADE\nCool jade-green river/forest in A, warm honey wood and pale gravel in B, ember-orange fire glow and seared skin in C-D. Color tied to source and surface, not a flat list.\n\nAUDIO\nWarm acoustic guitar bed under everything, mixed low, sitting quietly beneath the natural sound. Diegetic: river current and line-whistle opening A, splash and reel-drag through the fight; gravel footsteps opening B, knife-on-wood, one clean cut sound, rinse-splash, hinge-click closing it; twig-snap opening C, crackle into sizzle; glass clink and swallow opening D, fork scrape, steam hiss, one quiet chuckle closing the shot. No subtitles.\n\nSTYLE\n8K photorealistic — no 3D render, no game engine, no game-cutscene aesthetic. Naturalistic master cinematography, fine film grain, true action-camera color science.\n\nOUTPUT SETTINGS\nReal-time throughout, no speed ramping, FOV holds exactly as stated per segment with no drift across any hard cut.\n\nPOSITIVE LOCKS\nSame hands, sleeve and wrist cord across all four segments. Same rod, knife, board, basket and bottle, no substitutions across any cut. Same river, gravel bar and fire-ring geometry held across every segment. Fish skin and flesh stay anatomically real. Eyes stay natural — no eye glow. Contact shadows read clearly every segment. No logos, no UI, no subtitles anywhere in frame.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/catch-it-clean-it-grill-it-eat-it-all-100-657649/video-d1a5faa43e375327.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/catch-it-clean-it-grill-it-eat-it-all-100-657649/poster-e009c250627ab7bd.jpg",
+    "format": "video/webm",
+    "videoBytes": 2694082,
+    "videoSha256": "d1a5faa43e375327e5942fbb2c64b6e0e472785bd0bf2c381ba96f6b00e7e295",
+    "thumbnailBytes": 47204,
+    "thumbnailSha256": "e009c250627ab7bd2aadb4070a0bc84110a90df6eedc67774c6b63899aef4a5e"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

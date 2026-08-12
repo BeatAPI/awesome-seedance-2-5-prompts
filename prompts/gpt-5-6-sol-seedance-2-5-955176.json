@@ -1,0 +1,44 @@
+{
+  "slug": "gpt-5-6-sol-seedance-2-5-955176",
+  "title": {
+    "en": "GPT 5.6 Sol + Seedance 2.5 = ?",
+    "zh": "GPT 5.6 Sol + Seedance 2.5 = ?"
+  },
+  "description": {
+    "en": "30-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@NickyLi42",
+    "url": "https://x.com/NickyLi42/status/2086897039082955176"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/NickyLi42/status/2086897051397431616"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/NickyLi42/status/2086897039082955176"
+  ],
+  "prompt": "使用上面的图片，我继续将其作为参考，并且与GPT 5.6合作，生成了以下Prompt，并最终使用Seedance 2.5完成视频生成：\n以参考图片为视觉基础，严格延续其中仓库的空间结构、TV堆叠方式、旧物质感与整体色调。画面具有真实电影摄影质感，节奏由缓慢克制逐渐转为流畅梦幻，通过镜头持续推进、屏幕匹配剪辑与无缝穿越，依次切换不同年代的电视机，并进入对应年代的影视风格影像。\n\n0-5秒：昏暗、空旷的旧仓库，空气中漂浮着细小灰尘，远处堆满不同时期的老式电视机。冷灰色环境光从高窗斜射进来，地面略微潮湿并反射微弱荧光。镜头以低机位缓慢向TV堆推进，轻微手持呼吸感，仓库深处传来电流杂音和磁带运转声。大部分电视处于熄灭状态，偶尔有一两台闪过雪花与微弱亮点。\n\n5-10秒：镜头继续稳定推进，一台1950—1960年代的黑白木壳圆角电视逐渐成为画面中心。屏幕突然亮起，出现高反差黑白影像：雨夜街道、撑伞行人、老式汽车从远处驶过，画面带有胶片颗粒、划痕、轻微跳帧和边缘暗角。镜头靠近屏幕，电视玻璃上的仓库倒影与黑白影像短暂叠化，随后镜头无缝穿入屏幕，进入黑白电影世界。\n\n10-15秒：黑白雨夜中的汽车从镜头前横向经过，以车身遮挡完成匹配转场。汽车驶离后，场景变为1970年代暖褐色电影风格：夕阳下的公路、随风晃动的树影、复古服装人物的朦胧背影，色彩偏暖、低饱和，带明显16mm胶片颗粒与漏光。镜头缓慢向前滑行，人物回头的一瞬间，画面出现模拟电视信号扭曲和横向扫描线。\n\n15-20秒：信号扭曲自然切换到1980年代的CRT电视画面。镜头仿佛从屏幕内部退回仓库，眼前是一台黑色塑料外壳电视，周围霓虹灯微微闪烁。屏幕播放80年代都市夜景：潮湿街道、红蓝霓虹、车灯拖影、录像带色偏、过曝高光与VHS噪点。镜头再次快速靠近屏幕，穿过一束迎面而来的车灯，利用强光完成无缝转场。\n\n20-25秒：强光消退后进入1990年代家庭录像风格。画面是夏日下午的室内窗边，白色窗帘被风吹起，桌上散落旧照片与磁带，一道人物身影从走廊经过。画面采用4:3比例、柔和偏绿色调、DV噪点、时间感强烈的自然曝光和轻微失焦。人物经过镜头时形成前景遮挡，遮挡结束后切换到2000年代早期宽屏电视中的影像：城市天台、蓝调黄昏、快速掠过的云层，数码摄影质感逐渐变得清晰。\n\n25-30秒：镜头从2000年代影像中平滑后退，重新回到参考图片中的仓库。此时不同年代的电视机同时亮起，每块屏幕分别播放刚才出现过的黑白雨夜、暖色公路、霓虹城市、家庭录像与蓝调天台，光线在灰尘和地面上交错闪烁。镜头继续缓慢后移，所有电视画面逐台熄灭，最后只剩中央一台电视发出柔和白光；电流声骤然安静，画面停留一秒，为后续片名或正片留出自然衔接空间。\n\n整体要求：写实电影级画面，文艺、怀旧、克制、略带梦境感；所有年代转换必须保持空间与运动方向连续，优先使用推镜、遮挡转场、亮度匹配、形状匹配、信号故障与穿越屏幕实现无缝衔接；镜头运动流畅且具有真实惯性，避免生硬跳切。不同年代需准确呈现对应电视机外观、画幅比例、胶片或录像介质质感。统一仓库主空间与参考图片视觉特征，光影细腻，灰尘、屏幕反光、玻璃折射、CRT扫描线和电流闪烁真实自然。无台词、无字幕、无水印、无品牌标识，声音以仓库环境音、电流声、磁带机械声、雨声和低沉氛围音乐逐渐融合。",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/gpt-5-6-sol-seedance-2-5-955176/video-0b08fd51f1d2463c.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/gpt-5-6-sol-seedance-2-5-955176/poster-e2220245aab93fd9.jpg",
+    "format": "video/webm",
+    "videoBytes": 1591180,
+    "videoSha256": "0b08fd51f1d2463ca1e0696c749356937f7d42ca73953ecdd94661aba9cebdae",
+    "thumbnailBytes": 65593,
+    "thumbnailSha256": "e2220245aab93fd97d1f11e04ce6ea30fac78ca41447332ccc117bbe9750b129"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "honestly-it-feels-like-a-random-clip-from-a-real-900148",
+  "title": {
+    "en": "Honestly, it feels like a random clip from a real trip… except none of it actually happened 😂✨",
+    "zh": "Honestly, it feels like a random clip from a real trip… except none of it actually happened 😂✨"
+  },
+  "description": {
+    "en": "10-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "10 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "10s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@IsabelWhite24",
+    "url": "https://x.com/IsabelWhite24/status/2086768110971900148"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/IsabelWhite24/status/2086768110971900148"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/IsabelWhite24/status/2086768110971900148"
+  ],
+  "prompt": "Create a 10-second ultra-realistic cinematic lifestyle video featuring the same stylish young woman exploring Birmingham.\n\n0–2 sec: She walks through a vibrant urban street and notices a large colourful street-art mural.\n\n2–5 sec: She approaches the mural and is handed a spray-paint can by a local artist. She adds a small artistic detail to the wall.\n\n5–7 sec: Close-up of her laughing and stepping back to admire the artwork, with paint marks visible on her gloves.\n\n7–10 sec: Camera pulls back to reveal the full colourful mural and the woman standing confidently beside it, posing for the camera.\n\nStyle: Photorealistic, cinematic urban lifestyle aesthetic, authentic Birmingham atmosphere, vibrant street art, natural facial expressions, smooth camera movement, realistic lighting, consistent AI-model identity, 4K, dynamic Instagram/Reels style.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/honestly-it-feels-like-a-random-clip-from-a-real-900148/video-bc56d041d8341e1f.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/honestly-it-feels-like-a-random-clip-from-a-real-900148/poster-50828e4231d43d0a.jpg",
+    "format": "video/webm",
+    "videoBytes": 789483,
+    "videoSha256": "bc56d041d8341e1fbcd6c6840a98e56e8cfe12cfa09173df93bbaf4bf8f80cd8",
+    "thumbnailBytes": 65102,
+    "thumbnailSha256": "50828e4231d43d0a9eea653eaf5a2e3efc1a206c390a653e87468f6bea30739b"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

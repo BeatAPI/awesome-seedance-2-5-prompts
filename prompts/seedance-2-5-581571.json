@@ -1,0 +1,43 @@
+{
+  "slug": "seedance-2-5-581571",
+  "title": {
+    "en": "Seedance 2.5",
+    "zh": "Seedance 2.5"
+  },
+  "description": {
+    "en": "30-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ahmetmertugrul",
+    "url": "https://x.com/ahmetmertugrul/status/2085504121608581571"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/ahmetmertugrul/status/2085504124125081813"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/ahmetmertugrul/status/2085504121608581571"
+  ],
+  "prompt": "A 30-second epic science-fiction sequence, monumental scale, muted desert palette against cold ship lighting, volumetric dust and light beams, awe-driven slow pacing.\n\n0-7s: Extreme wide aerial over rust-red dunes at dusk; a colossal shadow slides across the sand toward a tiny lone figure in a weathered hooded cloak.\n\n7-14s: Ground level, low angle: the figure looks up as a monolithic spacecraft descends through the clouds; landing lights pierce the airborne dust in sharp volumetric shafts; wind whips sand across the frame.\n\n14-21s: Slow crane-down as massive landing struts compress into the sand; a rolling shockwave of dust surges toward the camera and swallows the figure into silhouette.\n\n21-27s: Inside the drifting dust, backlit in full silhouette, the figure walks steadily toward a ramp of blinding white light opening with slow mechanical movement.\n\n27-30s: Over-the-shoulder shot as the figure steps into the light; the frame floods to pure white.\n\nKeep the same figure in every shot: slim build, ragged sand-colored hooded cloak, face never fully visible. Sound: deep bass rumble, wind, heavy metallic groans.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-581571/video-d6892ceb65bd39b7.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-581571/poster-2a1e7837a8aa9935.jpg",
+    "format": "video/webm",
+    "videoBytes": 629300,
+    "videoSha256": "d6892ceb65bd39b76447ff7c4fe8ca59d647b59a8de3a551a011898e2523b97c",
+    "thumbnailBytes": 24015,
+    "thumbnailSha256": "2a1e7837a8aa99358d256755eb8c8eada216874f3aa2ad8724792dcff611570b"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

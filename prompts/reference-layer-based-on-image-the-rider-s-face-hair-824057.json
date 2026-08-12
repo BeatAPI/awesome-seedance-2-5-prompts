@@ -1,0 +1,44 @@
+{
+  "slug": "reference-layer-based-on-image-the-rider-s-face-hair-824057",
+  "title": {
+    "en": "Reference layer: Based on image, the rider's face, hair, build, and clothing stay",
+    "zh": "Reference layer: Based on image, the rider's face, hair, build, and clothing stay"
+  },
+  "description": {
+    "en": "30-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ai_for_success",
+    "url": "https://x.com/ai_for_success/status/2086080198072824057"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/ai_for_success/status/2086080202103550049"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/ai_for_success/status/2086080198072824057"
+  ],
+  "prompt": "Reference layer: Based on image, the rider's face, hair, build, and clothing stay identical in every frame. Same person, same outfit, no identity or appearance drift.\n\nStoryboard:\n\n0-4s: Low angle on a cliff ledge. The rider vaults onto the dragon's neck and grips the saddle ridge. The dragon's wings snap open, blasting dust and loose stones off the rock as the wind builds.\n\n4-10s: The dragon launches off the cliff with one heavy downward wingbeat, creating a stomach-drop fall before its wings catch air and it climbs hard. The rider flattens low against the neck, hair and clothing ripped back by the wind. The camera falls with them, then rises alongside.\n\n10-16s: They punch up through the cloud layer, vapor tearing around the wings in streaks, then break into open golden light above the clouds. The rider slowly sits upright, squinting into the sun, briefly lifting one hand from the ridge. The camera drifts into a wide side profile, with the dragon's wings spanning the frame.\n\n16-23s: The dragon folds one wing and dives into a steep banking turn along a cliff face. Stone blurs past as the rider leans into the turn, straps straining against the force. At the bottom of the dive, the dragon levels out low over the ocean, its wingtips skimming spray from the water. The camera chases from behind and above.\n\n23-30s: The dragon climbs toward the low sun, wings beating slowly and heavily. The rider looks back over their shoulder once, then turns forward. They crest the highest peak into full golden light, the dragon silhouetted against the sun. Hold on the wide cinematic frame until 30 seconds.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/reference-layer-based-on-image-the-rider-s-face-hair-824057/video-81c54fb022224bce.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/reference-layer-based-on-image-the-rider-s-face-hair-824057/poster-e421ae772d41f366.jpg",
+    "format": "video/webm",
+    "videoBytes": 2037596,
+    "videoSha256": "81c54fb022224bce761e59f7e1daa9e1ffaac464d5c9031ea4d43b9b8f921cc1",
+    "thumbnailBytes": 44820,
+    "thumbnailSha256": "e421ae772d41f3669b3c575a356f7a8b11d18de41c43139ef5f3ef53c75c6dac"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

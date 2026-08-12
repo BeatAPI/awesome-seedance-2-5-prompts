@@ -1,0 +1,43 @@
+{
+  "slug": "video-created-with-seedance-2-5-on-784738",
+  "title": {
+    "en": "Video created with Seedance 2.5 on",
+    "zh": "Video created with Seedance 2.5 on"
+  },
+  "description": {
+    "en": "15-second vlog prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒vlog提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "vlog",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@bmx_ai13",
+    "url": "https://x.com/bmx_ai13/status/2086863648039784738"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/bmx_ai13/status/2086863648039784738"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/bmx_ai13/status/2086863648039784738"
+  ],
+  "prompt": "Create a 15 second photorealistic nightlife video in native 16:9, one continuous handheld take with no cuts. Scene: an open rooftop parking deck at night, dark asphalt with parking lines, blue perimeter fencing, concrete barriers, distant modern buildings with tiny red aviation lights, occasional blurred traffic, and tall white LED parking lamps. A glossy black luxury car sits close to camera with the front passenger door open. The door frame forms a strong diagonal foreground shape from lower center toward upper left, while the black side mirror fills the lower right with cool cyan reflections.\n\nA stylish young adult woman with warm medium skin, long straight dark hair, natural makeup, small hoop earrings, delicate bracelets, and a fitted metallic silver strapless top sits sideways in the passenger seat and leans into the doorway. Keep her face, hair, proportions, wardrobe, jewelry, car, and environment consistent. Her behavior feels spontaneous and playful, as if a friend is filming her after a night out.\n\nSeconds 0 to 2: medium close shot from outside the passenger door at chest level, roughly 28 mm smartphone lens. She looks upward past camera, lifts one hand behind her head, and lightly brushes her hair. Camera floats gently with natural hand tremor.\n\nSeconds 2 to 4: she turns toward camera, lowers her hand near her cheek and collarbone, smiles, and leans a little closer. Her gaze briefly follows the person filming instead of staring rigidly into the lens.\n\nSeconds 4 to 6: she brings fingertips to her lips and blows one playful kiss, then eases backward into the seat. Her shoulders rotate naturally and her hair shifts. Camera drifts right so the open door edge partially hides her.\n\nSeconds 6 to 9: she raises a dark smartphone to her ear, smiles as if reacting to someone, then lowers it and looks at the screen. Keep tiny natural pauses between gestures.\n\nSeconds 9 to 12: she extends the phone outward in her right hand as if taking a selfie or recording herself, adjusts the angle with her wrist, tilts her head back, and laughs softly. Her free hand touches her hair. Camera slowly moves farther right and slightly backward, revealing more empty parking deck and blue fencing.\n\nSeconds 12 to 15: she keeps the phone outward, leans lower into the seat, gives a final playful head tilt and relaxed smile, then settles naturally. End slightly off center with the side mirror prominent and city lights softly blurred behind her.\n\nUse only believable practical lighting. Cool teal and neutral white parking lamp spill, warm natural skin, bright car reflections, soft facial shadows, faint hair rim light, mild highlight clipping around lamps, realistic low light sensor noise, slight motion blur, tiny exposure breathing, occasional focus hunting, visible skin texture, flyaway hairs, fabric creases, fingerprints and micro reflections. Preserve realistic anatomy and hand motion. Avoid beauty filter skin, perfect stabilization, warped fingers, floating jewelry, rubbery facial motion, excessive slow motion, fake fog, impossible reflections, or stylized effects.\n\nCamera character: premium smartphone footage, handheld but controlled, subtle rolling shutter, real autofocus, modest depth of field, natural perspective, 24 frames per second feel, realistic shutter blur. No text, logos, subtitles, transitions, or visual effects.\n\nAudio: nocturnal club and R and B instrumental around 150 BPM, deep rounded kick, tight percussion, soft sub bass, restrained atmospheric synths, no vocals. Keep faint parking deck ambience underneath with distant traffic and open air city noise. Let beat accents loosely match the hair touch, blown kiss, phone raise, and final head tilt.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/video-created-with-seedance-2-5-on-784738/video-92863a266a08986c.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/video-created-with-seedance-2-5-on-784738/poster-bacf7b255e2f0f0a.jpg",
+    "format": "video/webm",
+    "videoBytes": 710830,
+    "videoSha256": "92863a266a08986c3e6d4d520d141c68c38673915c343b891ab3accc45bb131a",
+    "thumbnailBytes": 45079,
+    "thumbnailSha256": "bacf7b255e2f0f0aa57b8ba7efe7549ad04b7e2cc6b0d4b20c3f5414c2d859cb"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "reply-seedance-and-i-ll-send-it-must-be-following-463805",
+  "title": {
+    "en": "Reply \"SEEDANCE\" and I'll send it. (must be following)",
+    "zh": "Reply \"SEEDANCE\" and I'll send it. (must be following)"
+  },
+  "description": {
+    "en": "24-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "24 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "24s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Aliyan_smartUGC",
+    "url": "https://x.com/Aliyan_smartUGC/status/2087147278406463805"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Aliyan_smartUGC/status/2087147278406463805"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Aliyan_smartUGC/status/2087147278406463805"
+  ],
+  "prompt": "\"girl doing her skincare routine with moisturizer\"\n\nGood prompt: \"0-5s: close-up, she examines skin in mirror, mild frustration. Camera slow push-in. 5-10s: she applies moisturizer, expression softens. Camera holds. Never show: extra hands, text overlays, brand logos.\"\n\nSame model. Completely different output.\n\nI wrote up the full workbook — prompt formula, transitions, negative prompt library.\n\nReply \"SEEDANCE\" and I'll send it. (must be following)",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/reply-seedance-and-i-ll-send-it-must-be-following-463805/video-fbaba3ac9a9a1d62.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/reply-seedance-and-i-ll-send-it-must-be-following-463805/poster-53051ce85a6e72d3.jpg",
+    "format": "video/webm",
+    "videoBytes": 1556713,
+    "videoSha256": "fbaba3ac9a9a1d62cba7a9634eca82e468d1e79ffd47092a8cd22560ed02b190",
+    "thumbnailBytes": 58219,
+    "thumbnailSha256": "53051ce85a6e72d33e78045ea3370b51b3bb23f851dfe861a2cb6ac7cc3cb3e1"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

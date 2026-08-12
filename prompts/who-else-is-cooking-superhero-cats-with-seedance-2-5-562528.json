@@ -1,0 +1,43 @@
+{
+  "slug": "who-else-is-cooking-superhero-cats-with-seedance-2-5-562528",
+  "title": {
+    "en": "Who else is cooking superhero cats with Seedance 2.5?",
+    "zh": "Who else is cooking superhero cats with Seedance 2.5?"
+  },
+  "description": {
+    "en": "15-second animation prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒animation提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "animation",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Tim_AIProduct",
+    "url": "https://x.com/Tim_AIProduct/status/2087164614903562528"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Tim_AIProduct/status/2087164614903562528"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Tim_AIProduct/status/2087164614903562528"
+  ],
+  "prompt": "A cute fluffy cat sits on a wide windowsill in a messy Brooklyn-style bedroom. Keep it fully feline: realistic fur, four paws, natural proportions and movement, no humanoid anatomy. It wears a tiny dark tie-style collar, gray bandana, and miniature black over-ear headphones.\n\nThe room is cluttered with anime posters, manga, collectibles, an energy drink can, gaming items, scattered clothes, and an unmade bed. Outside is a cloudy New York skyline of red-brick buildings, fire escapes, and rooftop water towers.\n\nThe cat looks at the camera mischievously, tilts its head, pushes the headphones onto its ears with one paw, crouches, flicks its tail, then jumps backward out the window and shoots a thin white web line toward a nearby building.\n\nDynamic tracking shots follow the cat web-slinging through New York. It swings with its front paws while its hind legs stretch, tuck, and rotate naturally, tail balancing the motion. It flies between brick buildings, over intersections with yellow taxis and pedestrians, past corner stores, traffic lights, fire escapes, signs, and water towers.\n\nUse low-angle, high-angle, side-tracking, POV dive, and wide skyline shots with whip pans and natural motion blur. The cat curls, twists, stretches all four paws mid-air, rotates, catches new web lines, and lands naturally on walls and rooftops.\n\nAt golden hour, it swings upward, releases the web, flips, and lands on a Brooklyn rooftop ledge in a heroic feline pose: four paws planted, chest raised, tail lifted, looking over dense rooftops, the East River, distant Manhattan, and One World Trade Center glowing in sunset light.\n\nUltra-realistic live-action superhero style, vibrant colors, energetic movement, cinematic VFX, realistic physics, detailed NYC environments, seamless character consistency.\n\nImportant: same cat in every scene; never humanoid; no human hands or body proportions; accessories stay cat-sized; spectacular superhero energy with believable feline mechanics.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/who-else-is-cooking-superhero-cats-with-seedance-2-5-562528/video-b5eb24739b53ca1c.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/who-else-is-cooking-superhero-cats-with-seedance-2-5-562528/poster-ea8f04ce61213807.jpg",
+    "format": "video/webm",
+    "videoBytes": 1143042,
+    "videoSha256": "b5eb24739b53ca1caf1a767710a71f9f11254194c6aa97e090c872545eefdb73",
+    "thumbnailBytes": 86223,
+    "thumbnailSha256": "ea8f04ce6121380766c9691a4be1932d4be7be26afb6e3b2852736cbd37de03b"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

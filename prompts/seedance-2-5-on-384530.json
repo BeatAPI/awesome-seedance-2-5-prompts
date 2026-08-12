@@ -1,0 +1,43 @@
+{
+  "slug": "seedance-2-5-on-384530",
+  "title": {
+    "en": "seedance 2.5 on",
+    "zh": "seedance 2.5 on"
+  },
+  "description": {
+    "en": "8-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "8 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "8s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@MaomaoChan__AI",
+    "url": "https://x.com/MaomaoChan__AI/status/2087223135326384530"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/MaomaoChan__AI/status/2087223135326384530"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/MaomaoChan__AI/status/2087223135326384530"
+  ],
+  "prompt": "Hyperrealistic, photorealistic cinematic video. Static symmetrical wide-angle shot of a starkly empty bedroom with soft daylight. In the center sits a polished, red-and-white spherical capture device that wiggles once. Suddenly, it bursts open in a dazzling eruption of golden energy and sparkling particles with cinematic lens flares. From this central pulse, magical streams of light solidify into a bed with yellow creature-themed bedding, a wooden desk, shelves, and various colorful monster plush toys. Framed posters and a glowing lightning-bolt neon sign appear on the walls. The room is instantly transformed into a complete magical sanctuary. Sound effects: soft magical hum, energy burst, and the sound of furniture solidifying.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-on-384530/video-ebd811fcddcce004.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-on-384530/poster-4264319bee9d7eb5.jpg",
+    "format": "video/webm",
+    "videoBytes": 641403,
+    "videoSha256": "ebd811fcddcce004e4933868dffd6bdc849547df4e9820b12657d627af0d0f73",
+    "thumbnailBytes": 91925,
+    "thumbnailSha256": "4264319bee9d7eb50feb2254356027801d4acf03f907dd630b0234ba680ea3a9"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

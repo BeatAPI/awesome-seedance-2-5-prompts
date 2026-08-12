@@ -1,0 +1,43 @@
+{
+  "slug": "made-with-seedance-2-5-490561",
+  "title": {
+    "en": "Made with Seedance 2.5",
+    "zh": "Made with Seedance 2.5"
+  },
+  "description": {
+    "en": "15-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ou_zhen599",
+    "url": "https://x.com/ou_zhen599/status/2087185874249490561"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/ou_zhen599/status/2087185874249490561"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/ou_zhen599/status/2087185874249490561"
+  ],
+  "prompt": "15 seconds of behind-the-scenes (BTS) footage from a hyper-realistic Bollywood action film, in  vertical aspect ratio. It must have an “authentic on-set feel,” as if it were casually shot on the fly by a crew member using a cheap handheld phone from a parallel tracking car—not an official finished cut, not a cinematic shot. The image quality should be slightly oversharpened, with a distinct smartphone-like digital texture, rolling shutter effects, handheld shake, slight focus hunting, auto-exposure fluctuations, compression artifacts, wind noise hitting the microphone, road bumps, vehicle vibrations, and occasional accidental zoom adjustments. No cinematic color grading, no slow motion, no soundtrack, and no music video aesthetic.\n\nThe scene takes place on a closed highway during the day, with two black armored SUVs and a tactical chase vehicle traveling at high speed in the same direction. The vehicles are very close together but maintain a stable formation. The protagonist must always be the same South Asian male stuntman—wearing black tactical gear and protective gear, with the same face, the same physique, realistic skin texture, and natural movements. There must be no substitutions, no distortion, and no sudden changes in appearance throughout the entire sequence.\n\n0–3 seconds: A smartphone camera pokes out from the window of the chase vehicle, shaking violently as it struggles to keep up with the male stuntman running on the roof of the lead armored SUV ahead. He is already running on the roof, leaning forward to maintain balance; the wind is strong, blowing his clothes and straps. The cameraman, despite the jostling, tries his best to keep him centered in the frame, occasionally drifting slightly off-center due to the vehicle’s vibrations before quickly pulling him back into view. In the distance, another crew chase vehicle and the main camera crane can be seen, but they must not obstruct the main subject.\n\n3–7 seconds: The male stuntman continues sprinting along the roof of the first armored SUV. A vehicle traveling parallel to it fires controlled blank rounds and produces small spark effects; the muzzle flashes are brief, and a few sparks land near the vehicle’s metal body. The actor instinctively crouches to dodge but doesn’t stop, continuing forward. Due to nervousness, the person filming with a cell phone accidentally adjusts the zoom slightly, causing the frame to briefly zoom in and out before quickly refocusing on the actor. The key here is to capture a sense of chaotic realism, but the main subject must remain clear at all times: one person, one lead vehicle, and a continuous run.\n\n7–10 seconds: The climactic action is a precise and controlled jump from one vehicle to another. Two armored SUVs are driving side by side, very close together. The actor takes a stride from the roof of the first vehicle and leaps toward the roof of the second—the jump should not be overly exaggerated, but rather resemble a short, real-life jump seen in professional stunts. As he lands, his single knee slams heavily onto the roof of the second vehicle; his body lurches forward noticeably, nearly sliding off, but his right hand immediately grabs the roof railing to steady himself. The phone camera shakes violently due to the filmer’s excitement, nearly losing the subject, but quickly refocuses on him.\n\n10–12.5 seconds: The actor uses the roof railing to swing himself back into a stable position, gets back up, and takes two more steps forward. A brief shot from behind captures the official movie camera, the crane head, the safety cable, and a safety officer standing on the pursuing vehicle, clearly revealing this to be a behind-the-scenes scene from a controlled Bollywood action film shoot. Maintain the documentary feel of the cell phone footage; do not suddenly switch to formal cinematic framing.\n\n12.5–15 seconds: The actor dashes to the front of the second armored SUV and jumps onto a roadside stunt platform set up at the edge of the highway. After landing, he rolls once and grabs a metal step to pause briefly. The very next second, someone on set shouts, “CUT! CUT!” The atmosphere instantly shifts from tension to wrap-up mode: the armored SUV begins to slow down, the camera crane retracts, and the filmmaker quickly zooms out with the phone, clearly revealing the entire Bollywood action crew for the first time—including the chase vehicle, film cameras, safety crew, cables, crash pads, and production vehicles filling the closed-off highway. In the final moment, the actor gets up on their own, and crew members rush over to check on their safety.\n\nCamera Requirements: Must maintain a vertical, handheld, documentary-style smartphone perspective throughout—shaky, tracking shots with occasional slight accidental zoom adjustments, automatic exposure changes, and noticeable wind noise. No gimbal-stabilized footage, no aerial shots, no third-person “God’s-eye” view, and no showy editing techniques. The entire 15 seconds must appear as if shot continuously by a single phone from the same tracking vehicle.\n\nAudio Requirements: Only raw on-location smartphone audio is allowed; no background music. The sound must be rich and full—not too quiet. The following sounds must be clearly audible: wind distortion, engine roar, tire noise, airflow sounds from passing vehicles, brief simulated gunshots, the crisp clang of sparks striking metal, body resonance, crew members shouting, walkie-talkie static, the shooter’s heavy breathing, and finally, a loud and clear “CUT! CUT!” must serve as the focal point of the closing audio.\n\nOverall Style: Hyper-realistic, dangerous, gritty, chaotic yet controlled—like a secretly filmed behind-the-scenes video of a real Bollywood action blockbuster. The key elements are “the same actor, the same action sequence, the same smartphone perspective, a single main jump cut, and the final reveal of the film crew,” ensuring a stable, text-to-video conversion.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-490561/video-1f7ae392e82f6caf.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-490561/poster-beccaeade57fef1a.jpg",
+    "format": "video/webm",
+    "videoBytes": 1878644,
+    "videoSha256": "1f7ae392e82f6caf83db7c30ad1c82f395f83297b4e9ada09cdfb94a69e15c48",
+    "thumbnailBytes": 54773,
+    "thumbnailSha256": "beccaeade57fef1aff5ae190fef5b752b4e883b2c8311d09829f185f38591f05"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

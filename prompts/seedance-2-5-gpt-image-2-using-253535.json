@@ -1,0 +1,44 @@
+{
+  "slug": "seedance-2-5-gpt-image-2-using-253535",
+  "title": {
+    "en": "Seedance 2.5 + GPT Image 2 using",
+    "zh": "Seedance 2.5 + GPT Image 2 using"
+  },
+  "description": {
+    "en": "29-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "29 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "29s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@jin_okiru",
+    "url": "https://x.com/jin_okiru/status/2086127492453253535"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/jin_okiru/status/2086130376620278185"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/jin_okiru/status/2086127492453253535"
+  ],
+  "prompt": "“Create a premium cinematic character bible sheet for a muscular man named JINWOO. Use the uploaded character sheet as the strict visual reference for his exact face, body, proportions, hair, skin tone and outfit. Do not change his appearance. Exact facial features (must stay identical in every view): Strong angular masculine face with a sharp square jawline and defined chin, high prominent cheekbones, straight slightly high-bridged nose with a clean profile, almond-shaped dark brown eyes that are intense and focused with a slight natural upward tilt at the outer corners, thick straight black eyebrows sitting low for a determined expression, full but firm lips in natural color set in a focused line, clean-shaven with light natural shadow along the jaw, short-to-medium black hair slightly tousled from movement with a natural side part and a few strands falling over the forehead, warm medium skin tone with subtle athletic tan and light sheen from sweat/sunlight, visible neck tattoo starting just below the jawline on the left side of the neck (exact design from reference) plus matching tattoo on the right arm. LEFT SIDE: Massive bold brushstroke text JINWOO top left corner, thick and expressive, deep black color matching his polo shirt. Below it small text: PICKLEBALL PLAYER / THE COURT IS HIS ARENA. One large full height dynamic hero image of Jinwoo directly below — mid powerful forehand swing with pickleball paddle raised high, black hair slightly windswept, black polo shirt and black shorts catching the sunlight, clear blue sky and outdoor pickleball court below him as a vibrant watercolor splash in blacks, deep greens and whites fading into pure white, no box no frame, directly on the white page, neck tattoo and right-arm tattoo clearly visible and detailed. CENTER: Section labeled TURNAROUND in small clean text. Three full body views: Front, Side, Back. Same character same outfit same proportions as reference. Below: GEAR section with one clean detailed illustration of his black-accented pickleball paddle and ball. RIGHT SIDE: Section labeled DETAILS. Grid of four clean close-up panels: Face front intense focused expression (exact features locked), Eyes sharp and determined (almond-shaped dark brown), Black hair detail (tousled side part), Close-up of neck tattoo and right-arm tattoo. Below: COLOR PALETTE — black, white, deep green, warm medium skin tone, subtle metallic accents. Tagline bottom right: THE COURT IS HIS ARENA. OVERALL: Clean white background, vibrant black and green watercolor splash behind hero pose, energetic and athletic layout, minimal clean typography, lots of white space, cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, digital painting feel, hard-edge brushwork, not cartoon not Disney not Pixar, print ready.”\n\n**Character sheet prompt:**  “Create a premium cinematic character bible sheet for a muscular man named BARACUDA. Use the uploaded character sheet as the strict visual reference for his exact face, body, proportions, skin tone and outfit. Do not change his appearance.  Exact facial features (must stay identical in every view): Strong angular masculine face with a sharp square jawline and defined chin, high prominent cheekbones, straight slightly high-bridged nose with a clean profile, almond-shaped dark brown eyes that are intense and focused with a slight natural upward tilt at the outer corners, thick straight black eyebrows sitting low for a determined expression, full but firm lips in natural color set in a focused line, clean-shaven with light natural shadow along the jaw, completely bald head with smooth scalp, warm medium skin tone with subtle athletic tan and light sheen from sweat/sunlight, visible neck tattoo starting just below the jawline on the left side of the neck (exact design from reference) plus matching tattoo on the right arm.  LEFT SIDE: Massive bold brushstroke text BARACUDA top left corner, thick and expressive, rich gold color matching his polo shirt. Below it small text: PICKLEBALL PLAYER / THE COURT IS HIS ARENA. One large full height dynamic hero image of Baracuda directly below — mid powerful forehand swing with pickleball paddle raised high, completely bald head catching the light, golden polo shirt and rainbow shorts catching the sunlight, clear blue sky and outdoor pickleball court below him as a vibrant watercolor splash in golds, rainbow hues, deep greens and whites fading into pure white, no box no frame, directly on the white page, neck tattoo and right-arm tattoo clearly visible and detailed.  CENTER: Section labeled TURNAROUND in small clean text. Three full body views: Front, Side, Back. Same character same outfit same proportions as reference. Below: GEAR section with one clean detailed illustration of his black-accented pickleball paddle and ball.  RIGHT SIDE: Section labeled DETAILS. Grid of four clean close-up panels: Face front intense focused expression (exact features locked), Eyes sharp and determined (almond-shaped dark brown), Bald head detail (smooth scalp with light sheen), Close-up of neck tattoo and right-arm tattoo. Below: COLOR PALETTE — gold, rainbow spectrum, white, warm medium skin tone, deep green, subtle metallic accents. Tagline bottom right: THE COURT IS HIS ARENA.  OVERALL: Clean white background, vibrant gold and rainbow watercolor splash behind hero pose, energetic and athletic layout, minimal clean typography, lots of white space, cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, digital painting feel, hard-edge brushwork, not cartoon not Disney not Pixar, print ready.”",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-gpt-image-2-using-253535/video-36a9c5019a1fcb0f.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-gpt-image-2-using-253535/poster-2bccc235f98c1b32.jpg",
+    "format": "video/webm",
+    "videoBytes": 2834388,
+    "videoSha256": "36a9c5019a1fcb0fc991cb8c2c6cb09095070c9b83b7f7e3c8e9da3b5cef8646",
+    "thumbnailBytes": 103099,
+    "thumbnailSha256": "2bccc235f98c1b32a22ef5398e66c22d918925dbba6cc659ff7bd68b677e0bdb"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

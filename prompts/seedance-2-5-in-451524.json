@@ -1,0 +1,43 @@
+{
+  "slug": "seedance-2-5-in-451524",
+  "title": {
+    "en": "Seedance 2.5 in",
+    "zh": "Seedance 2.5 in"
+  },
+  "description": {
+    "en": "30-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@airina_xyz",
+    "url": "https://x.com/airina_xyz/status/2087183664312451524"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/airina_xyz/status/2087183667617518065"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/airina_xyz/status/2087183664312451524"
+  ],
+  "prompt": "Character: A mysterious masked dancer wearing flowing turquoise robes, golden ankle bells, a long scarf, and lightweight acrobat shoes, moving somewhere between parkour, martial arts, and dance.\n\n0:00–0:04 — Begin with a side-tracking camera as the dancer races through a vast moving caravan city crossing a golden desert: giant wagons, walking elephants, fabric tents, merchants and animals all moving in the same direction.\n\n0:04–0:08 — The dancer jumps onto a camel saddle, runs lightly across two moving camels, spins around a vertical tent pole, and lands on the roof of a rolling wooden wagon. Camera smoothly rotates from profile to frontal tracking.\n\n0:08–0:12 — They sprint across wagon rooftops while laundry lines and colorful carpets flap overhead. They duck beneath one carpet, jump through a circular opening in another, then somersault over a startled ostrich running between the wagons.\n\n0:12–0:16 — The final wagon suddenly reaches the edge of an enormous sandstone ravine. The dancer launches into space. Extreme slow motion: the scarf spirals around them as the camera makes a full orbit, revealing an ancient city carved into the cliffs below.\n\n0:16–0:20 — Normal speed returns just as they land on a giant suspended fabric canopy. The canopy bends downward like a trampoline and launches them through an arched window.\n\n0:20–0:24 — They race through a palace corridor filled with musicians and dancers. The runner seamlessly integrates the obstacles into choreography: stepping over drums, sliding beneath a dancer's spinning sleeves, running briefly along a wall, then flipping through an open doorway.\n\n0:24–0:27 — Outside again, they descend a staircase by running along the stone railing instead of the steps while goats scramble upward in the opposite direction.\n\n0:27–0:30 — They leap from the railing onto the top of a passing festival procession's giant ceremonial puppet, run across its shoulders, jump forward, and vanish into a dense cloud of colored powder as the camera follows straight into the cloud.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-in-451524/video-576e30d3d7cd8478.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-in-451524/poster-6e19068a671e2b0b.jpg",
+    "format": "video/webm",
+    "videoBytes": 2856156,
+    "videoSha256": "576e30d3d7cd84789e4e9f54c1a3912cdcc4b7a60698c091e687d23935feaafb",
+    "thumbnailBytes": 47238,
+    "thumbnailSha256": "6e19068a671e2b0ba22b4ba6cc51cb4a35a28f2a6b6ad11932d510ee0e61a574"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "5-minutes-a-day-just-for-you-019376",
+  "title": {
+    "en": "5 minutes a day. Just for you.",
+    "zh": "5 minutes a day. Just for you."
+  },
+  "description": {
+    "en": "33-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "33 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "33s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@HeyZoyaKhan",
+    "url": "https://x.com/HeyZoyaKhan/status/2086797158125019376"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/HeyZoyaKhan/status/2086797161329467747"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/HeyZoyaKhan/status/2086797158125019376"
+  ],
+  "prompt": "\"30-Second ZOYA Skincare Ad\n\n0–7 sec — The Busy Mom\nFast cinematic cuts:\n\n0–1.5s: Mom wakes up and immediately gets out of bed.\n1.5–3s: Preparing breakfast while getting the kids ready.\n3–4.5s: Helping her children get dressed / ready for school.\n4.5–6s: Working on her laptop while handling household chores.\n6–7s: Finally gets a moment alone and walks toward the bathroom mirror.\n\n7–9 sec — The Mirror Moment\nShe looks closely at her face.\nHer skin appears dry, tired and dull.\nShe gently touches her cheek and looks disappointed.\nQuick close-up of her expression.\n\n9–12 sec — ZOYA Product Reveal\nHard transition to a clean blue background.\nZOYA skincare product appears in a premium cinematic product shot.\nSoft glow, water droplets, elegant reflections.\nOn-screen text:\n“Just 5 minutes a day.”\n\n12–23 sec — Fast Skin Transformation\nThis should be the hero section of the ad.\nUse the same camera angle, same lighting and same facial position for every shot so viewers can clearly see the progression.\n\n12–13.5s — DAY 1\nText appears:\nDAY 1\nShe applies ZOYA.\nSkin still looks tired and dull.\n13.5–15s — DAY 2\n\nDAY 2\nFast cut.\nSkin looks slightly more hydrated and fresh.\n15–16.5s — DAY 4\n\nDAY 4\nVisible improvement in freshness and smoothness.\n16.5–18.5s — DAY 7\n\nDAY 7\nHer complexion looks noticeably brighter and healthier.\n18.5–21s — DAY 10\n\nDAY 10\nMore radiant, refreshed-looking skin.\nShe starts smiling.\n21–23s — DAY 14\n\nDAY 14\nFinal transformation.\nShe looks confident with fresh, naturally glowing skin.\nThe day labels should appear large and clearly on screen for each fast cut.\n\n23–27 sec — The New Her\nShe looks at herself in the mirror again.\nThis time, she smiles.\nShe confidently walks out of the bathroom and joins her family.\nHer daughter looks at her and smiles.\n\n27–30 sec — Final Product Shot\nReturn to the blue ZOYA background.\nProduct centered with a premium beauty-commercial composition.\nFinal text:\n“5 minutes. Every day. Just for you.”\"",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/5-minutes-a-day-just-for-you-019376/video-684e2b5cdbc40431.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/5-minutes-a-day-just-for-you-019376/poster-82cbb7ccdbe497bb.jpg",
+    "format": "video/webm",
+    "videoBytes": 1394171,
+    "videoSha256": "684e2b5cdbc40431733f5e680dbcc6f542cba3f292f7e74a4be5e8cc2fff6b51",
+    "thumbnailBytes": 46067,
+    "thumbnailSha256": "82cbb7ccdbe497bb9f24fc194003fa3c6d622c759cca5a80b44dcc059b729197"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

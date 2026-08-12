@@ -1,0 +1,44 @@
+{
+  "slug": "the-tricky-part-was-forcing-alien-hands-on-the-dap-956391",
+  "title": {
+    "en": "The tricky part was forcing alien hands on the dap and keeping the 'ElevenLabs' spelling stable.",
+    "zh": "The tricky part was forcing alien hands on the dap and keeping the 'ElevenLabs' spelling stable."
+  },
+  "description": {
+    "en": "15-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@alecwilcock",
+    "url": "https://x.com/alecwilcock/status/2086560838198956391"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/alecwilcock/status/2086560841240044022"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/alecwilcock/status/2086560838198956391"
+  ],
+  "prompt": "Cinematic photorealistic live-action clip, 15 seconds. Night, empty rural road, one car parked with headlights on, mist, stars. A massive alien mothership hidden above the clouds, revealed by a widening ring of pulsing light. ONE man is the focus of the entire video.\n\nCHARACTER: Use @[REF IMAGE] photo as strict visual reference — match face, hairstyle, facial hair, skin tone, build exactly. All black: black quarter zip with small white embroidered text on the right chest reading exactly \"ElevenLabs\" — one word, capital E and capital L only, no misspellings, no other text or logos anywhere. Use @[LOGO REF] as reference. Text stays small, sharp, legible whenever his chest is visible.\n\nALIENS: Classic greys, tall, slender, oversized heads, large black almond eyes. Hands distinctly non-human: elongated grey fingers, four fingers per hand, no nails. Every hand-to-hand contact is his human hand meeting a grey four-fingered alien hand, the skin contrast clearly visible.\n\nAUDIO: Tense low drone and rumbling bass, sub-bass swell as the beam hits, eerie alien hum during abduction, near-silence and heartbeat during the worry moment — then a needle-drop: hard party track slams the instant the first alien daps him up, full club energy, alien crowd cheering, bass shaking the ship to the end.\n\nVIDEO: Pacing mirrors the audio — slow dread, sudden stillness, then explosive party energy with fast cuts.\n\n[0:00-0:03] Wide: man alone by his car, looking up, white \"ElevenLabs\" text visible on his chest. Blinding white-blue light column slams down and locks onto him. Feet lift off the asphalt, dust rising, hair floating. Close up of shocked face lit from above. Extreme wide of the tiny human rising into the enormous ship. SFX: bass swell, alien hum, wind.\n\n[0:03-0:06] Ship interior. He lands on a glossy dark floor, vast dim chamber, fog at his ankles. Slow push-in on his face — genuine fear, breathing hard. Silhouettes of grey aliens emerge and surround him, black eyes reflecting him. Heartbeat in the mix, near-silence otherwise. Close up: one alien slowly raises its long grey four-fingered hand. He flinches.\n\n[0:06-0:08] The raised grey hand... turns into a perfect dap. Grey four-fingered alien hand slaps into his human hand, elongated fingers gripping his palm, shoulder bump. Beat DROPS at the exact frame of contact. Extreme close up of the dap: grey alien fingers interlocked with his human hand, two skin tones contrasting. Lights flip from cold blue to party mode — magenta, green, gold lasers, fog cannons. His terror cracks into a huge grin. SFX: dap slap on beat drop, aliens erupting.\n\n[0:08-0:12] FULL ALIEN PARTY. Ultra fast cuts, no shot over 1 second. He daps alien after alien down a line — every dap a grey four-fingered hand clasping his human hand. Aliens bobbing oversized heads on beat. He busts moves in a circle while aliens hype him. Alien DJ scratching a holographic deck with long grey fingers. He and an alien hit the same dance move side by side, synced. Low angle, overhead spin, strobe close-ups, toast with glowing green alien drink. SFX: track at peak, crowd wild.\n\n[0:12-0:15] HERO MOMENT. Slow motion. Hoisted on the shoulders of two aliens, grey hands gripping his legs, arms spread wide, lasers sweeping, light particles falling, crowd cheering, \"ElevenLabs\" text visible on his chest. Push-in on his face — pure joy. He looks into camera and nods. Hard cut to black on the final beat. Video ends.\n\nPhotorealistic cinematic film, anamorphic lenses, shallow depth of field, volumetric lighting, realistic skin and fabric detail, practical-looking alien design, moody blue-night grade shifting to neon party grade, film grain, lens flares, blockbuster quality, not animated, all clothing text spelled exactly \"ElevenLabs\", tense sound design flipping into loud party track.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/the-tricky-part-was-forcing-alien-hands-on-the-dap-956391/video-35b92ee6da60cd32.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/the-tricky-part-was-forcing-alien-hands-on-the-dap-956391/poster-72ef166d9be00647.jpg",
+    "format": "video/webm",
+    "videoBytes": 1215936,
+    "videoSha256": "35b92ee6da60cd32b639151616506a49b0115a574a2f45025cfb8cc75fca5c0c",
+    "thumbnailBytes": 38330,
+    "thumbnailSha256": "72ef166d9be0064753dcd82d97c745d9364cc595216d6b823cb6cfa1ba0fa2fa"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

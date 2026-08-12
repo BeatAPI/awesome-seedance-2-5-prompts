@@ -1,0 +1,44 @@
+{
+  "slug": "use-the-uploaded-reference-image-as-the-exact-character-reference-396603",
+  "title": {
+    "en": "Use the uploaded reference image as the exact character reference. Preserve her",
+    "zh": "Use the uploaded reference image as the exact character reference. Preserve her"
+  },
+  "description": {
+    "en": "15-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AIwithSynthia",
+    "url": "https://x.com/AIwithSynthia/status/2087079974935396603"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/AIwithSynthia/status/2087079974935396603"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/AIwithSynthia/status/2087079974935396603"
+  ],
+  "prompt": "Use the uploaded reference image as the exact character reference. Preserve her facial identity, eye color, skin tone, hairstyle, makeup, body proportions, and overall appearance consistently throughout every shot. She wears a fitted white crop top, relaxed black denim shorts, white sneakers, white crew socks, silver jewelry, and a cropped red bomber jacket. Maintain perfect character and outfit consistency.\nCreate a premium American hip-hop performance video inside a backstage concert environment with black curtains, glowing red LED panels, stage equipment, speakers, cables, mirrors, metal cases, and atmospheric haze.\nThe video opens with her sitting in front of a backstage mirror, putting on her earrings while looking confidently at her reflection. She stands, adjusts her crop top and bomber jacket, then walks through the backstage corridor toward the stage.\nShe enters the performance area and starts moving to the beat with relaxed hip-hop choreography, combining quick steps, shoulder movements, spins, hand gestures, and confident poses. The camera follows her from behind before swinging around into a front-facing tracking shot.\nShe grabs a microphone stand, performs expressive lip-sync, then transitions into a powerful dance sequence. The camera rapidly cuts between close-ups of her face, sneakers hitting the floor, moving hands, and wide stage compositions.\nShe moves toward a drum kit positioned beside the stage, sits down, and plays a short energetic rhythm. Overhead and low-angle shots capture the drumsticks, cymbals, foot movements, and her focused expression.\nShe steps back onto center stage, throws her bomber jacket over one shoulder, walks directly toward the camera, and finishes with a strong fashion pose beneath dramatic red lights.\nStyle: High-end rap music video, concert backstage aesthetic, cinematic handheld movement, dynamic tracking shots, realistic lip-sync, expressive body language, realistic fabric and hair movement, dramatic stage lighting, shallow depth of field, premium editorial cinematography, photorealistic, 4K HDR, 24fps, 16:9.\nNegative Prompt: No text, no subtitles, no watermarks, no duplicate characters, no distorted hands, no facial inconsistency, no outfit changes, no flickering, no unrealistic physics, no cartoon rendering.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/use-the-uploaded-reference-image-as-the-exact-character-reference-396603/video-326570fd78c6f05d.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/use-the-uploaded-reference-image-as-the-exact-character-reference-396603/poster-fa9b1eee3ca39ceb.jpg",
+    "format": "video/webm",
+    "videoBytes": 1568914,
+    "videoSha256": "326570fd78c6f05d07d9f3df4ee2eb8a6d4a5a9f733177ffaa8536e40b881b6d",
+    "thumbnailBytes": 60557,
+    "thumbnailSha256": "fa9b1eee3ca39ceb6fd87b62a70cad3836793eaf72d140c08be4a28419ebe033"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

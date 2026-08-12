@@ -1,0 +1,44 @@
+{
+  "slug": "seedance-2-5-on-higgsfield-ai-012374",
+  "title": {
+    "en": "Seedance 2.5 on Higgsfield AI",
+    "zh": "Seedance 2.5 on Higgsfield AI"
+  },
+  "description": {
+    "en": "30-second vlog prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒vlog提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "vlog",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "30s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@mehvishs25",
+    "url": "https://x.com/mehvishs25/status/2087007129849012374"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/mehvishs25/status/2087007129849012374"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/mehvishs25/status/2087007129849012374"
+  ],
+  "prompt": "Use the attached reference image as the identity reference. Preserve the girl's face, hairstyle, body proportions, age, and overall appearance with near-perfect consistency across every shot. She wears realistic outfits appropriate for each scene while remaining clearly the same person throughout. Cinematic, photorealistic, premium lifestyle commercial, 4K, natural color grading, shallow depth of field, smooth camera movement, authentic facial expressions. Every scene flows logically through seamless match cuts and continuous time progression.\nScene 1 (0–3s): Soft golden sunrise enters a cozy bedroom. A smartphone alarm rings on the bedside table. She slowly opens her eyes, stretches naturally under the blanket, smiles sleepily, and turns off the alarm.\nScene 2 (3–6s): She gets out of bed, opens the curtains, morning sunlight fills the room. Match cut to brushing her teeth, washing her face, then applying light skincare while looking into the mirror.\nScene 3 (6–9s): She changes into a smart office outfit. Quick elegant cuts of buttoning her blouse, fastening a watch, putting on earrings, grabbing her handbag, and checking herself in the mirror.\nScene 4 (9–12s): Bright modern kitchen. She prepares a healthy breakfast, pours coffee, takes a few bites while checking her phone, then picks up her bag and leaves.\nScene 5 (12–16s): Urban commute. Walking confidently through city streets toward a modern office building. Match cut to entering the office, greeting coworkers, typing on a laptop, participating in a meeting, smiling during productive work.\nScene 6 (16–19s): Lunch break at a stylish café with colleagues. Everyone laughs naturally while eating and chatting. Warm candid atmosphere, genuine interactions.\nScene 7 (19–22s): Late afternoon. She packs her laptop, says goodbye to coworkers, exits the office building into warm golden-hour light.\nScene 8 (22–26s): Evening rooftop café with close friends. They enjoy drinks, laugh together, take a quick selfie, city lights gradually illuminate behind them as blue hour begins.\nScene 9 (26–30s): Night. She returns home, gently places her keys on the table, changes into comfortable loungewear, sits by the bedroom window with a warm cup of tea while soft ambient lights glow. She exhales with a relaxed smile, curls up on the bed with a book, then turns off the bedside lamp. Fade to black.\nStyle & Camera:\nUltra-photorealistic cinematic lifestyle film.\nNatural, believable acting with subtle expressions.\nSmooth gimbal movement, gentle push-ins, tracking shots, and seamless match cuts.\nSoft morning light → bright daytime → golden hour → blue hour → warm cozy night, creating a natural day-to-night progression.\nConsistent facial identity and outfit continuity within each scene.\nRealistic environments, premium production quality, no jump cuts, no teleportation, no duplicated people, no distorted hands, no warped objects, no identity drift, no text, no logos, no watermarks.\nEmotional tone: calm, productive, joyful, and satisfying, a complete day in the life told through elegant visual storytelling.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-on-higgsfield-ai-012374/video-60d8729d557e0cf9.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-on-higgsfield-ai-012374/poster-575a39faac4914ef.jpg",
+    "format": "video/webm",
+    "videoBytes": 2253869,
+    "videoSha256": "60d8729d557e0cf9df317692f69dcb0fbeb1c9022c478a81972d802d9fdccd12",
+    "thumbnailBytes": 34715,
+    "thumbnailSha256": "575a39faac4914ef5709db256a69da4020d5479e72bce21517b616dd7dae2509"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

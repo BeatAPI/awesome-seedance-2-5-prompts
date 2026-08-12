@@ -1,0 +1,43 @@
+{
+  "slug": "video-created-with-seedance-2-5-on-cinematic-story-director-169553",
+  "title": {
+    "en": "Video created with Seedance 2.5 on Cinematic Story Director Skill.",
+    "zh": "Video created with Seedance 2.5 on Cinematic Story Director Skill."
+  },
+  "description": {
+    "en": "12-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "12 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "12s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@bmx_ai13",
+    "url": "https://x.com/bmx_ai13/status/2086821369292169553"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/bmx_ai13/status/2086821369292169553"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/bmx_ai13/status/2086821369292169553"
+  ],
+  "prompt": "Create an exactly 12 second photorealistic nighttime social video in 16:9. The scene takes place in an outdoor parking lot beside the rear corner of a glossy vivid hot pink customized sports car. A stylish young woman with long straight black hair, dramatic eyelashes, natural warm skin texture, a loose light beige graphic shirt and long decorated manicure stands beside the rear taillight. Use one continuous energetic handheld camera take with an extremely wide perspective similar to a small action camera held very close to the subject. Preserve genuine human camera imperfections, tiny shakes, imperfect reframing, natural motion blur, focus breathing, realistic lens distortion and slight exposure changes.\n\nFrom 0 to 3 seconds begin with a close three quarter view of the woman beside the pink rear body panel. She smiles, turns toward the lens and points at her lower lip and shiny decorative dental jewelry. The camera impulsively moves closer until her face becomes an extreme wide angle close up. Her finger gently points toward the dental detail while she smiles. Maintain anatomically correct hands, teeth, lips, eyelashes and facial proportions even under strong lens distortion.\n\nFrom 3 to 8 seconds pull away from her face and naturally tilt down toward the custom taillight. Reveal a dark smoked taillight housing containing bright violet and pink LED artwork, a cute original cartoon inspired emblem surrounded by tiny decorative sparkles followed by several glowing heart shapes of progressively smaller size. Do not use copyrighted logos or readable text. The LED pattern must remain perfectly consistent in every frame. Her manicured hand enters naturally and glides over the pink painted panel beneath the light. Show authentic reflections from her fingers, the LEDs and nearby lights moving across glossy automotive paint. Keep tiny fingerprints, subtle surface texture and realistic panel seams.\n\nFrom 8 to 12 seconds swing the handheld camera back toward the woman. Her long hair briefly crosses the lens during the movement. She turns toward camera, casually brushes her hair away from her face and gives a confident relaxed expression while standing beside the glowing taillight. Finish on a slightly wider composition showing her, the pink rear corner of the car and several softly out of focus people standing farther back in the parking lot.\n\nLighting is primarily a strong compact camera light positioned near the lens, producing bright frontal illumination, slightly hot highlights on skin and paint, deep nighttime shadows and authentic falloff. Add violet light spill from the taillight. Distant white parking lot lamps create natural star shaped lens flares against a nearly black sky. Background trees and parked vehicles remain dim and indistinct. Avoid cinematic studio lighting. The footage should feel like a genuine spontaneous car meet video captured by a real person.\n\nUse realistic 30 frame per second motion, natural skin pores, individual hair strands, physically accurate reflections, consistent clothing, consistent jewelry, correct finger count, stable car geometry and believable interaction between hands and surfaces. No morphing, floating objects, plastic skin, face changes, temporal flicker, impossible reflections or artificial smoothing.\n\nMusic should be a stylish modern bass driven nightlife instrumental with a playful feminine attitude, deep clean sub bass, crisp percussion, subtle electronic sparkle and a memorable beat. Begin understated during the facial close up, let the beat become stronger when the illuminated taillight is revealed, then finish with a clean confident musical accent during the final wider shot. Blend faint authentic parking lot ambience underneath the music.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/video-created-with-seedance-2-5-on-cinematic-story-director-169553/video-2e812d0fc24f20e6.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/video-created-with-seedance-2-5-on-cinematic-story-director-169553/poster-8b5c286d8d567ea7.jpg",
+    "format": "video/webm",
+    "videoBytes": 1115634,
+    "videoSha256": "2e812d0fc24f20e60f4dcf7ce7226798169b5273c07eb8dfd5978a26cd6336ed",
+    "thumbnailBytes": 67364,
+    "thumbnailSha256": "8b5c286d8d567ea79c441dfbd82a017e0f19fae88bfc13bff2cacd9364114d70"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "created-on-with-seedance-2-5-606682",
+  "title": {
+    "en": "Created on with Seedance 2.5",
+    "zh": "Created on with Seedance 2.5"
+  },
+  "description": {
+    "en": "15-second horror prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒horror提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "horror",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@vkuoo",
+    "url": "https://x.com/vkuoo/status/2086778445141606682"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/vkuoo/status/2086778449490755766"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/vkuoo/status/2086778445141606682"
+  ],
+  "prompt": "A 15-second grimy and electric one-shot: a netrunner jacks into a black-market terminal hidden under a noodle stall and the alley around her freezes as the data hits, shot with camera low at counter height one meter from her, slow push-in, holding the alley depth behind her; keeping the subject off-centre and letting the lead space carry the tension. [0-5s] She sits at the counter, pushes the bowl aside and feels under the counter lip for the terminal port. The camera low at counter height, slow push-in from screen-left. She uncoils the optical cable and seats one end into the port with a hard snap. [5-10s] Continuing seamlessly in the same unbroken move: she lifts the other end to her temple; her jaw sets and the chrome port lights. The camera pushes to a tight profile on the temple port. The connection lands and every moving thing in the alley stops mid-motion except her. A second light source cuts in from the opposite side and rewrites every shadow. [10-15s] Still continuous, no cut: data ghosts scroll across the standing water below her feet and she opens her eyes into it. The camera tilts down to the reflection, then back up to her face. Setting: a two-meter-wide alley at night, steam from the noodle stall, stacked signage in four languages, standing water reflecting everything, during the first hour after sunrise, with a thin haze separating every depth plane. Subject: a 27yo netrunner in a translucent rain shell over a wired undersuit, shaved left temple with a chrome port, a coiled optical cable in her left hand. Technical specs: neon-noir photoreal, wet-street cyberpunk, anamorphic flare, heavy atmospheric haze; magenta-cyan complementary grade, wet speculars everywhere, steam and rain in three depth layers, shallow focus on the port; bleached highlights with heavy shadow grain. Lighting: no natural light: magenta and cyan signage as key and rim, the noodle burner as a warm underlight on her jaw, wet ground bouncing colour up. Physics: steam moves with the extractor draft; rain drips off signage in real streams; the cable has stiffness and memory and does not hang like string; her jaw tenses at the port connection. Sound: wok clatter, rain on plastic sheeting, layered street chatter, a hard electrical snap at the jack-in; no music until the freeze. One continuous take, seamless and unbroken, no cuts, no on-screen text.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/created-on-with-seedance-2-5-606682/video-a82b2a9792ebef6d.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/created-on-with-seedance-2-5-606682/poster-cd615b1aeb3b5800.jpg",
+    "format": "video/webm",
+    "videoBytes": 966410,
+    "videoSha256": "a82b2a9792ebef6ddb1f1e5ad67c0782463e611b4b38d8a9483ea99977f51499",
+    "thumbnailBytes": 65557,
+    "thumbnailSha256": "cd615b1aeb3b5800c3fe06346da8be6aec8e3ee8e36d4bc7e99a5d590ef986f5"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

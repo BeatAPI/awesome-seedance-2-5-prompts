@@ -1,0 +1,44 @@
+{
+  "slug": "seedance-2-5-312407",
+  "title": {
+    "en": "Seedance 2.5",
+    "zh": "Seedance 2.5"
+  },
+  "description": {
+    "en": "30-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒cinematic action提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Naiknelofar788",
+    "url": "https://x.com/Naiknelofar788/status/2087231217968312407"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Naiknelofar788/status/2087231217968312407"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Naiknelofar788/status/2087231217968312407"
+  ],
+  "prompt": "Create a 30-second ultra-realistic dark tokusatsu transformation sequence using the reference image as the heroine.\n\nShe stands in an apocalyptic wasteland beneath a smoky gray-blue sky, surrounded by ruins, ash, and distant flying creatures. A matte-metal ring with a glowing golden crystal is visible on her finger. Use one continuous cinematic handheld shot with an IMAX-scale feel.\n\nShe slowly raises her hand. Her eyes suddenly glow white-gold as energy cracks through the air. She shouts, “Henshin!”\n\nThe crystal shatters, releasing a powerful blue energy burst. Shockwaves distort the air as red smoke, blue lightning, and golden particles race across her body. Her clothes burn away into energy while iridescent biological armor grows over her skin. Metallic plates form and lock together with sparks, followed by an uneven golden horned mask with glowing compound eyes.\n\nHer transformation completes into a flame-gold Thunder Dragon warrior with glowing cracks, heavy armor, horns, and unstable energy pulsing beneath the surface.\n\nShe drops into a fighting stance and forms a lightning blade in her hand. After a brief charged pause, she launches forward at extreme speed, smashing into the battlefield. The ground fractures and massive explosions, debris, smoke, lightning, and golden energy erupt across the frame.\n\nUltra-realistic tokusatsu VFX, cinematic lighting, realistic materials, dynamic camera movement, detailed armor, physically believable particles, dramatic scale, intense transformation effects, seamless continuous motion, epic final impact.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-312407/video-7f64873c1b980504.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-312407/poster-1c22aadd862ec8dd.jpg",
+    "format": "video/webm",
+    "videoBytes": 2358648,
+    "videoSha256": "7f64873c1b98050492be0752056ce2b2df284e86bba6106153194d8a7234e55e",
+    "thumbnailBytes": 69734,
+    "thumbnailSha256": "1c22aadd862ec8dd61dbff5ad9875fba4b83f96ad03e2063a34e9bb39b8c81ed"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

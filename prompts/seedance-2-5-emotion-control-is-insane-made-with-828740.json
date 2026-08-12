@@ -1,0 +1,44 @@
+{
+  "slug": "seedance-2-5-emotion-control-is-insane-made-with-828740",
+  "title": {
+    "en": "Seedance 2.5 Emotion control is insane. Made with",
+    "zh": "Seedance 2.5 Emotion control is insane. Made with"
+  },
+  "description": {
+    "en": "15-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@doctorwasif",
+    "url": "https://x.com/doctorwasif/status/2087151667141828740"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/doctorwasif/status/2087151667141828740"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/doctorwasif/status/2087151667141828740"
+  ],
+  "prompt": "15-SECOND CINEMATIC EMOTIONAL GYM SCENE — 16:9\n\nUse image as the sole face/identity reference. Preserve her exact facial structure, eyes, nose, lips, jawline, hairline, long wavy black hair, and skin tone. Adult fictional woman. Neutral fitted athletic tank top and leggings, no logos.\n\n0–3s: Static 85mm upper-body close-up, mid-chest up. She runs steadily on a treadmill with earbuds, controlled breathing, focused neutral expression, light sweat.\n\n3–5s: Her stride subtly falters. She stares blankly ahead as tension builds around her eyes and brows. Her breathing becomes uneven and catches in her throat.\n\n5–10s: Tears rapidly fill both eyes and roll down her cheeks, mixing with sweat. Her eyes and nose redden, chin trembles, brows tighten. She keeps running while gripping the rails. A quiet muffled sob escapes between heavy breaths.\n\n10–15s: Her restraint breaks. She slows slightly but keeps running. A sharp gasp leads into a loud, raw, uncontrollable cry. Her jaw and lower lip shake; tears flood her face; eyes squeeze shut then reopen. Her shoulders, chest, and throat visibly jerk with each sob. One hand grips the rail tighter. She never wipes her tears, covers her face, or stops. Hold on the raw breakdown through the final frame.\n\nCamera: Locked-off upper-body close-up, 85mm portrait look, shallow DOF, sharp face/eyes, soft gym bokeh. No zoom, dolly, cuts, or camera shake.\n\nSetting: Quiet nearly empty gym at night, treadmills/equipment blurred behind her, city lights through windows. Cool fluorescent light mixed with warm city glow, natural skin, realistic sweat and tears, subtle film grain.\n\nAudio: Treadmill hum, footsteps, heavy breathing, distant gym ambience, muffled sobs, sharp gasps, loud broken crying, subtle ambient music. No dialogue.\n\nAvoid: Falling, stumbling, malfunction, comedy, silent crying, restrained breakdown, face covering/wiping tears, eye contact with camera, beauty filters, face morphing, wardrobe changes, extra people, text, logos, watermarks.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-emotion-control-is-insane-made-with-828740/video-cfac19c913d09c66.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-emotion-control-is-insane-made-with-828740/poster-b7a50f13a09fbc23.jpg",
+    "format": "video/webm",
+    "videoBytes": 648045,
+    "videoSha256": "cfac19c913d09c6660781868375f9a643bc173b5030a6e45a952d5dbcb325c61",
+    "thumbnailBytes": 42052,
+    "thumbnailSha256": "b7a50f13a09fbc23e93388665024091a0831013e3c6a8569e91b77d7e28ee0a1"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

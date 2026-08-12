@@ -1,0 +1,43 @@
+{
+  "slug": "i-just-made-this-video-with-seedance-2-5-it-918460",
+  "title": {
+    "en": "i just made this video with seedance 2.5 & it's honestly absurd how real it feels",
+    "zh": "i just made this video with seedance 2.5 & it's honestly absurd how real it feels"
+  },
+  "description": {
+    "en": "15-second vlog prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒vlog提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "vlog",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@PhedEU",
+    "url": "https://x.com/PhedEU/status/2087155737784918460"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/PhedEU/status/2087155737784918460"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/PhedEU/status/2087155737784918460"
+  ],
+  "prompt": "CAMERA: Handheld DV 16mm daily vlog footage. The video MUST begin with her holding the camera at arm's length in selfie mode while stepping out of an old stone doorway into a narrow street. The first 20–30 seconds are entirely handheld. Later she occasionally sets the camera on a windowsill, café ledge, or low seawall for wider shots. Keep subtle handheld shake, drifting composition, autofocus hunting, rushed reframing, uneven zooms, exposure breathing, brief accidental face cropping, and imperfect framing throughout. The camera itself is never visible.\n\nLOOK: Warm analog tape texture with gentle film grain, softened sharpness, subtle halation where sunlight cuts between buildings, faint salt-air haze, realistic skin tones, low contrast, tiny exposure shifts, natural motion blur. Authentic everyday footage, not a polished commercial.\n\nSTYLE: A quiet Mediterranean morning coffee-run vlog. Unhurried, warm, spontaneous. She talks to the camera in short sentences with comfortable pauses, reacts to the street around her, laughs easily.\n\nCHARACTER: ELENA — a Mediterranean woman in her mid-20s. Dark wavy hair in a loose bun, olive skin, minimal makeup, small gold hoops, oversized white linen shirt, denim shorts, leather sandals, canvas tote on one shoulder.\n\nSETTING: A sun-washed coastal old town just after sunrise. Narrow limestone alleys, pastel shutters, bougainvillea spilling over walls, glimpses of the sea between buildings, distant church bells and scooters, almost no people. A sleepy stray cat on a warm step.\n\nSCENES:\n\nThe vlog opens in selfie mode as Elena steps out of the doorway into the bright alley, squinting.\n\"Morning.\"\nShe walks, sunlight strobing between buildings across her face.\n\"Okay it's already hot. Of course it is.\"\nShe reaches a tiny corner kiosk and orders an iced coffee, camera still handheld, framing half-wrong.\nShe sets the camera on the counter ledge for a wide shot while she waits, drumming her fingers.\nA stray cat appears at her feet and stares up.\nShe crouches down to it.\n\"Hi. You again.\"\nThe cat rubs against her leg. She laughs.\n\"I have a bodyguard now.\"\nShe picks the camera back up, coffee in the other hand, and walks toward the water, the cat trotting behind for a few steps.\nShe sits on the low seawall, sea behind her, and takes the first sip.\n\"Worth it. Every time.\"\nShe looks off at the water for a moment, hair moving in the breeze, then back to the lens.\n\"Okay. Work now.\"\nA small wave.\n\"See you later.\"",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/i-just-made-this-video-with-seedance-2-5-it-918460/video-10b5b4f56ff15317.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/i-just-made-this-video-with-seedance-2-5-it-918460/poster-c5d4ff21897ba9ea.jpg",
+    "format": "video/webm",
+    "videoBytes": 1003569,
+    "videoSha256": "10b5b4f56ff15317dbdc5c2ed7a0bd1f8f3191899e518307b0ac84d676f8288b",
+    "thumbnailBytes": 39915,
+    "thumbnailSha256": "c5d4ff21897ba9ea3edb2a017e5f76f27b0cad8776cd2b52143b10dd3ff50351"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

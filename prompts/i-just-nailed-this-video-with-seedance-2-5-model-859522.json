@@ -1,0 +1,44 @@
+{
+  "slug": "i-just-nailed-this-video-with-seedance-2-5-model-859522",
+  "title": {
+    "en": "I just nailed this video with Seedance 2.5 model",
+    "zh": "I just nailed this video with Seedance 2.5 model"
+  },
+  "description": {
+    "en": "15-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AIwithkhan",
+    "url": "https://x.com/AIwithkhan/status/2086801478245859522"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/AIwithkhan/status/2086801478245859522"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/AIwithkhan/status/2086801478245859522"
+  ],
+  "prompt": "Use the uploaded reference image as the exact character reference. Preserve her facial identity, eye color, skin tone, hairstyle, makeup, body proportions, and overall appearance throughout the video. She has long black hair in a high ponytail and wears a vibrant orange cropped jacket over a fitted white crop top, a black pleated skirt layered over fitted shorts, white crew socks, chunky sneakers, silver jewelry, and rings. Maintain perfect character consistency in every scene.\nCreate an ultra-realistic cinematic fashion-performance video inside a massive luxury garage transformed into an editorial studio. Include polished concrete floors, a sleek orange sports car, industrial lights, orange and white LED tubes, chrome surfaces, subtle smoke, and dramatic shadows.\nThe video opens with a close-up of her tightening the laces of her sneakers. She stands up, grabs her orange jacket, puts it on, and looks directly into the camera with a confident expression.\nShe walks toward the sports car with effortless swagger, runs her hand across the hood, then leans against it while posing confidently. The camera moves from a low-angle wheel shot into a smooth full-body reveal.\nShe begins dancing beside the car with sharp shoulder movements, quick footwork, controlled spins, and playful hand gestures. The camera rapidly switches between wide shots, close-ups, overhead angles, and low-angle tracking shots.\nShe jumps onto a small performance platform and delivers an energetic choreography sequence while orange lights pulse around her. She spins, steps forward, points toward the camera, then freezes in a powerful fashion pose.\nThe final shot shows her standing in front of the glowing car with her jacket flowing naturally from a subtle fan. She crosses her arms, gives the camera a confident smile, and the camera slowly pulls backward to reveal the entire garage.\nStyle: High-end automotive fashion film, cinematic performance video, luxury editorial aesthetic, dynamic camera movement, realistic reflections, physically accurate fabric simulation, dramatic lighting, shallow depth of field, photorealistic, ultra-detailed, 4K HDR, 24fps, 16:9.\nNegative Prompt: No subtitles, no text, no watermarks, no duplicate people, no distorted hands, no facial changes, no identity drift, no unrealistic car deformation, no flickering, no cartoon style, no oversaturated colors.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/i-just-nailed-this-video-with-seedance-2-5-model-859522/video-a59bcf66047263ac.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/i-just-nailed-this-video-with-seedance-2-5-model-859522/poster-a371105e6d84862b.jpg",
+    "format": "video/webm",
+    "videoBytes": 1643190,
+    "videoSha256": "a59bcf66047263ac314f2692d5a60735262d7240b7ee5eb35901d1e5340025d8",
+    "thumbnailBytes": 54426,
+    "thumbnailSha256": "a371105e6d84862b758348edef5a9d834e565722322ce247634fe9fcf7c642af"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

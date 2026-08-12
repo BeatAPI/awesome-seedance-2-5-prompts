@@ -1,0 +1,43 @@
+{
+  "slug": "seedance-2-5-didn-t-blink-559715",
+  "title": {
+    "en": "Seedance 2.5 didn't blink..",
+    "zh": "Seedance 2.5 didn't blink.."
+  },
+  "description": {
+    "en": "30-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒cinematic action提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@abxxai",
+    "url": "https://x.com/abxxai/status/2086100882748559715"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/abxxai/status/2086100895847403532"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/abxxai/status/2086100882748559715"
+  ],
+  "prompt": "Prompt for Seedance 2.5\n\nPOV video, continuous first-person shot from a chest-mounted camera on a Korean woman, early twenties, a dancer alone in a mirrored studio at 2am. Three walls are floor-to-ceiling mirror set at slight angles, so her reflection — and the camera on her chest — is visible in multiple panels at once for the entire thirty seconds, every reflection perfectly matching her real movement in correct perspective and depth. Cool blue-white fluorescent light, night city blue through a high window. Her hands enter frame constantly; her face is seen only in the mirrors.\n\n0:00-0:02 — COLD OPEN mid-motion, already dancing hard and fast. The camera whips through a full turn on the very first frame — the entire mirrored room streaks past the lens, and in the mirrors five, six, seven versions of her turn in perfect sync, the recursive corridor of facing mirrors receding into the dark. Sweat already flying off her hair.\n\n0:02-0:06 — She lands the turn and drops into a low, sharp phrase — ribs, hips, arms cutting the air. Every mirror panel shows a different angle of the same body, all frame-locked. The camera moves with her chest so the room tilts and swings while the reflections stay perfectly anchored.\n\n0:06-0:09 — She explodes into a jump. In three mirror panels at once her whole body leaves the ground, hair lifting, sweat spraying in the fluorescent light. Hard weighted landing, floor resonance.\n\n0:09-0:12 — She spins to face the main mirror wall dead-on and hits a freeze — and for one held second the frame is filled with an army of identical reflections all frozen in the exact same pose, receding into infinity.\n\n0:12-0:16 — She breaks the freeze back into the phrase, faster and looser now, breathing audibly. The mirror in front of her has fogged slightly from her body heat; her forearm swipes across it mid-movement, clearing a streaked arc she keeps dancing through.\n\n0:16-0:19 — Mid-combination she stumbles — a genuine misstep, foot landing wrong. She catches herself hard against the mirror with one open palm, leaving a smeared wet handprint on the glass. Breathing ragged, jaw tight, forehead almost touching her own reflection.\n\n0:19-0:22 — She stays there a beat too long, head down, both hands on the glass now, chest heaving. Her reflection does the same, inches away. The frustration is in her shoulders, not her face.\n\n0:22-0:26 — She pushes off the glass and drops straight back into it, harder than before — the whole phrase run again at full attack, every reflection matching her exactly, sweat now visibly running.\n\n0:26-0:29 — Final sequence, fastest movement of the entire piece, the camera barely able to hold the room steady, mirrors streaking and resolving without a single break in geometry.\n\n0:29-0:30 — She hits the last beat and freezes, chest heaving, staring directly into her own reflection, which stares back. The handprint still on the glass beside her face. Hard cut to black. Non-empty closing frame.\n\nScene: an empty dance studio at 2am. Three walls of floor-to-ceiling mirrors at slight angles to each other, creating overlapping recursive reflections. Pale sprung wood floor, scuffed. A barre along one mirror, a phone propped against it, a water bottle and crumpled towel on the floor. One high window showing deep night-blue city glow. Overhead fluorescent panels give flat, cool, slightly clinical white light — no warm tones anywhere, nothing amber.\n\nStyle: shot like real chest-mounted training footage, not a cinema rig — a dancer filming her own late-night session. Ultra-realistic, unstaged: constant hard camera movement driven entirely by her body, motion blur on fast turns, brief focus hunt when a hand passes close to the lens. The mirrors are the centerpiece — every reflection geometrically correct, frame-synchronized to the real body, at true perspective and depth, including recursive reflections in facing mirrors. Pore-level realism: sweat beading and running at the temple and collarbone, hair stuck to a damp neck, visible chest heave, flushed skin, a wet handprint smear left on glass. Performance carries genuine struggle — she is already at her limit in frame one, hits one honest stumble, and chooses to keep going. Behavior under pressure, never performed emotion, no face-acting at the camera.\n\nCamera: continuous first-person POV for all thirty seconds, chest-mounted, no cuts to any external angle. Wide field of view, roughly 84 degrees, mild edge softness of a real action camera. Motion is entirely body-driven — it dips when she drops, launches when she jumps, whips through every turn, jolts on the stumble. No smoothing, no stabilization, no artificial glide. The energy is highest in the first two seconds and the last four.\n\nSound: no dialogue, no voiceover, no narration. <a beat already playing, thin from small phone speakers, mid-track from frame one> <her breathing, ragged and heavy throughout> <feet squeaking and gripping on sprung wood> <fabric shifting, a hard exhale on each accent> <a heavy landing thud, floor resonance> <a forearm squeaking across fogged glass> <a palm slapping and dragging on glass, a stumble scuff> <breath breaking, then re-finding rhythm> <footwork sharp and fast, a final hard stop, breathing loud in the sudden silence>.\n\nPositive locks: camera never leaves first-person chest POV, no external cutaways. Every mirror reflection stays perfectly synchronized to the real body at every frame — correct perspective, depth, and angle in each panel, including recursive reflections between facing mirrors. No reflection lag, no missing reflection, no reflection moving independently or showing a different pose. Same dancer, clothing, and studio geometry held identical throughout. The handprint appears at 0:19 and stays visible through the final frame; the fogged-glass arc appears at 0:16 and stays. Lighting stays flat cool fluorescent white with night-blue window glow — never shifts warm or golden. Sweat accumulates continuously and never resets. Contact shadows read correctly under every step and landing. Eyes stay natural in every mirror — no eye glow. No modern logos, no on-screen text or UI, no burned-in subtitles.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-didn-t-blink-559715/video-3597927f4aa095df.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-didn-t-blink-559715/poster-1c587d4d3068f032.jpg",
+    "format": "video/webm",
+    "videoBytes": 1438716,
+    "videoSha256": "3597927f4aa095dfffe28e8d67e0ba30c5087353a278c5b2c2b1369176d0cf9c",
+    "thumbnailBytes": 38203,
+    "thumbnailSha256": "1c587d4d3068f03273948a1f10cebc70f749001ded5c80df8f3269d2244bb43f"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

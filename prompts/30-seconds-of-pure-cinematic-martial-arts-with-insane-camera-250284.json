@@ -1,0 +1,43 @@
+{
+  "slug": "30-seconds-of-pure-cinematic-martial-arts-with-insane-camera-250284",
+  "title": {
+    "en": "30 seconds of pure cinematic martial arts with insane camera work.",
+    "zh": "30 seconds of pure cinematic martial arts with insane camera work."
+  },
+  "description": {
+    "en": "30-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@CharaspowerAI",
+    "url": "https://x.com/CharaspowerAI/status/2086830115527250284"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/CharaspowerAI/status/2086830115527250284"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/CharaspowerAI/status/2086830115527250284"
+  ],
+  "prompt": "Ultra-cinematic daylight martial-arts fantasy sequence. An original Shaolin monk with a shaved head, athletic build and weathered saffron robes stands inside a vast ruined mountain temple courtyard. Four towering original creatures with stone armor, elongated limbs and glowing eyes surround him.\n\n0–4s: extreme close-up on the monk’s closed eyes. Dust floats in sunlight. His eyes open sharply; blue-white electricity crawls across his skin. Slow dolly-out reveals the creatures charging from every direction.\n\n4–9s: time slows dramatically. Macro close-ups of a creature’s claw passing millimeters from his cheek, robe fabric bending through the air, individual dust particles frozen around them. The camera performs a fast 180-degree orbit while the monk arches backward in an impossible but anatomically controlled dodge.\n\n9–14s: sudden return to full speed. Aggressive handheld tracking as the monk delivers rapid palm contacts, elbows and spinning kicks. Each impact cuts to an epic close-up: clenched fist, foot twisting against stone, creature’s face recoiling, electrical arcs bursting outward.\n\n14–20s: ultra-slow-motion side profile. The monk jumps between two creatures while the camera circles 360 degrees around his suspended body. He redirects one creature into the other, rotates horizontally, then lands on one hand as a circular pressure wave scatters dust and debris.\n\n20–26s: low-angle close pursuit. A colossal creature charges. The monk sprints directly toward it, runs vertically up its torso, flips above its head. Extreme close-up on his palms gathering blue-white energy, followed by a powerful downward contact that bends the air and cracks the courtyard in concentric rings.\n\n26–30s: silent slow-motion climax. Close-up on the monk’s face as lightning reflects in his eyes. He lands in a deep stance; the camera rapidly pulls back to an extreme-wide hero shot as all four creatures coming around him.\nPhotorealistic martial-arts blockbuster, anamorphic cinematography, high-contrast sunlight, dramatic speed ramps, epic close-ups, readable choreography, realistic momentum, stable anatomy, normal proportions without stretch, heavy physical impact sounds, stone cracks, cloth snaps, electrical thunder.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/30-seconds-of-pure-cinematic-martial-arts-with-insane-camera-250284/video-34650623c3e9dcc3.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/30-seconds-of-pure-cinematic-martial-arts-with-insane-camera-250284/poster-db12e244e7becd01.jpg",
+    "format": "video/webm",
+    "videoBytes": 2352745,
+    "videoSha256": "34650623c3e9dcc3fd3aacd069c46cccd5945a4c0771bcc862565e1802d95d7d",
+    "thumbnailBytes": 51319,
+    "thumbnailSha256": "db12e244e7becd01760303543b961ebbe622abb6a0c15492ed3126fdf70ec561"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

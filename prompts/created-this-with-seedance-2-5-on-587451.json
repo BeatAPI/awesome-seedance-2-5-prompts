@@ -1,0 +1,43 @@
+{
+  "slug": "created-this-with-seedance-2-5-on-587451",
+  "title": {
+    "en": "Created this with Seedance 2.5 on",
+    "zh": "Created this with Seedance 2.5 on"
+  },
+  "description": {
+    "en": "15-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Rosey_watson",
+    "url": "https://x.com/Rosey_watson/status/2087024849839587451"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Rosey_watson/status/2087024849839587451"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Rosey_watson/status/2087024849839587451"
+  ],
+  "prompt": "Create a fast-paced cinematic 15-second vertical 9:16 superhero edit blending photorealistic live action with an original comic-book animation aesthetic.\n\n0–4 SEC — CITY RUN\nA young woman with long brown hair, oversized light-pink shirt, white tank top, light-blue jeans, and white sneakers runs through a modern European-inspired city. She films herself with a pink smartphone, smiling at the camera. Smooth tracking shot suddenly transitions into bold comic-book linework, halftone textures, vibrant colors, and speed lines.\n\n4–8 SEC — HERO ACTION\nShe jumps between rooftops as two completely original masked web-slinging heroes appear. One wears a white, charcoal, and teal suit; the other wears crimson and midnight blue. No recognizable existing superhero designs. Energy webs shoot from their gloves as they swing between skyscrapers.\n\n8–12 SEC — COMIC CHAOS\nFirst-person web-swinging POV through a futuristic city at golden hour. Neon signs, floating debris, graphic panels, motion blur, and an original “WHOOSH!” graphic create explosive comic energy. She lands dramatically on a rooftop.\n\n12–15 SEC — FINAL HERO SHOT\nShe crouches on a rooftop with her hair blowing in the wind as the camera pulls back to reveal a vast fictional city skyline glowing pink and orange.\n\nFinal text:\n\nWEBRUNNER\nRISE. SWING. RUN.\n\nSTYLE: Premium cinematic live action, original graphic-novel animation, bold outlines, halftone textures, vibrant colors, realistic hair and fabric physics, dynamic camera movement, dramatic lighting, seamless transitions, photorealistic detail, 4K, vertical 9:16.\n\nAVOID: Existing superhero characters, recognizable costumes, logos, franchise imagery, real-world landmarks, copied animation styles, distorted faces, warped hands, inconsistent characters, random text, cheap CGI.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/created-this-with-seedance-2-5-on-587451/video-51a437b6c81fdde2.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/created-this-with-seedance-2-5-on-587451/poster-6f0c9e4d362338a7.jpg",
+    "format": "video/webm",
+    "videoBytes": 1446202,
+    "videoSha256": "51a437b6c81fdde2e85ac36f83abc481a0c43e54fa495de67b839fe3a4710614",
+    "thumbnailBytes": 24008,
+    "thumbnailSha256": "6f0c9e4d362338a727ac75811c7f1c4f0e524f894f486e21e2a5513e5f50e5db"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

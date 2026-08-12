@@ -1,0 +1,44 @@
+{
+  "slug": "here-s-one-of-the-first-tests-211150",
+  "title": {
+    "en": "Here's one of the first tests.",
+    "zh": "Here's one of the first tests."
+  },
+  "description": {
+    "en": "30-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@maxescu",
+    "url": "https://x.com/maxescu/status/2087117065874211150"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/maxescu/status/2087117069506474137"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/maxescu/status/2087117065874211150"
+  ],
+  "prompt": "PROMPT (ran in @higgsfield)\n\n[Characters]\n<the protagonist> corresponds to [PROTAGONIST REFERENCE 1]. Use only the appearance, hairstyle, and clothing.\n<the antagonist> corresponds to [ANTAGONIST REFERENCE 2]. Use only the shifting architectural silhouette and violet energy. [Scenes]\n<the concourse> references [LOCATION REFERENCE 3].\nUse only the spatial layout, raw concrete architecture, and blue twilight lighting. Do not use the people in the image. Do not interchange the characters' appearances, clothing, actions, positions, or dialogue. No text overlaid anywhere in the frame.\n\n[Stage 1] 0s - 2s\nInitial state: The protagonist is backed against a concrete pillar, eyes darting left. Composition holds DEPTH: near / mid / far — cracked tile close, protagonist mid, distant storefront far.\nPrimary event: A mass of jagged shadow and violet light, the antagonist, erupts from a shattered storefront 20 feet away. Prismatic highlights fracture across broken glass shards.\nEnd state: The antagonist is fully visible, hovering mid-air, facing the protagonist. <Loud glass shattering> <Low ethereal hum>\n\n[Stage 2] 2s - 4.5s\nContinue from the previous stage: The protagonist remains pinned to the pillar.\nPrimary event: The antagonist lunges forward, transforming into a spear-like shape of rebar and shadow. The camera operator pans rapidly to follow the movement, losing focus briefly.\nEnd state: The antagonist is halfway across the concourse. <Whooshing air sound> <Camera autofocus clicking>\n\n[Stage 3] 4.5s - 6.5s\nContinue from the previous stage: The protagonist is in the path of the lunge.\nPrimary event: The protagonist dives to his right, rolling through an oil puddle. The antagonist slams into the concrete pillar, causing deep cracks.\nEnd state: The protagonist is on his knees, covered in oily water; the pillar is fractured. <Heavy concrete impact> <Water splashing>\n\n[Stage 4] 6.5s - 8.5s\nContinue from the previous stage: The protagonist is on the floor.\nPrimary event: The protagonist raises his cracked iPhone; the screen suddenly emits a blinding white and violet strobe light. The camera operator zooms in on the phone.\nEnd state: A cone of bright light illuminates the antagonist. <High-pitched electronic whine>\n\n[Stage 5] 8.5s - 10.5s\nContinue from the previous stage: The light beam hits the antagonist.\nPrimary event: The antagonist recoils, its form becoming unstable and smoky. Controlled chromatic aberration fringes its destabilizing silhouette. The tendril is cropped by the frame edges at the top as it arcs down.\nEnd state: The protagonist is knocked backward, his hoodie torn at the shoulder. <Flesh impact thud> {Argh!}\n\n[Stage 6] 10.5s - 13s\nContinue from the previous stage: The protagonist is falling back.\nPrimary event: The protagonist catches himself on a piece of debris and thrusts the phone forward again. A shockwave of violet energy ripples through the air. The camera shakes violently.\nEnd state: Dust and pebbles are lifted off the ground, swirling around the fighters. <Deep bass rumble> <Wind howling>\n\n[Stage 7] 13s - 15.5s\nContinue from the previous stage: The concourse is filled with dust.\nPrimary event: The antagonist merges with a nearby concrete pillar, causing the pillar to grow jagged stone teeth. Extreme photorealism captures every pore and fracture in the animated concrete under cinematic lighting.\nEnd state: A massive concrete mass is inches from the protagonist. <Grinding stone sound>\n\n[Stage 8] 15.5s - 18s\nContinue from the previous stage: The pillar is swinging.\nPrimary event: The protagonist slides under the swinging pillar, his AF1s skidding on the granite. He reaches out and grabs the silver chain around his neck, which begins to glow.\nEnd state: The protagonist is behind the antagonist's main mass. <Sneakers screeching on stone>\n\n[Stage 9] 18s - 20.5s\nContinue from the previous stage: The silver chain is glowing.\nPrimary event: The antagonist spins around, its face-void expanding to swallow the protagonist. The camera operator stumbles, the frame tilting 45 degrees. Blacks tinted rather than pure black at the void's deepest core.\nEnd state: The protagonist is partially obscured by shifting shadows. <Terrified breathing from the camera operator>\n\n[Stage 10] 20.5s - 23s\nContinue from the previous stage: The protagonist is surrounded by shadow.\nPrimary event: The protagonist screams and clenches his fists; a massive burst of pure violet energy explodes from his chest, pushing the shadows back. The subject is lit only by this scene.\nEnd state: The frame is momentarily white before fading back to the scene. {Get away!} <Energy explosion>\n\n[Stage 11] 23s - 25.5s\nContinue from the previous stage: The light settles.\nPrimary event: The antagonist shatters into thousands of concrete fragments and dissipates into purple mist. Extreme photorealism and fine 35mm grain render every tumbling shard with weight and texture.\nEnd state: The protagonist is center frame, exhausted, hands trembling. <Mist hissing> <Protagonist's heavy breathing>\n\n[Stage 12] 25.5s - 28s\nContinue from the previous stage: The protagonist is on his knees.\nPrimary event: The protagonist looks directly at the camera, his eyes glowing faintly violet before fading to brown. Subtle halation softens his irises at the moment of violet glow. No text anywhere.\nEnd state: The protagonist is looking up at the lens. {Did you... did you get that?}\n\n[Stage 13] 28s - 30s\nContinue from the previous stage: The protagonist is looking at the camera.\nPrimary event: The camera operator drops the phone; the screen hits the ground, showing a tilted, blurry view of the cracked ceiling and flickering lights. Fine 35mm grain spikes as the autofocus spins.\nEnd state: Static and black screen. <Phone hitting concrete> <Electronic static noise>\n\n[Maintain Consistency]\nKeep the protagonist's South Asian features, black hoodie, olive cargo pants, and silver chain consistent. The antagonist must remain a shifting blend of concrete and violet energy. Maintain the vertical 9:16 aspect ratio and handheld camera shake. All damage to the pillars and protagonist's clothing must persist throughout the scene.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/here-s-one-of-the-first-tests-211150/video-9ec4fde87439ff5d.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/here-s-one-of-the-first-tests-211150/poster-50bf8e78d9f30480.jpg",
+    "format": "video/webm",
+    "videoBytes": 1664081,
+    "videoSha256": "9ec4fde87439ff5d98e15bd180710f13bf0e910d908e252e119fe6628c2a78f8",
+    "thumbnailBytes": 39319,
+    "thumbnailSha256": "50bf8e78d9f304808a84e36ca28737a0b3d1bd9b9d3ac3c231fdb2483ecd4500"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

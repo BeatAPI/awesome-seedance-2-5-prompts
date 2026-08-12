@@ -1,0 +1,43 @@
+{
+  "slug": "made-with-seedance-2-5-on-352388",
+  "title": {
+    "en": "Made with Seedance 2.5 on",
+    "zh": "Made with Seedance 2.5 on"
+  },
+  "description": {
+    "en": "30-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ChillaiKalan__",
+    "url": "https://x.com/ChillaiKalan__/status/2086803461476352388"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/ChillaiKalan__/status/2086803461476352388"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/ChillaiKalan__/status/2086803461476352388"
+  ],
+  "prompt": "A cinematic superhero-inspired short film. A young man wearing a sleek red-and-black futuristic suit stands alone on a rainy rooftop at sunset, overlooking a neon-lit cyberpunk city. Bright orange holographic energy (#FF4900) pulses through the suit's glowing lines. Suddenly, a massive dimensional portal tears open across the sky as robotic alien drones invade the city. The hero leaps from the rooftop in slow motion, soaring between skyscrapers with fluid aerial movements. The camera follows with dynamic drone shots, close-ups, and dramatic orbiting angles. He dodges laser blasts, performs high-speed flips, and unleashes brilliant orange energy attacks that destroy multiple drones. Explosions illuminate the skyline while civilians escape below. The action seamlessly transitions into an intense mid-air battle with cinematic lighting, volumetric fog, realistic reflections, debris physics, and ultra-detailed VFX. The final scene shows the hero hovering above the city as the portal collapses, revealing a peaceful sunrise. A glowing orange hologram appears reading \"Created with Seedance 2.5\" before fading into the skyline. Ultra-realistic, Hollywood blockbuster quality, photorealistic, 4K, smooth camera motion, consistent character appearance, dramatic storytelling, emotional pacing, film-grade color grading, epic orchestral soundtrack feel, designed as one continuous 30-second AI-generated cinematic sequence.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-on-352388/video-dab42b3abd92560a.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-on-352388/poster-b70a44fa906f7c2d.jpg",
+    "format": "video/webm",
+    "videoBytes": 2325132,
+    "videoSha256": "dab42b3abd92560ae161f5ace79e5f38f0feb0e3674f528a2dd10a0b68074e3f",
+    "thumbnailBytes": 62323,
+    "thumbnailSha256": "b70a44fa906f7c2defa829afe94e7fa71abd4aef3deab92f727e61a1809b7a23"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "gpt-image-2-and-seedance-2-5-734939",
+  "title": {
+    "en": "GPT Image 2 and Seedance 2.5",
+    "zh": "GPT Image 2 and Seedance 2.5"
+  },
+  "description": {
+    "en": "27-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "27 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "27s",
+  "aspectRatio": "638:359",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Sairah_0",
+    "url": "https://x.com/Sairah_0/status/2087136847734734939"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Sairah_0/status/2087136847734734939"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Sairah_0/status/2087136847734734939"
+  ],
+  "prompt": "Setting: A cozy indoor room with warm, ambient lighting, featuring posters on the wall, a hanging lamp, and modern furniture.\n\nSubject: A young woman with long dark hair, wearing a gray hooded jacket, performing a rhythmic, choreographed hand and body motion dance in front of the camera.\n\nKey Visual Effects:\n\nAnimated Framing & Transitions: As she moves her hands to form frames and geometric shapes (triangles, rectangles) in front of her face and upper body, colorful animated overlays appear inside the framed spaces.\n\nAnime & Superhero Styles:\n\nThe initial overlays display an anime-style digital avatar matching her expressions.\n\nMidway through, the overlay switches to a Spider-Gwen / Spider-Verse comic style, complete with a hooded mask and neon cityscape backgrounds.\n\nThe animation dynamically shifts and transforms along with her hand movements, smoothly blending back into real life by the end of the clip.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/gpt-image-2-and-seedance-2-5-734939/video-3ef60b400973f7c4.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/gpt-image-2-and-seedance-2-5-734939/poster-659ea17913f0d25f.jpg",
+    "format": "video/webm",
+    "videoBytes": 2683818,
+    "videoSha256": "3ef60b400973f7c4ceff8347b7e52c4e29ae87928ceec4a1f4eb10fab4190dc3",
+    "thumbnailBytes": 110656,
+    "thumbnailSha256": "659ea17913f0d25ff9e4028ead1cc80acf5fb61c02387c6545f4d74e05445011"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

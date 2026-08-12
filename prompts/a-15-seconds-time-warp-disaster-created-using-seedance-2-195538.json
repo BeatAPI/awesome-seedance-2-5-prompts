@@ -1,0 +1,44 @@
+{
+  "slug": "a-15-seconds-time-warp-disaster-created-using-seedance-2-195538",
+  "title": {
+    "en": "A 15-seconds Time-Warp Disaster Created using Seedance 2.5.",
+    "zh": "A 15-seconds Time-Warp Disaster Created using Seedance 2.5."
+  },
+  "description": {
+    "en": "15-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@IsabellaHan_",
+    "url": "https://x.com/IsabellaHan_/status/2086853253791195538"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/IsabellaHan_/status/2086853253791195538"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/IsabellaHan_/status/2086853253791195538"
+  ],
+  "prompt": "15-Second Live-Action Video Prompt — ALEX Time-Warp Disaster\n\nUse the uploaded ALEX reference as the only protagonist.\n\nStyle: Live-action cinematic sci-fi comedy, photorealistic VFX, realistic handheld POV, dramatic lighting, dynamic camera movement, 16:9, 4K, realistic physics and sound.\n\n0–2s — The Device\n\nThird-person medium shot: ALEX stands inside a small modern room and notices a strange retro-futuristic device sitting on a desk. The device has a large red button.\n\nCurious, ALEX presses it.\n\nA swirling blue-orange energy portal suddenly tears open behind him. Papers, objects, and loose items are violently pulled toward it.\n\n2–4s — Sucked In\n\nPOV shot: The portal suddenly pulls ALEX backward.\n\nHis hands appear in front of the camera as he desperately grabs the edge of the desk, trying to hold on.\n\nThe force becomes too strong and ALEX is violently dragged into the portal.\n\n4–7s — Medieval Battlefield\n\nFirst-person POV: ALEX is suddenly thrown onto a muddy medieval battlefield.\n\nHe looks down and realizes he is wearing full medieval armor and awkwardly holding a large sword.\n\nSmoke fills the battlefield as a heavily armored warrior suddenly charges directly toward him.\n\nALEX quickly backs away and says:\n\n“NOPE. Nope, nope, nope!”\n\n7–9s — Second Time Jump\n\nA blue-orange portal suddenly opens beneath ALEX.\n\nThe ground disappears.\n\nPOV: ALEX falls through a swirling vortex as flashes of different historical environments rapidly pass around him.\n\nHe is violently thrown out of the portal again.\n\n9–11s — Medieval Farm\n\nFirst-person POV: ALEX lands face-first in a muddy medieval field.\n\nHe is now wearing rough peasant clothing and gripping a wooden farming tool.\n\nAn angry medieval farmer points toward an unfinished field, demanding that ALEX get to work.\n\nSuddenly, a goat walks over and headbutts ALEX's leg.\n\nALEX pauses and looks down in disbelief.\n\n“You have got to be kidding me.”\n\n11–13s — Portal Escalates\n\nA blue-orange portal suddenly opens above ALEX and rapidly expands.\n\nMud, hay, wooden tools, and the farmer's hat begin flying upward.\n\nThe farmer desperately grabs his hat while ALEX looks toward the sky in disbelief.\n\nALEX says:\n\n“Oh, come on!”\n\n13–15s — Final Twist\n\nThe portal suddenly flashes intensely.\n\nALEX is lifted off the ground and sucked upward.\n\nAs he disappears into the vortex, he briefly sees another version of himself falling through the portal from a completely different time period.\n\nALEX stares at his other self in confusion.\n\nThe portal violently snaps shut.\n\nAudio: Portal vacuum roar, rushing wind, object impacts, medieval battle ambience, distant drums, farm ambience, goat bleat, farmer shouting, ALEX's dialogue, and a sudden silence immediately after the portal closes.\n\nNo music, subtitles, narration, logos, or on-screen text. 16:9.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/a-15-seconds-time-warp-disaster-created-using-seedance-2-195538/video-dcdb3ffacda1270a.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/a-15-seconds-time-warp-disaster-created-using-seedance-2-195538/poster-31e8e10f9afbf68d.jpg",
+    "format": "video/webm",
+    "videoBytes": 1351968,
+    "videoSha256": "dcdb3ffacda1270afa8b22e2074437ce74067a0ba61f2b9cd128e37d4a1a8fa5",
+    "thumbnailBytes": 46436,
+    "thumbnailSha256": "31e8e10f9afbf68d3ed80949a3041960893045c21a13d043b309acf8a42e7984"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

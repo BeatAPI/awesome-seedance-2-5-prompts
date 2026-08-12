@@ -1,0 +1,44 @@
+{
+  "slug": "photorealistic-cinematic-3d-character-render-physically-based-rendering-825338",
+  "title": {
+    "en": "Photorealistic cinematic 3D character render, physically-based rendering with",
+    "zh": "Photorealistic cinematic 3D character render, physically-based rendering with"
+  },
+  "description": {
+    "en": "15-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@itsPixieVerse",
+    "url": "https://x.com/itsPixieVerse/status/2086951922024825338"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/itsPixieVerse/status/2086951922024825338"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/itsPixieVerse/status/2086951922024825338"
+  ],
+  "prompt": "Photorealistic cinematic 3D character render, physically-based rendering with soft\n\nrealistic skin shading and subsurface scattering, crisp studio-grade key light mixed\n\nwith moody practical lounge lighting, realistic cloth drape and leather sheen, shallow\n\ndepth of field, filmic color grade. NOT flat 2D cartoon, NOT painterly illustration,\n\nNOT anime style, NOT cel-shaded, NOT posterized color blocks — fully photoreal\n\nrendering throughout, matching a high-end digital-human render.\n\nWORLD: a dim neo-noir back-room lounge, deep burgundy velvet booths, a single shaft of\n\namber lamplight, rain streaking a window behind venetian blinds, city neon bleeding\n\nthrough in blue and magenta, palette of burgundy, black and gold with cool neon spill,\n\ncigarette smoke drifting through the light, layered depth of field.\n\nCHARACTER: Vesper Noir @[Image1] — an extremely tall slim adult woman with warm olive skin, sleek\n\njet-black hair in a low chignon with a loose face-framing strand, dramatic winged\n\neyeliner, deep burgundy lips, a small beauty mark near her mouth, wearing a fitted\n\ndeep-plum plunging bodysuit, a thin black choker with a small skull charm, a massive\n\ndraped black coat slipped off both shoulders, thigh-high matte-black leather boots,\n\nphotoreal digital-human rendering with soft realistic skin shading.\n\nCINEMATIC INTRO SHOT DESIGN (6 Filmic Cuts with Expressions):\n\n- SHOT 1 (0–2s | Macro Detail): Extreme macro close-up of her fingers spinning a\n\ngold-hilted dagger flat on the velvet tabletop, smoke curling past in amber light,\n\nthe blade catching a single glint.\n\n- SHOT 2 (2–4s | Behavior): Medium shot of her tapping ash from a slender cigarette\n\nholder against a crystal tray, unhurried, coat sliding slightly further off one\n\nshoulder, completely unbothered.\n\n- SHOT 3 (4–6s | Expression): Close-up on her face as her half-lidded gaze lifts\n\nslowly to camera, a confident smirk forming as she exhales a slow curl of smoke.\n\n- SHOT 4 (6–9s | Environment Reveal): Wide shot revealing the full lounge around her —\n\nvelvet booths, neon bleeding through the blinds, rain tracking down the window\n\nglass, she sits centered in the one shaft of amber light.\n\n- SHOT 5 (9–12s | Confident Movement): Tracking shot as she rises from the booth and\n\nwalks toward camera with unhurried confidence, coat trailing off her shoulders,\n\ndagger held loose at her side, boots striking the floor in rhythm.\n\n- SHOT 6 (12–15s | Hero Poster Frame): Low-angle hero shot, strong silhouette against\n\nthe rain-streaked, neon-lit window behind her, dagger held at her hip, faint smirk,\n\nsmoke still drifting past — the poster frame.\n\nWeighty natural animation, coat and hair reacting to her movement, subtle facial\n\nmicro-expressions, filmic 24fps shutter, shallow depth of field.\n\nNOT flat 2D cartoon, no painterly brushwork, no anime style, no cel-shading — fully\n\nphotoreal cinematic rendering only.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/photorealistic-cinematic-3d-character-render-physically-based-rendering-825338/video-325b2e8e5777af85.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/photorealistic-cinematic-3d-character-render-physically-based-rendering-825338/poster-c4c6ed0e352abeb7.jpg",
+    "format": "video/webm",
+    "videoBytes": 889420,
+    "videoSha256": "325b2e8e5777af851bf3a6d541940bf571093f1c5073de92aa0e543bf86f4ba9",
+    "thumbnailBytes": 74558,
+    "thumbnailSha256": "c4c6ed0e352abeb7e5ac2a9354b59f06f8050edf510fa101ad48024d522c23ea"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

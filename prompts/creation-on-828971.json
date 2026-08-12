@@ -1,0 +1,43 @@
+{
+  "slug": "creation-on-828971",
+  "title": {
+    "en": "Creation on",
+    "zh": "Creation on"
+  },
+  "description": {
+    "en": "30-second vlog prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒vlog提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "vlog",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Ankit_patel211",
+    "url": "https://x.com/Ankit_patel211/status/2086861272872828971"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Ankit_patel211/status/2086861272872828971"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Ankit_patel211/status/2086861272872828971"
+  ],
+  "prompt": "Create a 30-second 16:9 chibi anime comedy short featuring two clearly adult male best friends, KAI and RYU, in a cozy apartment. No speech bubbles, no storyboard panels, no text overlays. Dialogue is spoken naturally with expressive voice acting, exaggerated facial expressions, physical comedy, and cinematic camera movement.\n\n0–5s — HOOK: Kai secretly sneaks behind Ryu while Ryu is confidently taking a selfie and whispers, “Bro… I just found your biggest weakness.” Ryu freezes dramatically: “My weakness?” Kai grins mischievously: “Your own confidence.” Quick comedic zoom.\n\n5–12s: Ryu challenges him, “Prove it.” Kai casually points toward Ryu’s phone. Ryu looks down and realizes the front camera has been recording him making ridiculous poses for the last five minutes. Kai bursts out laughing. Ryu tries to grab the phone: “DELETE THAT!” Kai runs away: “Never!”\n\n12–20s: Fast slapstick chase around the apartment. Ryu jumps over the sofa, Kai ducks under a table, cushions fly everywhere. Ryu finally corners Kai and mischievously says, “Got you.” Kai smirks: “Check your pocket.” Ryu looks down and discovers Kai secretly replaced his phone with a banana.\n\n20–26s: Ryu stares at the banana in complete disbelief. Kai is laughing uncontrollably. Ryu slowly raises the banana like a phone and says, completely serious, “Hello… Apple support?” Kai collapses laughing.\n\n26–30s — TWIST/PUNCHLINE: Ryu suddenly pulls out Kai’s REAL phone and reveals he secretly recorded the entire prank. Kai's smile disappears. Ryu grins: “Now we're even.” Both laugh and fist-bump as the camera rapidly zooms out.\n\nVisual style: polished colorful chibi anime, oversized expressive eyes, exaggerated reactions, playful body language, dynamic squash-and-stretch animation, detailed cozy apartment, cinematic depth of field, smooth character motion, energetic comedic timing.\n\nAudio: natural spoken dialogue, playful background music, footsteps, sofa impacts, phone notification sounds, exaggerated comedic SFX, short silence before punchlines, synchronized lip movement.\n\nPacing: extremely fast opening hook, escalating physical comedy, clear dialogue, three comedic reversals, strong final punchline. Keep everything wholesome, cheeky, mischievous, and genuinely funny.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/creation-on-828971/video-61e5ae8572967602.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/creation-on-828971/poster-446baaf99706d6e7.jpg",
+    "format": "video/webm",
+    "videoBytes": 1740527,
+    "videoSha256": "61e5ae8572967602f4dc160fc036fca0e61f2ecb8915c5916eab47f5e949a571",
+    "thumbnailBytes": 55256,
+    "thumbnailSha256": "446baaf99706d6e7df97eb976e392fdfd5064533bae226d8be59072e14e96f05"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "eyecannndycom-for-transitions-019153",
+  "title": {
+    "en": "eyecannndy․com for transitions",
+    "zh": "eyecannndy․com for transitions"
+  },
+  "description": {
+    "en": "30-second vlog prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒vlog提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "vlog",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference",
+    "Video or motion reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@EXM7777",
+    "url": "https://x.com/EXM7777/status/2086834484390019153"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/EXM7777/status/2086834484390019153"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/EXM7777/status/2086834484390019153"
+  ],
+  "prompt": "> vault: an obsidian folder as your reference bible, one page per asset (idea, locked style, character sheets, reference images, the exact prompts that worked) plus one index page, reviewed after every session so it never rots into dead files\n\n> agent: three commands make every model callable from Claude Code:\n- npm install -g @ higgsfield/cli\n- higgsfield auth login\n- npx skills add higgsfield-ai/skills\n\nand your agent now submits, polls, retries and logs every job\n\n> references: build reference images by hand first, midjourney for cinema and stylized shots, nanobanana pro or gpt images 2 for realism\n\nuse one locked style across the whole project, recurring characters turned into full sheets (front, side, back, blank background), and once locked you never regenerate them, you fix the motion prompt instead\n\n> images: frames before motion, always, a frame costs seconds and a clip costs minutes, so exploration happens at the cheap layer and only winners get animated\n\n> script: every shot gets the same six details, subject, action, place, camera, style, rules, and the 30 seconds splits into four timed beats inside one prompt, 0-6 set the scene, 6-14 build it out, 14-24 the turn, 24-30 the end\n\n> video: every reference gets a job and a boundary, \"@video 1 defines motion and pacing\" is half the instruction, \"do not use the person's identity, clothing or scene\" is the half that stops one reference leaking into shots it was never meant to touch\n\n> montage: the cut is a text file, one line per clip with its duration and an audio flag, ffmpeg renders the film from it, so the whole edit reruns in seconds\n\n> upscaling: once, at the end, on the finished cut, 720p while exploring, 1080p for keepers, 4K only for the master (use Topaz)\n\nfor UGC ads, the same loop with two changes\n\nrender the hook clip alone first, approve the face and the voice before anything else inherits them, then anchor every later clip with the approved hook's audio so one voice carries the whole ad\n\nand the script math is fixed, about 3.5 words per second, a 30 second ad is roughly 105 words, counted before anything renders\n\nunlimited means every loop above costs nothing to run... start one tonight",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/eyecannndycom-for-transitions-019153/video-7b4250561aa3e002.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/eyecannndycom-for-transitions-019153/poster-026598adfc378b12.jpg",
+    "format": "video/webm",
+    "videoBytes": 2658251,
+    "videoSha256": "7b4250561aa3e00285347667a6ea4139571b82acb964f36545faccd02ffed15e",
+    "thumbnailBytes": 69485,
+    "thumbnailSha256": "026598adfc378b12ad66c8acc917f4eec947815e0442bbb6043d9f532ba95117"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

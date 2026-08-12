@@ -1,0 +1,44 @@
+{
+  "slug": "video-prompt-case-003695-003695",
+  "title": {
+    "en": "📝プラットホームとプロンプトはリプ欄",
+    "zh": "📝プラットホームとプロンプトはリプ欄"
+  },
+  "description": {
+    "en": "30-second vlog prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒vlog提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "vlog",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@zasuko_michiksa",
+    "url": "https://x.com/zasuko_michiksa/status/2083950907642003695"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/zasuko_michiksa/status/2083951358877798818"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/zasuko_michiksa/status/2083950907642003695"
+  ],
+  "prompt": "Promptはこんな感じです👇\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\nA 30-second photorealistic smartphone travel vlog featuring Michikusa Zasuko, a real Japanese woman, based on the attached multi-panel character reference sheet.\n\nREFERENCE ROLE: Use the attached image only as the identity, face, hairstyle, blue-purple glasses, white flower hair clip, pastel summer yukata, green obi, purple bow detail, and green sandals reference. Do not reproduce the reference sheet layout, panels, labels, text, or color swatches. Keep Zasuko's appearance consistent in every shot.\n\nSTYLE: Natural handheld smartphone footage, realistic Japanese summer festival at night, warm lantern light, authentic crowd ambience, believable human motion, natural facial expressions, realistic phone-camera exposure, 16:9 horizontal vlog. Zasuko is the only featured person and looks directly into the phone during selfie moments.\n\nTIMELINE:\n00-04s: Front-facing selfie introduction while walking into a lantern-lit traditional Japanese summer festival. She smiles naturally and briefly shows her pastel yukata.\n04-10s: Over-the-shoulder and selfie cutaways of lanterns, food stalls, and festival visitors; she turns the phone back to herself with a small excited reaction.\n10-16s: She buys fresh takoyaki, takes one bite, reacts with a warm delighted smile, and shows the food close to the phone camera. Keep hands and food realistic.\n16-21s: She plays a simple traditional festival ring-toss game and wins a small plush toy inspired by her official Geneko mascot; she celebrates modestly and naturally.\n21-26s: The crowd watches fireworks. Zasuko looks up, then turns the phone toward the bright fireworks and back to her face, preserving the same yukata and hairstyle.\n26-30s: Close selfie ending. She waves once and says in natural Japanese with accurate lip sync: \"浴衣で夏祭り、めっちゃ楽しいです！ たこ焼きも花火も最高ですね〜！ジェネコにも食べさせてあげたいなぁ。 ふふふ、また一緒に道草しましょうね！\"\n\nAUDIO: Natural Japanese spoken dialogue only for the final line, clear female voice, accurate lip sync. Generate authentic footsteps, festival crowd murmur, distant festival music, takoyaki cooking sounds, game stall sounds, and fireworks. Do not generate background music over the dialogue. No subtitles, no captions, no logos, no watermark, no readable invented text.\n\nCONTINUITY LOCK: same face, glasses, bob haircut with green streaks, white flower clip, pastel yukata, green obi, proportions, and accessories across all shots. Avoid face drift, extra fingers, deformed hands, duplicated people, costume changes, anime or illustration styling, plastic skin, abrupt camera jumps, and text artifacts.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-003695-003695/video-38b6feb134b3741c.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-003695-003695/poster-ef9c501519583c1c.jpg",
+    "format": "video/webm",
+    "videoBytes": 2917203,
+    "videoSha256": "38b6feb134b3741cc9379420c92e36d91fce69e7c2ea07ebd8962aea82d46396",
+    "thumbnailBytes": 78453,
+    "thumbnailSha256": "ef9c501519583c1c6c08a3a551f94be1c84bda17b773f147570e336bd5545d40"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

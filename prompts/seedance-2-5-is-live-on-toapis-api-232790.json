@@ -1,0 +1,43 @@
+{
+  "slug": "seedance-2-5-is-live-on-toapis-api-232790",
+  "title": {
+    "en": "✨Seedance 2.5 is LIVE on ToAPIs API",
+    "zh": "✨Seedance 2.5 is LIVE on ToAPIs API"
+  },
+  "description": {
+    "en": "30-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@yourPlugAI",
+    "url": "https://x.com/yourPlugAI/status/2087192875159232790"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/yourPlugAI/status/2087192875159232790"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/yourPlugAI/status/2087192875159232790"
+  ],
+  "prompt": "Create a 30-second photorealistic live-action blockbuster zombie action trailer video in 16:9 horizontal format.\n\nSTRICT TEMPORAL & SEQUENCE ANCHOR DIRECTIVE (CRITICAL ENGINE EXECUTION):\n\nThe video generator MUST execute narrative actions in EXACT CHRONOLOGICAL ORDER step-by-step across the continuous 30-second timeline. Do NOT skip, blend, or reorder any steps. Follow the timeline anchors sequentially:\n\nStep 1 (0–6s): Armored truck smashes barricade, squad alights into ruined plaza as feral zombies swarm -> Step 2 (6–12s): Vance fires underbarrel grenade launcher unleashing explosive fireball, Maya executes dual-pistol spin dodge -> Step 3 (12–18s): SLOW-MOTION BEAT: Gunner unleashes rotary minigun wall of lead in 60fps frozen shell casings -> Step 4 (18–24s): Recon sniper green laser headshots leaping zombies, squad tactical retreat -> Step 5 (24–30s): C4 detonation wipes out horde, Unit Zero holds heroic battle stance under searchlights as title hold resolves.\nEnforce explosive kinetic pacing, high-velocity choreography, advanced fire, fluid, and shrapnel simulation, and zero lag.\n\nUse separate production sheets for Commander Vance, Maya, Gunner & Recon, Feral Infected, Weapons & Tactical Props, and Metropolis Survival Zone. Keep Vance's eyebrow scar and olive gear, Maya's braided hair and dual pistols, Gunner's minigun, Recon's green IR laser, zombie pale veined skin, and ruined sunset city setting consistent throughout.\n\nVISUAL STYLE:\nPhotorealistic live-action 35mm blockbuster trailer cinema quality, high-contrast apocalyptic lighting (deep orange sunset vs burning fire vs green IR lasers vs bright muzzle flashes), volumetric smoke, flying brass shell casings, and blood-fluid simulation, zero 3D or anime look.\n\nENVIRONMENT:\nRuined megacity plaza at dusk, abandoned burning vehicles, overturned buses, shattered glass skyscrapers, storm clouds, burning oil drums, debris-strewn concrete.\n\nAUDIO DIRECTIVE:\nBackground Music: High-octane cinematic trailer score with thunderous orchestral drums, rising brass horns, aggressive industrial synth pulses, dipping into deep sub-bass during slow-motion, exploding into a triumphant crescendo.\nSound Effects: Heavy engine roar, barricade crash BANG, heavy automatic rifle fire, rotary minigun spin-up roar, grenade explosion blast, bone-snapping strikes, bullet shell clatters.\nVocal Audio: Tactical radio commands from Vance, lethal exhales from Maya, terrifying screeching roars from the feral zombie horde.\n\nTIMELINE:\n0–6s (THE AMBUSH & ENTRY):\nBegin exterior. High-speed tracking shot. An armored 4x4 rescue truck smashes through an abandoned barricade in a ruined city plaza at dusk under a deep orange sunset sky. Commander Vance, Maya, and the squad leap out into immediate tactical formation as hundreds of fast feral zombies charge from alleyways and fire escapes.\n\n6–12s (CQC & GRENADE FIREBALL BEAT):\nUnit Zero forms a tight defensive ring. Vance aims his assault rifle and fires an underbarrel grenade into a dense cluster of zombies, unleashing a massive, blinding orange fireball and flying debris. Simultaneously, Maya duck-slips a leaping zombie, firing her dual pistols point-blank before slashing a second infected throat with her trench knife.\n\n12–18s (ULTRA SLOW-MOTION ROTARY MINIGUN BEAT):\nPlayback drops to 60fps slow-motion. Sound dips to deep sub-bass pulse. Gunner steps forward, firing his heavy rotary minigun in a continuous arc. Golden bullet shell casings rain down in frozen mid-air motion, lit by blinding muzzle flares as the wall of lead tears through the front line of the charging horde.\n\n18–24s (SNIPER RECON & TACTICAL RETREAT):\nSpeed ramps back to 100% real-time. High-angle camera. Recon stands on the hood of an overturned bus, her green IR laser sight tracking target to target as she snaps off silenced headshots on zombies leaping from fire escapes. Vance calls out a tactical retreat as the squad moves backward toward an extraction LZ, firing controlled bursts.\n\n24–30s (EXPLOSIVE CLIMAX & HERO FINISH):\nVance triggers a wireless detonator, exploding a line of claymore charges behind them. A massive wall of fire engulfs the remaining zombie swarm. Unit Zero holds a low, victorious, battle-ready hero stance amidst rising smoke, backlit by fire and helicopter searchlights cutting from above. Camera holds tight on Vance and Maya's intense, battle-smudged faces. End on epic final frame. No text, no logos.\n\nCAMERA:\nDynamic low-angle vehicle tracking, rapid whip-pans during CQC, speed-ramp zoom during 60fps slow-mo minigun fire, high-angle sniper pan, resolving to a stable heroic low-angle hero hold.\n\nMOVEMENT LOGIC:\nWeight: heavy, grounded, militaristic weight for Unit Zero operators; hyper-violent, reckless, erratic velocity for feral zombies.\nTime: relentless trailer pace transitioning into 60fps slow-motion minigun sweep, resolving into explosive 100% real-time climax.\nSpace: wide ruined city plaza contracting into tactical defensive ring expanding through explosion fire.\nFlow: organized, synchronized, and tactical for operators; chaotic, swarming, and feral for the horde.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-is-live-on-toapis-api-232790/video-4e80d24d44619e26.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-is-live-on-toapis-api-232790/poster-bb3c9a533d5ce7e0.jpg",
+    "format": "video/webm",
+    "videoBytes": 2852193,
+    "videoSha256": "4e80d24d44619e2698e1599b607117536ac7ecfe8e8bc009add06726113d46e9",
+    "thumbnailBytes": 61892,
+    "thumbnailSha256": "bb3c9a533d5ce7e0e6a7e8c5e415f4922a183496c9b58c60735b085e65e681b6"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

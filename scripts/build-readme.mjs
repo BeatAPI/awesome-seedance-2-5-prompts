@@ -220,15 +220,19 @@ BeatAPI-authored documentation is licensed under CC BY 4.0 and validation code
 under MIT. Third-party prompts, videos, screenshots, names, and source posts
 retain their original rights.`;
 
+const readmeWithCurrentCount = readme.replace(
+  /\[Browse all \d+ prompt \+ video examples\]/,
+  `[Browse all ${entries.length} prompt + video examples]`
+);
 const markerPattern = new RegExp(
   `${startMarker}[\\s\\S]*$`,
   'm'
 );
-if (!markerPattern.test(readme)) {
+if (!markerPattern.test(readmeWithCurrentCount)) {
   throw new Error('README gallery markers are missing');
 }
 
-const nextReadme = readme.replace(markerPattern, gallery);
+const nextReadme = readmeWithCurrentCount.replace(markerPattern, gallery);
 if (process.argv.includes('--check')) {
   if (nextReadme !== readme) {
     throw new Error('README gallery is out of date; run npm run readme:build');

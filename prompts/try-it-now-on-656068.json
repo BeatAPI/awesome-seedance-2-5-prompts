@@ -1,0 +1,43 @@
+{
+  "slug": "try-it-now-on-656068",
+  "title": {
+    "en": "Try it now on",
+    "zh": "Try it now on"
+  },
+  "description": {
+    "en": "33-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "33 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "33s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@apiframe",
+    "url": "https://x.com/apiframe/status/2086470691000656068"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/apiframe/status/2086470695090008473"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/apiframe/status/2086470691000656068"
+  ],
+  "prompt": "Create a breathtaking 30-second continuous anime cooking sequence. One uninterrupted cooking action transforms seamlessly through completely different visual styles and worlds while maintaining perfect character and food continuity.\n\nA young anime chef stands in a warm traditional Japanese kitchen, preparing a bowl of ramen.\n\n0–5s — HAND-DRAWN ANIME\nBeautiful hand-painted 2D anime aesthetic. Close-up of the chef slicing green onions with precise movements. Steam rises from the pot. Warm sunset light enters through the window. Detailed backgrounds, expressive animation, cozy atmosphere.\n\n5–10s — WATERCOLOR\nWithout cutting, the chef lifts the knife and the entire scene seamlessly transforms into a delicate watercolor painting. The ingredients become flowing brushstrokes while remaining recognizable. The camera moves around the chef as noodles are dropped into the boiling broth.\n\n10–15s — INK / MANGA\nThe watercolor washes into dramatic black ink. Bold manga linework, dynamic speed lines, exaggerated perspective. The chef dramatically tosses the noodles into the air. Ingredients freeze momentarily like a manga action panel before continuing.\n\n15–20s — STUDIO ANIMATION\nThe ink transforms into polished modern anime animation. The kitchen suddenly becomes an enormous futuristic restaurant floating above a neon city. The chef catches the noodles perfectly and pours glowing broth into the bowl. Beautiful reflections and cinematic lighting.\n\n20–25s — DREAMLIKE FANTASY\nThe steam rising from the ramen expands into a magical landscape. The bowl remains in the chef's hands while the kitchen transforms into a surreal sky filled with floating islands, clouds, glowing lanterns, and countless tiny stars. The chef calmly adds the final garnish.\n\n25–30s — CINEMATIC ANIME FILM\nEverything gradually returns to a beautiful cinematic Japanese kitchen at night. The chef places the finished ramen on the table. Extreme close-up of the completed dish: glossy noodles, rich broth, perfectly detailed toppings, steam drifting upward. Camera slowly pushes toward the bowl as the steam fills the entire frame and becomes a field of stars.\n\nIMPORTANT:\nEvery transformation must be seamless and continuous. No abrupt cuts. The chef, hands, utensils, ingredients, ramen bowl, and cooking actions must remain visually consistent throughout. Each style transformation should happen naturally through motion, steam, liquid, ink, light, or camera movement. Prioritize beautiful animation, fluid motion, food detail, cinematic composition, and visual continuity.\n\nPremium anime film quality, gorgeous hand-painted backgrounds, expressive character animation, detailed food textures, dynamic camera choreography, dramatic lighting, beautiful color transitions, subtle film grain, polished animation, breathtaking visual storytelling.\n\nNo text, no subtitles, no logos, no watermark.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/try-it-now-on-656068/video-d12a72e081eb2c5b.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/try-it-now-on-656068/poster-4eec8250bd687094.jpg",
+    "format": "video/webm",
+    "videoBytes": 2849285,
+    "videoSha256": "d12a72e081eb2c5be522dd6ee71784759c4d45afd3b7182e4ed99e86e6442d53",
+    "thumbnailBytes": 75114,
+    "thumbnailSha256": "4eec8250bd6870943978c4594a651c0bbc75fcc0467fbef8563200ebb06a4168"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

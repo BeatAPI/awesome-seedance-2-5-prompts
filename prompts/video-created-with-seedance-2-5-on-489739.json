@@ -1,0 +1,43 @@
+{
+  "slug": "video-created-with-seedance-2-5-on-489739",
+  "title": {
+    "en": "Video created with Seedance 2.5 on",
+    "zh": "Video created with Seedance 2.5 on"
+  },
+  "description": {
+    "en": "15-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "427:240",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@bmx_ai13",
+    "url": "https://x.com/bmx_ai13/status/2086914231463489739"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/bmx_ai13/status/2086914231463489739"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/bmx_ai13/status/2086914231463489739"
+  ],
+  "prompt": "Create a 15 second 16:9 high energy music driven visual film inspired by early digital pop culture, using bold black human silhouettes dancing against perfectly clean saturated color backgrounds. Keep the visual world minimal, iconic and graphic while making every body movement physically believable and naturally timed. Open on a young woman shown as a pure black silhouette against an intense lime green background. She wears wired white earbuds connected to a compact glossy white music player held loosely near her hip. Her long hair moves with realistic inertia as she dances, shifting weight through her hips and shoulders, tossing her head and lifting one arm with spontaneous confidence. Keep the camera mostly locked in a medium full body composition with crisp silhouette edges and subtle natural motion in the earphone cable. At roughly two seconds cut sharply to a rich purple background and a second female silhouette with large curly hair. Use a tighter upper body framing. She leans backward with joyful energy, stretches one arm dramatically across the frame and lets her curls react naturally to every acceleration. Follow with a tight crop of her torso, hand, white music player and looping earphone cable. Around four seconds cut to a young male silhouette against vivid hot pink. Medium profile composition, relaxed rhythmic shoulder movement, understated head motion, white earbuds clearly visible and the cable dropping naturally toward the player on his chest or hand. At five seconds return abruptly to lime green with a wide full body view of the long haired woman. She bends deeply forward, then rises into an energetic hair toss while spreading one arm outward. Preserve accurate balance, joint movement, hair physics and cable physics. Continue alternating between pink male dance shots, purple closeups and lime green female dance shots every one to two seconds. Vary framing between full body, medium shot and extreme torso detail. Use hard editorial cuts rather than smooth transitions. No camera shake. No artificial cinematic depth of field. Backgrounds remain completely flat, seamless and shadowless. At nine seconds include a close purple shot of hands interacting naturally with the small white music player while the body keeps dancing. At ten seconds return to the long haired woman on green, then show the curly haired woman on purple performing a dramatic backward lean with arms extended. At twelve seconds cut to another close detail of the white player and curved cable. At thirteen seconds return to the male silhouette on hot pink. During the final second create a very brief intentional digital glitch transition. Place a smaller lime green dancing frame inside layered pink and green graphic fields, with horizontal signal distortion, slight image displacement and repeated silhouette echoes, then snap back toward the clean green dance image. Maintain perfectly consistent black silhouettes, bright white earphones and player, saturated lime green, purple and hot pink backgrounds, crisp edges, realistic human timing, convincing hair momentum, natural cable drag and authentic editorial rhythm. No text, no logos, no extra objects, no malformed hands, no duplicated limbs, no floating accessories. Music: energetic retro electronic pop instrumental around 110 BPM with punchy drums, tight bass, bright synth accents and rhythmic edit points synchronized precisely with the dancer movements and every color cut. Clean professional mix, no vocals.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/video-created-with-seedance-2-5-on-489739/video-24dd311faee0dec8.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/video-created-with-seedance-2-5-on-489739/poster-41264ea2931f4f0d.jpg",
+    "format": "video/webm",
+    "videoBytes": 565232,
+    "videoSha256": "24dd311faee0dec875a96ac96e21bda7c2e3d5fb3978081e89b340d48ed1500a",
+    "thumbnailBytes": 17100,
+    "thumbnailSha256": "41264ea2931f4f0dfa58f7f8e8b20d633b682aa0f649e96aba698d803afafec4"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

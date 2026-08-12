@@ -1,0 +1,44 @@
+{
+  "slug": "img-gpt-image-2-033082",
+  "title": {
+    "en": "Img -> GPT Image 2",
+    "zh": "Img -> GPT Image 2"
+  },
+  "description": {
+    "en": "30-second documentary prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒documentary提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "documentary",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "30s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@alex_bagnuoli89",
+    "url": "https://x.com/alex_bagnuoli89/status/2086754348395033082"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/alex_bagnuoli89/status/2086754351125495871"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/alex_bagnuoli89/status/2086754348395033082"
+  ],
+  "prompt": "Prompt Seedance 2.5 (duration 30s):\n[Reference]\n@ IMG_1  defines the subject's face, cybernetic forehead implant, hairstyle, beard, leather jacket with patches, and the rainy neon alley environment. Maintain this exact appearance and setting throughout.\n\n[Generation Goal]\nGenerate a cinematic character reveal. The central subject is the cyberpunk man from the reference image, and the primary event is him turning from a shadowed profile into a direct, confident gaze at the camera within a rain soaked neon alley at night.\n\n[Stage 1]\nInitial state: the subject stands with his head turned away from camera at roughly a three quarter angle, rain falling steadily around him, steam rising from a metal grate at his feet, magenta and cyan neon signage reflecting across the wet pavement and his jacket.\nPrimary event: rain drips slowly off the edge of his collar while the circuitry embedded in his forehead pulses faint white light in sync with scrolling text along the implant.\nEnd state: the subject still faces away at the three quarter angle, implant glow steady, rain continuing without change in intensity.\n\n[Stage 2]\nContinue from the previous stage: same posture, same lighting, same steady implant glow, rain and steam unchanged.\nPrimary event: the subject slowly rotates his head toward the camera, his eyes lifting last, and a faint, confident smirk begins forming at the corner of his mouth as his right hand settles on the lapel of his jacket.\nEnd state: the subject now faces the camera directly, smirk fully formed, chin slightly raised, right hand resting on the lapel.\n\n[Stage 3]\nPrimary event: the camera performs a slow, subtle push in toward his face while thin streaks of pink and teal light from the alley signs ripple briefly across the surface of his cybernetic implant, and a wisp of steam drifts through the foreground between him and the lens.\nEnd state: the subject fills more of the frame in a close medium shot, smirk holding steady, implant glow calm, rain and neon reflections still visible in the background.\n\n[Maintain Consistency]\nKeep the subject's facial identity, beard, hairstyle, cybernetic implant design, glowing circuitry visible beneath his open jacket, patched leather jacket, and the alley's magenta and cyan neon palette consistent throughout. Keep rain intensity, wet reflections, and steam density stable without abrupt shifts. The camera should not cut, it should only push in smoothly across all three stages.\n\nAudio: (Steady rain falling on wet pavement, a faint electronic hum from the neon signage, distant muffled city traffic below)",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/img-gpt-image-2-033082/video-928857242fe348c6.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/img-gpt-image-2-033082/poster-c5b90c8dfd1f825d.jpg",
+    "format": "video/webm",
+    "videoBytes": 2492761,
+    "videoSha256": "928857242fe348c6cc8e61ddc16cfe00c35d71ed250f41364976b8ec009b39d6",
+    "thumbnailBytes": 97699,
+    "thumbnailSha256": "c5b90c8dfd1f825de7ce40c2017a7e1e5f7a89701fc5057949387817f0c46716"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

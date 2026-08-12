@@ -2,7 +2,706 @@
 
 [Back to the featured gallery](../../README.md) · [Catalog index](../README.md)
 
-## 1. Product Commercial Study 209333
+## 1. ✨Seedance 2.5 is LIVE on ToAPIs API
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-is-live-on-toapis-api-232790/video-4e80d24d44619e26.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-is-live-on-toapis-api-232790/poster-bb3c9a533d5ce7e0.jpg" alt="✨Seedance 2.5 is LIVE on ToAPIs API video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 30-second photorealistic live-action blockbuster zombie action trailer video in 16:9 horizontal format. STRICT TEMPORAL &amp; SEQUENCE ANCHOR DIRECTIVE (CRITICAL ENGINE...</summary>
+
+~~~~text
+Create a 30-second photorealistic live-action blockbuster zombie action trailer video in 16:9 horizontal format.
+
+STRICT TEMPORAL & SEQUENCE ANCHOR DIRECTIVE (CRITICAL ENGINE EXECUTION):
+
+The video generator MUST execute narrative actions in EXACT CHRONOLOGICAL ORDER step-by-step across the continuous 30-second timeline. Do NOT skip, blend, or reorder any steps. Follow the timeline anchors sequentially:
+
+Step 1 (0–6s): Armored truck smashes barricade, squad alights into ruined plaza as feral zombies swarm -> Step 2 (6–12s): Vance fires underbarrel grenade launcher unleashing explosive fireball, Maya executes dual-pistol spin dodge -> Step 3 (12–18s): SLOW-MOTION BEAT: Gunner unleashes rotary minigun wall of lead in 60fps frozen shell casings -> Step 4 (18–24s): Recon sniper green laser headshots leaping zombies, squad tactical retreat -> Step 5 (24–30s): C4 detonation wipes out horde, Unit Zero holds heroic battle stance under searchlights as title hold resolves.
+Enforce explosive kinetic pacing, high-velocity choreography, advanced fire, fluid, and shrapnel simulation, and zero lag.
+
+Use separate production sheets for Commander Vance, Maya, Gunner & Recon, Feral Infected, Weapons & Tactical Props, and Metropolis Survival Zone. Keep Vance's eyebrow scar and olive gear, Maya's braided hair and dual pistols, Gunner's minigun, Recon's green IR laser, zombie pale veined skin, and ruined sunset city setting consistent throughout.
+
+VISUAL STYLE:
+Photorealistic live-action 35mm blockbuster trailer cinema quality, high-contrast apocalyptic lighting (deep orange sunset vs burning fire vs green IR lasers vs bright muzzle flashes), volumetric smoke, flying brass shell casings, and blood-fluid simulation, zero 3D or anime look.
+
+ENVIRONMENT:
+Ruined megacity plaza at dusk, abandoned burning vehicles, overturned buses, shattered glass skyscrapers, storm clouds, burning oil drums, debris-strewn concrete.
+
+AUDIO DIRECTIVE:
+Background Music: High-octane cinematic trailer score with thunderous orchestral drums, rising brass horns, aggressive industrial synth pulses, dipping into deep sub-bass during slow-motion, exploding into a triumphant crescendo.
+Sound Effects: Heavy engine roar, barricade crash BANG, heavy automatic rifle fire, rotary minigun spin-up roar, grenade explosion blast, bone-snapping strikes, bullet shell clatters.
+Vocal Audio: Tactical radio commands from Vance, lethal exhales from Maya, terrifying screeching roars from the feral zombie horde.
+
+TIMELINE:
+0–6s (THE AMBUSH & ENTRY):
+Begin exterior. High-speed tracking shot. An armored 4x4 rescue truck smashes through an abandoned barricade in a ruined city plaza at dusk under a deep orange sunset sky. Commander Vance, Maya, and the squad leap out into immediate tactical formation as hundreds of fast feral zombies charge from alleyways and fire escapes.
+
+6–12s (CQC & GRENADE FIREBALL BEAT):
+Unit Zero forms a tight defensive ring. Vance aims his assault rifle and fires an underbarrel grenade into a dense cluster of zombies, unleashing a massive, blinding orange fireball and flying debris. Simultaneously, Maya duck-slips a leaping zombie, firing her dual pistols point-blank before slashing a second infected throat with her trench knife.
+
+12–18s (ULTRA SLOW-MOTION ROTARY MINIGUN BEAT):
+Playback drops to 60fps slow-motion. Sound dips to deep sub-bass pulse. Gunner steps forward, firing his heavy rotary minigun in a continuous arc. Golden bullet shell casings rain down in frozen mid-air motion, lit by blinding muzzle flares as the wall of lead tears through the front line of the charging horde.
+
+18–24s (SNIPER RECON & TACTICAL RETREAT):
+Speed ramps back to 100% real-time. High-angle camera. Recon stands on the hood of an overturned bus, her green IR laser sight tracking target to target as she snaps off silenced headshots on zombies leaping from fire escapes. Vance calls out a tactical retreat as the squad moves backward toward an extraction LZ, firing controlled bursts.
+
+24–30s (EXPLOSIVE CLIMAX & HERO FINISH):
+Vance triggers a wireless detonator, exploding a line of claymore charges behind them. A massive wall of fire engulfs the remaining zombie swarm. Unit Zero holds a low, victorious, battle-ready hero stance amidst rising smoke, backlit by fire and helicopter searchlights cutting from above. Camera holds tight on Vance and Maya's intense, battle-smudged faces. End on epic final frame. No text, no logos.
+
+CAMERA:
+Dynamic low-angle vehicle tracking, rapid whip-pans during CQC, speed-ramp zoom during 60fps slow-mo minigun fire, high-angle sniper pan, resolving to a stable heroic low-angle hero hold.
+
+MOVEMENT LOGIC:
+Weight: heavy, grounded, militaristic weight for Unit Zero operators; hyper-violent, reckless, erratic velocity for feral zombies.
+Time: relentless trailer pace transitioning into 60fps slow-motion minigun sweep, resolving into explosive 100% real-time climax.
+Space: wide ruined city plaza contracting into tactical defensive ring expanding through explosion fire.
+Flow: organized, synchronized, and tactical for operators; chaotic, swarming, and feral for the horde.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-is-live-on-toapis-api-232790/video-4e80d24d44619e26.webm)
+
+**Source:** [@yourPlugAI](https://x.com/yourPlugAI/status/2087192875159232790) · 30s · 16:9 · brand film
+
+---
+
+## 2. Made with Seedance 2.5
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-490561/video-1f7ae392e82f6caf.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-490561/poster-beccaeade57fef1a.jpg" alt="Made with Seedance 2.5 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 15 seconds of behind-the-scenes (BTS) footage from a hyper-realistic Bollywood action film, in vertical aspect ratio. It must have an “authentic on-set feel,” as if it were...</summary>
+
+~~~~text
+15 seconds of behind-the-scenes (BTS) footage from a hyper-realistic Bollywood action film, in  vertical aspect ratio. It must have an “authentic on-set feel,” as if it were casually shot on the fly by a crew member using a cheap handheld phone from a parallel tracking car—not an official finished cut, not a cinematic shot. The image quality should be slightly oversharpened, with a distinct smartphone-like digital texture, rolling shutter effects, handheld shake, slight focus hunting, auto-exposure fluctuations, compression artifacts, wind noise hitting the microphone, road bumps, vehicle vibrations, and occasional accidental zoom adjustments. No cinematic color grading, no slow motion, no soundtrack, and no music video aesthetic.
+
+The scene takes place on a closed highway during the day, with two black armored SUVs and a tactical chase vehicle traveling at high speed in the same direction. The vehicles are very close together but maintain a stable formation. The protagonist must always be the same South Asian male stuntman—wearing black tactical gear and protective gear, with the same face, the same physique, realistic skin texture, and natural movements. There must be no substitutions, no distortion, and no sudden changes in appearance throughout the entire sequence.
+
+0–3 seconds: A smartphone camera pokes out from the window of the chase vehicle, shaking violently as it struggles to keep up with the male stuntman running on the roof of the lead armored SUV ahead. He is already running on the roof, leaning forward to maintain balance; the wind is strong, blowing his clothes and straps. The cameraman, despite the jostling, tries his best to keep him centered in the frame, occasionally drifting slightly off-center due to the vehicle’s vibrations before quickly pulling him back into view. In the distance, another crew chase vehicle and the main camera crane can be seen, but they must not obstruct the main subject.
+
+3–7 seconds: The male stuntman continues sprinting along the roof of the first armored SUV. A vehicle traveling parallel to it fires controlled blank rounds and produces small spark effects; the muzzle flashes are brief, and a few sparks land near the vehicle’s metal body. The actor instinctively crouches to dodge but doesn’t stop, continuing forward. Due to nervousness, the person filming with a cell phone accidentally adjusts the zoom slightly, causing the frame to briefly zoom in and out before quickly refocusing on the actor. The key here is to capture a sense of chaotic realism, but the main subject must remain clear at all times: one person, one lead vehicle, and a continuous run.
+
+7–10 seconds: The climactic action is a precise and controlled jump from one vehicle to another. Two armored SUVs are driving side by side, very close together. The actor takes a stride from the roof of the first vehicle and leaps toward the roof of the second—the jump should not be overly exaggerated, but rather resemble a short, real-life jump seen in professional stunts. As he lands, his single knee slams heavily onto the roof of the second vehicle; his body lurches forward noticeably, nearly sliding off, but his right hand immediately grabs the roof railing to steady himself. The phone camera shakes violently due to the filmer’s excitement, nearly losing the subject, but quickly refocuses on him.
+
+10–12.5 seconds: The actor uses the roof railing to swing himself back into a stable position, gets back up, and takes two more steps forward. A brief shot from behind captures the official movie camera, the crane head, the safety cable, and a safety officer standing on the pursuing vehicle, clearly revealing this to be a behind-the-scenes scene from a controlled Bollywood action film shoot. Maintain the documentary feel of the cell phone footage; do not suddenly switch to formal cinematic framing.
+
+12.5–15 seconds: The actor dashes to the front of the second armored SUV and jumps onto a roadside stunt platform set up at the edge of the highway. After landing, he rolls once and grabs a metal step to pause briefly. The very next second, someone on set shouts, “CUT! CUT!” The atmosphere instantly shifts from tension to wrap-up mode: the armored SUV begins to slow down, the camera crane retracts, and the filmmaker quickly zooms out with the phone, clearly revealing the entire Bollywood action crew for the first time—including the chase vehicle, film cameras, safety crew, cables, crash pads, and production vehicles filling the closed-off highway. In the final moment, the actor gets up on their own, and crew members rush over to check on their safety.
+
+Camera Requirements: Must maintain a vertical, handheld, documentary-style smartphone perspective throughout—shaky, tracking shots with occasional slight accidental zoom adjustments, automatic exposure changes, and noticeable wind noise. No gimbal-stabilized footage, no aerial shots, no third-person “God’s-eye” view, and no showy editing techniques. The entire 15 seconds must appear as if shot continuously by a single phone from the same tracking vehicle.
+
+Audio Requirements: Only raw on-location smartphone audio is allowed; no background music. The sound must be rich and full—not too quiet. The following sounds must be clearly audible: wind distortion, engine roar, tire noise, airflow sounds from passing vehicles, brief simulated gunshots, the crisp clang of sparks striking metal, body resonance, crew members shouting, walkie-talkie static, the shooter’s heavy breathing, and finally, a loud and clear “CUT! CUT!” must serve as the focal point of the closing audio.
+
+Overall Style: Hyper-realistic, dangerous, gritty, chaotic yet controlled—like a secretly filmed behind-the-scenes video of a real Bollywood action blockbuster. The key elements are “the same actor, the same action sequence, the same smartphone perspective, a single main jump cut, and the final reveal of the film crew,” ensuring a stable, text-to-video conversion.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-490561/video-1f7ae392e82f6caf.webm)
+
+**Source:** [@ou_zhen599](https://x.com/ou_zhen599/status/2087185874249490561) · 15s · 16:9 · brand film
+
+---
+
+## 3. Free Seedream on Renoise is such a nice surprise. 🤯
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/free-seedream-on-renoise-is-such-a-nice-surprise-558738/video-5f58ba69d98f6c6f.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/free-seedream-on-renoise-is-such-a-nice-surprise-558738/poster-616ec3b8092f0667.jpg" alt="Free Seedream on Renoise is such a nice surprise. 🤯 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 1️⃣character sheet: Ultra-detailed 16:9 kawaii fantasy character design sheet, official anime game character bible, clean premium editorial layout, elegant ivory-white background...</summary>
+
+~~~~text
+1️⃣character sheet:
+
+Ultra-detailed 16:9 kawaii fantasy character design sheet, official anime game character bible, clean premium editorial layout, elegant ivory-white background with soft raspberry-pink accents. Character name "RASPBERRY BUNNY", title "Sweet Recipe", subtitle "A cheerful pastry mage who turns berries, cream and a little bunny magic into happiness."
+
+Left panel features a large full-body hero illustration of a cute anime pastry girl with long honey-blonde curled twin tails, bright aqua eyes and a cheerful expression. She wears an elaborate raspberry-themed pink-and-white Lolita patisserie dress with puff sleeves, striped fabric, layered ruffled skirt, white apron, chocolate-brown bows, mint ribbon accents, raspberry decorations and tiny bunny ornaments. A whimsical dessert headpiece features tall pink-and-white striped rabbit ears, whipped cream and a fresh raspberry. She holds an ornate cream whisk wand decorated with ribbons and dessert details, accompanied by a tiny floating white bunny familiar.
+
+Center panel includes professional turnaround views (Front, Side, Back), perfectly consistent anatomy, hairstyle, costume, bunny headpiece, fluffy bunny tail and accessories, neutral production-reference pose.
+
+Right panel contains close-up detail panels showing the raspberry bunny headpiece, mint-and-white back bow with heart charm, bunny ornament, layered raspberry skirt decorations and lace craftsmanship.
+
+Bottom section includes prop breakdowns for the magical whisk wand, bunny familiar, Mary Jane shoe and striped stocking, plus fabric & pattern swatches featuring pink stripes, white ruffles and pink polka dots. Include a soft color palette of raspberry pink, blush pink, mint, chocolate brown and warm cream.
+
+Style: official kawaii fantasy RPG character sheet, Japanese Lolita fashion, magical patisserie girl, premium anime game artbook illustration, soft pastel rendering, intricate lace and ruffles, dessertcore, bunnycore, highly detailed costume design, charming collectible-game character aesthetic, production-ready concept art, masterpiece, best quality, ultra detailed, 8K, clean composition, no watermark, no logo, no deformed anatomy, no extra limbs.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/free-seedream-on-renoise-is-such-a-nice-surprise-558738/video-5f58ba69d98f6c6f.webm)
+
+**Source:** [@Mayz1169](https://x.com/Mayz1169/status/2087168054568558738) · 30s · 60:67 · brand film
+
+---
+
+## 4. Seedance 2.5 used
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-used-616691/video-600ab53f4c841c0b.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-used-616691/poster-2f7a37a0ce5a01db.jpg" alt="Seedance 2.5 used video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Use the uploaded reference image as the exact character reference. Preserve her facial identity, eye color, skin tone, hairstyle, makeup, body proportions, and overall appearance...</summary>
+
+~~~~text
+Use the uploaded reference image as the exact character reference. Preserve her facial identity, eye color, skin tone, hairstyle, makeup, body proportions, and overall appearance throughout the video. She wears a sleek black-and-red racing suit, white racing gloves, sporty sneakers, silver earrings, and a high ponytail. Maintain perfect character consistency in every scene.
+Create an ultra-realistic cinematic Formula-style racing experience inside a premium racing facility with dramatic garage lighting, glossy floors, racing screens, tire stacks, pit equipment, and a futuristic race circuit.
+The video opens with an extreme close-up as she tightens her racing gloves and confidently looks into the camera. She walks through the garage toward a powerful Formula-style car, runs her hand across the bodywork, puts on her helmet, and climbs into the cockpit.
+The car launches onto the circuit at incredible speed. Dynamic tracking shots capture sharp corners, tire smoke, glowing brake discs, cockpit POV, wheel close-ups, and dramatic low-angle racing shots. She confidently handles every turn while city lights streak across the background.
+She enters the final straight, accelerates toward the finish line, and crosses it at full speed. She parks in the pit lane, removes her helmet, smiles at the camera, and raises one fist in celebration.
+Style: Premium motorsport commercial, cinematic action photography, realistic vehicle physics, dynamic camera movement, motion blur, dramatic lighting, realistic skin and hair, 4K HDR, 24fps, 16:9.
+Negative Prompt: No subtitles, logos, watermarks, duplicate people, distorted anatomy, extra fingers, flickering, unrealistic vehicle deformation, cartoon style, inconsistent character or outfit.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-used-616691/video-600ab53f4c841c0b.webm)
+
+**Source:** [@AIwithkhan](https://x.com/AIwithkhan/status/2087167673511616691) · 15s · 16:9 · brand film
+
+---
+
+## 5. Seedance 2.5 did well
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-did-well-077118/video-7b4ffe2c1079c02e.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-did-well-077118/poster-968a827ebf59e3b6.jpg" alt="Seedance 2.5 did well video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create an ultra-realistic cinematic aviation sequence featuring an Emirates Airbus A380 at a major international airport. Maintain the exact same A380 aircraft, Emirates livery,...</summary>
+
+~~~~text
+Create an ultra-realistic cinematic aviation sequence featuring an Emirates Airbus A380 at a major international airport. Maintain the exact same A380 aircraft, Emirates livery, airport environment, ground vehicles, and lighting throughout. Photorealistic aviation cinematography, realistic aircraft physics, authentic airport operations, natural engine sounds, radio communications, 4K HDR, 16:9 widescreen.
+
+Scene 1 — Taxiway Arrival
+Wide aerial establishing shot of a massive international airport. The Emirates A380 slowly taxis toward its assigned terminal stand, landing lights glowing, ground vehicles moving naturally around the aircraft. Smooth tracking camera follows from behind and slightly above.
+
+Scene 2 — Gate & Pushback Preparation
+The A380 reaches the gate. Ground crew position around the aircraft, baggage carts and catering trucks arrive, wheel chocks are placed, and the pushback tug connects to the nose gear. Close-ups of ground crew signals, wheels, doors, and flashing safety lights.
+
+Scene 3 — Baggage Handling
+Cut to the baggage area. Luggage containers are transported toward the aircraft and loaded into the lower-deck cargo hold. Show realistic conveyor belts, baggage carts, handlers securing containers, and the cargo door closing.
+
+Scene 4 — Final Boarding & Departure Preparation
+Passengers finish boarding as ground staff complete final checks. Jet bridge retracts, service vehicles leave the aircraft, and the aircraft doors are secured. The A380's engines begin spinning up realistically.
+
+Scene 5 — Pushback
+The tug slowly pushes the enormous A380 away from the gate. Ground crew guide the aircraft using illuminated wands. Camera moves from a low wheel-level angle to a dramatic wide shot showing the full aircraft and terminal.
+
+Scene 6 — ATC Clearance
+Inside the cockpit, pilots monitor instruments and communicate with ATC. Radio audio: “Emirates heavy, pushback approved. Contact ground when ready to taxi.” The aircraft begins taxiing after receiving clearance.
+
+Scene 7 — Taxi to Runway
+Long-lens cinematic shot of the A380 navigating the taxiway. Taxi lights illuminate the pavement as it passes runway signs and other aircraft. Alternate between cockpit, wingtip, landing gear, and wide airport shots.
+
+Scene 8 — Takeoff Clearance
+Cockpit close-up as the pilots complete final checks. ATC radio: “Emirates heavy, runway two-seven, cleared for takeoff.” The pilots acknowledge and advance the throttles.
+
+Scene 9 — Takeoff & Climb
+Massive cinematic side-tracking shot as all four engines accelerate and the A380 races down the runway. Nose lifts smoothly, main landing gear leaves the ground, and the aircraft climbs gracefully into the sky. Landing gear retracts as the camera pulls back to reveal the airport below.
+
+Audio: authentic ATC radio chatter, engine spool-up, pushback tug sounds, baggage equipment, hydraulic sounds, runway ambience, tire noise, realistic cockpit alerts. No background music, no subtitles, no captions, no watermarks, no artificial aircraft movement, no distorted aircraft, no changing livery.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-did-well-077118/video-7b4ffe2c1079c02e.webm)
+
+**Source:** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2087155449196077118) · 30s · 16:9 · brand film
+
+---
+
+## 6. Use code UMESH25 for 25% off any Runway plan 🎁 (affiliate code)
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/use-code-umesh25-for-25-off-any-runway-plan-affiliate-906242/video-82b39cf0a39fc136.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/use-code-umesh25-for-25-off-any-runway-plan-affiliate-906242/poster-c998d02ff7614590.jpg" alt="Use code UMESH25 for 25% off any Runway plan 🎁 (affiliate code) video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 20-second continuous single-shot video, ultra-photorealistic cinematic macro style. A real miniature man, about the size of an adult palm, is being chased by a giant fluffy calico...</summary>
+
+~~~~text
+20-second continuous single-shot video, ultra-photorealistic cinematic macro style.  A real miniature man, about the size of an adult palm, is being chased by a giant fluffy calico cat through a house and into a garden. The cat is a real domestic calico with authentic orange, black, and white fur, realistic whisker movement, natural feline body motion, and playful but intense hunting behavior. The tiny man runs at full speed in fear while the cat rushes after him with chaotic energy, accidentally knocking over objects in its attempt to catch him.  Camera: one continuous uninterrupted shot with no cuts. Low-angle tracking camera at the tiny man's scale, following closely beside and behind him. Realistic handheld movement, shallow depth of field, natural focus breathing, cinematic motion blur, and believable macro scale.  0 to 5 seconds: In the living room, the tiny man sprints across a hardwood floor while the giant calico cat charges behind him. The cat runs too fast, skids slightly, and swats at him with one paw, barely missing. As it rushes forward, it slams into a side table, knocking over a lamp that crashes to the floor. The man dives under the sofa and escapes out the other side.  5 to 10 seconds: He bursts into the kitchen and keeps running across the tile floor. The cat charges in after him and, in its rushed pursuit, bumps a chair aside and sends a fruit bowl tipping over. A large orange rolls across the floor in front of the tiny man, and he jumps over it without slowing down. The cat slides around the corner, scrambling to keep up.  10 to 15 seconds: The man escapes through the pet flap into the garden. He runs through towering blades of grass and over uneven soil as the cat crashes out behind him. The cat's wild chase creates more chaos in the garden, flattening grass, knocking through small flowers, and scattering petals and loose dirt with each heavy step. The tiny man grabs a long flexible blade of grass and pulls it back like a spring.  15 to 18 seconds: He releases the blade of grass and it snaps forward, launching him into the air. He flies toward the calico cat and lands safely on top of its fluffy head between its ears. The landing presses into the fur with believable weight. The cat stops abruptly, sits down, and looks surprised for a brief moment.  18 to 20 seconds: The tiny man steadies himself by holding onto a tuft of fur, then stands proudly on the cat's head. The calico cat turns toward the camera. The man and the cat both pose together and grin directly at the lens in a playful final moment, like unlikely best friends after the chaotic chase. The camera moves slightly closer as warm golden sunlight lights the garden around them.  Important direction: Keep the action clear, readable, and sequential. Focus on smooth continuity and strong visual storytelling. The cat should create visible chaos while chasing the man, but do not overload the scene with too many separate events. Prioritize a few strong destruction moments in the house and a few strong impact moments in the garden. Preserve realistic scale, believable physics, natural fur movement, flexible grass motion, and stable character continuity.  Visual quality: Photorealistic macro cinematography, realistic fur detail, realistic human movement, cinematic lighting, shallow depth of field, accurate shadows, believable contact and motion, detailed textures, smooth continuous motion, and high visual realism.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/use-code-umesh25-for-25-off-any-runway-plan-affiliate-906242/video-82b39cf0a39fc136.webm)
+
+**Source:** [@umesh_ai](https://x.com/umesh_ai/status/2087130704710906242) · 20s · 16:9 · brand film
+
+---
+
+## 7. Use the uploaded reference image as the exact character reference. Preserve her
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/use-the-uploaded-reference-image-as-the-exact-character-reference-396603/video-326570fd78c6f05d.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/use-the-uploaded-reference-image-as-the-exact-character-reference-396603/poster-fa9b1eee3ca39ceb.jpg" alt="Use the uploaded reference image as the exact character reference. Preserve her video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Use the uploaded reference image as the exact character reference. Preserve her facial identity, eye color, skin tone, hairstyle, makeup, body proportions, and overall appearance...</summary>
+
+~~~~text
+Use the uploaded reference image as the exact character reference. Preserve her facial identity, eye color, skin tone, hairstyle, makeup, body proportions, and overall appearance consistently throughout every shot. She wears a fitted white crop top, relaxed black denim shorts, white sneakers, white crew socks, silver jewelry, and a cropped red bomber jacket. Maintain perfect character and outfit consistency.
+Create a premium American hip-hop performance video inside a backstage concert environment with black curtains, glowing red LED panels, stage equipment, speakers, cables, mirrors, metal cases, and atmospheric haze.
+The video opens with her sitting in front of a backstage mirror, putting on her earrings while looking confidently at her reflection. She stands, adjusts her crop top and bomber jacket, then walks through the backstage corridor toward the stage.
+She enters the performance area and starts moving to the beat with relaxed hip-hop choreography, combining quick steps, shoulder movements, spins, hand gestures, and confident poses. The camera follows her from behind before swinging around into a front-facing tracking shot.
+She grabs a microphone stand, performs expressive lip-sync, then transitions into a powerful dance sequence. The camera rapidly cuts between close-ups of her face, sneakers hitting the floor, moving hands, and wide stage compositions.
+She moves toward a drum kit positioned beside the stage, sits down, and plays a short energetic rhythm. Overhead and low-angle shots capture the drumsticks, cymbals, foot movements, and her focused expression.
+She steps back onto center stage, throws her bomber jacket over one shoulder, walks directly toward the camera, and finishes with a strong fashion pose beneath dramatic red lights.
+Style: High-end rap music video, concert backstage aesthetic, cinematic handheld movement, dynamic tracking shots, realistic lip-sync, expressive body language, realistic fabric and hair movement, dramatic stage lighting, shallow depth of field, premium editorial cinematography, photorealistic, 4K HDR, 24fps, 16:9.
+Negative Prompt: No text, no subtitles, no watermarks, no duplicate characters, no distorted hands, no facial inconsistency, no outfit changes, no flickering, no unrealistic physics, no cartoon rendering.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/use-the-uploaded-reference-image-as-the-exact-character-reference-396603/video-326570fd78c6f05d.webm)
+
+**Source:** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2087079974935396603) · 15s · 16:9 · brand film
+
+---
+
+## 8. Made with Seedance 2.5 cinematic visuals, realistic physics, and insane VFX.
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-cinematic-visuals-realistic-physics-and-254024/video-40af68f202dbb120.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-cinematic-visuals-realistic-physics-and-254024/poster-2753a6a953b41ef5.jpg" alt="Made with Seedance 2.5 cinematic visuals, realistic physics, and insane VFX. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a cinematic luxury diamond advertisement with a dark premium aesthetic. A black jewelry box slowly opens to reveal a flawless diamond. The camera pushes in for an extreme...</summary>
+
+~~~~text
+Create a cinematic luxury diamond advertisement with a dark premium aesthetic. A black jewelry box slowly opens to reveal a flawless diamond. The camera pushes in for an extreme close-up as a gloved hand lifts the diamond. As it rises, electric-blue energy and realistic lightning begin forming around it. The diamond floats in the air while powerful lightning strikes in the background, with glowing particles, volumetric lighting, realistic reflections and physically accurate diamond refraction. Smooth cinematic camera movement, dramatic lighting, photorealistic CGI, premium commercial quality, realistic physics, highly detailed, consistent diamond throughout the entire shot. Created with Seedance 2.5.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-cinematic-visuals-realistic-physics-and-254024/video-40af68f202dbb120.webm)
+
+**Source:** [@NoOneIsHere2603](https://x.com/NoOneIsHere2603/status/2087048124523254024) · 10s · 16:9 · brand film
+
+---
+
+## 9. I went for my Tennis practice and Seedance 2.5 handled rest
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-went-for-my-tennis-practice-and-seedance-2-5-586531/video-0abe20a4e047ab2a.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-went-for-my-tennis-practice-and-seedance-2-5-586531/poster-f82cdc22a211f5de.jpg" alt="I went for my Tennis practice and Seedance 2.5 handled rest video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — SHOT 1: ECU, 85mm push-in / Phone alarm vibrates on the bedside table. Her hand reaches out and turns it off as warm morning sunlight spills across the bed. / SFX: alarm buzz,...</summary>
+
+~~~~text
+SHOT 1: ECU, 85mm push-in / Phone alarm vibrates on the bedside table. Her hand reaches out and turns it off as warm morning sunlight spills across the bed. / SFX: alarm buzz, sheets rustle.
+
+SHOT 2: WS, 35mm handheld / She sits up quickly, steps out of bed, stretches briefly, and immediately grabs her white tennis outfit from the chair. / SFX: mattress creak, fabric movement, soft breath.
+
+SHOT 3: MCU, 50mm slide / Cut to the bathroom mirror. She splashes cool water onto her face, pats it dry, then quickly ties her long black hair into a neat high ponytail. / SFX: faucet rush, water splash, hair-tie snap.
+
+SHOT 4: Insert, 85mm macro / Close-up of her brushing her teeth while looking into the mirror, followed by a quick application of moisturizer and lip balm. / SFX: toothbrush movement, sink drip.
+
+SHOT 5: Bird's-eye, 35mm overhead / Her tennis gear is arranged across the bed: fitted white athletic top, white pleated tennis skirt, white socks, tennis shoes, visor, wristbands, and racket. She quickly picks everything up. / SFX: fabric rustle, zipper movement.
+
+SHOT 6: MCU, 50mm push-in / She changes into the white tennis outfit and stands in front of the mirror, adjusting the pleated skirt and athletic top before giving herself a confident smile. / SFX: fabric adjustment, soft footsteps.
+
+SHOT 7: Insert, 85mm focus pull / Close-up of her pulling on white tennis shoes and tightening the laces firmly. The camera follows her hands as she double-knots them. / SFX: lace tug, shoe tap.
+
+SHOT 8: Top-down, 35mm overhead / She opens her tennis bag and packs her racket, several tennis balls, water bottle, towel, wristbands, and a small snack. She zips the bag shut in one quick motion. / SFX: zipper, ball bounce, bottle clink.
+
+SHOT 9: MS, 35mm tracking / Wearing her white tennis outfit and carrying the racket bag, she walks confidently through the apartment toward the door, ponytail moving naturally behind her. / SFX: footsteps, bag movement.
+
+SHOT 10: WS, 24mm follow shot / She exits the building into bright morning sunlight and walks toward a parked car, placing her tennis bag inside before getting in. / SFX: door unlock, car door, city ambience.
+
+SHOT 11: WS, 35mm transition / Match cut to the tennis facility. She walks through the entrance toward the outdoor courts while other players practice softly blurred in the background. / SFX: distant tennis hits, birds, footsteps.
+
+SHOT 12: MCU, 50mm glide / She places her bag beside the court, takes out her racket, bounces a tennis ball on the strings several times, then performs shoulder and arm stretches. / SFX: rhythmic ball taps, racket strings, light breathing.
+
+SHOT 13: WS, 35mm tracking / She begins a dynamic warm-up along the baseline: quick side steps, lunges, small jumps, and rapid footwork. The camera tracks alongside her. / SFX: shoe squeaks, controlled breathing.
+
+SHOT 14: MS, 50mm slow push-in / She stands at the baseline, bounces the tennis ball twice, looks toward her opponent, tosses it into the air, and prepares for a powerful serve. / SFX: ball bounce, ambient court noise, rising musical beat.
+
+SHOT 15: WS → CU, 35mm whip pan → 85mm push-in / She launches into a powerful serve. The racket connects with the ball in dramatic slow motion, her white pleated skirt and ponytail moving naturally with the force of the motion. Cut to a close-up of her focused face as she watches the ball travel across the court. / SFX: sharp racket impact, ball whoosh, shoe squeak.
+
+Overall style: ultra-realistic cinematic sports commercial, consistent young woman throughout, elegant white tennis outfit with pleated skirt, natural black ponytail, bright morning sunlight, realistic athletic movement, dynamic handheld and tracking shots, shallow depth of field, crisp tennis-ball motion, premium sports photography, smooth match cuts, energetic pacing, realistic environmental
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/i-went-for-my-tennis-practice-and-seedance-2-5-586531/video-0abe20a4e047ab2a.webm)
+
+**Source:** [@AIwithkhan](https://x.com/AIwithkhan/status/2087044885937586531) · 15s · 16:9 · brand film
+
+---
+
+## 10. Made with
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-365832/video-f39149e3ede760a4.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-365832/poster-ffc1d13a292242f1.jpg" alt="Made with video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 widescreen layout on a pure white background. THE ATTACHED REFERENCE IMAGE DEFINES THE ART STYLE —...</summary>
+
+~~~~text
+Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 widescreen
+layout on a pure white background. THE ATTACHED REFERENCE IMAGE DEFINES THE ART STYLE —
+treat it as a strict style bible and reproduce its exact rendering technique in every
+figure on this sheet, with zero deviation and zero blending toward any other style.
+
+[STYLE — MIRROR THE REFERENCE EXACTLY]: Replicate the reference image's rendering
+verbatim — clean physically-based/photoreal 3D render, smooth realistic skin shading
+with soft subsurface scattering, crisp studio lighting with a soft single key light and
+gentle fill, realistic cloth and leather material response (matte knit bodysuit, soft
+wool-blend coat drape, glossy leather boot sheen, brushed-metal dagger hilt), no
+outlines, no cel-shading, no painterly brushwork, no posterized color blocks. Color
+palette exactly as shown: deep burgundy, black and warm gold accent, neutral warm-white
+studio background. Every figure — centerpiece, turnarounds, poses, expression heads,
+detail crops — must look like it was rendered from the same 3D file, same lighting rig,
+same material shaders as the reference image.
+
+[STYLE PROHIBITIONS — ABSOLUTE]: Do not add outlines or lineart. Do not flatten into
+cel-shading or posterized color blocks. Do not shift toward painterly/illustrated
+brushwork. Do not darken, add contrast, or relight away from the soft even studio
+lighting shown in the reference. If uncertain whether the reference shows a given
+feature, leave it out rather than guess.
+
+[PROPORTIONS]: Match the reference's realistic human proportions in every figure —
+natural anatomy, true-to-life limb length and scale, not stylized or elongated. Do not
+alter proportions in the smaller studies.
+
+[SUBJECT_DESCRIPTION]: VESPER NOIR — Role: Underworld Information Broker. Core Mood:
+Sultry, unhurried danger. Visual Signature: plunging bodysuit + draped opera coat off
+one shoulder + gold dagger. Extremely tall adult woman in her mid-20s, mature sharp
+jawline, warm olive skin, sleek jet-black hair in a low chignon with a loose
+face-framing strand, dramatic winged eyeliner, deep burgundy lips, a small beauty mark
+near her mouth, half-lidded sultry gaze, confident smirk. Wears a fitted deep-plum
+bodysuit with a plunging neckline, a thin black choker with a small skull charm, worn
+under a massive draped black coat slipped off both shoulders and gathered at the
+forearms, thigh-high matte-black leather boots, an ornate gold-hilted dagger held
+against her hip. Signature pose: weight shifted onto one hip, chin tilted down, sidelong
+glance at camera.
+
+Layout Composition (Organize strictly into these sections):
+
+1. LEFT PANEL: METADATA & TURNAROUND
+- Large, bold vertical typography "VESPER NOIR" in a clean, heavy sans-serif condensed
+  font.
+- Metadata Block: "ROLE: INFORMATION BROKER", "CORE MOOD: SULTRY, UNHURRIED DANGER",
+  "VISUAL SIGNATURE: OPERA COAT + GOLD DAGGER".
+- MINI TURNAROUND: 3 small vertical figures — neutral, back view, profile — rendered in
+  the identical photoreal reference style.
+- SILHOUETTE STUDY: 3 solid-black silhouettes matching the turnaround stances.
+- EXPRESSION STUDY (bottom left): exactly 4 small close-up headshots with subtle
+  expression shifts (smirk, sidelong glance, cold stare, faint smile), same
+  reference-matched rendering.
+
+2. CENTRAL PANEL: THE CENTERPIECE
+- One giant, dominant full-body figure in the signature pose, maximum detail, perfect
+  style-match to the reference image.
+
+3. RIGHT PANEL: MULTI-POSE & THEMATIC STUDIES
+- POSE STUDY: 4–5 small-to-medium figures in varied confident stances (leaning against
+  an unseen doorway, seated with legs crossed, coat swirling mid-turn, dagger held low,
+  arms crossed appraising something offscreen), each with a small handwritten-style
+  label underneath.
+- SPECIALTY STUDY: a vertical strip of 4–6 portrait variations, same reference-matched
+  rendering.
+
+4. BOTTOM RIGHT PANEL: DETAIL STUDY
+- Exactly 5 small square close-up crops: the dagger hilt, the choker's skull charm, the
+  coat's collar and lapel, the boots' leather texture, the chignon hairstyle. Each with a
+  clean handwriting-style label underneath.
+
+The entire sheet must read as one consistent studio-grade character design bible where
+every element could be a crop from the reference image itself: same rendering
+technique, same palette, same light values throughout.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-365832/video-f39149e3ede760a4.webm)
+
+**Source:** [@itsPixieVerse](https://x.com/itsPixieVerse/status/2086951911849365832) · 15s · 8:9 · brand film
+
+---
+
+## 11. Video created with Seedance 2.5 on
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-created-with-seedance-2-5-on-489739/video-24dd311faee0dec8.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-created-with-seedance-2-5-on-489739/poster-41264ea2931f4f0d.jpg" alt="Video created with Seedance 2.5 on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15 second 16:9 high energy music driven visual film inspired by early digital pop culture, using bold black human silhouettes dancing against perfectly clean saturated...</summary>
+
+~~~~text
+Create a 15 second 16:9 high energy music driven visual film inspired by early digital pop culture, using bold black human silhouettes dancing against perfectly clean saturated color backgrounds. Keep the visual world minimal, iconic and graphic while making every body movement physically believable and naturally timed. Open on a young woman shown as a pure black silhouette against an intense lime green background. She wears wired white earbuds connected to a compact glossy white music player held loosely near her hip. Her long hair moves with realistic inertia as she dances, shifting weight through her hips and shoulders, tossing her head and lifting one arm with spontaneous confidence. Keep the camera mostly locked in a medium full body composition with crisp silhouette edges and subtle natural motion in the earphone cable. At roughly two seconds cut sharply to a rich purple background and a second female silhouette with large curly hair. Use a tighter upper body framing. She leans backward with joyful energy, stretches one arm dramatically across the frame and lets her curls react naturally to every acceleration. Follow with a tight crop of her torso, hand, white music player and looping earphone cable. Around four seconds cut to a young male silhouette against vivid hot pink. Medium profile composition, relaxed rhythmic shoulder movement, understated head motion, white earbuds clearly visible and the cable dropping naturally toward the player on his chest or hand. At five seconds return abruptly to lime green with a wide full body view of the long haired woman. She bends deeply forward, then rises into an energetic hair toss while spreading one arm outward. Preserve accurate balance, joint movement, hair physics and cable physics. Continue alternating between pink male dance shots, purple closeups and lime green female dance shots every one to two seconds. Vary framing between full body, medium shot and extreme torso detail. Use hard editorial cuts rather than smooth transitions. No camera shake. No artificial cinematic depth of field. Backgrounds remain completely flat, seamless and shadowless. At nine seconds include a close purple shot of hands interacting naturally with the small white music player while the body keeps dancing. At ten seconds return to the long haired woman on green, then show the curly haired woman on purple performing a dramatic backward lean with arms extended. At twelve seconds cut to another close detail of the white player and curved cable. At thirteen seconds return to the male silhouette on hot pink. During the final second create a very brief intentional digital glitch transition. Place a smaller lime green dancing frame inside layered pink and green graphic fields, with horizontal signal distortion, slight image displacement and repeated silhouette echoes, then snap back toward the clean green dance image. Maintain perfectly consistent black silhouettes, bright white earphones and player, saturated lime green, purple and hot pink backgrounds, crisp edges, realistic human timing, convincing hair momentum, natural cable drag and authentic editorial rhythm. No text, no logos, no extra objects, no malformed hands, no duplicated limbs, no floating accessories. Music: energetic retro electronic pop instrumental around 110 BPM with punchy drums, tight bass, bright synth accents and rhythmic edit points synchronized precisely with the dancer movements and every color cut. Clean professional mix, no vocals.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/video-created-with-seedance-2-5-on-489739/video-24dd311faee0dec8.webm)
+
+**Source:** [@bmx_ai13](https://x.com/bmx_ai13/status/2086914231463489739) · 15s · 427:240 · brand film
+
+---
+
+## 12. Try it now on
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/try-it-now-on-088591/video-399a3a97f528104c.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/try-it-now-on-088591/poster-0cb6c9cee5e61af8.jpg" alt="Try it now on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a spectacular 30-second animated comic-book adventure with a playful superhero aesthetic, combining stylized 2D animation, 3D animation, hand-drawn illustrations, magical...</summary>
+
+~~~~text
+Create a spectacular 30-second animated comic-book adventure with a playful superhero aesthetic, combining stylized 2D animation, 3D animation, hand-drawn illustrations, magical effects, comic-book panels, and surreal cartoon worlds.
+
+A young masked superhero swings through a colorful city at sunset.
+
+0–5s
+He launches from a rooftop and swings between colorful skyscrapers. The world is playful and exaggerated: floating buildings, giant clouds shaped like animals, hand-drawn birds, colorful graffiti, comic-book halftone textures, dramatic perspective, thick expressive outlines.
+
+5–10s
+As he swings through the city, his web suddenly transforms into a glowing magical ribbon. The ribbon pulls him through the air and tears open a giant comic-book page. He flies directly through the page into a completely different illustrated world.
+
+10–15s
+A magical cartoon forest appears. Giant mushrooms glow, floating islands drift through the sky, tiny luminous creatures fly around him, and enormous flowers open as he passes. He swings between glowing vines while colorful magical particles trail behind him.
+
+15–20s
+The entire world suddenly transforms into a chaotic comic-book page. Multiple panels appear around the hero simultaneously, each showing a different version of the same action. Panels slide, rotate, overlap, and shatter into colorful pieces. The hero jumps between the panels as if moving through pages of a comic.
+
+20–25s
+The fragments explode outward and reveal a spectacular futuristic city at night. Neon skyscrapers, holographic advertisements, glowing trains, flying cars, rain, reflections, and colorful comic-book effects. The hero swings rapidly between buildings while the camera follows from impossible angles.
+
+25–30s
+He swings toward the camera and releases the web. Everything freezes for a split second like a comic-book splash page. Hundreds of colorful illustrated elements surround him: stars, lightning, speech-bubble shapes, ink splashes, halftone dots, magical symbols, floating objects, and comic panels.
+
+He lands dramatically on a rooftop.
+
+The camera rapidly pulls backward, revealing the entire surreal multiverse city behind him.
+
+End on an explosive burst of colorful comic-book energy.
+
+VISUAL STYLE:
+Playful cinematic animation, modern comic-book aesthetic, stylized 2D and 3D animation, hand-drawn linework, vibrant colors, halftone textures, ink splashes, exaggerated perspective, graphic novel compositions, magical particles, surreal cartoon environments, dynamic action choreography, expressive animation, beautiful lighting, polished theatrical animation.
+
+Make every transition visually surprising and seamless. Constantly introduce new visual ideas without becoming chaotic or unreadable. Strong sense of depth, parallax, camera movement, and dimensionality.
+
+The animation should feel energetic, magical, funny, stylish, and endlessly imaginative.
+
+No text, no subtitles, no logos, no watermark.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/try-it-now-on-088591/video-399a3a97f528104c.webm)
+
+**Source:** [@apiframe](https://x.com/apiframe/status/2086840470702088591) · 33s · 853:360 · brand film
+
+---
+
+## 13. It's insane what Seedance 2.5 can do 🤯
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/it-s-insane-what-seedance-2-5-can-do-479241/video-6c0c21f0b9b110dc.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/it-s-insane-what-seedance-2-5-can-do-479241/poster-cdc8783cf76339aa.jpg" alt="It's insane what Seedance 2.5 can do 🤯 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 1️⃣character sheet: Ultra-detailed 16:9 fantasy character design sheet, official AAA RPG character bible, clean editorial layout, elegant white background with icy blue UI...</summary>
+
+~~~~text
+1️⃣character sheet:
+
+Ultra-detailed 16:9 fantasy character design sheet, official AAA RPG character bible, clean editorial layout, elegant white background with icy blue UI accents. Character name "ICEFORGE", title "Bunny Smith", subtitle "A frost-forged artisan who crafts weapons with precision and style."
+
+Left panel features a full-body hero illustration of a cute fantasy bunny blacksmith girl with long icy blue hair, red eyes, large rabbit ears with crystal-like pink inner details, and a confident playful expression. She wears a unique fantasy smith outfit combining cute bunny aesthetics with practical crafting gear: white off-shoulder blouse, blue shorts, leather belts, metal accessories, fluffy fur trims, armored boots, thigh straps and workshop details. She carries a massive oversized black-and-silver forging hammer with glowing red crystal accents, hanging chains and frost effects.
+
+Center panel includes professional turnaround views (Front, Side, Back), perfectly consistent anatomy, hairstyle, rabbit ears, costume layers and equipment placement. Show the full silhouette, hammer position, boots, belts and smith accessories clearly.
+
+Right panel includes detailed close-up panels showing rabbit ear design, face details, bow accessory, chest ornament, belt system, boots, fabric texture and metal craftsmanship. Include weapon breakdown featuring the giant forging hammer, hammer head design, crystal core, chain details and blacksmith tools.
+
+Include expression sheet with multiple facial expressions: confident, cheerful, focused and calm. Add a refined color palette featuring icy blue, white, silver, charcoal black, soft pink and crystal red accents.
+
+Style: official fantasy RPG character sheet, cute blacksmith fantasy, Genshin Impact × Honkai Star Rail × Blue Archive aesthetic, premium anime game artbook illustration, detailed weapon crafting design, magical ice forge theme, elegant costume design, production-ready character bible, masterpiece, best quality, ultra detailed, 8K, clean composition, no watermark, no logo, no extra limbs, no deformed anatomy.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/it-s-insane-what-seedance-2-5-can-do-479241/video-6c0c21f0b9b110dc.webm)
+
+**Source:** [@Mayz1169](https://x.com/Mayz1169/status/2086809649039479241) · 27s · 60:67 · brand film
+
+---
+
+## 14. I just nailed this video with Seedance 2.5 model
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-just-nailed-this-video-with-seedance-2-5-model-859522/video-a59bcf66047263ac.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-just-nailed-this-video-with-seedance-2-5-model-859522/poster-a371105e6d84862b.jpg" alt="I just nailed this video with Seedance 2.5 model video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Use the uploaded reference image as the exact character reference. Preserve her facial identity, eye color, skin tone, hairstyle, makeup, body proportions, and overall appearance...</summary>
+
+~~~~text
+Use the uploaded reference image as the exact character reference. Preserve her facial identity, eye color, skin tone, hairstyle, makeup, body proportions, and overall appearance throughout the video. She has long black hair in a high ponytail and wears a vibrant orange cropped jacket over a fitted white crop top, a black pleated skirt layered over fitted shorts, white crew socks, chunky sneakers, silver jewelry, and rings. Maintain perfect character consistency in every scene.
+Create an ultra-realistic cinematic fashion-performance video inside a massive luxury garage transformed into an editorial studio. Include polished concrete floors, a sleek orange sports car, industrial lights, orange and white LED tubes, chrome surfaces, subtle smoke, and dramatic shadows.
+The video opens with a close-up of her tightening the laces of her sneakers. She stands up, grabs her orange jacket, puts it on, and looks directly into the camera with a confident expression.
+She walks toward the sports car with effortless swagger, runs her hand across the hood, then leans against it while posing confidently. The camera moves from a low-angle wheel shot into a smooth full-body reveal.
+She begins dancing beside the car with sharp shoulder movements, quick footwork, controlled spins, and playful hand gestures. The camera rapidly switches between wide shots, close-ups, overhead angles, and low-angle tracking shots.
+She jumps onto a small performance platform and delivers an energetic choreography sequence while orange lights pulse around her. She spins, steps forward, points toward the camera, then freezes in a powerful fashion pose.
+The final shot shows her standing in front of the glowing car with her jacket flowing naturally from a subtle fan. She crosses her arms, gives the camera a confident smile, and the camera slowly pulls backward to reveal the entire garage.
+Style: High-end automotive fashion film, cinematic performance video, luxury editorial aesthetic, dynamic camera movement, realistic reflections, physically accurate fabric simulation, dramatic lighting, shallow depth of field, photorealistic, ultra-detailed, 4K HDR, 24fps, 16:9.
+Negative Prompt: No subtitles, no text, no watermarks, no duplicate people, no distorted hands, no facial changes, no identity drift, no unrealistic car deformation, no flickering, no cartoon style, no oversaturated colors.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/i-just-nailed-this-video-with-seedance-2-5-model-859522/video-a59bcf66047263ac.webm)
+
+**Source:** [@AIwithkhan](https://x.com/AIwithkhan/status/2086801478245859522) · 15s · 16:9 · brand film
+
+---
+
+## 15. 5 minutes a day. Just for you.
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/5-minutes-a-day-just-for-you-019376/video-684e2b5cdbc40431.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/5-minutes-a-day-just-for-you-019376/poster-82cbb7ccdbe497bb.jpg" alt="5 minutes a day. Just for you. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;30-Second ZOYA Skincare Ad 0–7 sec — The Busy Mom Fast cinematic cuts: 0–1.5s: Mom wakes up and immediately gets out of bed. 1.5–3s: Preparing breakfast while getting the kids...</summary>
+
+~~~~text
+"30-Second ZOYA Skincare Ad
+
+0–7 sec — The Busy Mom
+Fast cinematic cuts:
+
+0–1.5s: Mom wakes up and immediately gets out of bed.
+1.5–3s: Preparing breakfast while getting the kids ready.
+3–4.5s: Helping her children get dressed / ready for school.
+4.5–6s: Working on her laptop while handling household chores.
+6–7s: Finally gets a moment alone and walks toward the bathroom mirror.
+
+7–9 sec — The Mirror Moment
+She looks closely at her face.
+Her skin appears dry, tired and dull.
+She gently touches her cheek and looks disappointed.
+Quick close-up of her expression.
+
+9–12 sec — ZOYA Product Reveal
+Hard transition to a clean blue background.
+ZOYA skincare product appears in a premium cinematic product shot.
+Soft glow, water droplets, elegant reflections.
+On-screen text:
+“Just 5 minutes a day.”
+
+12–23 sec — Fast Skin Transformation
+This should be the hero section of the ad.
+Use the same camera angle, same lighting and same facial position for every shot so viewers can clearly see the progression.
+
+12–13.5s — DAY 1
+Text appears:
+DAY 1
+She applies ZOYA.
+Skin still looks tired and dull.
+13.5–15s — DAY 2
+
+DAY 2
+Fast cut.
+Skin looks slightly more hydrated and fresh.
+15–16.5s — DAY 4
+
+DAY 4
+Visible improvement in freshness and smoothness.
+16.5–18.5s — DAY 7
+
+DAY 7
+Her complexion looks noticeably brighter and healthier.
+18.5–21s — DAY 10
+
+DAY 10
+More radiant, refreshed-looking skin.
+She starts smiling.
+21–23s — DAY 14
+
+DAY 14
+Final transformation.
+She looks confident with fresh, naturally glowing skin.
+The day labels should appear large and clearly on screen for each fast cut.
+
+23–27 sec — The New Her
+She looks at herself in the mirror again.
+This time, she smiles.
+She confidently walks out of the bathroom and joins her family.
+Her daughter looks at her and smiles.
+
+27–30 sec — Final Product Shot
+Return to the blue ZOYA background.
+Product centered with a premium beauty-commercial composition.
+Final text:
+“5 minutes. Every day. Just for you.”"
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/5-minutes-a-day-just-for-you-019376/video-684e2b5cdbc40431.webm)
+
+**Source:** [@HeyZoyaKhan](https://x.com/HeyZoyaKhan/status/2086797158125019376) · 33s · 16:9 · brand film
+
+---
+
+## 16. Film: *Empresses in the Palace* 甄嬛传 Segment: The Jinghong Dance 惊鸿舞
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/film-empresses-in-the-palace-segment-the-jinghong-dance-967532/video-bb3b77fd4b70d47b.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/film-empresses-in-the-palace-segment-the-jinghong-dance-967532/poster-313033683cc3665b.jpg" alt="Film: *Empresses in the Palace* 甄嬛传 Segment: The Jinghong Dance 惊鸿舞 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — [STYLE + CAMERA + ATMOSPHERE] Opulent Qing-dynasty palace drama television look, shot on ARRI Alexa with warm amber candlelit tones mixed with cool jade accents, refined...</summary>
+
+~~~~text
+[STYLE + CAMERA + ATMOSPHERE]
+Opulent Qing-dynasty palace drama television look, shot on ARRI Alexa with warm amber candlelit tones mixed with cool jade accents, refined ceremonial atmosphere. Slow circling crane shots combined with graceful tracking movements, elegant restrained pacing throughout.
+
+[CHARACTERS]
+A young elegant woman with an elaborate traditional updo adorned with pearl and jade ornaments, dressed in a flowing pale silk gown with wide draping sleeves, moving with graceful controlled fluidity. Seated nobility and officials in formal Qing-dynasty attire watching intently from surrounding cushioned seats.
+
+[LOCATION]
+Grand imperial palace hall with red lacquered pillars, intricate carved wooden screens, warm lantern light glowing against dark polished floors, silk banners hanging from high ceilings.
+
+[TIMELINE]
+0-6s: [Wide crane shot descending into the hall] The woman stands center stage in the flowing pale gown, arms raised gracefully as soft instrumental music implied through her poised stillness, seated guests watching with anticipation.
+
+6-12s: [Slow circling tracking shot around her] She begins moving through a series of fluid controlled poses, wide sleeves trailing through the air like wings, jade ornaments catching the lantern light.
+
+12-18s: [Low tracking shot following her sleeve movements] Her long sleeves sweep low and rise again in perfect synchronization with her turning steps, silk fabric rippling elegantly with each motion.
+
+18-24s: [Medium shot capturing a dramatic spin] She executes a graceful spinning turn, sleeves flaring outward in a wide circular arc, expression serene yet intensely focused, seated guests leaning forward in admiration.
+
+24-30s: [Wide pull-back crane shot] She settles into a final elegant pose, sleeves draping gently to the floor, the entire hall falling into a moment of hushed appreciation before quiet approving murmurs ripple through the seated guests.
+
+[STYLE & QUALITY BOOSTERS]
+Exact period production texture of premium Qing-dynasty court drama, coherent silk fabric and sleeve physics, stable character continuity, warm lantern-lit color grading, no modern digital sharpness, refined ceremonial grace throughout.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/film-empresses-in-the-palace-segment-the-jinghong-dance-967532/video-bb3b77fd4b70d47b.webm)
+
+**Source:** [@ibestools](https://x.com/ibestools/status/2086739067014967532) · 30s · 16:9 · brand film
+
+---
+
+## 17. Product Commercial Study 209333
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-209333/video-796cc0f305081e8a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-209333/poster-8ca023c7dd321f95.jpg" alt="Product Commercial Study 209333 video preview" width="700" />
@@ -23,7 +722,7 @@ Create a 30 second vertical 9:16 photorealistic lifestyle vlog, filmed entirely 
 
 ---
 
-## 2. Product Commercial Study 683460
+## 18. Product Commercial Study 683460
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/30-second-ultra-realistic-multi-shot-candid-obse-683460/video-2ae8bcddcd348cca.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/30-second-ultra-realistic-multi-shot-candid-obse-683460/poster-851b5825a7348b47.jpg" alt="Product Commercial Study 683460 video preview" width="700" />
@@ -84,7 +783,7 @@ TOTAL SHOTS: 7
 
 ---
 
-## 3. Product Commercial Study 256505
+## 19. Product Commercial Study 256505
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-256505/video-db65a21634fb703b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-256505/poster-f629adbeb01de616.jpg" alt="Product Commercial Study 256505 video preview" width="700" />
@@ -105,7 +804,7 @@ Create a 10 second cinematic live action video in 16:9, one continuous unbroken 
 
 ---
 
-## 4. UGC on is just crazy
+## 20. UGC on is just crazy
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/ugc-on-is-just-crazy-066501/video-fb64d830040465e1.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/ugc-on-is-just-crazy-066501/poster-bb990dc632dca5dd.jpg" alt="UGC on is just crazy video preview" width="700" />
@@ -140,7 +839,7 @@ Ultra-realistic UGC fashion content, authentic creator review, cinematic handhel
 
 ---
 
-## 5. Product Commercial Study 855712
+## 21. Product Commercial Study 855712
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/mpt-create-a-15-second-cinematic-underground-fas-855712/video-51d755dd47347e05.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/mpt-create-a-15-second-cinematic-underground-fas-855712/poster-131645192910e4c9.jpg" alt="Product Commercial Study 855712 video preview" width="700" />
@@ -161,7 +860,7 @@ Create a 15 second cinematic underground fashion film in 16:9 inside a real conc
 
 ---
 
-## 6. Product Commercial Study 191208
+## 22. Product Commercial Study 191208
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-191208/video-eb66e0c349a26609.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-191208/poster-1e6963c541eeedb4.jpg" alt="Product Commercial Study 191208 video preview" width="700" />
@@ -182,7 +881,62 @@ Create a 15 second cinematic street fashion video in 16:9, grounded in real urba
 
 ---
 
-## 7. Fashion Film Study 261494
+## 23. Making these kinds of uniquely styled videos has gotten so much fun lately.
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/making-these-kinds-of-uniquely-styled-videos-has-gotten-so-113956/video-74605a77461defe3.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/making-these-kinds-of-uniquely-styled-videos-has-gotten-so-113956/poster-4c23d67f129163ab.jpg" alt="Making these kinds of uniquely styled videos has gotten so much fun lately. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Prompt [FORMAT] Create a 15-second, 16:9 premium animated title sequence inspired by Homer's Odyssey. Combine rough hand-drawn 2D animation, ancient Greek visual motifs, scratched...</summary>
+
+~~~~text
+Prompt
+
+[FORMAT]
+Create a 15-second, 16:9 premium animated title sequence inspired by Homer's Odyssey. Combine rough hand-drawn 2D animation, ancient Greek visual motifs, scratched ink, charcoal, dry brush, and restrained luxury editorial typography. Elegant, mythic, severe, never cute or polished-cartoon.
+[IDENTITY]
+Maintain one consistent visual language throughout: off-black ink lines, aged ivory paper, deep wine-dark blue, oxidized bronze accents, rough charcoal shadows, imperfect hand-painted edges, restrained gold highlights, and subtle print-registration errors.
+[BEATS]
+[0–3 seconds]
+A nearly black screen. Thin ivory scratches appear like waves drawn rapidly with charcoal. A tiny bronze ship emerges between violent abstract lines. The word "ODYSSEY" slowly resolves from scattered ink fragments. Letters appear slightly blurred and incomplete, sharpen over 0.4 seconds, hold briefly, then are erased sideways by a violent brushstroke. No spinning or bouncing typography.
+[3–6 seconds]
+Hard cut. Rough 2D waves fill the frame in deep wine-blue. The ship is tiny against an enormous hand-drawn sea. The waves transform into long black strands of hair, briefly revealing the abstract face of a Siren. The typography "THE WINE-DARK SEA" appears vertically through negative space, fades into clarity over 0.4 seconds, holds for about 1 second, then breaks apart into ink droplets.
+[6–9 seconds]
+A white-hot flash reveals Odysseus as a crude black-figure silhouette tied to a ship mast. The Sirens circle him as loose unfinished brush drawings, repeatedly appearing and disappearing between frames. Huge cropped letters "HOME" slide slowly behind the character, partially hidden by the mast. The word remains stable and readable, then disappears behind a sweeping black wave.
+[9–12 seconds]
+Split-second black frame. An enormous single eye opens inside a rough circular ink stain, suggesting the Cyclops. The pupil becomes a moon, then the moon becomes a distant island. Small elegant text "A LONG WAY BACK" appears with subtle tracking expansion, holds, then dissolves naturally into paper grain.
+[12–15 seconds]
+The island becomes a single horizontal ink line. Everything falls silent visually. Bronze dust slowly gathers around the line and forms the final title:
+"THE ODYSSEY"
+Wide letter spacing, monumental but restrained.
+The title fades from low opacity into perfect clarity over 0.5 seconds and remains completely still for the final 2 seconds.
+[CAMERA]
+Treat the sequence like animated graphic cinema rather than a slideshow. Use rapid macro push-ins into ink textures, sudden pull-backs revealing immense scale, lateral tracking across drawings, and strong scale changes between tiny ships and monumental mythic forms. Mostly flat 2D perspective with occasional layered multiplane depth.
+[LIGHT]
+Aged ivory, charcoal black, wine-dark ultramarine, oxidized bronze, and restrained antique gold. Uneven paper illumination, subtle flicker, visible fibers, dry ink texture, coarse print grain, slight gate weave. Gold should appear only as rare accents, never glossy digital gradients.
+[EDIT]
+Use sharp hard cuts, brushstroke wipes, ink floods, white flashes, split-second black frames, negative-space reveals, and match transitions where drawings transform into typography. Keep the rhythm sophisticated and deliberate rather than frantic.
+Typography must always have a clear entrance, readable hold, and controlled exit. Use fade-to-focus, tracking expansion, masking, or ink erosion only. No letter spinning, bouncing, elastic motion, random fly-ins, or excessive kinetic typography.
+[AUDIO]
+Audio: distant ocean wind, rough waves, wooden hull creaks, charcoal scratching across paper, one deep resonant bronze impact at 12 seconds.
+BGM: an original 15-second cue, 65% ancient ritual tension and 35% contemporary cinematic minimalism. Low frame drums, bowed bronze resonance, distant male breath textures, low strings, and sparse sub-bass. Begin almost empty, introduce the pulse at 3 seconds, intensify from 7–11 seconds, strike one deep bronze accent at 12 seconds, then reduce to a sustained low tone beneath the final title. Do not imitate an existing melody.
+[NEGATIVE]
+No subtitles, watermarks, platform logos, stickers, extra credits, or unintended text.
+Do not introduce Chinese text, garbled characters, misspellings, duplicated words, or additional title lines.
+No glossy 3D animation, modern anime styling, cute character design, smooth vector illustration, neon cyberpunk imagery, or generic fantasy-game aesthetics.
+Never a slideshow; every graphic element must transform, move, erase, reveal, or evolve naturally through the sequence.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/making-these-kinds-of-uniquely-styled-videos-has-gotten-so-113956/video-74605a77461defe3.webm)
+
+**Source:** [@opener_ai](https://x.com/opener_ai/status/2086104050270113956) · 15s · 4:5 · brand film
+
+---
+
+## 24. Fashion Film Study 261494
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/mpt-create-a-10-second-16-9-avant-garde-fashion-261494/video-1a71b1a4a1b99289.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/mpt-create-a-10-second-16-9-avant-garde-fashion-261494/poster-b9998ea15121b6fd.jpg" alt="Fashion Film Study 261494 video preview" width="700" />
@@ -203,7 +957,7 @@ Create a 10 second 16:9 avant garde fashion film with the tactile realism of a l
 
 ---
 
-## 8. Product Commercial Study 171692
+## 25. Product Commercial Study 171692
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/it-s-insane-what-you-can-make-with-171692/video-98c4ff1e0273c65f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/it-s-insane-what-you-can-make-with-171692/poster-58ffa6469ae824c2.jpg" alt="Product Commercial Study 171692 video preview" width="700" />
@@ -259,7 +1013,7 @@ Flour dust on the lens. She wipes it with her sleeve. A smile. The frame goes da
 
 ---
 
-## 9. Product Commercial Study 309837
+## 26. Product Commercial Study 309837
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-309837/video-32ba5442fa856d7c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-309837/poster-fd1e7354b34e91fe.jpg" alt="Product Commercial Study 309837 video preview" width="700" />
@@ -287,7 +1041,7 @@ Style: Premium cinematic commercial, realistic delivery-rider lifestyle, energet
 
 ---
 
-## 10. Sports Film Study 274971
+## 27. Sports Film Study 274971
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/sports-film-study-274971/video-6028dfc4959dd365.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/sports-film-study-274971/poster-d526e84500c5036c.jpg" alt="Sports Film Study 274971 video preview" width="700" />
@@ -449,7 +1203,7 @@ and the starter's pistol only.
 
 ---
 
-## 11. 🚨 I created this cinematic advertisement using . 🤯
+## 28. 🚨 I created this cinematic advertisement using . 🤯
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-created-this-cinematic-advertisement-using-406311/video-14d4c51b3444f857.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-created-this-cinematic-advertisement-using-406311/poster-e7f23831d7cd2b65.jpg" alt="🚨 I created this cinematic advertisement using . 🤯 video preview" width="700" />
@@ -477,7 +1231,51 @@ Dola AI's Seedance 2.5 AI model is perfect for:
 
 ---
 
-## 12. Product Commercial Study 178710
+## 29. A 30-second cinematic parkour commercial about focus, movement, and pushing beyond the edge.
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/a-30-second-cinematic-parkour-commercial-about-focus-movement-and-513060/video-ed330e25450df86c.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/a-30-second-cinematic-parkour-commercial-about-focus-movement-and-513060/poster-ea98cb346e2ed7bb.jpg" alt="A 30-second cinematic parkour commercial about focus, movement, and pushing beyond the edge. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Prompt Highly cinematic 30-second wide-shot commercial video of a young nerdy parkour athlete with short messy black hair, thin rectangular eyeglasses, and slim athletic build,...</summary>
+
+~~~~text
+Prompt
+Highly cinematic 30-second wide-shot commercial video of a young nerdy parkour athlete with short messy black hair, thin rectangular eyeglasses, and slim athletic build, wearing an oversized black hoodie and cargo pants. He performs intense parkour on a massive brutalist concrete building complex under a dramatic overcast sky.
+
+0-3s: Epic wide establishing drone shot from high above, slowly descending. Character sprints from the left side of the frame across a wide concrete rooftop, glasses reflecting the sky.
+
+3-6s: Smooth side-tracking shot at medium height following him as he vaults over a thick geometric concrete barrier with a clean kong vault.
+
+6-10s: Dynamic low-angle tracking shot looking upward as he wall-runs up a tall vertical brutalist wall, then pushes off into a precision jump onto a narrow ledge. Dust kicks up dramatically.
+
+10-14s: Sweeping orbit camera circling around him while he runs along the edge, does a quick tic-tac off a concrete pillar, then launches into a big gap jump with a mid-air twist.
+
+14-18s: Handheld-style but smooth following shot from behind and slightly below as he lands, rolls to absorb impact, then sprints and climbs a raw unfinished concrete structure with powerful upper-body moves.
+
+18-22s: Elegant wide crane shot rising upward while he precision-jumps between three consecutive geometric ledges. Camera arcs gracefully with him.
+
+22-25s: Dramatic low-angle slow-motion shot looking up as he does a final big wall-run followed by a clean front flip over a deep gap, landing solidly on the highest platform.
+
+25-27s: Slow push-in medium shot. He stands tall in a powerful stance and pulls out a sleek black and neon-green XION energy drink bottle (with uppercut fist graphic) from his hoodie pocket.
+
+27-29s: Slight low-angle hero shot. He raises the bottle toward the camera with a confident half-smirk and adjusts his eyeglasses with his free hand.
+
+29-30s: Close-up beauty shot of the bottle with soft neon-green rim light as he takes a strong, satisfying drink. Text “XION – Fuel Your Edge” fades in elegantly over the frame.
+
+Ultra-realistic, cinematic lighting, cool blue-gray color grade, volumetric light rays, subtle film grain, anamorphic lens flares, high production value, 24fps, wide aspect ratio, professional commercial film quality.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/a-30-second-cinematic-parkour-commercial-about-focus-movement-and-513060/video-ed330e25450df86c.webm)
+
+**Source:** [@CorpPuddin04](https://x.com/CorpPuddin04/status/2085775928752513060) · 30s · 4:3 · brand film
+
+---
+
+## 30. Product Commercial Study 178710
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/camera-handheld-dv-16mm-vertical-9-16-daily-vlog-178710/video-534bb32fcbefccb8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/camera-handheld-dv-16mm-vertical-9-16-daily-vlog-178710/poster-ad8c383cec00bc7f.jpg" alt="Product Commercial Study 178710 video preview" width="700" />
@@ -534,7 +1332,7 @@ She gives the camera a small wave before ending the recording.
 
 ---
 
-## 13. Product Commercial Study 662980
+## 31. Product Commercial Study 662980
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-662980/video-89bf2fc4cd1d671f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-662980/poster-b945c43b87d3366f.jpg" alt="Product Commercial Study 662980 video preview" width="700" />
@@ -565,7 +1363,7 @@ Ultra-realistic travel cinematography, authentic airport ambience, realistic ann
 
 ---
 
-## 14. Product Commercial Study 990763
+## 32. Product Commercial Study 990763
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/n-exactly-15-second-photorealistic-shopping-vlog-990763/video-bbb3eb98e972fa51.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/n-exactly-15-second-photorealistic-shopping-vlog-990763/poster-96e34a39c1d5801e.jpg" alt="Product Commercial Study 990763 video preview" width="700" />
@@ -658,7 +1456,7 @@ Close walking selfie approaching the fitting rooms, garments over her free arm:
 
 ---
 
-## 15. Product Commercial Study 007654
+## 33. Product Commercial Study 007654
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/an-everyday-drive-made-special-by-the-glow-of-th-007654/video-263ec7fa8a57fde0.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/an-everyday-drive-made-special-by-the-glow-of-th-007654/poster-046ff55b58d680ba.jpg" alt="Product Commercial Study 007654 video preview" width="700" />
@@ -687,7 +1485,7 @@ Warm sunset lighting, lens flares, motion blur, elegant and mysterious atmospher
 
 ---
 
-## 16. Sports Film Study 255212
+## 34. Sports Film Study 255212
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/sports-film-study-255212/video-9cfae8a126ef3d3f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/sports-film-study-255212/poster-8e4984073634932e.jpg" alt="Sports Film Study 255212 video preview" width="700" />
@@ -788,7 +1586,7 @@ and commentary.
 
 ---
 
-## 17. is too spicy 🥵
+## 35. is too spicy 🥵
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/is-too-spicy-905417/video-1e84a158a85619f9.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/is-too-spicy-905417/poster-f9e48896a2bac2dc.jpg" alt="is too spicy 🥵 video preview" width="700" />
@@ -825,7 +1623,7 @@ Audio: Upbeat energetic instrumental with punchy percussion hits synced to splas
 
 ---
 
-## 18. Product Commercial Study 761919
+## 36. Product Commercial Study 761919
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/camera-look-handheld-mini-dv-camcorder-footage-f-761919/video-fdc553f782dd671c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/camera-look-handheld-mini-dv-camcorder-footage-f-761919/poster-a208a634621af35d.jpg" alt="Product Commercial Study 761919 video preview" width="700" />
@@ -862,7 +1660,7 @@ REALISM NOTES: Authentic body language, natural blinking, genuine soft smiles, o
 
 ---
 
-## 19. Product Commercial Study 045019
+## 37. Product Commercial Study 045019
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-045019/video-1bb9660e033b1d1e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-045019/poster-673121318af97464.jpg" alt="Product Commercial Study 045019 video preview" width="700" />
@@ -885,7 +1683,7 @@ Ultra-realistic, authentic creator content, premium grocery aesthetic, natural b
 
 ---
 
-## 20. Product Commercial Study 615320
+## 38. Product Commercial Study 615320
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/every-destination-becomes-magical-when-you-slow-615320/video-ff045b2e6de0781e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/every-destination-becomes-magical-when-you-slow-615320/poster-bbee39a540fd97cc.jpg" alt="Product Commercial Study 615320 video preview" width="700" />
@@ -906,7 +1704,7 @@ A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year
 
 ---
 
-## 21. text to video 3D animation
+## 39. text to video 3D animation
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/text-to-video-3d-animation-246455/video-3f72f756e9da433f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/text-to-video-3d-animation-246455/poster-b1acb225c8c7db01.jpg" alt="text to video 3D animation video preview" width="700" />
@@ -927,7 +1725,7 @@ A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year
 
 ---
 
-## 22. i just figured out the best way to use
+## 40. i just figured out the best way to use
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-just-figured-out-the-best-way-to-use-487592/video-3afa69046712d6c1.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-just-figured-out-the-best-way-to-use-487592/poster-68977d86d82e5097.jpg" alt="i just figured out the best way to use video preview" width="700" />
@@ -976,7 +1774,7 @@ RT + reply "SEEDANCE" and i'll send it over (must follow so i can dm)
 
 ---
 
-## 23. Tokyo Fisheye Streetwear Fashion Film
+## 41. Tokyo Fisheye Streetwear Fashion Film
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/tokyo-fisheye-streetwear-fashion-film-562052/video-ac0b004df3b00171.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/tokyo-fisheye-streetwear-fashion-film-562052/poster-a8d15527be0ab0a4.jpg" alt="Tokyo Fisheye Streetwear Fashion Film video preview" width="700" />
@@ -997,7 +1795,7 @@ Cinematic 13-second raw handheld streetwear fashion video shot on 8mm vintage fi
 
 ---
 
-## 24. Product Commercial Study 981913
+## 42. Product Commercial Study 981913
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/camera-look-handheld-mini-dv-camcorder-footage-f-981913/video-acad16faf28aa298.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/camera-look-handheld-mini-dv-camcorder-footage-f-981913/poster-5d3ad64096c9f707.jpg" alt="Product Commercial Study 981913 video preview" width="700" />
@@ -1034,7 +1832,7 @@ REALISM NOTES: Authentic body language, natural blinking, genuine cheerful smile
 
 ---
 
-## 25. Italian Coast Wakeboarding Splash
+## 43. Italian Coast Wakeboarding Splash
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/italian-coast-wakeboarding-splash-433442/video-dcbf8625a8d83951.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/italian-coast-wakeboarding-splash-433442/poster-1559afd05ea7f394.jpg" alt="Italian Coast Wakeboarding Splash video preview" width="700" />
@@ -1059,7 +1857,7 @@ A fun, fast-paced action scene.
 
 ---
 
-## 26. Cartoon Bulldog Versus Live Boxer
+## 44. Cartoon Bulldog Versus Live Boxer
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/cartoon-bulldog-versus-live-boxer-029228/video-ca3142256c322af3.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/cartoon-bulldog-versus-live-boxer-029228/poster-7adccc2afffcde48.jpg" alt="Cartoon Bulldog Versus Live Boxer video preview" width="700" />
@@ -1130,7 +1928,7 @@ Final slightly high-angle wide shot. The referee brings the bulldog to the cente
 
 ---
 
-## 27. Protein Shake UGC Ad
+## 45. Protein Shake UGC Ad
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/protein-shake-ugc-ad/video-90e9dabd8ffdfc9c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/protein-shake-ugc-ad/poster-03b884cc1da9837f.jpg" alt="Protein Shake UGC Ad video preview" width="700" />
@@ -1199,7 +1997,7 @@ REFS: @image1 = 主角色参考（角色一致性：面部、发型、体型、�
 
 ---
 
-## 28. Japanese Mobile Carrier Family Ad
+## 46. Japanese Mobile Carrier Family Ad
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-mobile-carrier-family-ad/video-c1725dc88a062536.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-mobile-carrier-family-ad/poster-24351c93f01c292b.jpg" alt="Japanese Mobile Carrier Family Ad video preview" width="700" />
@@ -1317,7 +2115,7 @@ jitter, flicker.
 
 ---
 
-## 29. Fictional Stadium Sports Commercial
+## 47. Fictional Stadium Sports Commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/fictional-stadium-sports-commercial/video-cb329d9a303614d8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/fictional-stadium-sports-commercial/poster-fb5ec1a394367b37.jpg" alt="Fictional Stadium Sports Commercial video preview" width="700" />
@@ -1338,7 +2136,7 @@ Duration: 15s | Aspect ratio: 16:9 | 24fps Text-to-video. No reference images. F
 
 ---
 
-## 30. Nine-Language Flower Relay
+## 48. Nine-Language Flower Relay
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/nine-language-flower-relay/video-d33c80c74741c58e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/nine-language-flower-relay/poster-195c3d4a31dc98fe.jpg" alt="Nine-Language Flower Relay video preview" width="700" />
@@ -1359,7 +2157,7 @@ Duration: 15s | Aspect ratio: 16:9 | 24fps Text-to-video. No reference images. F
 
 ---
 
-## 31. Aquatic Brand Concept Journey
+## 49. Aquatic Brand Concept Journey
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/aquatic-brand-concept-journey/video-2be6b0e0afb0a2e4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/aquatic-brand-concept-journey/poster-1d927ab2c8760355.jpg" alt="Aquatic Brand Concept Journey video preview" width="700" />

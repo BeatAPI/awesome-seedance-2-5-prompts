@@ -1,0 +1,43 @@
+{
+  "slug": "seedance-2-5-in-696981",
+  "title": {
+    "en": "Seedance 2.5 in",
+    "zh": "Seedance 2.5 in"
+  },
+  "description": {
+    "en": "30-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@airina_xyz",
+    "url": "https://x.com/airina_xyz/status/2086865899206696981"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/airina_xyz/status/2086865899206696981"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/airina_xyz/status/2086865899206696981"
+  ],
+  "prompt": "Global Parameters:\nCharacter: Young woman, dark hair with white headband, white acrobatic bodysuit with a trailing sheer skirt/cape.\nCamera Style: Continuous, fast-paced 3rd-person tracking shots (mostly trailing from behind). Seamless match-cut transitions between environments.\nColor Palette: High-contrast fantasy hues, leaning heavily into pastel pinks, purples, and warm sunset golds.\nAudio: Fast-paced, whimsical orchestral score (Alice in Wonderland style). Heavy use of wind swooshes, light magical chimes, and rapid footsteps.\nTimestamped Sequence Breakdown\n00:00 - 00:04 | The Palace & Spires\nAction: Close-up of character's face with elaborate makeup and jeweled nails. She turns and sprints through a gilded, chandelier-lit palace room. She leaps through stained-glass doors.\nTransition: Match cut mid-leap to her jumping between two massive gothic cathedral spires adorned with giant pink bows.\nLighting: Warm, hazy sunset.\n00:04 - 00:08 | Cathedral Descent\nAction: Trailing tracking shot. Character sprints rapidly down the steep, dark slate roof of the cathedral and leaps into the abyss.\nAudio: Loud wind rushing sound.\n00:08 - 00:13 | The Victorian Carnival\nAction: Character lands seamlessly in a pastel, 18th-century street fair. She parkours over a moving horse-drawn carriage and weaves through a crowd of people in period dress and animal-headed characters (white rabbits).\nCamera: Low-angle tracking shot, highly kinetic.\n00:13 - 00:16 | The Watch Garden\nAction: Character leaps through an archway framed by giant pocket watches draped in pink ribbons. She sprints through a dense, vibrant field of pink and yellow tulips.\nCamera: Camera pushes aggressively through the flower petals, staying close behind her.\n00:16 - 00:20 | The Water Dungeon\nAction: Seamless transition into a dark, stone aquatic dungeon. She runs along a massive metal pipe and leaps onto a swinging, boat-like chandelier structure.\nLighting: Dark, cool teal shadows with warm lantern highlights.\n00:20 - 00:24 | The Cloud Walkway\nAction: She vaults out of a dark window, landing on a stone bridge high in the clouds. She sprints past giant, surreal rabbit/clockwork guards and leaps toward a massive clock tower decorated with a pink bow.\nCamera: Tracking forward, floating above the clouds.\n00:24 - 00:30 | The Fantasy Kingdom\nAction: She parkours up the edge of the clock tower's blue roof.\nCamera: Dramatic, rapid pull-back to a sweeping wide aerial shot.\nEnvironment: A magical kingdom at sunset with a winding river, pastel-colored Victorian buildings, hot air balloons, airships, and a central glowing castle.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-in-696981/video-68b16c85fb3d6311.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-in-696981/poster-069c755a6a429806.jpg",
+    "format": "video/webm",
+    "videoBytes": 2758590,
+    "videoSha256": "68b16c85fb3d631170a87f8f633d6f16602853f34dc3bf7df61bd70431dcc764",
+    "thumbnailBytes": 53838,
+    "thumbnailSha256": "069c755a6a42980636aa9b475f10999706de382f0e0c7a842c5cfafa9bc0186c"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

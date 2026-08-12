@@ -1,0 +1,44 @@
+{
+  "slug": "57-60-962471",
+  "title": {
+    "en": "57-60秒：中宗察覺兩人異樣，忍不住大笑出聲，畫面在溫馨笑聲中緩慢淡出。",
+    "zh": "57-60秒：中宗察覺兩人異樣，忍不住大笑出聲，畫面在溫馨笑聲中緩慢淡出。"
+  },
+  "description": {
+    "en": "59-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "59 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "59s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@drjoetw",
+    "url": "https://x.com/drjoetw/status/2085949088818962471"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/drjoetw/status/2085949088818962471"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/drjoetw/status/2085949088818962471"
+  ],
+  "prompt": "60秒垂直短劇，9:16，韓國古裝劇（Sageuk）風格（帶輕喜劇元素），說中文。\n\n場景：朝鮮中宗時期（16世紀），宮中御膳房與中宗寢殿，木造結構、紙窗、傳統灶台與陶器。\n\n角色設定：\n徐長今（Seo Jang-geum）<<<Image4>>> ：25歲，醫女兼御廚天才。臉孔甜美卻帶妖豔魅力——杏眼含情、櫻桃小嘴、鼻樑秀挺，笑容時甜美純淨，側臉或低頭時又透著誘人風情，皮膚白皙如玉。黑長直髮以粉色布條鬆鬆束起，幾縷細碎髮絲自然垂落臉側與頸間。穿典型朝鮮時代淡粉色韓服（Chima-jeogori），上衣短小貼身，突出腰身曲線，裙擺寬大素雅；袖口微微捲起。個性聰慧堅強、善良細心、廚藝精湛但面對感情時會害羞。\n\n中宗（King Jungjong）\n<<<Image2>>> ：45歲，朝鮮第11代國王。臉容清瘦憔悴（因重病），蓄著整齊短鬍，眉宇間帶帝王威嚴與疲憊，眼神銳利。黑髮束起戴翼善冠，穿黃色龍袍（病中稍顯寬鬆）。個性嚴苛但內心孤獨。\n\n閔政浩（Min Jeong-ho）\n<<<Image3>>> ：28歲，宮中武官/長今的愛慕者。斯文小白臉憂鬱帥哥類型——五官精緻柔和，劍眉細長、丹鳳眼帶有淡淡憂鬱，鼻樑高挺，嘴唇薄而優雅，皮膚白皙，氣質溫潤如玉卻隱藏堅毅。黑髮以冠帽整齊束起，穿深藍色官服（官員常服），腰配長劍。個性忠義勇敢、溫柔深情，對長今有強烈保護欲。\n\n拍攝風格：典型韓國古裝劇質感，使用Arri Alexa與Cooke S4鏡頭拍攝，暖黃懷舊色調（大量暖光與木質紋理），輕微膠片顆粒，強調紙窗透光與燭火氛圍，後半段加入輕喜劇效果。\n\n分鏡腳本：\n0-3s：中宗臥床，臉色疲憊，咳嗽一聲然後嚴厲地說中文：「長今，限你一小時做出年糕，否則關入大牢！」\n3-6s：徐長今跪地領命，表情堅定卻帶緊張，快速起身奔向御膳房。\n6-9s：徐長今在灶台前忙碌，快速料理蒙太奇：切年糕、炒辣醬、燉高湯，動作熟練快速，裙襬隨動作輕晃。\n9-12s：徐長今試味道，微微出汗，甜美妖豔的臉龐帶著專注，碎髮貼在臉側。\n12-15s：時間緊迫，徐長今加快翻炒，辣炒年糕色澤紅亮香氣四溢。\n15-18s：閔政浩因擔心快步跑進御膳房，焦急尋找徐長今。\n18-21s：他從拿著長木筷正在攪拌辣炒年糕的徐長今身後輕輕抱住她，低聲：「長今，別怕，我陪妳。」\n21-24s：徐長今受驚，舉起沾了紅色辣醬的長木筷想反擊，轉身時被政浩壁咚壓在紙窗邊。\n24-27s：紙窗透光映照兩人身影，政浩憂鬱深情的丹鳳眼注視徐長今。\n27-30s：政浩低頭曖昧親吻徐長今，徐長今先驚訝，隨後慢慢閉眼。\n\n30-33s：在紙窗邊，兩人深情擁吻，政浩一手扶她腰，背景鍋中辣炒年糕繼續冒熱氣。\n33-36s：長今輕推政浩，喘息說中文道：「大人……現在不是時候……」\n36-39s：政浩微笑幫她整理碎髮，長今迅速完成擺盤。\n39-42s：長今端著辣炒年糕與政浩快步前往中宗寢殿。\n42-45s：中宗用筷子夾起辣炒年糕試吃一口後，突然露出滿意表情，身體輪廓微微發亮，頭旁邊飄出各種可愛emojis，搭配「WOW～」搞笑音效。\n45-48秒：長今與政浩低頭謙卑並肩站立聽訓，中宗說中文誇獎道：「果然好吃！朕決定赦免你今日之罪。」\n48-51秒：中宗繼續說：「長今，妳果然是宮中第一奇女子。」\n51-54秒：身後，政浩偷偷抓住長今一隻手緊握，長今突然害羞低頭微笑，甜美妖豔的臉頰微紅。\n54-57秒：周邊皇宮老臣們看到這一幕，也竊竊私語、掩嘴偷笑。\n57-60秒：中宗察覺兩人異樣，忍不住大笑出聲，畫面在溫馨笑聲中緩慢淡出。",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/57-60-962471/video-c1b889455b4bdb3e.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/57-60-962471/poster-1f7545dd22dd6a7c.jpg",
+    "format": "video/webm",
+    "videoBytes": 5416659,
+    "videoSha256": "c1b889455b4bdb3e2fb5d5e57352a66514724a47571acaa45d40cf6b677c572a",
+    "thumbnailBytes": 95900,
+    "thumbnailSha256": "1f7545dd22dd6a7c2660c4143d6e80a279e7a427a09ba466b88a3ada70a00c7c"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

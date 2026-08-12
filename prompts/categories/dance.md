@@ -13,8 +13,6 @@
 
 ~~~~text
 Every movement is precisely synchronized to the beat. The dancer alternates between quick hip pulses, controlled hip drops, figure-eight hip rolls, and rapid side-to-side shakes. Motion remains smooth, physically accurate, and continuous with realistic muscle dynamics and balanced body mechanics. Professional dance performance, energetic, expressive, high-quality motion capture style.
-
-I'm planning to run more experiments with different choreography styles and prompts. Curious to see how it compares with other video models using the same prompt.
 ~~~~
 
 </details>

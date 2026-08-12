@@ -1,0 +1,43 @@
+{
+  "slug": "minimax-h3-on-vs-seedance-2-5-967648",
+  "title": {
+    "en": "MiniMax H3 on vs. Seedance 2.5",
+    "zh": "MiniMax H3 on vs. Seedance 2.5"
+  },
+  "description": {
+    "en": "15-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ZabihullahAtal",
+    "url": "https://x.com/ZabihullahAtal/status/2085574700927967648"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/ZabihullahAtal/status/2085574713263440134"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/ZabihullahAtal/status/2085574700927967648"
+  ],
+  "prompt": "A black off-road SUV speeds through a rugged mountain valley during a heavy rainstorm. The narrow muddy road runs alongside a fast-flowing river, surrounded by towering cliffs, wet rocks, and dense pine forests. Rain pours relentlessly as puddles splash beneath the tires. The driver appears anxious and is driving much faster than the dangerous road allows.\n\nThe camera follows the SUV from multiple cinematic angles—low tracking shots beside the wheels, aerial drone views of the winding valley, and interior shots showing the driver's tense expression gripping the steering wheel.\n\nAs the SUV races around a sharp bend, its front right tire violently strikes a large hidden rock protruding from the muddy road. The impact throws the vehicle off balance. The suspension compresses, the SUV bounces into the air, skids sideways uncontrollably, and rolls multiple times down the steep embankment toward the river.\n\nThe vehicle crashes into the river with an enormous splash, sending water high into the air. It quickly begins sinking beneath the turbulent water as bubbles rush upward. Inside, water rapidly floods the cabin. The driver struggles to stay calm, removes the seatbelt, and repeatedly kicks the driver's side window until the tempered glass shatters outward.\n\nThe driver squeezes through the broken window, escaping just before the SUV disappears beneath the surface. Holding their breath, they swim desperately through the cold rushing water toward the riverbank, fighting against the strong current. Finally, exhausted but alive, they pull themselves onto the muddy shore while the submerged SUV disappears into the depths behind them.\n\nStyle\n\nUltra-realistic cinematic disaster sequence, photorealistic vehicle physics, realistic suspension movement, natural rollover dynamics, detailed water simulation, heavy rain, turbulent river, expressive human acting, realistic underwater cinematography, dynamic camera movement, Hollywood action film, IMAX scale, AAA visual effects",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/minimax-h3-on-vs-seedance-2-5-967648/video-20454ab26e61c09b.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/minimax-h3-on-vs-seedance-2-5-967648/poster-09fd1f43fb520e05.jpg",
+    "format": "video/webm",
+    "videoBytes": 1571892,
+    "videoSha256": "20454ab26e61c09beebfe1174458932ac86230026c529c77099435b4abc31c06",
+    "thumbnailBytes": 68926,
+    "thumbnailSha256": "09fd1f43fb520e05418c1393b35661e37167ef396f28d4d0572072c168dcdd22"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

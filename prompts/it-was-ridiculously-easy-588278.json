@@ -1,0 +1,44 @@
+{
+  "slug": "it-was-ridiculously-easy-588278",
+  "title": {
+    "en": "It was ridiculously easy.",
+    "zh": "It was ridiculously easy."
+  },
+  "description": {
+    "en": "56-second vlog prompt paired with a source-verified creator example and its output video.",
+    "zh": "56 秒vlog提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "vlog",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "56s",
+  "aspectRatio": "1:1",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@minchoi",
+    "url": "https://x.com/minchoi/status/2086660657269588278"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/minchoi/status/2086660662755774710"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/minchoi/status/2086660657269588278"
+  ],
+  "prompt": "[STYLE]\nPhotoreal vertical phone video, smartphone front camera. Bright hazy overcast\ndaylight, no hard shadows, no sun. Natural colour, mild sensor noise. Handheld,\nunstable. Not cinematic.\n\n[REFERENCES]\n@ Image1 is a reference sheet showing ONE woman in three views, all the same person.\nIt defines her face, hair, makeup and clothing ONLY. Do not inherit its grey\nbackground, neutral pose, lighting or side-by-side layout. Output exactly one woman\nin a single continuous scene — never two or three women, no collage or sheet layout.\n\nPriority: identity and wardrobe from @ Image1; everything else from this prompt.\n\n[FORMAT]\nFive six-second shots joined by four hard cuts at 6s, 12s, 18s and 24s.\nEvery shot is a selfie-framed vertical medium close-up at arm's length, low angle,\nface filling the upper frame, right forearm at the lower edge.\nIn every shot she talks into the lens, relaxed and unhurried, while one hazard\ncloses on her from behind.\nHer line runs continuously through all six seconds and is still mid-sentence at the\nfinal frame. No pause or trailing silence before a cut. Each line continues the\nprevious sentence and never repeats a word already spoken.\nEvery hazard accelerates the whole way and is STILL CLOSING at the final frame,\na clear gap remaining. None brakes, slows, stops or arrives.\n\n[SHOT 1 — 0-6s]\nAn empty two-lane city street. A city bus appears in the far background at 1s and\ndrives head-on at her, growing larger until it fills the frame.\n<Street ambience, a diesel engine building to very loud.>\nNatural American English, casual, mid-thought: {Ok this is wild. So Seedance 2.5\njust dropped in Lovart and I genuinely cannot stop making—}\nCut at exactly 6s.\n\n[SHOT 2 — 6-12s]\nA long flight of stone steps behind her. A heavy metal cart breaks loose at the\ntop at 7s and bounces down at her, gaining speed and growing larger until right\nbehind her.\n<Metal crashing on stone, faster and closer with each bounce.>\nContinuing without pause: {—these. I did this whole recursive near-miss\ncliffhanger loop in one single go, from one prompt, like—}\nCut at exactly 12s.\n\n[SHOT 3 — 12-18s]\nAn open car park. A car behind her reverses straight at her from 13s, accelerating\nthe whole time, reversing lights on, never braking or slowing, no brake lights,\ngrowing larger until it fills the frame.\n<A revving engine, tyres scraping tarmac.>\nContinuing without pause: {—no editing, no stitching, no keyframes, no timeline,\nnothing at all, I just wrote it out and—}\nCut at exactly 18s.\n\n[SHOT 4 — 18-24s]\nShe stands on tram tracks in a wide street. A tram appears far down those tracks\nbehind her at 19s and runs head-on at her, growing larger until it fills the frame.\n<Steel wheels on rail building, a bell, a horn.>\nContinuing without pause: {—it just worked. Like, first try. It was ridiculously\neasy, honestly kind of embarrassingly easy, so—}\nCut at exactly 24s.\n\n[SHOT 5 — 24-30s]\nThe same street and framing as Shot 1. A low bright red sports car appears in the\nfar background at 25s and accelerates head-on at her, growing larger until it\nfills the frame. A small low sports car — not a bus or tram.\n<An engine screaming toward redline, tyres on tarmac.>\nFinishing: {—the full prompt is right there in the comments. Go and try it yourself.\nOkay, bye.}\nFinal state at 30s: still talking mid-sentence, the sports car immediately behind\nher, still closing, not touching her.\n\n[CONTINUITY]\nHer face, hair, makeup, cream ribbed long-sleeve top, light-wash jeans, white\nsneakers, gold hoops and gold chain are identical in all five shots. Hair loose,\ncentre-parted, past the shoulders.\nPosture, framing and camera angle are identical across all shots.\nLight never brightens, gains shadow direction or shifts time of day.\nHer voice runs unbroken across every cut over continuous city ambience.\nOne hazard per shot, and every shot uses a different vehicle.\n\n[PROHIBITED]\nNo impact, collision, contact, injury or debris. Nothing touches her.\nNo hazard overlaps, intersects, passes through her or reaches her before the cut.\nNo hazard brakes, slows, stops or swerves. No brake lights.\nNo hazard passes beside her or off to one side — each closes from behind until the cut.\nShe never reacts, turns, looks behind her, flinches or pauses.\nNo second person or bystander. No identity, wardrobe or hairstyle change.\nNo cuts beyond the four specified. No fades, dissolves or reframing.\nNo subtitles, captions, on-screen text or logos. No slow motion or colour grading.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/it-was-ridiculously-easy-588278/video-9edda12af0aaa813.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/it-was-ridiculously-easy-588278/poster-3dbf6303a93a5170.jpg",
+    "format": "video/webm",
+    "videoBytes": 1870263,
+    "videoSha256": "9edda12af0aaa8130c3c16ccc4489a167fed3b2218933a99dd9dfd155fb24f2e",
+    "thumbnailBytes": 41513,
+    "thumbnailSha256": "3dbf6303a93a51706ad08c93eb5437f839f88d9042116ee9b99ff456d725b87d"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

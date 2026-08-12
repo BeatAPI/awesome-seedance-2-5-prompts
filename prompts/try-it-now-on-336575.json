@@ -1,0 +1,43 @@
+{
+  "slug": "try-it-now-on-336575",
+  "title": {
+    "en": "Try it now on",
+    "zh": "Try it now on"
+  },
+  "description": {
+    "en": "30-second animation prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒animation提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "animation",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@apiframe",
+    "url": "https://x.com/apiframe/status/2087194284806336575"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/apiframe/status/2087194288899899413"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/apiframe/status/2087194284806336575"
+  ],
+  "prompt": "Create a breathtaking 30-second continuous animated sequence centered around an artist painting on a blank canvas. The painting gradually comes alive, transforming from a simple artwork into an entire living world.\n\n0–5s\nA young artist sits in a quiet sunlit studio, painting a landscape on a large blank canvas. Close-up of the brush touching the surface. Rich paint spreads naturally across the canvas, forming blue skies, mountains, trees, and a flowing river.\n\n5–10s\nThe camera moves closer to the painted landscape. The brushstroke suddenly becomes a real flowing river. The painted clouds begin moving, trees sway in the wind, and birds emerge from the canvas and fly into the air. The camera slowly travels INTO the painting.\n\n10–15s\nInside the painted world, the environment transforms continuously through different artistic styles: delicate watercolor, expressive ink illustration, colorful anime artwork, and textured oil painting. Mountains shift into forests, flowers bloom, and sunlight moves across the landscape.\n\n15–20s\nThe camera flies through the living painting as the world becomes increasingly magical. A river turns into a glowing stream, trees grow enormous, floating islands appear above the clouds, and thousands of luminous particles fill the air.\n\n20–25s\nThe entire landscape begins transforming again. The magical world folds back into brushstrokes and colorful paint. The camera follows the movement backward through the landscape until the original canvas comes back into view.\n\n25–30s\nThe artist adds one final brushstroke. The painting is now completely alive, with subtle movement inside the canvas: flowing water, drifting clouds, swaying trees, and tiny birds flying across the painted sky.\n\nThe camera slowly pulls backward, revealing the artist sitting peacefully in the studio, looking at the finished masterpiece.\n\nVISUAL STYLE:\nBeautiful cinematic animation combining hand-painted artwork, watercolor, oil painting, ink illustration, stylized anime art, and subtle 3D depth. Rich painterly textures, expressive brushwork, warm natural lighting, atmospheric perspective, delicate particles, smooth camera movement, elegant transitions, and breathtaking visual composition.\n\nThe transformation from painting to reality should feel seamless and magical. Maintain visual continuity between the artist, brush, canvas, and painted world throughout the sequence.\n\nNo text, no subtitles, no logos, no watermark.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/try-it-now-on-336575/video-784f0d1bf377b35f.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/try-it-now-on-336575/poster-4e7b3b12e3e12178.jpg",
+    "format": "video/webm",
+    "videoBytes": 2343598,
+    "videoSha256": "784f0d1bf377b35fc5fda91c34c7a49b859110c142e225232e743928a3dcd9eb",
+    "thumbnailBytes": 65614,
+    "thumbnailSha256": "4e7b3b12e3e1217845c4b0a630b9aa442a982f6178de0b611bcfdfa224acc289"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

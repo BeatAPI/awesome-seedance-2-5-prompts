@@ -1,0 +1,43 @@
+{
+  "slug": "ultra-realistic-spontaneous-vertical-handheld-footage-recorded-during-fi-459303",
+  "title": {
+    "en": "Ultra-realistic spontaneous vertical handheld footage recorded during fighting in",
+    "zh": "Ultra-realistic spontaneous vertical handheld footage recorded during fighting in"
+  },
+  "description": {
+    "en": "15-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@_STARPAR",
+    "url": "https://x.com/_STARPAR/status/2087131232945459303"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/_STARPAR/status/2087131350583124433"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/_STARPAR/status/2087131232945459303"
+  ],
+  "prompt": "Ultra-realistic spontaneous vertical handheld footage recorded during fighting in the Warsaw Uprising, Warsaw, Poland, August 1944.\n\nFORMAT: Native vertical recording, 3:4 aspect ratio, entire clip in portrait orientation. Never switch to landscape. The person filming is one of the group, moving with them on foot, filming with one hand while trying to keep up. His own arm and shoulder occasionally enter the frame.\n\nMAIN SUBJECT\n\nA young Polish insurgent in his early twenties, filmed from a few steps away. White-and-red armband on his sleeve, a captured field jacket over a civilian shirt, canvas bag on a strap, filthy face streaked with brick dust, hair matted with sweat. His face, build and clothing stay exactly consistent from first frame to last. No identity drift, no costume changes.\n\n0–3 seconds\n\nThe camera is already rolling, low behind a barricade of paving stones, sandbags and a tram rail. The main insurgent is crouched a few steps away, shouting something back down the line. He rises, fires a short burst over the barricade, drops again immediately. The camera flinches down with him as return fire cracks overhead and brick chips spray off the top of the barricade. Framing is bad, half his body out of frame.\n\n3–6 seconds\n\nSomeone shouts. The group breaks from cover and runs bent double across the rubble-choked street. The camera runs after them, violently unstable, horizon tilting, subject repeatedly leaving frame. Dust and smoke drift across the lens. Impacts kick up dirt near their boots. The main insurgent slams into the wall of a gutted tenement and the camera arrives a second later, jolting hard.\n\n6–9 seconds\n\nPressed against the wall beside a blown-out doorway. The camera is too close for a moment, then pulls back. The insurgent pulls a grenade from his belt, works the fuse and throws it through the window above. Everyone drops. The camera points at the ground — boots, broken glass, scattered paper. A dull blast, the frame shudders, dust rains down across the lens.\n\n9–12 seconds\n\nThey go in through the doorway. The camera follows into near-total darkness and the exposure hunts wildly for a second before recovering. Muzzle flash lights torn wallpaper and a collapsed staircase in stutters. The main insurgent moves ahead down the corridor, briefly lost in the dark, then found again. Another fighter shoves past the lens. Shouting, overlapping and indistinct.\n\n12–15 seconds\n\nUp broken stairs. A window blows daylight into the frame and everything blooms white before settling. The insurgent crouches at the opening and fires out toward the smoke-filled street. Someone grabs his sleeve and drags him back from the window. The camera swings wildly, catching the burning skyline and black smoke over the rooftops, before the recording cuts out mid-motion.\n\nCAMERA REALISM\n\nReal recorded video from a small handheld camera carried by someone running for his life. Not rendered, not a game engine, not gameplay, not CGI. Physical camera, real optics, dust and fingerprints smeared on the lens.\n\nExtreme instability tied to running and breathing. Imperfect framing, subject constantly half out of frame or briefly lost. Sudden whip pans. Horizon rarely level. Aggressive automatic exposure hunting between bright smoky sky, dark interiors and muzzle flash. Heavy motion blur. Rolling shutter skew on fast pans. Compressed consumer codec with visible blocking in smoke and shadow, sensor noise in dark interiors, chromatic aberration at frame edges, smeared highlights. Autofocus visibly hunting and failing. Frame judder on every nearby impact. The camera never moves deliberately or cinematically.\n\nVISUAL STYLE\n\nDesaturated, dusty, high-contrast summer daylight filtered through smoke. Grey brick dust over everything. Not graded, not stylized, not heroic. Documentary rawness.\n\nENVIRONMENT\n\nCentral Warsaw, August 1944. Bombed-out tenements with exposed rooms and hanging floors, facades pocked with impact scars, courtyards buried in rubble, barricades of paving stones, sandbags, tram rails and overturned furniture, the anchor symbol of Polska Walcząca painted on a wall, torn tram wires, scattered paper and broken glass, smoke columns over the rooftops, summer weeds pushing through rubble.\n\nPeople: young insurgents in mismatched uniforms and civilian clothes, white-and-red armbands, a courier girl running low along a wall, a nurse with a Red Cross armband in a doorway. Everyone exhausted, filthy, ordinary. Nobody heroic-looking, nobody posed.\n\nHUMAN REALISM\n\nEvery person has a unique face, hairstyle, clothing and movement. Natural exhausted expressions, natural flinching, natural clumsy movement under stress. No dramatic acting, no heroic posture, no clean faces or uniforms. Nobody looks into the lens except by accident.\n\nAUDIO\n\nPoor built-in microphone: overloaded, clipping on every gunshot, muffled, uneven.\n\nThe operator's own heavy breathing close to the mic throughout. Footsteps on rubble and glass, gear rattling.\n\nSpoken Polish, short and simple only: \"Kryj się!\" as fire comes in; \"Naprzód!\" before the run; \"Granat!\" before the throw; \"Tędy!\" inside the building; \"Wracaj!\" as he is dragged from the window. All single words, shouted, half-swallowed by gunfire. No sentences, no conversation. Speakers are mostly off-frame, turned away or at distance, so no clear lip-sync is required.\n\nAmbience: rifle and submachine gun fire near and far, ricochets, grenade blast and pressure thump, falling masonry, crackling fire, distant explosions, aircraft high above, shouting, wind through empty buildings. No music, no soundtrack, no cinematic sound design.\n\nSTRICT RESTRICTIONS\n\nNo video game, no gameplay footage, no first-person shooter, no game engine render, no CGI, no 3D render, no HUD, no crosshair, no weapon held in the lower frame, no clean rendered surfaces, no film set look, no reenactment.\n\nNo visible blood, wounds, bodies or graphic injury. No close-up violence. No enemy faces in frame — opposing fire comes from unseen positions in the smoke. No modern weapons, clothing, vehicles, signage, wires, plastic or modern architecture. No text, subtitles, logos or watermarks. No landscape orientation. No color grading, no beauty filter, no slow motion, no stabilization, no drone shots, no heroic framing. No duplicated people, cloned faces, plastic skin or AI-looking crowd behavior. No music.\n\nFINAL FEEL\n\nFifteen seconds of raw, badly-framed video that should not exist — someone running with a camera through a city being destroyed, filming his friends because he cannot do anything else. Not a war film, not a game, not a reenactment.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/ultra-realistic-spontaneous-vertical-handheld-footage-recorded-during-fi-459303/video-a27e0cd7fcf6cfe7.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/ultra-realistic-spontaneous-vertical-handheld-footage-recorded-during-fi-459303/poster-ec0d9e0fd30adaa5.jpg",
+    "format": "video/webm",
+    "videoBytes": 1226968,
+    "videoSha256": "a27e0cd7fcf6cfe74a97db02d19f5454a0ced15c95dfda2943c67bccd6b335c6",
+    "thumbnailBytes": 68530,
+    "thumbnailSha256": "ec0d9e0fd30adaa53e2208ef56b9d354998f7527ffa6aef713f7955b527135f8"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

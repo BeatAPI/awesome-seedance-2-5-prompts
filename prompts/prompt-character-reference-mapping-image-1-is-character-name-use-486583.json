@@ -1,0 +1,44 @@
+{
+  "slug": "prompt-character-reference-mapping-image-1-is-character-name-use-486583",
+  "title": {
+    "en": "PROMPT [Character Reference Mapping] @ Image 1 is [Character Name], use @ Audio 1",
+    "zh": "PROMPT [Character Reference Mapping] @ Image 1 is [Character Name], use @ Audio 1"
+  },
+  "description": {
+    "en": "30-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "30s",
+  "aspectRatio": "62:27",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ObsceneSelene",
+    "url": "https://x.com/ObsceneSelene/status/2087215968720486583"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/ObsceneSelene/status/2087216052887490845"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/ObsceneSelene/status/2087215968720486583"
+  ],
+  "prompt": "PROMPT\n\n[Character Reference Mapping] @ Image 1 is [Character Name], use @ Audio 1 for [her/his] voice and [Accent Name] accent, [she/he] is [Height].\n\n[The Scene Title] Script Prompt\n\nGlobal Style: A dark, oppressive, and deeply unsettling cinematic environment reminiscent of the G-Man encounters in Half-Life 2. The lighting is harsh and low-key, with strong chiaroscuro casting deep shadows across the character's face. The lens is a vintage anamorphic 35mm, creating a subtle distortion at the frame edges and an uncomfortable, intense proximity. The color grade is cold, desaturated, and heavy on sickly greens and sterile blues. A dense, flickering projected overlay washes over the character's face and the immediate background, displaying rapid, ghostly montages directly related to [INSERT TOPIC HERE OR IT WILL JUST BE A RANDOM DARK TOPIC]. The background is a pitch-black, non-descript void. The audio loop is a low, vibrating industrial drone, punctuated by the character's erratic, heavy breathing and occasional, deeply disturbing evil chuckles that vibrate directly into the viewer's chest.\n\n[00:00 - 00:04] Shot 1: Tight close-up framing the character's face on the center-right third of the screen. The camera is dead still, forcing an intense, unblinking eye contact with the viewer. A flickering, high-contrast overlay of [INSERT VISUAL THEME RELATED TO TOPIC] projects across their skin and the surrounding environment. The character takes a slow, shuddering, unnaturally heavy breath, their chest rising rigidly. With a piercing, erratic [Accent Name] accent, they deliver the opening line: \"[Insert dialogue fragment 1 related to topic].\"\n\n[00:04 - 00:08] Shot 2: The camera slowly creeps in closer, shifting slightly to the left third, amplifying the suffocating claustrophobia. The projected overlay intensifies, blurring the line between the character's face and the shifting images of [INSERT VISUAL THEME RELATED TO TOPIC]. The character's expression shifts into a sinister, knowing smirk before they let out a quiet, menacing, and deeply evil chuckle that rattles the microphone. In a low, gravelly whisper, they state: \"[Insert dialogue fragment 2 related to topic].\"\n\n[00:08 - 00:12] Shot 3: Extreme close-up framing the left third of the screen, focusing on her mouth and jawline. The camera vibrates with a micro-tremor effect. The sodium lighting dims significantly, plunging half her face into absolute, impenetrable darkness. The tracking is microscopic and jittery, mimicking a glitching reality. The projection of [INSERT VISUAL THEME RELATED TO TOPIC] strobes violently across their face, reflecting the chaotic imagery directly in the pupils. Their breathing becomes a slow, deliberate, rhythmic hiss. They speak with brutal, absolute certainty: \"[Insert dialogue fragment 3 related to topic].\"\n\n[00:12 - 00:16] Shot 4: Smooth camera pan tracking across to the center third as the lighting briefly shifts to a cold, sterile flickering blue backlight. The character tilts their head at an uncanny, unnatural angle, staring past the lens for a split second before snapping their gaze back to the camera. The projection speeds up into a chaotic strobe of [INSERT VISUAL THEME RELATED TO TOPIC]. In a cold, calculated tone, they murmur: \"[Insert dialogue fragment 4 related to topic].\"\n\n[00:16 - 00:20] Shot 5: A sudden slow-motion zoom pulling back into a medium close-up, framing the character dead center against the void. The projected overlay now bleeds off their silhouette, casting violent green shadows into the empty space behind them. The character leans forward, invading the camera's space, their eyes wide and unblinking. The ambient audio drone drops in pitch, vibrating with low frequency. They lean in and utter: \"[Insert dialogue fragment 5 related to topic].\"\n\n[00:20 - 00:24] Shot 6: High-angle tight shot tilted down on the right third of the frame. The harsh top lighting accentuates dark, sunken eye sockets as the flickering projection of [INSERT VISUAL THEME RELATED TO TOPIC] sweeps across their forehead like broken film reels. The character lets out another raspy, unsettling laugh that distorts slightly into static. With an unhinged grin, they whisper: \"[Insert dialogue fragment 6 related to topic].\"\n\n[00:24 - 00:27] Shot 7: An abrupt whip-pan snap to an extreme Macro shot focused entirely on one eye, locked into the left third of the frame. The reflection of [INSERT VISUAL THEME RELATED TO TOPIC] is crystal clear inside the pupil as the iris twitches violently. The ambient audio cuts out completely, leaving only raw, wet breathing. They deliver their final warning in a cracked, low pitch: \"[Insert dialogue fragment 7 related to topic].\"\n\n[00:27 - 00:30] Shot 8: A sudden, violent digital macro-jitter dynamic camera snap backward. A blinding blast of overexposed projector light washes out the character's features entirely, turning them into a silhouette trapped inside a chaotic swarm of flashing [INSERT VISUAL THEME RELATED TO TOPIC] imagery. The audio distorts into a crushing burst of static and a final, echoing, slowed-down chuckle before abruptly cutting to a pitch-black screen wash.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/prompt-character-reference-mapping-image-1-is-character-name-use-486583/video-c341386ca8714c24.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/prompt-character-reference-mapping-image-1-is-character-name-use-486583/poster-52d95fd11cad31d7.jpg",
+    "format": "video/webm",
+    "videoBytes": 1519066,
+    "videoSha256": "c341386ca8714c2406a077318522f56f1835fe2028d5b3328d0d9485d0f1ec0f",
+    "thumbnailBytes": 37145,
+    "thumbnailSha256": "52d95fd11cad31d7e764dea7840e6aa896b68c2b9351b5e7c946dc9585e90e10"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

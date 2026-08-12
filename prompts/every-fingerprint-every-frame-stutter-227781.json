@@ -1,0 +1,43 @@
+{
+  "slug": "every-fingerprint-every-frame-stutter-227781",
+  "title": {
+    "en": "Every fingerprint, every frame stutter",
+    "zh": "Every fingerprint, every frame stutter"
+  },
+  "description": {
+    "en": "19-second animation prompt paired with a source-verified creator example and its output video.",
+    "zh": "19 秒animation提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "animation",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "19s",
+  "aspectRatio": "4:5",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@magnific",
+    "url": "https://x.com/magnific/status/2086771389479227781"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/magnific/status/2086771401630101927"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/magnific/status/2086771389479227781"
+  ],
+  "prompt": "\"Handcrafted stop-motion claymation inspired by classic films: visible fingerprints, sculpted clay textures, hand-painted surfaces, miniature practical sets, subtle frame jitter. All characters are clay with exaggerated squash-and-stretch. Warm cinematic lighting, colorful sets, expressive faces, whimsical comedic timing.\n\nShot 1 – wide: a stout clay woman laughs on a grassy hill at sunset, holding an oversized homemade flamethrower. A huge friendly dragon sits in front, curious. Mini set: sculpted grass, painted mountains, cottony clouds.\nShot 2 – medium: she fires. Stylized clay flames (orange/yellow/red) flicker frame by frame as she cackles.\nShot 3 – dragon close-up: eyes closed, blissful grin, leaning into the heat; tiny clay smoke from its nostrils.\nShot 4 – woman close-up: cheeks wobble, goggles bounce, flamethrower rattles as flames dance.\nShot 5 – dragon reaction: it rolls and stretches like a sleepy cat, sighs happily, then smiles at her for more.\nShot 6 – quick cuts: flames, delighted dragon, her laughter, mechanical clay details, harmless clay embers.\nShot 7 – hero wide: she sweeps playful arcs upward; the dragon turns to warm different sides. Sunset glow, tiny clay birds overhead, landscape gently sways.\nFinal: the flamethrower puffs out. The dragon grins and blows a small heart-shaped puff of smoke. They share a satisfied laugh as the camera pulls back over the miniature scene.\n\nPremium practical stop-motion: tactile materials, shallow depth of field, no cgi, no text, no logos.\"",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/every-fingerprint-every-frame-stutter-227781/video-069063c71273733d.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/every-fingerprint-every-frame-stutter-227781/poster-95c0a3940cc64626.jpg",
+    "format": "video/webm",
+    "videoBytes": 1348783,
+    "videoSha256": "069063c71273733d849324c75e964f8d5c8597b3db03d7debfd53ef08a6330cb",
+    "thumbnailBytes": 57765,
+    "thumbnailSha256": "95c0a3940cc646262419b3b8423ec066d76d3ed77a1de6e4244c192e9e802613"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

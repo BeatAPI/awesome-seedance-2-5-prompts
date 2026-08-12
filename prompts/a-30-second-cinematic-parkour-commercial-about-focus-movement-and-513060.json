@@ -1,0 +1,43 @@
+{
+  "slug": "a-30-second-cinematic-parkour-commercial-about-focus-movement-and-513060",
+  "title": {
+    "en": "A 30-second cinematic parkour commercial about focus, movement, and pushing beyond the edge.",
+    "zh": "A 30-second cinematic parkour commercial about focus, movement, and pushing beyond the edge."
+  },
+  "description": {
+    "en": "30-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "4:3",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@CorpPuddin04",
+    "url": "https://x.com/CorpPuddin04/status/2085775928752513060"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/CorpPuddin04/status/2085776275722158323"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/CorpPuddin04/status/2085775928752513060"
+  ],
+  "prompt": "Prompt\nHighly cinematic 30-second wide-shot commercial video of a young nerdy parkour athlete with short messy black hair, thin rectangular eyeglasses, and slim athletic build, wearing an oversized black hoodie and cargo pants. He performs intense parkour on a massive brutalist concrete building complex under a dramatic overcast sky.\n\n0-3s: Epic wide establishing drone shot from high above, slowly descending. Character sprints from the left side of the frame across a wide concrete rooftop, glasses reflecting the sky.\n\n3-6s: Smooth side-tracking shot at medium height following him as he vaults over a thick geometric concrete barrier with a clean kong vault.\n\n6-10s: Dynamic low-angle tracking shot looking upward as he wall-runs up a tall vertical brutalist wall, then pushes off into a precision jump onto a narrow ledge. Dust kicks up dramatically.\n\n10-14s: Sweeping orbit camera circling around him while he runs along the edge, does a quick tic-tac off a concrete pillar, then launches into a big gap jump with a mid-air twist.\n\n14-18s: Handheld-style but smooth following shot from behind and slightly below as he lands, rolls to absorb impact, then sprints and climbs a raw unfinished concrete structure with powerful upper-body moves.\n\n18-22s: Elegant wide crane shot rising upward while he precision-jumps between three consecutive geometric ledges. Camera arcs gracefully with him.\n\n22-25s: Dramatic low-angle slow-motion shot looking up as he does a final big wall-run followed by a clean front flip over a deep gap, landing solidly on the highest platform.\n\n25-27s: Slow push-in medium shot. He stands tall in a powerful stance and pulls out a sleek black and neon-green XION energy drink bottle (with uppercut fist graphic) from his hoodie pocket.\n\n27-29s: Slight low-angle hero shot. He raises the bottle toward the camera with a confident half-smirk and adjusts his eyeglasses with his free hand.\n\n29-30s: Close-up beauty shot of the bottle with soft neon-green rim light as he takes a strong, satisfying drink. Text “XION – Fuel Your Edge” fades in elegantly over the frame.\n\nUltra-realistic, cinematic lighting, cool blue-gray color grade, volumetric light rays, subtle film grain, anamorphic lens flares, high production value, 24fps, wide aspect ratio, professional commercial film quality.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/a-30-second-cinematic-parkour-commercial-about-focus-movement-and-513060/video-ed330e25450df86c.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/a-30-second-cinematic-parkour-commercial-about-focus-movement-and-513060/poster-ea98cb346e2ed7bb.jpg",
+    "format": "video/webm",
+    "videoBytes": 3223869,
+    "videoSha256": "ed330e25450df86c9ed45167d8c678a808c97542104f1a46faa0c6c3e33b0421",
+    "thumbnailBytes": 74354,
+    "thumbnailSha256": "ea98cb346e2ed7bb5b9aaf8dd962de9d7be2cca5584237b5cd6708bcec24cae3"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

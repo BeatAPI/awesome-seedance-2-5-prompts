@@ -1,0 +1,43 @@
+{
+  "slug": "try-it-now-on-088591",
+  "title": {
+    "en": "Try it now on",
+    "zh": "Try it now on"
+  },
+  "description": {
+    "en": "33-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "33 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "33s",
+  "aspectRatio": "853:360",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@apiframe",
+    "url": "https://x.com/apiframe/status/2086840470702088591"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/apiframe/status/2086840475894546756"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/apiframe/status/2086840470702088591"
+  ],
+  "prompt": "Create a spectacular 30-second animated comic-book adventure with a playful superhero aesthetic, combining stylized 2D animation, 3D animation, hand-drawn illustrations, magical effects, comic-book panels, and surreal cartoon worlds.\n\nA young masked superhero swings through a colorful city at sunset.\n\n0–5s\nHe launches from a rooftop and swings between colorful skyscrapers. The world is playful and exaggerated: floating buildings, giant clouds shaped like animals, hand-drawn birds, colorful graffiti, comic-book halftone textures, dramatic perspective, thick expressive outlines.\n\n5–10s\nAs he swings through the city, his web suddenly transforms into a glowing magical ribbon. The ribbon pulls him through the air and tears open a giant comic-book page. He flies directly through the page into a completely different illustrated world.\n\n10–15s\nA magical cartoon forest appears. Giant mushrooms glow, floating islands drift through the sky, tiny luminous creatures fly around him, and enormous flowers open as he passes. He swings between glowing vines while colorful magical particles trail behind him.\n\n15–20s\nThe entire world suddenly transforms into a chaotic comic-book page. Multiple panels appear around the hero simultaneously, each showing a different version of the same action. Panels slide, rotate, overlap, and shatter into colorful pieces. The hero jumps between the panels as if moving through pages of a comic.\n\n20–25s\nThe fragments explode outward and reveal a spectacular futuristic city at night. Neon skyscrapers, holographic advertisements, glowing trains, flying cars, rain, reflections, and colorful comic-book effects. The hero swings rapidly between buildings while the camera follows from impossible angles.\n\n25–30s\nHe swings toward the camera and releases the web. Everything freezes for a split second like a comic-book splash page. Hundreds of colorful illustrated elements surround him: stars, lightning, speech-bubble shapes, ink splashes, halftone dots, magical symbols, floating objects, and comic panels.\n\nHe lands dramatically on a rooftop.\n\nThe camera rapidly pulls backward, revealing the entire surreal multiverse city behind him.\n\nEnd on an explosive burst of colorful comic-book energy.\n\nVISUAL STYLE:\nPlayful cinematic animation, modern comic-book aesthetic, stylized 2D and 3D animation, hand-drawn linework, vibrant colors, halftone textures, ink splashes, exaggerated perspective, graphic novel compositions, magical particles, surreal cartoon environments, dynamic action choreography, expressive animation, beautiful lighting, polished theatrical animation.\n\nMake every transition visually surprising and seamless. Constantly introduce new visual ideas without becoming chaotic or unreadable. Strong sense of depth, parallax, camera movement, and dimensionality.\n\nThe animation should feel energetic, magical, funny, stylish, and endlessly imaginative.\n\nNo text, no subtitles, no logos, no watermark.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/try-it-now-on-088591/video-399a3a97f528104c.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/try-it-now-on-088591/poster-0cb6c9cee5e61af8.jpg",
+    "format": "video/webm",
+    "videoBytes": 4023266,
+    "videoSha256": "399a3a97f528104c9059229625ef8a2e6612147116712b7d5a213165cc28ef14",
+    "thumbnailBytes": 92608,
+    "thumbnailSha256": "0cb6c9cee5e61af80d5579acd1773cbdf66af8a740e2d9d23946f3bb8fd15318"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

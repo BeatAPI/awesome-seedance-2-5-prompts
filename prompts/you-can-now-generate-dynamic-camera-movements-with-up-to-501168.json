@@ -1,0 +1,43 @@
+{
+  "slug": "you-can-now-generate-dynamic-camera-movements-with-up-to-501168",
+  "title": {
+    "en": "You can now generate dynamic camera movements with up to 30secs of a single generation!✨",
+    "zh": "You can now generate dynamic camera movements with up to 30secs of a single generation!✨"
+  },
+  "description": {
+    "en": "17-second documentary prompt paired with a source-verified creator example and its output video.",
+    "zh": "17 秒documentary提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "documentary",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "17s",
+  "aspectRatio": "1:1",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@martindacol",
+    "url": "https://x.com/martindacol/status/2087130113712501168"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/martindacol/status/2087130113712501168"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/martindacol/status/2087130113712501168"
+  ],
+  "prompt": "Create an ultra-realistic, highly detailed FPV drone sequence in one continuous, seamless take, strictly maintaining architectural fidelity and avoiding morphing. The drone moves with dynamic, cinematic precision.\n\nSequence Breakdown (0:00 - 0:17):\n0:00 - 0:04 (Path Approach): The sequence begins from a low, fast, dynamic angle along the lit stone path. For these 4 seconds, the drone accelerates toward the whimsical cliffside house, capturing the texture of the stone pavers.\n\n0:04 - 0:10 (Wide Orbit): As the drone reaches near the front door (the point of closest approach), it seamlessly transitions into a wide, sweeping, dynamic orbit around the entire complex. This wide orbit encompasses both the unique house structure and the leaning tree, framed against the vast ocean and cloudy sky, taking 6 seconds.\n\n0:10 - 0:17 (Close, Focused Orbit): The drone then executes a tight, closer-in, and more focused inspection orbit around the house itself. For the final 7 seconds, the camera dynamically focuses on and locks onto the specific architectural features: the round window, the slanted side windows, the curved white overhang, the fin-like structural elements, the stone chimney, and the antenna.\n\nTechnical Specifications: Ultra-realistic FPV movement, cinematic speed ramps, realistic inertia, grounded aerial realism, fluid camera transitions, dynamic focus, no cuts, no duplicated buildings.Negative Constraints: No architectural morphing, structural shifting, hallucination, changing window shapes, disappearing details, shape distortion, duplicated buildings, text, watermark.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/you-can-now-generate-dynamic-camera-movements-with-up-to-501168/video-92d1386bd8f9004b.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/you-can-now-generate-dynamic-camera-movements-with-up-to-501168/poster-d90baf5c0b67d01b.jpg",
+    "format": "video/webm",
+    "videoBytes": 949282,
+    "videoSha256": "92d1386bd8f9004b12a7d3f58654a3add1e70a16a1cad9840fa69e3c6fe5a681",
+    "thumbnailBytes": 54297,
+    "thumbnailSha256": "d90baf5c0b67d01b9c2a07763f185cca3123c8db911877e9faf4a308fe00b8f7"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

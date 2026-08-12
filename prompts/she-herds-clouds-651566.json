@@ -22,14 +22,14 @@
     "url": "https://x.com/Dheepanratnam/status/2084145160875651566"
   },
   "outputStatus": "source-verified",
-  "promptVisibility": "same-post",
+  "promptVisibility": "same-author-thread",
   "promptSourceUrls": [
-    "https://x.com/Dheepanratnam/status/2084145160875651566"
+    "https://x.com/Dheepanratnam/status/2084145163694129428"
   ],
   "modelEvidenceUrls": [
     "https://x.com/Dheepanratnam/status/2084145160875651566"
   ],
-  "prompt": "She herds clouds.\nOne of them rides a tiny bike.\nWhen the storm comes, the whole flock becomes her shelter.\n\nSeedance 2.5 keeps making these little worlds feel alive.\n\nPrompt below if you want to try it.\nPixar style 3d animation- Created with @dreamina_ai #DreaminaCPP",
+  "prompt": "{\n\n\"title\": \"Cloud Shepherd\",\n\n\"style\": \"3D Pixar family animation. Floating islands, pastel sky, fluffy cloud-sheep with little legs, golden morning light, whimsical.\",\n\n\"shots\": [\n\n{\"time\":\"00:00-00:03\",\"type\":\"EXTREME WIDE\",\"action\":\"Crane shot down through cotton-candy clouds. Shepherd whistles, herding cloud-sheep with feather-duster staff.\",\"camera\":\"Crane descending. Sun flares.\",\"dialogue\":\"(whistling)\"},\n\n{\"time\":\"00:03-00:06\",\"type\":\"WIDE\",\"action\":\"One cloud-sheep drifts away, forms T-rex, then bicycle. Other clouds confused. Shepherd's shoulders drop.\",\"camera\":\"Static.\",\"dialogue\":\"Shepherd: 'Bramble, stop becoming a dinosaur! You are a sheep!'\"},\n\n{\"time\":\"00:06-00:09\",\"type\":\"CLOSE-UP\",\"action\":\"Cloud-sheep shifts into heart shape, floats down, nuzzles shepherd's cheek. She gets slightly damp.\",\"camera\":\"Macro. Water droplets on freckles.\",\"dialogue\":\"Shepherd: (giggles, softening) 'Okay, one dinosaur.'\"},\n\n{\"time\":\"00:09-00:13\",\"type\":\"TRACKING\",\"action\":\"Shepherd chases flock to wooden pen. Cloud-sheep becomes slide, duck, then sheep again, hops inside.\",\"camera\":\"Side-tracking, fast. Vapor trails.\",\"dialogue\":\"Shepherd: 'Then we go inside.'\"},\n\n{\"time\":\"00:13-00:17\",\"type\":\"WIDE\",\"action\":\"Dark grumpy-faced storm cloud approaches. Shepherd looks up worried. Opens tiny umbrella.\",\"camera\":\"Low angle. Thunder rumbles.\",\"dialogue\":\"(none)\"},\n\n{\"time\":\"00:17-00:23\",\"type\":\"MEDIUM\",\"action\":\"Cloud-sheep huddle under tiny umbrella, spilling out. Bramble becomes umbrella shape to help cover.\",\"camera\":\"High angle. Rain falls golden around them, not on them.\",\"dialogue\":\"(rain patter, contented baaing)\"},\n\n{\"time\":\"00:23-00:27\",\"type\":\"CLOSE-UP\",\"action\":\"Shepherd hugs Bramble. Feels like warm cotton. Rainbows in vapor. Eyes closed peaceful.\",\"camera\":\"Extreme close-up.\",\"dialogue\":\"(soft humming)\"},\n\n{\"time\":\"00:27-00:30\",\"type\":\"WIDE\",\"action\":\"Storm passes. Sun returns. Shepherd and flock walk across rainbow bridge to next island, perfectly in line.\",\"camera\":\"Pull back. Pastel sky.\",\"dialogue\":\"(whistling resumes)\"}\n\n]\n\n}",
   "media": {
     "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/she-herds-clouds-651566/video-2a707fb1c05bf14a.webm",
     "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/she-herds-clouds-651566/poster-68774873b6f3ca41.jpg",

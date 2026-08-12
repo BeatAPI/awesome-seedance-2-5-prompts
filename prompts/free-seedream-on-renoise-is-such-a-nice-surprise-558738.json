@@ -1,0 +1,44 @@
+{
+  "slug": "free-seedream-on-renoise-is-such-a-nice-surprise-558738",
+  "title": {
+    "en": "Free Seedream on Renoise is such a nice surprise. 🤯",
+    "zh": "Free Seedream on Renoise is such a nice surprise. 🤯"
+  },
+  "description": {
+    "en": "30-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "30s",
+  "aspectRatio": "60:67",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Mayz1169",
+    "url": "https://x.com/Mayz1169/status/2087168054568558738"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/Mayz1169/status/2087168427706470620"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Mayz1169/status/2087168054568558738"
+  ],
+  "prompt": "1️⃣character sheet:\n\nUltra-detailed 16:9 kawaii fantasy character design sheet, official anime game character bible, clean premium editorial layout, elegant ivory-white background with soft raspberry-pink accents. Character name \"RASPBERRY BUNNY\", title \"Sweet Recipe\", subtitle \"A cheerful pastry mage who turns berries, cream and a little bunny magic into happiness.\"\n\nLeft panel features a large full-body hero illustration of a cute anime pastry girl with long honey-blonde curled twin tails, bright aqua eyes and a cheerful expression. She wears an elaborate raspberry-themed pink-and-white Lolita patisserie dress with puff sleeves, striped fabric, layered ruffled skirt, white apron, chocolate-brown bows, mint ribbon accents, raspberry decorations and tiny bunny ornaments. A whimsical dessert headpiece features tall pink-and-white striped rabbit ears, whipped cream and a fresh raspberry. She holds an ornate cream whisk wand decorated with ribbons and dessert details, accompanied by a tiny floating white bunny familiar.\n\nCenter panel includes professional turnaround views (Front, Side, Back), perfectly consistent anatomy, hairstyle, costume, bunny headpiece, fluffy bunny tail and accessories, neutral production-reference pose.\n\nRight panel contains close-up detail panels showing the raspberry bunny headpiece, mint-and-white back bow with heart charm, bunny ornament, layered raspberry skirt decorations and lace craftsmanship.\n\nBottom section includes prop breakdowns for the magical whisk wand, bunny familiar, Mary Jane shoe and striped stocking, plus fabric & pattern swatches featuring pink stripes, white ruffles and pink polka dots. Include a soft color palette of raspberry pink, blush pink, mint, chocolate brown and warm cream.\n\nStyle: official kawaii fantasy RPG character sheet, Japanese Lolita fashion, magical patisserie girl, premium anime game artbook illustration, soft pastel rendering, intricate lace and ruffles, dessertcore, bunnycore, highly detailed costume design, charming collectible-game character aesthetic, production-ready concept art, masterpiece, best quality, ultra detailed, 8K, clean composition, no watermark, no logo, no deformed anatomy, no extra limbs.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/free-seedream-on-renoise-is-such-a-nice-surprise-558738/video-5f58ba69d98f6c6f.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/free-seedream-on-renoise-is-such-a-nice-surprise-558738/poster-616ec3b8092f0667.jpg",
+    "format": "video/webm",
+    "videoBytes": 2503226,
+    "videoSha256": "5f58ba69d98f6c6fd1f455bdbc3d80b1dec867c7f9e1b367d99990ed9bf879c2",
+    "thumbnailBytes": 76518,
+    "thumbnailSha256": "616ec3b8092f0667be26398a2320103058675b83eff57480081e32cff0d1c8f1"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "seedance-2-5-did-well-077118",
+  "title": {
+    "en": "Seedance 2.5 did well",
+    "zh": "Seedance 2.5 did well"
+  },
+  "description": {
+    "en": "30-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AIwithSynthia",
+    "url": "https://x.com/AIwithSynthia/status/2087155449196077118"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/AIwithSynthia/status/2087155449196077118"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/AIwithSynthia/status/2087155449196077118"
+  ],
+  "prompt": "Create an ultra-realistic cinematic aviation sequence featuring an Emirates Airbus A380 at a major international airport. Maintain the exact same A380 aircraft, Emirates livery, airport environment, ground vehicles, and lighting throughout. Photorealistic aviation cinematography, realistic aircraft physics, authentic airport operations, natural engine sounds, radio communications, 4K HDR, 16:9 widescreen.\n\nScene 1 — Taxiway Arrival\nWide aerial establishing shot of a massive international airport. The Emirates A380 slowly taxis toward its assigned terminal stand, landing lights glowing, ground vehicles moving naturally around the aircraft. Smooth tracking camera follows from behind and slightly above.\n\nScene 2 — Gate & Pushback Preparation\nThe A380 reaches the gate. Ground crew position around the aircraft, baggage carts and catering trucks arrive, wheel chocks are placed, and the pushback tug connects to the nose gear. Close-ups of ground crew signals, wheels, doors, and flashing safety lights.\n\nScene 3 — Baggage Handling\nCut to the baggage area. Luggage containers are transported toward the aircraft and loaded into the lower-deck cargo hold. Show realistic conveyor belts, baggage carts, handlers securing containers, and the cargo door closing.\n\nScene 4 — Final Boarding & Departure Preparation\nPassengers finish boarding as ground staff complete final checks. Jet bridge retracts, service vehicles leave the aircraft, and the aircraft doors are secured. The A380's engines begin spinning up realistically.\n\nScene 5 — Pushback\nThe tug slowly pushes the enormous A380 away from the gate. Ground crew guide the aircraft using illuminated wands. Camera moves from a low wheel-level angle to a dramatic wide shot showing the full aircraft and terminal.\n\nScene 6 — ATC Clearance\nInside the cockpit, pilots monitor instruments and communicate with ATC. Radio audio: “Emirates heavy, pushback approved. Contact ground when ready to taxi.” The aircraft begins taxiing after receiving clearance.\n\nScene 7 — Taxi to Runway\nLong-lens cinematic shot of the A380 navigating the taxiway. Taxi lights illuminate the pavement as it passes runway signs and other aircraft. Alternate between cockpit, wingtip, landing gear, and wide airport shots.\n\nScene 8 — Takeoff Clearance\nCockpit close-up as the pilots complete final checks. ATC radio: “Emirates heavy, runway two-seven, cleared for takeoff.” The pilots acknowledge and advance the throttles.\n\nScene 9 — Takeoff & Climb\nMassive cinematic side-tracking shot as all four engines accelerate and the A380 races down the runway. Nose lifts smoothly, main landing gear leaves the ground, and the aircraft climbs gracefully into the sky. Landing gear retracts as the camera pulls back to reveal the airport below.\n\nAudio: authentic ATC radio chatter, engine spool-up, pushback tug sounds, baggage equipment, hydraulic sounds, runway ambience, tire noise, realistic cockpit alerts. No background music, no subtitles, no captions, no watermarks, no artificial aircraft movement, no distorted aircraft, no changing livery.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-did-well-077118/video-7b4ffe2c1079c02e.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-did-well-077118/poster-968a827ebf59e3b6.jpg",
+    "format": "video/webm",
+    "videoBytes": 1587170,
+    "videoSha256": "7b4ffe2c1079c02e9c747f607c5d66da2a779d08d3c43648bbf348c9fb52e7b7",
+    "thumbnailBytes": 38609,
+    "thumbnailSha256": "968a827ebf59e3b6c61617ac5b16ef22507b6a1535bcfe906be006fb4c3fc0e0"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

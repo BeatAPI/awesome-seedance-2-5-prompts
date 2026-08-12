@@ -22,14 +22,14 @@
     "url": "https://x.com/hedo_ist/status/2083989211607155054"
   },
   "outputStatus": "source-verified",
-  "promptVisibility": "same-post",
+  "promptVisibility": "same-author-thread",
   "promptSourceUrls": [
-    "https://x.com/hedo_ist/status/2083989211607155054"
+    "https://x.com/hedo_ist/status/2083989215046455361"
   ],
   "modelEvidenceUrls": [
     "https://x.com/hedo_ist/status/2083989211607155054"
   ],
-  "prompt": "Wow, the metamorphosis in  Seedance 2.5 is totally cinematic, top-notch VFX. 🤯\n\nPrompt in the comments.\n\nwhat do you think?",
+  "prompt": "You must add 3 reference images: a snake, a dragon and a woman.\n\nCinematic, fluid metamorphosis of a snake ￼ into this creature .￼\n\nCinematic metamorphosis of this creature into a woman.  ￼\n\nPhotorealistic cinematic scene.\n\nnot music. asmr sounds",
   "media": {
     "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/wow-the-metamorphosis-in-is-totally-cinematic-to-155054/video-5f7ff53c3039491c.webm",
     "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/wow-the-metamorphosis-in-is-totally-cinematic-to-155054/poster-a22ff6e024096414.jpg",

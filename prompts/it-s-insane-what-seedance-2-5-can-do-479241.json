@@ -1,0 +1,43 @@
+{
+  "slug": "it-s-insane-what-seedance-2-5-can-do-479241",
+  "title": {
+    "en": "It's insane what Seedance 2.5 can do 🤯",
+    "zh": "It's insane what Seedance 2.5 can do 🤯"
+  },
+  "description": {
+    "en": "27-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "27 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "27s",
+  "aspectRatio": "60:67",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Mayz1169",
+    "url": "https://x.com/Mayz1169/status/2086809649039479241"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/Mayz1169/status/2086810573199569307"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Mayz1169/status/2086809649039479241"
+  ],
+  "prompt": "1️⃣character sheet:\n\nUltra-detailed 16:9 fantasy character design sheet, official AAA RPG character bible, clean editorial layout, elegant white background with icy blue UI accents. Character name \"ICEFORGE\", title \"Bunny Smith\", subtitle \"A frost-forged artisan who crafts weapons with precision and style.\"\n\nLeft panel features a full-body hero illustration of a cute fantasy bunny blacksmith girl with long icy blue hair, red eyes, large rabbit ears with crystal-like pink inner details, and a confident playful expression. She wears a unique fantasy smith outfit combining cute bunny aesthetics with practical crafting gear: white off-shoulder blouse, blue shorts, leather belts, metal accessories, fluffy fur trims, armored boots, thigh straps and workshop details. She carries a massive oversized black-and-silver forging hammer with glowing red crystal accents, hanging chains and frost effects.\n\nCenter panel includes professional turnaround views (Front, Side, Back), perfectly consistent anatomy, hairstyle, rabbit ears, costume layers and equipment placement. Show the full silhouette, hammer position, boots, belts and smith accessories clearly.\n\nRight panel includes detailed close-up panels showing rabbit ear design, face details, bow accessory, chest ornament, belt system, boots, fabric texture and metal craftsmanship. Include weapon breakdown featuring the giant forging hammer, hammer head design, crystal core, chain details and blacksmith tools.\n\nInclude expression sheet with multiple facial expressions: confident, cheerful, focused and calm. Add a refined color palette featuring icy blue, white, silver, charcoal black, soft pink and crystal red accents.\n\nStyle: official fantasy RPG character sheet, cute blacksmith fantasy, Genshin Impact × Honkai Star Rail × Blue Archive aesthetic, premium anime game artbook illustration, detailed weapon crafting design, magical ice forge theme, elegant costume design, production-ready character bible, masterpiece, best quality, ultra detailed, 8K, clean composition, no watermark, no logo, no extra limbs, no deformed anatomy.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/it-s-insane-what-seedance-2-5-can-do-479241/video-6c0c21f0b9b110dc.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/it-s-insane-what-seedance-2-5-can-do-479241/poster-cdc8783cf76339aa.jpg",
+    "format": "video/webm",
+    "videoBytes": 2333141,
+    "videoSha256": "6c0c21f0b9b110dcb04bd0eca189c19bb8bdb293e264cb31d6ffb53c03fb32df",
+    "thumbnailBytes": 75023,
+    "thumbnailSha256": "cdc8783cf76339aa8dad4bff7cbc8b9872622bd274b0d6cd7456f2731aa3314b"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

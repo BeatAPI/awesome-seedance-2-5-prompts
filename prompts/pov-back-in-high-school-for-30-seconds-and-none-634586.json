@@ -1,0 +1,43 @@
+{
+  "slug": "pov-back-in-high-school-for-30-seconds-and-none-634586",
+  "title": {
+    "en": "POV: back in high school for 30 seconds and none of it is real.. made on Seedance 2.5..",
+    "zh": "POV: back in high school for 30 seconds and none of it is real.. made on Seedance 2.5.."
+  },
+  "description": {
+    "en": "30-second vlog prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒vlog提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "vlog",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@socialwithaayan",
+    "url": "https://x.com/socialwithaayan/status/2085696506376634586"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/socialwithaayan/status/2085696518863114737"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/socialwithaayan/status/2085696506376634586"
+  ],
+  "prompt": "you can make this with one prompt using seedance 2.5:\n\nPOV handheld video, continuous first-person shot worn on the chest of a Korean high school girl, seventeen, walking to school on an ordinary weekday morning. Soft overcast morning light, no harsh shadows, the kind of flat even daylight typical of a school-day sky. Her hands enter frame naturally throughout, as a body-mounted camera would catch them; her face is never seen except as a faint reflection in glass or a shop window.\n\n0:00-0:03 — POV walking down a residential street toward school, navy uniform, backpack strap in one hand, other students in the same uniform walking the same direction, morning traffic passing.\n\n0:03-0:06 — POV passes through the school gate among a stream of students, greeting a passing classmate with a small wave: {classmate, Korean: \"안녕!\"} She waves back without breaking stride.\n\n0:06-0:09 — POV walks down a crowded hallway, lockers on both sides, chatter and footsteps overlapping, students weaving toward classrooms.\n\n0:09-0:12 — POV enters the classroom. Two friends at a shared desk cluster wave her over: {friend, Korean: \"야, 여기!\"} She crosses the room and drops into the seat beside them.\n\n0:12-0:15 — She sets her bag down, exchanges a quick high-five, light morning classroom chatter all around, chairs scraping, bags unzipping.\n\n0:15-0:18 — Near the front of the room, two boys' voices rise over the chatter. One jabs a finger toward the other's chest: {boy A, Korean: \"야, 방금 뭐라고 했어?\"} The room's noise dips as heads turn.\n\n0:18-0:21 — The second boy stands up fast, chair scraping loud, jabbing his own finger back: {boy B, Korean: \"다시 말해봐, 인마!\"} Students nearby lean back, a couple pull out phones.\n\n0:21-0:24 — Boy A shoves boy B's shoulder with an open hand. Boy B stumbles, grabs a fistful of Boy A's collar. A short scuffle — one wild swing that mostly misses, desks scraping as students scramble back.\n\n0:24-0:27 — A teacher's voice cuts through from the doorway: {teacher, Korean, sharp: \"야! 그만해!\"} Two boys nearby grab the fighters by the arms and pull them apart. The room goes half-silent, frozen mid-reaction.\n\n0:27-0:30 — POV turns toward her friend beside her, both wide-eyed. Her friend mouths, stunned: {friend, Korean, quiet: \"미쳤나 봐...\"} Normal classroom noise creeps back in as the two boys are walked to opposite corners. POV holds on the settling room, non-empty closing frame.\n\nScene: Korean public high school, an ordinary weekday morning, overcast even daylight. Residential street outside with low buildings and morning foot traffic. School gate and hallway lined with grey lockers, notice boards, scuffed tile floor. Classroom: rows of paired desks, a whiteboard at the front, backpacks hanging off chairs, windows along one wall letting in flat grey-white daylight. No dramatic lighting anywhere — deliberately ordinary school light, so the one disruptive moment stands out against it.\n\nStyle: shot like real action-camera footage, not a cinema rig — the realism of a chest-mounted POV camera, the honesty of school-day vlog footage. Ultra-realistic, unstaged: constant micro-shake synced to footsteps and head turns, natural motion blur when she turns quickly toward the commotion, believable overlapping crowd noise and movement. Pore-level realism on every visible face and hand — uneven skin tones, real posture, teenage body language. The fight beat is brief and clumsy, not choreographed — a shove, a stumble, one missed swing, quickly broken up, never gratuitous or drawn out.\n\nCamera: continuous first-person POV for all thirty seconds, chest-height mount, no cuts to any external angle. Wide field of view, roughly 84 degrees, mild edge softness and barrel character of a real action camera — an honest wide lens, not a fisheye. Steady walking sway for the first half, sharper head-turns and slight camera-shake during the confrontation as she reacts along with the room. Hands enter frame from below or the sides when performing an action, never floating in from nowhere.\n\nSound: all spoken dialogue in Korean, no English audio anywhere, no music, ambient sound only. <morning street traffic, distant scooter, footsteps on pavement> <school gate chatter, overlapping voices, backpack zippers> {classmate, Korean: \"안녕!\"} <hallway noise, lockers clanging, overlapping footsteps> {friend, Korean: \"야, 여기!\"} <chair scraping, bag unzipping, classroom morning murmur> {boy A, Korean: \"야, 방금 뭐라고 했어?\"} <room noise dipping, chairs creaking as heads turn> {boy B, Korean: \"다시 말해봐, 인마!\"} <chair scraping loudly, fabric grabbing, scuffle of shoes on tile, gasps> {teacher, Korean, sharp: \"야! 그만해!\"} <bodies pulled apart, room half-silent> {friend, Korean, quiet: \"미쳤나 봐...\"} <classroom noise returning, chairs settling, distant hallway bell>.\n\nPositive locks: camera never leaves first-person POV, no external cutaways. Same uniform, classroom layout, same two boys and friend group held identical throughout. All dialogue spoken in natural Korean, no subtitles, no English audio or on-screen text at any point. The confrontation stays brief and realistic — one shove, one grab, one missed swing, broken up within seconds, never escalates into prolonged or graphic violence. Lighting stays flat and even throughout. Eyes stay natural on every visible face — no eye glow. No modern logos, no on-screen UI.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/pov-back-in-high-school-for-30-seconds-and-none-634586/video-59a0a77ce6784e43.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/pov-back-in-high-school-for-30-seconds-and-none-634586/poster-1502d5e06e22ec57.jpg",
+    "format": "video/webm",
+    "videoBytes": 2708845,
+    "videoSha256": "59a0a77ce6784e4314eff4d1133faa2f5310f3a78878ef364ade885f0dd200ff",
+    "thumbnailBytes": 63454,
+    "thumbnailSha256": "1502d5e06e22ec57464d36874f0f3c1053a270b306d5157bf9ee144bd4f3d39f"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

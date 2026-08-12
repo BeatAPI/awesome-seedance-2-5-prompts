@@ -1,0 +1,43 @@
+{
+  "slug": "making-these-kinds-of-uniquely-styled-videos-has-gotten-so-113956",
+  "title": {
+    "en": "Making these kinds of uniquely styled videos has gotten so much fun lately.",
+    "zh": "Making these kinds of uniquely styled videos has gotten so much fun lately."
+  },
+  "description": {
+    "en": "15-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "4:5",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@opener_ai",
+    "url": "https://x.com/opener_ai/status/2086104050270113956"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/opener_ai/status/2086104053415891068"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/opener_ai/status/2086104050270113956"
+  ],
+  "prompt": "Prompt\n\n[FORMAT]\nCreate a 15-second, 16:9 premium animated title sequence inspired by Homer's Odyssey. Combine rough hand-drawn 2D animation, ancient Greek visual motifs, scratched ink, charcoal, dry brush, and restrained luxury editorial typography. Elegant, mythic, severe, never cute or polished-cartoon.\n[IDENTITY]\nMaintain one consistent visual language throughout: off-black ink lines, aged ivory paper, deep wine-dark blue, oxidized bronze accents, rough charcoal shadows, imperfect hand-painted edges, restrained gold highlights, and subtle print-registration errors.\n[BEATS]\n[0–3 seconds]\nA nearly black screen. Thin ivory scratches appear like waves drawn rapidly with charcoal. A tiny bronze ship emerges between violent abstract lines. The word \"ODYSSEY\" slowly resolves from scattered ink fragments. Letters appear slightly blurred and incomplete, sharpen over 0.4 seconds, hold briefly, then are erased sideways by a violent brushstroke. No spinning or bouncing typography.\n[3–6 seconds]\nHard cut. Rough 2D waves fill the frame in deep wine-blue. The ship is tiny against an enormous hand-drawn sea. The waves transform into long black strands of hair, briefly revealing the abstract face of a Siren. The typography \"THE WINE-DARK SEA\" appears vertically through negative space, fades into clarity over 0.4 seconds, holds for about 1 second, then breaks apart into ink droplets.\n[6–9 seconds]\nA white-hot flash reveals Odysseus as a crude black-figure silhouette tied to a ship mast. The Sirens circle him as loose unfinished brush drawings, repeatedly appearing and disappearing between frames. Huge cropped letters \"HOME\" slide slowly behind the character, partially hidden by the mast. The word remains stable and readable, then disappears behind a sweeping black wave.\n[9–12 seconds]\nSplit-second black frame. An enormous single eye opens inside a rough circular ink stain, suggesting the Cyclops. The pupil becomes a moon, then the moon becomes a distant island. Small elegant text \"A LONG WAY BACK\" appears with subtle tracking expansion, holds, then dissolves naturally into paper grain.\n[12–15 seconds]\nThe island becomes a single horizontal ink line. Everything falls silent visually. Bronze dust slowly gathers around the line and forms the final title:\n\"THE ODYSSEY\"\nWide letter spacing, monumental but restrained.\nThe title fades from low opacity into perfect clarity over 0.5 seconds and remains completely still for the final 2 seconds.\n[CAMERA]\nTreat the sequence like animated graphic cinema rather than a slideshow. Use rapid macro push-ins into ink textures, sudden pull-backs revealing immense scale, lateral tracking across drawings, and strong scale changes between tiny ships and monumental mythic forms. Mostly flat 2D perspective with occasional layered multiplane depth.\n[LIGHT]\nAged ivory, charcoal black, wine-dark ultramarine, oxidized bronze, and restrained antique gold. Uneven paper illumination, subtle flicker, visible fibers, dry ink texture, coarse print grain, slight gate weave. Gold should appear only as rare accents, never glossy digital gradients.\n[EDIT]\nUse sharp hard cuts, brushstroke wipes, ink floods, white flashes, split-second black frames, negative-space reveals, and match transitions where drawings transform into typography. Keep the rhythm sophisticated and deliberate rather than frantic.\nTypography must always have a clear entrance, readable hold, and controlled exit. Use fade-to-focus, tracking expansion, masking, or ink erosion only. No letter spinning, bouncing, elastic motion, random fly-ins, or excessive kinetic typography.\n[AUDIO]\nAudio: distant ocean wind, rough waves, wooden hull creaks, charcoal scratching across paper, one deep resonant bronze impact at 12 seconds.\nBGM: an original 15-second cue, 65% ancient ritual tension and 35% contemporary cinematic minimalism. Low frame drums, bowed bronze resonance, distant male breath textures, low strings, and sparse sub-bass. Begin almost empty, introduce the pulse at 3 seconds, intensify from 7–11 seconds, strike one deep bronze accent at 12 seconds, then reduce to a sustained low tone beneath the final title. Do not imitate an existing melody.\n[NEGATIVE]\nNo subtitles, watermarks, platform logos, stickers, extra credits, or unintended text.\nDo not introduce Chinese text, garbled characters, misspellings, duplicated words, or additional title lines.\nNo glossy 3D animation, modern anime styling, cute character design, smooth vector illustration, neon cyberpunk imagery, or generic fantasy-game aesthetics.\nNever a slideshow; every graphic element must transform, move, erase, reveal, or evolve naturally through the sequence.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/making-these-kinds-of-uniquely-styled-videos-has-gotten-so-113956/video-74605a77461defe3.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/making-these-kinds-of-uniquely-styled-videos-has-gotten-so-113956/poster-4c23d67f129163ab.jpg",
+    "format": "video/webm",
+    "videoBytes": 1164983,
+    "videoSha256": "74605a77461defe32dee4987ed5f3c1bfa0a50ec81bb8086b8d00f567d6aad66",
+    "thumbnailBytes": 81323,
+    "thumbnailSha256": "4c23d67f129163abf91ba28dc5c962739e90a8d67f39f3d4d97190bcab266079"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

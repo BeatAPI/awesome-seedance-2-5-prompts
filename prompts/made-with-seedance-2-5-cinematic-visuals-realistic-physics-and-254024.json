@@ -1,0 +1,43 @@
+{
+  "slug": "made-with-seedance-2-5-cinematic-visuals-realistic-physics-and-254024",
+  "title": {
+    "en": "Made with Seedance 2.5 cinematic visuals, realistic physics, and insane VFX.",
+    "zh": "Made with Seedance 2.5 cinematic visuals, realistic physics, and insane VFX."
+  },
+  "description": {
+    "en": "10-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "10 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "10s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@NoOneIsHere2603",
+    "url": "https://x.com/NoOneIsHere2603/status/2087048124523254024"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/NoOneIsHere2603/status/2087048124523254024"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/NoOneIsHere2603/status/2087048124523254024"
+  ],
+  "prompt": "Create a cinematic luxury diamond advertisement with a dark premium aesthetic. A black jewelry box slowly opens to reveal a flawless diamond. The camera pushes in for an extreme close-up as a gloved hand lifts the diamond. As it rises, electric-blue energy and realistic lightning begin forming around it. The diamond floats in the air while powerful lightning strikes in the background, with glowing particles, volumetric lighting, realistic reflections and physically accurate diamond refraction. Smooth cinematic camera movement, dramatic lighting, photorealistic CGI, premium commercial quality, realistic physics, highly detailed, consistent diamond throughout the entire shot. Created with Seedance 2.5.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-cinematic-visuals-realistic-physics-and-254024/video-40af68f202dbb120.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-cinematic-visuals-realistic-physics-and-254024/poster-2753a6a953b41ef5.jpg",
+    "format": "video/webm",
+    "videoBytes": 725104,
+    "videoSha256": "40af68f202dbb1208a8a12482af19e0de9ee32b07c35ff26798d2e721550aad7",
+    "thumbnailBytes": 50821,
+    "thumbnailSha256": "2753a6a953b41ef5a8d327a4e5fba0e5052e846f636b8d95a3a2a7f9d14752a3"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

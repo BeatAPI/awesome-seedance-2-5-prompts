@@ -1,0 +1,43 @@
+{
+  "slug": "zero-uncanny-valley-152696",
+  "title": {
+    "en": "→ Zero uncanny valley",
+    "zh": "→ Zero uncanny valley"
+  },
+  "description": {
+    "en": "20-second animation prompt paired with a source-verified creator example and its output video.",
+    "zh": "20 秒animation提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "animation",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "20s",
+  "aspectRatio": "4:5",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@magnific",
+    "url": "https://x.com/magnific/status/2086795511152152696"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/magnific/status/2086795523328245951"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/magnific/status/2086795511152152696"
+  ],
+  "prompt": "Prompt for the video:\n\nA gritty, cinematic miniature world where hyper-detailed articulated action figures with visible plastic joints are playing an intense poker game inside a dirty underground hideout. The room is filled with graffiti, empty beer cans, cigarette smoke, pizza boxes, an old CRT television with static, dim fluorescent lighting, and a worn wooden poker table covered in chips and cards. Everything feels like a realistic toy set, with subtle plastic reflections and stop-motion-inspired imperfections. The players exchange suspicious glances in a series of tight cinematic close-ups: eyes shifting, fingers tapping poker chips, smoke drifting through the air, hands holding cards. The atmosphere is tense and silent. Suddenly, a tiny doorbell rings. Everyone freezes. One of the action figures slowly stands up, pushes his chair back, and walks cautiously toward the entrance. Tracking shot following behind him.\n\nHe opens the door… Outside is an absurd surprise. Parked in front of the tiny house is a glossy pink toy-style convertible toy car. Behind the wheel sits a tiny smiling block toy (simple colorful building-block figure) enthusiastically waving. In the back seats ride a classic wooden toy doll and a small plush teddy bear, all cheerfully looking at him. They gesture excitedly, inviting him to come along. Reverse shot from behind the action figure reveals the true scale of the world: the tiny pink toy house sits inside the gigantic bedroom of a child. Massive furniture towers overhead, enormous shelves filled with toys, scattered toy bricks, crayons, books, and plush animals surround them. Warm afternoon sunlight streams through a huge bedroom window, filling the room with a magical sense of scale. Cinematic realism. The action figure hesitates for a second, then smiles, jumps into the tiny pink car, and the toy vehicle speeds away across the bedroom floor between giant toys and everyday objects.\n\nDynamic camera movements, low-angle tracking shots, miniature depth of field, whimsical adventure energy, highly cinematic, expressive animation, rich environmental storytelling, smooth character animation, playful yet epic tone.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/zero-uncanny-valley-152696/video-6ff93f2ad1613825.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/zero-uncanny-valley-152696/poster-16a4e03c209df5e8.jpg",
+    "format": "video/webm",
+    "videoBytes": 1233886,
+    "videoSha256": "6ff93f2ad16138258455acc9275bd5c8c9b319b7f9d17c6aa9cc5f56f624f00b",
+    "thumbnailBytes": 53832,
+    "thumbnailSha256": "16a4e03c209df5e8831c0a581e04aa5738768ab83efcbafb22ce2674e638b80e"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

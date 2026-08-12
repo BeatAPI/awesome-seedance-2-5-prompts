@@ -1,0 +1,43 @@
+{
+  "slug": "made-with-seedance-2-5-in-668920",
+  "title": {
+    "en": "Made With Seedance 2.5 in",
+    "zh": "Made With Seedance 2.5 in"
+  },
+  "description": {
+    "en": "30-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒cinematic action提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "427:240",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AllaAisling",
+    "url": "https://x.com/AllaAisling/status/2086993468677668920"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/AllaAisling/status/2086993812149162074"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/AllaAisling/status/2086993468677668920"
+  ],
+  "prompt": "Create a 30-second photorealistic cinematic short film, 2.39:1, 35mm film aesthetic, natural human performances, realistic train station and carriage, soft winter daylight, subtle film grain, restrained camera movement, realistic skin and clothing, no subtitles, no narration.\n\nCHARACTERS:\nOne woman in her 30s carrying a small black handbag.\nOne elderly man carrying a bouquet of white flowers.\nLOCATION:\nOne nearly empty commuter train and one small rural station.\n0–4s: The woman runs onto a train just before the doors close. She catches her breath.\n4–7s: She looks at her ticket. Her expression changes.\nShe is on the wrong train.\n7–11s: She looks around the nearly empty carriage.\nAn elderly man sits opposite her holding a bouquet.\n11–14s: He notices her ticket.\n“Wrong train?”\nShe nods.\n14–17s: He looks at his flowers. “Me too.”\n17–21s: Neither speaks.\nThe train moves through winter countryside.\n21–24s: The train stops at a tiny rural station.\nThe old man stands.\n24–27s: Before leaving, he gives her one white flower.\nHe steps off.\n27–30s: The doors close.\nThe woman looks through the window.\nShe sees the station sign.\nHer expression changes.\nIt is the name of her childhood hometown.\nCut to black.\nSOUND:\nTrain wheels, carriage vibration, distant announcement, footsteps and doors. No music until the train reaches the countryside. Then soft piano and cello.\nIMPORTANT:\nDo not add additional passengers. The station name should be visible but not digitally overlaid. The final recognition must come from the woman's reaction and the physical station sign.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-in-668920/video-c670a882049d214f.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-in-668920/poster-4f5c5a1500fe58d5.jpg",
+    "format": "video/webm",
+    "videoBytes": 855451,
+    "videoSha256": "c670a882049d214f58472ed0dc7397812feac0545b61acfbac02c53a4a17147c",
+    "thumbnailBytes": 19444,
+    "thumbnailSha256": "4f5c5a1500fe58d57949f731577a99c35ffc8a4fddec9e4cd9eadbbcf6ab1733"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

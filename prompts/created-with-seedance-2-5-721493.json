@@ -1,0 +1,43 @@
+{
+  "slug": "created-with-seedance-2-5-721493",
+  "title": {
+    "en": "Created with Seedance 2.5.",
+    "zh": "Created with Seedance 2.5."
+  },
+  "description": {
+    "en": "28-second cinematic action prompt paired with a source-verified creator example and its output video.",
+    "zh": "28 秒cinematic action提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-action",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "28s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@frametheory058",
+    "url": "https://x.com/frametheory058/status/2087180835925721493"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/frametheory058/status/2087181117074059773"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/frametheory058/status/2087180835925721493"
+  ],
+  "prompt": "Create a 30-sec vertical 9:16, 24fps, 8K ultra-photorealistic live-action video as ONE continuous handheld first-person smartphone shot. No cuts, resets or teleportation. Keep the exact same hands, black smartwatch with silver Milanese loop, POV, lens, weather, lighting and colour grade throughout.\n\n0:00–0:05 — DOOR: Walk through a realistic modern office corridor toward a black-framed glass EXIT door with falling snow visible outside. Press the white wall button (green ring), grab the steel handle and open it. Cold light and snow blow inside; naturally cross the threshold. Audio only here: footsteps, button click, door sound, cold whoosh + subtle cinematic swell.\n\n0:05–0:10 — REALM: Seamlessly enter a vast snowy medieval fortress courtyard. Falling snow, wind, footprints, weathered stone walls, armored guard with spear and visible breath. Continue walking, then tilt upward.\n\n0:10–0:16 — CASTLE: Reveal a colossal original northern gothic fortress with dark weathered stone, towers, spires, snow, mist and tiny warm window lights. Natural handheld movement.\n\n0:16–0:21 — COURTYARD: Continuously pan left/down: saddled white horse with steam breath, hooded figure with lantern, armored knights and warhorses, workers carrying wooden planks, flickering torches. Realistic lived-in medieval world.\n\n0:21–0:25 — GATE: Continue toward a massive iron-studded gate with sentries, shields and spears. Camera begins tilting toward the sky.\n\n0:25–0:30 — DRAGONS: Tilt into stormy clouds and reveal two enormous original dragons with realistic anatomy, scarred dark slate skin, leathery wings and heavy natural flight. One turns toward the castle and unleashes a powerful orange fire stream, realistically illuminating snow, clouds and architecture. End on the fire.\n\nLOOK: grounded medieval dark-fantasy realism, cold desaturated blue-grey grade, soft overcast light, volumetric fog, realistic snow/cloth/armor/horse physics, natural motion blur, subtle film grain, HDR, authentic smartphone imperfections.\n\nNO: CGI/game look, cartoon, glossy armor, plastic skin, oversaturation, excessive VFX, perfect stabilization, cuts, changing POV/hands/watch, fake snow, malformed hands/animals, text or watermark.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-721493/video-8c5adaf031d6961c.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-721493/poster-57b94368eecec6ca.jpg",
+    "format": "video/webm",
+    "videoBytes": 3422245,
+    "videoSha256": "8c5adaf031d6961cd3267c2f0065b928955f70c7181b5030a93c77170b35718c",
+    "thumbnailBytes": 60198,
+    "thumbnailSha256": "57b94368eecec6cadc608eb819c525b69a5e78b9e66b1cc2cd3c9754cc60c166"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

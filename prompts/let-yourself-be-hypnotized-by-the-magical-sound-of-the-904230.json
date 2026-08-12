@@ -1,0 +1,43 @@
+{
+  "slug": "let-yourself-be-hypnotized-by-the-magical-sound-of-the-904230",
+  "title": {
+    "en": "Let yourself be hypnotized by the magical sound of the shamisen 👺",
+    "zh": "Let yourself be hypnotized by the magical sound of the shamisen 👺"
+  },
+  "description": {
+    "en": "30-second documentary prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒documentary提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "documentary",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@DanjiTosaka",
+    "url": "https://x.com/DanjiTosaka/status/2087183672201904230"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/DanjiTosaka/status/2087183737335193633"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/DanjiTosaka/status/2087183672201904230"
+  ],
+  "prompt": "AAA cinematic video with ultra-realistic audio-visual synchronization IMAX style 70mm IMAX lens aesthetic,photorealistic 8K,volumetric morning fog,high-contrast chiaroscuro lighting,warm amber dawn sunlight rimming dark atmospheric mist,deep shadows,rich cinematic film grain continuous energetic intense ritual shamisen soundtrack in perfect sync with finger plucking\n[1]:High aerial drone view over misty lake\n[2]:Macro close-up on smiling lips\n[3]:Extreme close-up on fingers playing shamisen\n[4]:Macro shot of face with milky white eyes\n[5]:Close-up of face holding instrument in trance state\n[6]:Water surface vibrating with acoustic wave particles\n[7]:Water ripples and light reflections around chair\n[8]:Water particles bouncing near golden-embroidered kimono hem\n[9]:Mirror reflection of submerged chair on vibrating lake\n[10]:Full-body medium shot playing shamisen on submerged wooden chair\n0–5s: High aerial drone shot slowly descending and gliding forward over the misty enchanted lake at dawn ([1]).Atmospheric wind ambience\n5–9s: Fast cut to a macro close-up of the Japanese woman's lips gently smirking ([2]).A high-energy,intense ritual shamisen music track begins,perfectly synced with her movement\n9–14s: Smooth zoom onto her fingers furiously plucking the shamisen strings ([3]),driving an intense ritualistic musical rhythm\n14–19s: Dynamic whip transition to a close-up of her face ([4],[5]),revealing milky white eyes as she plays in a music trance\n19–25s: Sequence of low-angle shots showing the water surface around her submerged chair ([6],[7],[8],[9]).Water droplets and ripples violently vibrate off the surface in response to the acoustic shockwaves of the shamisen\n25–30s: Full wide medium shot of her performing on the submerged wooden chair ([10]).Cinematic slow dolly-out as floating mist drifts across the water",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/let-yourself-be-hypnotized-by-the-magical-sound-of-the-904230/video-fc9ad94b47812faa.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/let-yourself-be-hypnotized-by-the-magical-sound-of-the-904230/poster-99a0a35f09b5a59c.jpg",
+    "format": "video/webm",
+    "videoBytes": 1187597,
+    "videoSha256": "fc9ad94b47812faa209c7a4024494f2162965d4630e9b083068a7fc1c16752c6",
+    "thumbnailBytes": 27183,
+    "thumbnailSha256": "99a0a35f09b5a59c51e1b45f128c0efd419e49521ff18306208834d94ee5e525"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

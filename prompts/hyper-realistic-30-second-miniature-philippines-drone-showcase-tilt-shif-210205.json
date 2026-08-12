@@ -1,0 +1,43 @@
+{
+  "slug": "hyper-realistic-30-second-miniature-philippines-drone-showcase-tilt-shif-210205",
+  "title": {
+    "en": "Hyper-realistic 30-Second Miniature Philippines Drone Showcase (Tilt-Shift &",
+    "zh": "Hyper-realistic 30-Second Miniature Philippines Drone Showcase (Tilt-Shift &"
+  },
+  "description": {
+    "en": "18-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "18 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "18s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@martindacol",
+    "url": "https://x.com/martindacol/status/2086790979454210205"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/martindacol/status/2086790979454210205"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/martindacol/status/2086790979454210205"
+  ],
+  "prompt": "Hyper-realistic 30-Second Miniature Philippines Drone Showcase (Tilt-Shift & Time-Lapse)\n\nStyle & Optical Specifications: > High-angle 45-degree tilt-shift aerial drone photography, shot with a macro lens illusion. Extremely shallow depth of field featuring a narrow, tack-sharp focal band in the center frame, with heavy, creamy bokeh blur applied to the top and bottom foreground and background. Hyper-detailed textures, vibrant saturated colors, and crisp lighting. Frame rate rendered at 24fps with a 1.5x to 2x time-lapse stop-motion speed effect to accentuate a living toy diorama feel. Strictly no text, no captions, no logos, and no background music.\n\nScene Breakdown (30 Seconds Total):\n\n[0:00–0:04] Hagdang Palayan (Banaue Rice Terraces): > High-angle aerial view looking down at vibrant green, step-like rice terraces carved into the mountain. In the sharp center focal plane, miniature farmers wearing tiny straw conical hats and brightly colored shirts walk along narrow stone walls in fast, mechanical, clockwork steps. Soft blur on the top peak and bottom terrace levels.\n\nAudio FX: Soft mountain wind, rustling rice stalks, gentle trickle of running water.\n\n[0:04–0:08] Coron, Palawan: > High-overhead drone shot of dark, jagged limestone karst cliffs enclosing an emerald-green lagoon. Tiny, toy-like wooden outrigger boats (bangkas) move across the glassy water at accelerated speed, leaving delicate white miniature wakes behind them.\n\nAudio FX: Gentle water lapping against limestone, ocean breeze, faint low wooden boat engine rumble.\n\n[0:08–0:12] Calle Crisologo, Vigan, Ilocos Sur: > Looking straight down the cobblestone street lined with historic Spanish colonial ancestral houses. Miniature horse-drawn carriages (calesas) and tiny pedestrians walk in rapid, slightly jerky time-lapse motion along the street. Crisp center focus on the street pavement, blurred clay tile roofs and distant horizon.\n\nAudio FX: Accelerated clippety-clop of horse hooves on cobblestones, faint murmur of street activity.\n\n[0:12–0:16] The Chocolate Hills, Bohol: > Wide tilt-shift drone pan over endless perfectly conical, grass-covered chocolate-brown hills. On a central hill’s high observation platform, tiny doll-like tourists move in quick, rhythmic motions. Selective focus on the central dome, heavy blur on distant horizon hills.\n\nAudio FX: Whistling high-altitude wind, faint ambient outdoor air.\n\n[0:16–0:20] Makati Central Business District, Metro Manila: > High-angle tilt-shift perspective of a bustling city intersection framed by miniature glass skyscrapers. Brightly colored tiny jeepneys, buses, and cars move through the intersection in rapid, rhythmic stop-motion flow, while tiny office commuters cross the crosswalk in fast-forward.\n\nAudio FX: Rapid city traffic rumble, short sped-up car horn honks, ambient urban hum.\n\n[0:20–0:24] Sinulog Festival, Cebu City: > High aerial shot above a grand festival street parade. Groups of miniature street dancers in vividly colored red-and-yellow feathered costumes execute synchronized, energetic steps down the main boulevard, surrounded by dense crowds of tiny spectators.\n\nAudio FX: Distant, rhythmic festival drumbeats and brass instruments echoing down streets, roaring crowd cheers.\n\n[0:24–0:30] Local Nighttime Fiesta & Perya (Carnival): > Twilight drone shot looking down at a brightly illuminated local carnival (perya). A vibrant, glowing Ferris wheel spins at a brisk, miniature speed next to neon-lit game booths under hanging festive bunting (banderitas). Tiny fairgoers walk between stalls under bright festive lights. High-contrast macro depth of field.\n\nAudio FX: Mechanical hum and creak of the spinning Ferris wheel, distant carnival bells, ambient festive crowd chatter and laughter.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/hyper-realistic-30-second-miniature-philippines-drone-showcase-tilt-shif-210205/video-1516d85b4763cd73.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/hyper-realistic-30-second-miniature-philippines-drone-showcase-tilt-shif-210205/poster-271cb7c195ec7468.jpg",
+    "format": "video/webm",
+    "videoBytes": 1550787,
+    "videoSha256": "1516d85b4763cd73c57e99f77e1dcedb213b7c4e85675702a4068ac2d1414944",
+    "thumbnailBytes": 48708,
+    "thumbnailSha256": "271cb7c195ec7468451e19d9372a797a3dd810e0621f8d606c2eb3945f3e498e"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

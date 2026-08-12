@@ -22,14 +22,14 @@
     "url": "https://x.com/hedo_ist/status/2083142573401526392"
   },
   "outputStatus": "source-verified",
-  "promptVisibility": "same-post",
+  "promptVisibility": "same-author-thread",
   "promptSourceUrls": [
-    "https://x.com/hedo_ist/status/2083142573401526392"
+    "https://x.com/hedo_ist/status/2083142578069791118"
   ],
   "modelEvidenceUrls": [
     "https://x.com/hedo_ist/status/2083142573401526392"
   ],
-  "prompt": "My first test of Seedance 2.5! ❤️‍🔥\n\nconclusions:\n\nResolution and realistic quality have improved significantly. The sound is clean and cinematic.\n\nUsing a 30-second duration is risky.\n\nWhen you ask for many specific elements within 30 seconds, you increase the likelihood of errors.\n\nI used a prompt with eight references, and it couldn't capture all eight references within the 30-second timeframe.\n\nI created it with @capcutapp\n\nMain prompt in the comments.",
+  "prompt": "A giant dragon appears, flying low over the turbulent jungle river and sending up sprays of water as it speeds along.\n\nSuddenly, a colossal, aggressive creature violently emerges from the river, attempting to bite the dragon and grazing it with its massive fangs.\n\nThe dragon manages to dodge the attack with an agile, swift, and dynamic maneuver. It continues flying low over the river, crossing paths with other dragons; together, they perform aerial acrobatics, playing with one another at high speed.\n\nA girl with an affectionate, purring dragon gazes out at the landscape.\n\nA photorealistic, cinematic scene of fast-paced action.",
   "media": {
     "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/my-first-test-of-526392/video-cc1c1617eab973cd.webm",
     "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/my-first-test-of-526392/poster-fa11e48db6d36286.jpg",

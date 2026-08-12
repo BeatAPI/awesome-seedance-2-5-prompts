@@ -1,0 +1,44 @@
+{
+  "slug": "made-with-365832",
+  "title": {
+    "en": "Made with",
+    "zh": "Made with"
+  },
+  "description": {
+    "en": "15-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "15s",
+  "aspectRatio": "8:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@itsPixieVerse",
+    "url": "https://x.com/itsPixieVerse/status/2086951911849365832"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/itsPixieVerse/status/2086951916622561687"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/itsPixieVerse/status/2086951911849365832"
+  ],
+  "prompt": "Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 widescreen\nlayout on a pure white background. THE ATTACHED REFERENCE IMAGE DEFINES THE ART STYLE —\ntreat it as a strict style bible and reproduce its exact rendering technique in every\nfigure on this sheet, with zero deviation and zero blending toward any other style.\n\n[STYLE — MIRROR THE REFERENCE EXACTLY]: Replicate the reference image's rendering\nverbatim — clean physically-based/photoreal 3D render, smooth realistic skin shading\nwith soft subsurface scattering, crisp studio lighting with a soft single key light and\ngentle fill, realistic cloth and leather material response (matte knit bodysuit, soft\nwool-blend coat drape, glossy leather boot sheen, brushed-metal dagger hilt), no\noutlines, no cel-shading, no painterly brushwork, no posterized color blocks. Color\npalette exactly as shown: deep burgundy, black and warm gold accent, neutral warm-white\nstudio background. Every figure — centerpiece, turnarounds, poses, expression heads,\ndetail crops — must look like it was rendered from the same 3D file, same lighting rig,\nsame material shaders as the reference image.\n\n[STYLE PROHIBITIONS — ABSOLUTE]: Do not add outlines or lineart. Do not flatten into\ncel-shading or posterized color blocks. Do not shift toward painterly/illustrated\nbrushwork. Do not darken, add contrast, or relight away from the soft even studio\nlighting shown in the reference. If uncertain whether the reference shows a given\nfeature, leave it out rather than guess.\n\n[PROPORTIONS]: Match the reference's realistic human proportions in every figure —\nnatural anatomy, true-to-life limb length and scale, not stylized or elongated. Do not\nalter proportions in the smaller studies.\n\n[SUBJECT_DESCRIPTION]: VESPER NOIR — Role: Underworld Information Broker. Core Mood:\nSultry, unhurried danger. Visual Signature: plunging bodysuit + draped opera coat off\none shoulder + gold dagger. Extremely tall adult woman in her mid-20s, mature sharp\njawline, warm olive skin, sleek jet-black hair in a low chignon with a loose\nface-framing strand, dramatic winged eyeliner, deep burgundy lips, a small beauty mark\nnear her mouth, half-lidded sultry gaze, confident smirk. Wears a fitted deep-plum\nbodysuit with a plunging neckline, a thin black choker with a small skull charm, worn\nunder a massive draped black coat slipped off both shoulders and gathered at the\nforearms, thigh-high matte-black leather boots, an ornate gold-hilted dagger held\nagainst her hip. Signature pose: weight shifted onto one hip, chin tilted down, sidelong\nglance at camera.\n\nLayout Composition (Organize strictly into these sections):\n\n1. LEFT PANEL: METADATA & TURNAROUND\n- Large, bold vertical typography \"VESPER NOIR\" in a clean, heavy sans-serif condensed\n  font.\n- Metadata Block: \"ROLE: INFORMATION BROKER\", \"CORE MOOD: SULTRY, UNHURRIED DANGER\",\n  \"VISUAL SIGNATURE: OPERA COAT + GOLD DAGGER\".\n- MINI TURNAROUND: 3 small vertical figures — neutral, back view, profile — rendered in\n  the identical photoreal reference style.\n- SILHOUETTE STUDY: 3 solid-black silhouettes matching the turnaround stances.\n- EXPRESSION STUDY (bottom left): exactly 4 small close-up headshots with subtle\n  expression shifts (smirk, sidelong glance, cold stare, faint smile), same\n  reference-matched rendering.\n\n2. CENTRAL PANEL: THE CENTERPIECE\n- One giant, dominant full-body figure in the signature pose, maximum detail, perfect\n  style-match to the reference image.\n\n3. RIGHT PANEL: MULTI-POSE & THEMATIC STUDIES\n- POSE STUDY: 4–5 small-to-medium figures in varied confident stances (leaning against\n  an unseen doorway, seated with legs crossed, coat swirling mid-turn, dagger held low,\n  arms crossed appraising something offscreen), each with a small handwritten-style\n  label underneath.\n- SPECIALTY STUDY: a vertical strip of 4–6 portrait variations, same reference-matched\n  rendering.\n\n4. BOTTOM RIGHT PANEL: DETAIL STUDY\n- Exactly 5 small square close-up crops: the dagger hilt, the choker's skull charm, the\n  coat's collar and lapel, the boots' leather texture, the chignon hairstyle. Each with a\n  clean handwriting-style label underneath.\n\nThe entire sheet must read as one consistent studio-grade character design bible where\nevery element could be a crop from the reference image itself: same rendering\ntechnique, same palette, same light values throughout.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-365832/video-f39149e3ede760a4.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-365832/poster-ffc1d13a292242f1.jpg",
+    "format": "video/webm",
+    "videoBytes": 748841,
+    "videoSha256": "f39149e3ede760a43eb6066ee0a251aa6ebb4b064af383a84f6b37c9b228f55d",
+    "thumbnailBytes": 89574,
+    "thumbnailSha256": "ffc1d13a292242f1d706ca252aae4c6473876e56515f4c72c07b71f6c73fa6ae"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

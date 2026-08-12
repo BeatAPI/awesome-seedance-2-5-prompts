@@ -1,0 +1,44 @@
+{
+  "slug": "seedance-2-5-280310",
+  "title": {
+    "en": "Seedance 2.5",
+    "zh": "Seedance 2.5"
+  },
+  "description": {
+    "en": "30-second vlog prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒vlog提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "vlog",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Naiknelofar788",
+    "url": "https://x.com/Naiknelofar788/status/2086875150390280310"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Naiknelofar788/status/2086875150390280310"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Naiknelofar788/status/2086875150390280310"
+  ],
+  "prompt": "Create a 30-second ultra-realistic boyfriend-vlog video filmed as one continuous, unbroken handheld take. Use the woman from the reference image as the main character and preserve her exact facial identity, hairstyle, facial features, body proportions, and overall appearance throughout the entire video. She must remain clearly the same person in every moment.\n\nThe footage should feel like her boyfriend casually filming her during an ordinary day in Tokyo with a small mirrorless camera or smartphone. Natural handheld movement, slight camera shake, imperfect framing, realistic autofocus, subtle exposure changes, occasional motion blur, and spontaneous reactions. She never poses or performs for the camera; she behaves naturally and sometimes forgets she is being filmed.\n\n0–6s — Morning apartment. Soft daylight enters a small Tokyo apartment. She sits near the bed fixing her hair and getting ready. She notices the camera, smiles, laughs, and playfully gestures for her boyfriend to stop filming. Keep the moment intimate and spontaneous.\n\n6–12s — Tokyo neighborhood. She walks ahead carrying a small bag while the camera follows behind. Quiet residential streets, bicycles, pedestrians, small shops opening, natural morning activity. She occasionally looks back at the camera and casually interacts with the person filming.\n\n12–18s — Local food stop. They enter a cozy neighborhood restaurant. She sits down and tries ramen or another local Japanese dish. Capture close handheld moments of her picking up chopsticks, tasting the food, reacting naturally, and laughing when it is hotter than expected. The boyfriend reacts naturally from behind the camera.\n\n18–24s — Afternoon exploration. She walks through a lively Tokyo neighborhood, browses small shops, looks at interesting objects, takes photos, and occasionally glances back at the camera. The camera naturally shifts between her face, hands, surroundings, pedestrians, storefronts, and small details of everyday life.\n\n24–30s — Evening ending. Tokyo streets are illuminated as night falls. She walks slightly ahead, then turns back and smiles at the camera. Cut naturally to them riding a train home; she sits beside the window watching Tokyo lights pass outside. The camera gently moves closer as she rests quietly, ending like an authentic personal memory.\n\nVISUAL STYLE: Ultra-realistic candid boyfriend travel vlog, documentary realism, natural lighting, authentic human expressions, imperfect handheld camera behavior, realistic skin texture, natural body movement, subtle motion blur, believable Tokyo atmosphere. No commercial/ad aesthetic, no dramatic posing, no cinematic perfection, no artificial transitions, no CGI appearance, no text, no logos, no face changes, no identity drift, no wardrobe changes, and no character inconsistency.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-280310/video-1511d706b1db03b7.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-280310/poster-7477b5f40a5a6338.jpg",
+    "format": "video/webm",
+    "videoBytes": 2170308,
+    "videoSha256": "1511d706b1db03b7e4ce30a272646731d6fe2596ef5b667f25e236065763aa22",
+    "thumbnailBytes": 77718,
+    "thumbnailSha256": "7477b5f40a5a6338ec392bca00bcc5454774d73bf3843ad87b3c986d2e033428"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

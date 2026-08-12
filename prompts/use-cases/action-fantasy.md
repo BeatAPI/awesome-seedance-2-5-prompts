@@ -1,6 +1,6 @@
 # Seedance 2.5 Action & Fantasy prompts
 
-[Back to all 200 prompts](../../README.md)
+[Back to all 300 prompts](../../README.md)
 
 ## 1. Vietnamese Mythic Sea Battle
 
@@ -267,7 +267,375 @@ Photorealistic live action, IMAX cinematic realism, ultra-detailed environments,
 
 ---
 
-## 4. Creative Video 235705
+## 4. Seedance 2.5
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-312407/video-7f64873c1b980504.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-312407/poster-1c22aadd862ec8dd.jpg" alt="Seedance 2.5 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 30-second ultra-realistic dark tokusatsu transformation sequence using the reference image as the heroine. She stands in an apocalyptic wasteland beneath a smoky...</summary>
+
+~~~~text
+Create a 30-second ultra-realistic dark tokusatsu transformation sequence using the reference image as the heroine.
+
+She stands in an apocalyptic wasteland beneath a smoky gray-blue sky, surrounded by ruins, ash, and distant flying creatures. A matte-metal ring with a glowing golden crystal is visible on her finger. Use one continuous cinematic handheld shot with an IMAX-scale feel.
+
+She slowly raises her hand. Her eyes suddenly glow white-gold as energy cracks through the air. She shouts, “Henshin!”
+
+The crystal shatters, releasing a powerful blue energy burst. Shockwaves distort the air as red smoke, blue lightning, and golden particles race across her body. Her clothes burn away into energy while iridescent biological armor grows over her skin. Metallic plates form and lock together with sparks, followed by an uneven golden horned mask with glowing compound eyes.
+
+Her transformation completes into a flame-gold Thunder Dragon warrior with glowing cracks, heavy armor, horns, and unstable energy pulsing beneath the surface.
+
+She drops into a fighting stance and forms a lightning blade in her hand. After a brief charged pause, she launches forward at extreme speed, smashing into the battlefield. The ground fractures and massive explosions, debris, smoke, lightning, and golden energy erupt across the frame.
+
+Ultra-realistic tokusatsu VFX, cinematic lighting, realistic materials, dynamic camera movement, detailed armor, physically believable particles, dramatic scale, intense transformation effects, seamless continuous motion, epic final impact.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-312407/video-7f64873c1b980504.webm)
+
+**Source:** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2087231217968312407) · 30s · 16:9 · cinematic action
+
+---
+
+## 5. Fight Night Look
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/fight-night-look-377256/video-7ac738949c2559b8.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/fight-night-look-377256/poster-9343aca254191fcc.jpg" alt="Fight Night Look video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Seedance 2 提示词。 生成一段15秒超写实电影感近身格斗视频，严格16:9横屏，原生4K，24fps。整体风格为雨夜伊斯坦布尔街头的粗粝新黑色电影动作场面。画面必须像真实真人实拍，不像AI美颜、不像数字人、不像游戏CG。 【素材绑定】 image1 = 第一位人物 / 主角参考。 image2 = 第二位人物 / 攻击者参考。...</summary>
+
+~~~~text
+Seedance 2 提示词。
+
+生成一段15秒超写实电影感近身格斗视频，严格16:9横屏，原生4K，24fps。整体风格为雨夜伊斯坦布尔街头的粗粝新黑色电影动作场面。画面必须像真实真人实拍，不像AI美颜、不像数字人、不像游戏CG。
+
+【素材绑定】
+image1 = 第一位人物 / 主角参考。
+image2 = 第二位人物 / 攻击者参考。
+
+使用image1作为主角的脸部、五官比例、发型、发色、皮肤质感、体型比例、年龄感、服装逻辑、鞋子、配饰和整体气质参考。
+使用image2作为攻击者的脸部、五官比例、发型、发色、皮肤质感、体型比例、年龄感、服装逻辑、鞋子、配饰和整体气质参考。
+
+两人都是明确成年的女性格斗者。
+保持两人的可识别身份，但允许自然真人表情、湿发摆动、呼吸起伏、肌肉紧张、疼痛反应和真实动作变形。
+不要把脸固定成僵硬照片。不要做角色设定图、拼贴图、分镜图、标签、文字、边框或面板。
+
+【真人质感要求】
+必须避免AI美颜感。
+保留自然人类皮肤质感、轻微不对称、真实毛孔、细微眼下纹理、湿发碎发、雨水打湿后的皮肤反光、自然眨眼、下颌紧张、呼吸不稳、肌肉用力和真实疼痛反应。
+脸不能像塑料娃娃、不能像数字头像、不能过度磨皮、不能有玻璃眼或过度完美五官。
+
+【场景】
+雨后的伊斯坦布尔夜街。整场格斗只发生在这条街上。
+街道狭窄而真实，地面湿滑发亮，有水坑、碎石、散落垃圾、停靠车辆、旧建筑墙面、路边栏杆、昏黄街灯、远处霓虹光晕、潮湿雾气和湿润反射。
+画面氛围粗粝、危险、冷色雨夜、带有新黑色电影质感。
+
+一辆深色停靠轿车从开头就固定出现在街道右侧或后方可见位置。它必须在整个镜头中保持同一空间位置，最后成为主角被踢飞后撞上的目标。不要让汽车突然出现。
+
+【核心动作原则】
+真实近身格斗，不是舞蹈，不是武侠，不是超能力。
+每一次攻击都必须有明确因果链：
+蓄力 → 出手路径 → 接触或擦过 → 身体反应 → 重心变化。
+禁止假打、隔空反应、身体穿模、无原因摔倒、无重量飞行。
+
+动作要快、狠、清楚，但不能混乱。
+两人都必须像真实训练过的格斗演员。攻击者更主动、更凶狠；主角一开始冷静、轻蔑、精准，但最后被攻击者重击打飞，处于失败状态。
+
+【摄影】
+一个连续手持长镜头，无剪切，无黑屏转场，无瞬移。
+摄影机路径必须清楚：
+主角肩后OTS开场 → 自然移动到侧面轮廓近景 → 近身格斗环绕跟拍 → 跟随主角被踢飞的方向 → 推近破损汽车上的主角脸部。
+手持摄影要贴近、流动、沉浸，但不能晃到看不清动作。
+只在关键近身擦拳和最后重击瞬间使用短暂速度变化，不要整段慢动作。
+
+【时间轴】
+
+0.0–2.5秒
+从主角肩后的OTS镜头开始。主角站在湿滑街道前景，背部和肩膀占据部分画面。远处的攻击者从雨夜街道另一端快速冲来，脚步踩过水坑，水花溅起。
+摄影机贴着主角肩膀移动，能看到停靠的深色轿车在街道右侧或后方位置。雨声、脚步声、远处车声和低沉环境音存在。
+主角没有慌张，只微微侧头，眼神冷静。
+
+2.5–5.5秒
+摄影机自然绕到两人的侧面轮廓角度。
+攻击者冲到近距离，对主角脸部打出一记快速直拳或右拳。
+只在拳头擦过脸侧的瞬间使用极短速度变化。
+主角不大幅闪避，不后仰，不后退。她只在最后一刻做极小幅度的头部后撤和下巴转动。
+拳头必须清楚从她脸颊前方几厘米处擦过，能看见拳头、脸颊和中间间隙。拳风轻微带动她的发丝和衣领。
+主角嘴角露出很淡的轻蔑笑，像是觉得对方太慢。表情要自然，不要夸张。
+
+5.5–8.5秒
+速度回到正常。
+攻击者立刻继续压迫，打出第二击和近身组合。
+动作顺序清楚：
+攻击者左拳横扫 → 主角用前臂挡开 → 攻击者低位膝击或短踢 → 主角后脚小幅滑步化解 → 主角用短肘或短拳反击攻击者胸口或肩线。
+每个动作都要有接触感。挡格必须真的改变攻击路线。被打到的一方肩膀、头部、胸口和脚步都要根据力的方向反应。
+湿地上的脚步会打滑，但不能失控。
+
+8.5–11.5秒
+近身格斗升级。
+攻击者更凶狠，连续逼近。主角尝试控制攻击者手臂，并打出一次快速反击。
+包含：
+低角度看到攻击者一次旋转踢或强力侧踢的准备动作；
+主角先闪过一次危险近身攻击；
+然后两人短暂贴身，出现手腕控制、肩膀碰撞、肘击格挡。
+摄影机绕着两人半圈，保持脸、手、脚和地面反应清楚。
+主角仍然看起来有优势，但攻击者没有被压制，她正在等待重击机会。
+
+11.5–13.0秒
+攻击者突然爆发，打出一记强力旋转后踢，目标是主角胸口或上半身中央。
+这一瞬间使用短暂慢动作和拉长低频冲击声。
+攻击者脚跟或脚底清楚击中主角上半身，不能打空。
+主角身体从胸口开始被冲击带动，肩膀后仰，双脚离开湿地，水花和灰尘从地面弹起。
+冲击必须真实有重量，不要像轻飘飘飞走。
+
+13.0–15.0秒
+主角被踢飞向开头就出现的深色停靠轿车。
+摄影机快速跟随她后退方向。
+她的背部和肩膀撞上车身与前挡风玻璃区域，挡风玻璃碎裂，玻璃碎片四散，但不要血腥。
+她重重落在车身或破碎挡风玻璃上，身体失去力量般塌下。
+攻击者站在湿街道上，保持强势战斗姿态，像胜者一样冷冷看着她。
+
+最后一秒，摄影机不再强调攻击者，而是从攻击者方向缓慢推近到倒在破损汽车上的主角脸部。
+主角脸上有雨水、疲惫、疼痛和不甘，仍保持image1身份特征。攻击者留在背景里轻微虚化。
+结尾不要切黑，停在主角破碎但清醒的表情上。
+
+【声音】
+无对白。
+无音乐或只允许极低频紧张氛围，不要盖过现场声。
+使用真实现场音：
+雨声、湿地脚步、水花、衣料摩擦、急促呼吸、拳脚破风声、格挡闷响、身体撞击声、车辆金属震动、玻璃破碎声、远处城市噪音。
+慢动作瞬间声音可以轻微拉长、变低沉，突出冲击重量。
+
+【重要规则】
+保持image1和image2身份一致。
+不要更换发型、发色、脸、体型、服装逻辑或整体气质。
+不要生成第三个人参与战斗。
+不要把视频做成角色设定图、拼贴、漫画分镜或海报。
+不要突然换场景。
+不要让汽车突然出现。
+不要让主角穿过汽车或玻璃。
+不要让攻击者复制成多人。
+不要让主角最后反杀。Scene必须以主角被击倒在车上结束。
+
+【负面提示】
+AI美颜感、塑料皮肤、过度磨皮、玻璃眼、娃娃脸、数字人、游戏CG、动漫、卡通、3D渲染感、低清晰度、脸部漂移、身份漂移、发型变化、服装变化、身材变化、额外肢体、手指错误、肢体融合、身体穿模、假打、隔空反应、无接触摔倒、动作断裂、瞬移、突然切镜、黑屏转场、武侠飞行、超能力、夸张冲击波、过度慢动作、血腥、喷血、断肢、过度暴力、无重量飞行、汽车位置漂移、背景忽然改变、攻击者复制、额外敌人、主角最后突然胜利。
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/fight-night-look-377256/video-7ac738949c2559b8.webm)
+
+**Source:** [@pyona_ai](https://x.com/pyona_ai/status/2087212084480377256) · 15s · 16:9 · cinematic action
+
+---
+
+## 6. Created with Seedance 2.5.
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-721493/video-8c5adaf031d6961c.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-721493/poster-57b94368eecec6ca.jpg" alt="Created with Seedance 2.5. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 30-sec vertical 9:16, 24fps, 8K ultra-photorealistic live-action video as ONE continuous handheld first-person smartphone shot. No cuts, resets or teleportation. Keep the...</summary>
+
+~~~~text
+Create a 30-sec vertical 9:16, 24fps, 8K ultra-photorealistic live-action video as ONE continuous handheld first-person smartphone shot. No cuts, resets or teleportation. Keep the exact same hands, black smartwatch with silver Milanese loop, POV, lens, weather, lighting and colour grade throughout.
+
+0:00–0:05 — DOOR: Walk through a realistic modern office corridor toward a black-framed glass EXIT door with falling snow visible outside. Press the white wall button (green ring), grab the steel handle and open it. Cold light and snow blow inside; naturally cross the threshold. Audio only here: footsteps, button click, door sound, cold whoosh + subtle cinematic swell.
+
+0:05–0:10 — REALM: Seamlessly enter a vast snowy medieval fortress courtyard. Falling snow, wind, footprints, weathered stone walls, armored guard with spear and visible breath. Continue walking, then tilt upward.
+
+0:10–0:16 — CASTLE: Reveal a colossal original northern gothic fortress with dark weathered stone, towers, spires, snow, mist and tiny warm window lights. Natural handheld movement.
+
+0:16–0:21 — COURTYARD: Continuously pan left/down: saddled white horse with steam breath, hooded figure with lantern, armored knights and warhorses, workers carrying wooden planks, flickering torches. Realistic lived-in medieval world.
+
+0:21–0:25 — GATE: Continue toward a massive iron-studded gate with sentries, shields and spears. Camera begins tilting toward the sky.
+
+0:25–0:30 — DRAGONS: Tilt into stormy clouds and reveal two enormous original dragons with realistic anatomy, scarred dark slate skin, leathery wings and heavy natural flight. One turns toward the castle and unleashes a powerful orange fire stream, realistically illuminating snow, clouds and architecture. End on the fire.
+
+LOOK: grounded medieval dark-fantasy realism, cold desaturated blue-grey grade, soft overcast light, volumetric fog, realistic snow/cloth/armor/horse physics, natural motion blur, subtle film grain, HDR, authentic smartphone imperfections.
+
+NO: CGI/game look, cartoon, glossy armor, plastic skin, oversaturation, excessive VFX, perfect stabilization, cuts, changing POV/hands/watch, fake snow, malformed hands/animals, text or watermark.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-721493/video-8c5adaf031d6961c.webm)
+
+**Source:** [@frametheory058](https://x.com/frametheory058/status/2087180835925721493) · 28s · 9:16 · cinematic action
+
+---
+
+## 7. @@=场景：严格参考悬崖废墟平台和未来城市夜景。废金属标准球台居中，周围有货箱、机械、电缆、发电机、轮胎、信号杆、管线、破布、粉紫矿物；远城灯火在薄雾中散焦，偶有飞
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-001791-001791/video-ed52492a9a1b2fc2.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-001791-001791/poster-38b9011e279b5649.jpg" alt="@@=场景：严格参考悬崖废墟平台和未来城市夜景。废金属标准球台居中，周围有货箱、机械、电缆、发电机、轮胎、信号杆、管线、破布、粉紫矿物；远城灯火在薄雾中散焦，偶有飞 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — @@=场景：严格参考悬崖废墟平台和未来城市夜景。废金属标准球台居中，周围有货箱、机械、电缆、发电机、轮胎、信号杆、管线、破布、粉紫矿物；远城灯火在薄雾中散焦，偶有飞船，禁空旷影棚感。 @@=B蓝色机器人：严格参考磨损蓝色方头、双黄眼、短腿、天线；仅右臂持红拍。灵敏可爱，有克制的街头炫技感。...</summary>
+
+~~~~text
+@@=场景：严格参考悬崖废墟平台和未来城市夜景。废金属标准球台居中，周围有货箱、机械、电缆、发电机、轮胎、信号杆、管线、破布、粉紫矿物；远城灯火在薄雾中散焦，偶有飞船，禁空旷影棚感。
+@@=B蓝色机器人：严格参考磨损蓝色方头、双黄眼、短腿、天线；仅右臂持红拍。灵敏可爱，有克制的街头炫技感。
+@@=A独眼机器人：严格参考高瘦旧蓝灰机体、圆柱头、唯一黄眼、方胸、细长四肢、锈蚀破布；右手持旧拍，沉稳老练。 布局：球台东西向，A固定西端/常规画面左，B固定东端/右；特殊机位后恢复轴线。16镜头30秒，禁连续平视中景。可见背景均尽量带入废墟、城市、薄雾、飞船。节奏：慢起势—爆发发球—四镜头近台速攻—远台对拉—侧旋变线—飞扑反杀—撞眼静止—喜剧逃跑。 【1 00:00—02.8】24mm高空极大全景，18米高、55度俯拍。悬崖框景，球台与角色仅占画宽12%，远城、薄雾、飞船、废墟建立宏大氛围。缓降推进，2.3秒Snap Zoom拉向球台。 【2 02.8—05.0】32mm F2大透视。镜头贴A平放的左手，手掌和暖橙球占近半画面；后景A弓腰凝视。先焦球；A滚肩、转拍半圈接住；0.6秒rack focus转向独眼，光圈收缩，冻结0.25秒。 【3 05.0—06.9】28mm贴球升空并绕到上方，最高点变90度俯拍，球台、角色、废墟缩小。速度正常→25%并悬停0.3秒→下落130%，画面带到平台边缘和陈设。 【4 06.9—07.8】50mm低机位略仰拍，不用主观。球高速落下，A弓腰蓄力，末瞬转胸转腕，从低处擦球侧下方。手臂、破布、天线成斜线；镜头短促前冲甩摇，击球落在音乐重拍。 【5 07.8—09.0】24mm贴桌5厘米高速横移。球低贴网，B用唯一右臂反手快拨，A小幅正手推挡。球贴镜落台，网、桌纹、脚步、废墟、城市构成多层空间，节奏“啪嗒啪嗒”。 【6 09.0—10.2】50mm肩后正反打。A肩与球拍作巨大前景，B在后景；焦点随球转向B，它侧跳正手快带。触球Snap Zoom 8%，再甩摇回前景，背景保留城市和立柱。 【7 10.2—11.4】18mm球拍绑定主观，仅用于近台速攻。镜头固定在B右拍拍柄处，来球冲向镜头；B末瞬转腕回击，画面随拍猛烈变向，球网、A、城市掠过，立即硬切。 【8 11.4—12.8】28mm球网立柱机位。球两次贴镜穿过：A正手快攻，B压低反挡，A再追打中路。动作短促，网轻振，两侧带货箱、发电机、电线、城市。最后一球更深更高，迫使双方退台。 【9 12.8—15.4】90度直播顶拍，高14米；球台占画面1/3，周围陈设和平台边缘可见。双方近台快打两次；A拉高深上旋，B后退回深球，A也退至距台2.5—3米。轻微Zoom out，展示站位、跑动、长弧线。 【15 24.0—25.5】70mm肩后反打，A和眼中球作巨大焦外前景，B在后景帅气大力扣杀收拍(把球瞬间打进A脸上的独眼中卡住)。看清后冻结；猛烈Snap Zoom到A脸，眼灯先放大再缩小，头倾3度、天线僵直、右手藏拍。再Zoom out成隔桌僵持，静止0.35秒。 【16 25.5—30.0】50mm A阴影侧中近景。A放低右拍，散热片开合两次；左手夹球停0.3秒，“啵”地从独眼中把球扣出。独眼完好但缩成针尖，逐节攥球不捏碎。甩向B，对视0.3秒；B扔拍，球拍落地弹转，转身以短腿高速逃过货箱、发电机。手持追随再甩回A；A不追，只攥球凝视。最后freeze frame 0.35秒。 音乐：工业嘻哈，厚Kick、干Snare、Hi-hat、Sub Bass、金属采样、少量Scratch。0—5秒松弛Boom Bap；抛球抽鼓，发球重拍；8—13秒双倍速同步近台击球；13—18秒宽阔低频配合远台对拉；旋转球Pitch Down，变线恢复；飞扑加速；23.1秒撞眼全停；26秒后轻巧但不低幼的嘻哈喜剧节拍，定格停。 风格：超写实电影级科幻CG、8K IMAX、工业嘻哈运动短片。真实旧金属PBR和机械惯性；仅用天空、城市、矿物、平台灯。深靛蓝/岩灰主色，粉紫辅色，暖橙球、黄眼点缀。60fps、180度快门；仅抛球顶点、旋转球落台、飞扑最大伸展处time ramp。保持角色、独臂、独眼、轴线、球路连续；禁空背景、多肢、复制穿模、身份漂移、卡通弹性、低幼喜剧、游戏过场、字幕对白。
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-001791-001791/video-ed52492a9a1b2fc2.webm)
+
+**Source:** [@df_reno](https://x.com/df_reno/status/2087157870895001791) · 30s · 413:180 · cinematic action
+
+---
+
+## 8. Seedance 2.5 on
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-on-237518/video-77a24ec0b272ad8e.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-on-237518/poster-35ccbfb16fbc493d.jpg" alt="Seedance 2.5 on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Photorealistic cinematic 1990s American diner, red vinyl booths, neon signs, chrome details, checkerboard floor, soft natural window light mixed with warm practicals, subtle...</summary>
+
+~~~~text
+Photorealistic cinematic 1990s American diner, red vinyl booths, neon signs, chrome details, checkerboard floor, soft natural window light mixed with warm practicals, subtle handheld texture, rich lived-in period detail, heavy film grain. Shot with modern realism and precise temporal control. Use the provided reference image as the exact character lock for the girl with long wavy blonde hair, green-hazel eyes, winged eyeliner, deep maroon lipstick, and an orange dress. Maintain perfect facial structure, hair, head shape, skin texture and clothing consistency at all times. Do not change any other character, scene, action, camera movement, timing, lighting, environment, or visual detail.
+0-5s: [Medium Wide] The girl @[Image 1](image_1) sits in a red vinyl booth. She stands up, turns, and collides hard into a waitress carrying a full breakfast tray (eggs, bacon, toast, coffee pot). Impact is sudden and physical.
+5-12s: [Dynamic Tracking into Super Slow-Motion] Collision detonates. Tray, plate, eggs, bacon strips and coffee pot explode upward. Coffee erupts into long liquid ribbons and perfect suspended droplets. Camera orbits smoothly around the impact. Time locks completely at the peak of the spill. Every face freezes in pure shock. Only the girl remains free to move. She freezes for one beat with a clear "I fucked up" expression, then quickly grabs two bacon strips and a fried egg from the floating debris.
+12-22s: [Tracking Shot] Still inside the frozen diner, she walks toward the exit door while taking deliberate bites of bacon then egg. All patrons, waitress and flying food stay perfectly suspended in mid-air.
+22-27s: [Medium Shot] Just as she reaches the door and is about to push it open, time snaps back to normal speed. Everything that was floating crashes down at once — plates, eggs, bacon, tray and coffee slam onto the floor with a loud chaotic impact. The waitress and patrons react in sudden real-time shock.
+27-30s: [Medium Close-Up] She pauses, turns slightly, raises her eyebrows and gives a small casual "it is what it is" shrug with a quiet half-smile of acceptance, still holding the remaining food.
+Photorealistic, ultra-detailed fluid and object physics, perfect volume and surface tension on liquids, sharp motion blur only on moving elements, stable character, cinematic lighting, heavy natural film grain, no artifacts, movie-level temporal coherence, high rewatch value.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-on-237518/video-77a24ec0b272ad8e.webm)
+
+**Source:** [@Just_sharon7](https://x.com/Just_sharon7/status/2087143847453237518) · 30s · 8:9 · cinematic action
+
+---
+
+## 9. FPV-to-POV action sequence
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/fpv-to-pov-action-sequence-280439/video-720e28a41a71edb0.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/fpv-to-pov-action-sequence-280439/poster-2796702280ec297c.jpg" alt="FPV-to-POV action sequence video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — [SCENE] A single unbroken FPV move over Safavid Isfahan in bright daylight, fast but controlled, with continuous momentum through every change of height and direction. The camera...</summary>
+
+~~~~text
+[SCENE]
+
+A single unbroken FPV move over Safavid Isfahan in bright daylight, fast but controlled, with continuous momentum through every change of height and direction.
+
+The camera starts high above the city, angled down over turquoise domes, minarets, gardens and mudbrick roofs stretching toward the plain. Crowds and caravans are moving dots below. After one suspended beat, the aerial platform pitches into an accelerating descent. A tiled dome expands from the lower center until it fills the view. The camera levels just above its curved surface, skims over chipped blue glaze and arabesques, banks between two minarets and follows the falling roofline into a broad bazaar street.
+
+A black horse is already galloping at full stretch. Its dust-covered courier lies low over the neck, left hand gripping the reins and right hand holding a palm-length red leather dispatch capsule to his chest. The camera settles behind his right shoulder, then slides alongside until the horse’s driving forelegs and the courier’s strained face share the frame. Two mounted guards remain several lengths behind, their hooves throwing a dense trail of dust. Hoofbeats, leather tack and rushing wind dominate the sound.
+
+A loaded camel caravan crosses ahead. The courier guides the horse through the moving gap between two camels. The camera rises over their swinging packs and ringing bells, passes close above a startled handler, then drops back into the horse’s wake. The guards force their own path through as baskets tip and fruit rolls across the road.
+
+A full-size woven Persian carpet sweeps from a side alley at waist height. Its surface holds a shallow taut curve, fringes streaming. A second rider crouches low with one knee planted, left hand gripping the front edge. The carpet accelerates alongside the horse and matches its speed as the camera widens into a side-by-side tracking view. The rider reaches with his free right hand; the courier extends the red capsule and transfers it directly into his grip while both remain in motion.
+
+The carpet rider pulls the capsule to his chest, banks upward and climbs between the buildings. The handoff causes the camera to leave the horse, pitch up and follow the carpet past close rooftops, timber balconies and snapping washing lines. It clears the roofline and sweeps over the turquoise domes toward the distant wall. The camera settles behind and slightly above the rider. Final wide frame: the carpet continues climbing into open sky, Isfahan spreads across the landscape below, and the horse chase races on as a tiny trail of dust far beneath.
+
+[FINAL LIGHT / LOOK LOCK] Natural daylight of the chosen hour, true shadows, warm ochre-and-turquoise palette. Keep the high-end documentary look: filmic motion cadence, natural available light, restrained neutral grade, fine film-like grain, observational near-still framing, no modern objects anywhere in frame. All people in Safavid-era Persian dress.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/fpv-to-pov-action-sequence-280439/video-720e28a41a71edb0.webm)
+
+**Source:** [@AI_ArtSeller](https://x.com/AI_ArtSeller/status/2087138541025280439) · 15s · 16:9 · cinematic action
+
+---
+
+## 10. Made With Seedance 2.5 in
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-in-668920/video-c670a882049d214f.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-in-668920/poster-4f5c5a1500fe58d5.jpg" alt="Made With Seedance 2.5 in video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 30-second photorealistic cinematic short film, 2.39:1, 35mm film aesthetic, natural human performances, realistic train station and carriage, soft winter daylight, subtle...</summary>
+
+~~~~text
+Create a 30-second photorealistic cinematic short film, 2.39:1, 35mm film aesthetic, natural human performances, realistic train station and carriage, soft winter daylight, subtle film grain, restrained camera movement, realistic skin and clothing, no subtitles, no narration.
+
+CHARACTERS:
+One woman in her 30s carrying a small black handbag.
+One elderly man carrying a bouquet of white flowers.
+LOCATION:
+One nearly empty commuter train and one small rural station.
+0–4s: The woman runs onto a train just before the doors close. She catches her breath.
+4–7s: She looks at her ticket. Her expression changes.
+She is on the wrong train.
+7–11s: She looks around the nearly empty carriage.
+An elderly man sits opposite her holding a bouquet.
+11–14s: He notices her ticket.
+“Wrong train?”
+She nods.
+14–17s: He looks at his flowers. “Me too.”
+17–21s: Neither speaks.
+The train moves through winter countryside.
+21–24s: The train stops at a tiny rural station.
+The old man stands.
+24–27s: Before leaving, he gives her one white flower.
+He steps off.
+27–30s: The doors close.
+The woman looks through the window.
+She sees the station sign.
+Her expression changes.
+It is the name of her childhood hometown.
+Cut to black.
+SOUND:
+Train wheels, carriage vibration, distant announcement, footsteps and doors. No music until the train reaches the countryside. Then soft piano and cello.
+IMPORTANT:
+Do not add additional passengers. The station name should be visible but not digitally overlaid. The final recognition must come from the woman's reaction and the physical station sign.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-in-668920/video-c670a882049d214f.webm)
+
+**Source:** [@AllaAisling](https://x.com/AllaAisling/status/2086993468677668920) · 30s · 427:240 · cinematic action
+
+---
+
+## 11. "A Pixar style short. Dave checks the sky before leaving home, gets ambushed by
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/a-pixar-style-short-dave-checks-the-sky-before-leaving-551127/video-c42964de7b1f0dbb.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/a-pixar-style-short-dave-checks-the-sky-before-leaving-551127/poster-b75ebfa56237a3bb.jpg" alt="&quot;A Pixar style short. Dave checks the sky before leaving home, gets ambushed by video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — &quot;A Pixar style short. Dave checks the sky before leaving home, gets ambushed by one furious city pigeon, and the chase does not end well for him.&quot; Same prompt bar, two very...</summary>
+
+~~~~text
+"A Pixar style short. Dave checks the sky before leaving home, gets ambushed by one furious city pigeon, and the chase does not end well for him."
+
+Same prompt bar, two very different looks.
+
+Both live in ContentStudio.
+
+Which would you run?
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/a-pixar-style-short-dave-checks-the-sky-before-leaving-551127/video-c42964de7b1f0dbb.webm)
+
+**Source:** [@ContentStudioio](https://x.com/ContentStudioio/status/2086845291282551127) · 20s · 16:9 · cinematic action
+
+---
+
+## 12. Creative Video 235705
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/creative-video-235705-235705/video-cf71e162629508f0.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/creative-video-235705-235705/poster-43f427dbc5628d0f.jpg" alt="Creative Video 235705 video preview" width="700" />
@@ -540,7 +908,7 @@ blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, waterma
 
 ---
 
-## 5. I've spent a lot of time with over the past
+## 13. I've spent a lot of time with over the past
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-ve-spent-a-lot-of-time-with-over-the-past-428749/video-3f856d6f703053cd.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-ve-spent-a-lot-of-time-with-over-the-past-428749/poster-67f384f1c6009ffd.jpg" alt="I've spent a lot of time with over the past video preview" width="700" />
@@ -573,7 +941,7 @@ Things are never perfect first try, but Seedance 2.5 takes us all in a step in t
 
 ---
 
-## 6. Action Film Study 398669
+## 14. Action Film Study 398669
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/a-structured-15-second-high-intensity-action-due-398669/video-0b307f3b0df4248b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/a-structured-15-second-high-intensity-action-due-398669/poster-4865ca414cd619f3.jpg" alt="Action Film Study 398669 video preview" width="700" />
@@ -594,7 +962,7 @@ A structured 15-second high-intensity action duel with explicit hard cuts. [SHOT
 
 ---
 
-## 7. 這個短片本來是想用3段5秒的 Kling 來做
+## 15. 這個短片本來是想用3段5秒的 Kling 來做
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/35-kling-974383/video-9cebefd0823c4131.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/35-kling-974383/poster-8281f82a92d20109.jpg" alt="這個短片本來是想用3段5秒的 Kling 來做 video preview" width="700" />
@@ -615,7 +983,7 @@ A structured 15-second high-intensity action duel with explicit hard cuts. [SHOT
 
 ---
 
-## 8. Gameplay Study 381511
+## 16. Gameplay Study 381511
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/mpt-create-a-15-second-cinematic-street-culture-381511/video-58a9ed1bdccd935c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/mpt-create-a-15-second-cinematic-street-culture-381511/poster-4314a4fcc2e69247.jpg" alt="Gameplay Study 381511 video preview" width="700" />
@@ -636,7 +1004,7 @@ Create a 15 second cinematic street culture montage in 16:9, filmed at 30 fps wi
 
 ---
 
-## 9. 因為現在可以無限用 來生成 720P 15秒短片, 所以, 便聽 勸
+## 17. 因為現在可以無限用 來生成 720P 15秒短片, 所以, 便聽 勸
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-388128/video-57a869c9b7139abd.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-388128/poster-89b98f6c984879c9.jpg" alt="因為現在可以無限用 來生成 720P 15秒短片, 所以, 便聽 勸 video preview" width="700" />
@@ -659,7 +1027,7 @@ A continuous 15-second cinematic action shot. An extraordinarily beautiful ancie
 
 ---
 
-## 10. Never mess with a spider girl
+## 18. Never mess with a spider girl
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/never-mess-with-a-spider-girl-658741/video-15680775b70d1bb2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/never-mess-with-a-spider-girl-658741/poster-5507a23354ce2d83.jpg" alt="Never mess with a spider girl video preview" width="700" />
@@ -680,7 +1048,111 @@ IMG_1 = BLONDE FEMALE HERO CHARACTER SHEET**  Use as the exact hero identity and
 
 ---
 
-## 11. 因為一時沖動就訂閱了 的 year plan. 其中送了 15sec
+## 19. Using Seedance 2.5 + Topaz Upscaler inside . .
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/using-seedance-2-5-topaz-upscaler-inside-786932/video-51c7ac076899372b.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/using-seedance-2-5-topaz-upscaler-inside-786932/poster-fe0b0e1f2de73c2c.jpg" alt="Using Seedance 2.5 + Topaz Upscaler inside . . video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Part 1: IMAGE MAP: Img 1 → exact first frame. Img 2 → exact final frame. one continuous handheld shot, 8 seconds, no cuts. begin exactly on Img 1. the black horse is already...</summary>
+
+~~~~text
+Part 1:
+
+IMAGE MAP: Img 1 → exact first frame. Img 2 → exact final frame.
+
+one continuous handheld shot, 8 seconds, no cuts. begin exactly on Img 1. the black horse is already walking slowly through the moonlit meadow. the armored rider is exhausted and slumped in the saddle, his body naturally moving with the horse.
+
+0–2.5s: his posture gradually collapses forward. his grip loosens and the reins slip from his hands. the horse keeps walking calmly, completely unaffected. his cloak and chainmail respond naturally to the movement.
+
+2.5–5.5s: he loses balance and falls forward off the saddle. real gravity and heavy armor physics. torso leads, arms and legs follow with natural inertia. cloak trails behind and then collapses. helmet stays firmly attached and retains the exact size, shape and proportions from Img 1. arrows remain embedded.
+
+5.5–8s: he hits the wildflowers and remains completely motionless. flowers and grass compress beneath his armor. the horse continues walking away without stopping or turning. by the final frame, only the horse's hindquarters and black tail remain visible, matching Img 2.
+
+camera stays low and handheld from the same position, with subtle shake and a delayed downward adjustment following the fall. no dramatic tracking, zoom, orbit or perspective change. same moon, meadow, lighting, armor, helmet, horse and environment throughout. photorealistic physics, natural motion blur, fine grain, blue moonlight.
+
+critical: do not redesign the helmet or armor. do not make the horse stop. do not make the fallen warrior move after impact.
+
+Part 2:
+
+IMAGE MAP: Img 1 → exact first frame. Img 2 → exact final frame.
+
+one continuous cinematic shot, 8 seconds, no cuts. begin exactly on Img 1. the fallen armored warrior lies completely motionless in the flower field while the horse continues slowly walking away toward the left background.
+
+0–2s: camera holds low over the fallen warrior. subtle handheld movement, moonlight, flowers and armor remain consistent. the horse continues its natural walking cycle, tail swaying, gradually increasing distance.
+
+2–6.5s: the camera begins a slow, continuous vertical rise and pullback, as if a crane/drone is ascending directly upward from the fallen warrior. no sudden acceleration, no orbit. the frame steadily reveals more of the enormous moonlit meadow. the warrior remains completely motionless while becoming smaller in frame. the horse continues walking away, creating increasing separation between them.
+
+6.5–8s: camera reaches a high overhead position approximately 100 meters above the ground, transitioning naturally into the composition of Img 2. the entire flower field now dominates the frame, with the tiny fallen warrior near center-right and the horse far to the upper-left. both remain clearly readable but small.
+
+maintain exact continuity of the same warrior, armor, helmet, arrows, black cloak, horse, meadow, moonlight and night grade. realistic atmospheric perspective increases with altitude. flowers become a textured carpet as the camera rises. no teleporting, no cuts, no sudden zoom, no change in time of night. the warrior never moves after impact. the horse never turns back. cinematic low-light grain, natural motion blur, soft moon bloom.
+
+critical: the camera movement is one smooth physical rise from ground level to approximately 100m overhead, perfectly bridging Img 1 → Img 2.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/using-seedance-2-5-topaz-upscaler-inside-786932/video-51c7ac076899372b.webm)
+
+**Source:** [@Motion_Viz](https://x.com/Motion_Viz/status/2086116255111786932) · 18s · 4:3 · cinematic action
+
+---
+
+## 20. Seedance 2.5 didn't blink..
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-didn-t-blink-559715/video-3597927f4aa095df.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-didn-t-blink-559715/poster-1c587d4d3068f032.jpg" alt="Seedance 2.5 didn't blink.. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Prompt for Seedance 2.5 POV video, continuous first-person shot from a chest-mounted camera on a Korean woman, early twenties, a dancer alone in a mirrored studio at 2am. Three...</summary>
+
+~~~~text
+Prompt for Seedance 2.5
+
+POV video, continuous first-person shot from a chest-mounted camera on a Korean woman, early twenties, a dancer alone in a mirrored studio at 2am. Three walls are floor-to-ceiling mirror set at slight angles, so her reflection — and the camera on her chest — is visible in multiple panels at once for the entire thirty seconds, every reflection perfectly matching her real movement in correct perspective and depth. Cool blue-white fluorescent light, night city blue through a high window. Her hands enter frame constantly; her face is seen only in the mirrors.
+
+0:00-0:02 — COLD OPEN mid-motion, already dancing hard and fast. The camera whips through a full turn on the very first frame — the entire mirrored room streaks past the lens, and in the mirrors five, six, seven versions of her turn in perfect sync, the recursive corridor of facing mirrors receding into the dark. Sweat already flying off her hair.
+
+0:02-0:06 — She lands the turn and drops into a low, sharp phrase — ribs, hips, arms cutting the air. Every mirror panel shows a different angle of the same body, all frame-locked. The camera moves with her chest so the room tilts and swings while the reflections stay perfectly anchored.
+
+0:06-0:09 — She explodes into a jump. In three mirror panels at once her whole body leaves the ground, hair lifting, sweat spraying in the fluorescent light. Hard weighted landing, floor resonance.
+
+0:09-0:12 — She spins to face the main mirror wall dead-on and hits a freeze — and for one held second the frame is filled with an army of identical reflections all frozen in the exact same pose, receding into infinity.
+
+0:12-0:16 — She breaks the freeze back into the phrase, faster and looser now, breathing audibly. The mirror in front of her has fogged slightly from her body heat; her forearm swipes across it mid-movement, clearing a streaked arc she keeps dancing through.
+
+0:16-0:19 — Mid-combination she stumbles — a genuine misstep, foot landing wrong. She catches herself hard against the mirror with one open palm, leaving a smeared wet handprint on the glass. Breathing ragged, jaw tight, forehead almost touching her own reflection.
+
+0:19-0:22 — She stays there a beat too long, head down, both hands on the glass now, chest heaving. Her reflection does the same, inches away. The frustration is in her shoulders, not her face.
+
+0:22-0:26 — She pushes off the glass and drops straight back into it, harder than before — the whole phrase run again at full attack, every reflection matching her exactly, sweat now visibly running.
+
+0:26-0:29 — Final sequence, fastest movement of the entire piece, the camera barely able to hold the room steady, mirrors streaking and resolving without a single break in geometry.
+
+0:29-0:30 — She hits the last beat and freezes, chest heaving, staring directly into her own reflection, which stares back. The handprint still on the glass beside her face. Hard cut to black. Non-empty closing frame.
+
+Scene: an empty dance studio at 2am. Three walls of floor-to-ceiling mirrors at slight angles to each other, creating overlapping recursive reflections. Pale sprung wood floor, scuffed. A barre along one mirror, a phone propped against it, a water bottle and crumpled towel on the floor. One high window showing deep night-blue city glow. Overhead fluorescent panels give flat, cool, slightly clinical white light — no warm tones anywhere, nothing amber.
+
+Style: shot like real chest-mounted training footage, not a cinema rig — a dancer filming her own late-night session. Ultra-realistic, unstaged: constant hard camera movement driven entirely by her body, motion blur on fast turns, brief focus hunt when a hand passes close to the lens. The mirrors are the centerpiece — every reflection geometrically correct, frame-synchronized to the real body, at true perspective and depth, including recursive reflections in facing mirrors. Pore-level realism: sweat beading and running at the temple and collarbone, hair stuck to a damp neck, visible chest heave, flushed skin, a wet handprint smear left on glass. Performance carries genuine struggle — she is already at her limit in frame one, hits one honest stumble, and chooses to keep going. Behavior under pressure, never performed emotion, no face-acting at the camera.
+
+Camera: continuous first-person POV for all thirty seconds, chest-mounted, no cuts to any external angle. Wide field of view, roughly 84 degrees, mild edge softness of a real action camera. Motion is entirely body-driven — it dips when she drops, launches when she jumps, whips through every turn, jolts on the stumble. No smoothing, no stabilization, no artificial glide. The energy is highest in the first two seconds and the last four.
+
+Sound: no dialogue, no voiceover, no narration. <a beat already playing, thin from small phone speakers, mid-track from frame one> <her breathing, ragged and heavy throughout> <feet squeaking and gripping on sprung wood> <fabric shifting, a hard exhale on each accent> <a heavy landing thud, floor resonance> <a forearm squeaking across fogged glass> <a palm slapping and dragging on glass, a stumble scuff> <breath breaking, then re-finding rhythm> <footwork sharp and fast, a final hard stop, breathing loud in the sudden silence>.
+
+Positive locks: camera never leaves first-person chest POV, no external cutaways. Every mirror reflection stays perfectly synchronized to the real body at every frame — correct perspective, depth, and angle in each panel, including recursive reflections between facing mirrors. No reflection lag, no missing reflection, no reflection moving independently or showing a different pose. Same dancer, clothing, and studio geometry held identical throughout. The handprint appears at 0:19 and stays visible through the final frame; the fogged-glass arc appears at 0:16 and stays. Lighting stays flat cool fluorescent white with night-blue window glow — never shifts warm or golden. Sweat accumulates continuously and never resets. Contact shadows read correctly under every step and landing. Eyes stay natural in every mirror — no eye glow. No modern logos, no on-screen text or UI, no burned-in subtitles.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-didn-t-blink-559715/video-3597927f4aa095df.webm)
+
+**Source:** [@abxxai](https://x.com/abxxai/status/2086100882748559715) · 30s · 16:9 · cinematic action
+
+---
+
+## 21. 因為一時沖動就訂閱了 的 year plan. 其中送了 15sec
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/year-plan-15sec-654814/video-aa3ebb388961266b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/year-plan-15sec-654814/poster-e833939c52a1548a.jpg" alt="因為一時沖動就訂閱了 的 year plan. 其中送了 15sec video preview" width="700" />
@@ -701,7 +1173,7 @@ A continuous 15-second cinematic shot. An immortal swordmaster stands atop a mis
 
 ---
 
-## 12. Parking Lot Energy Hits Different After Midnight
+## 22. Parking Lot Energy Hits Different After Midnight
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/parking-lot-energy-hits-different-after-midnight-868579/video-8ed5de4648e6da2c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/parking-lot-energy-hits-different-after-midnight-868579/poster-9a6b394120971194.jpg" alt="Parking Lot Energy Hits Different After Midnight video preview" width="700" />
@@ -722,7 +1194,7 @@ Create a 10 second photorealistic nighttime fashion and automotive film in 16:9 
 
 ---
 
-## 13. Action Film Study 720086
+## 23. Action Film Study 720086
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/action-film-study-720086/video-fe0a610bd8c90ebf.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/action-film-study-720086/poster-adf0c60a33803083.jpg" alt="Action Film Study 720086 video preview" width="700" />
@@ -762,7 +1234,7 @@ BROADCAST REALISM: Fast, kinetic, imperfect framing due to running camera operat
 
 ---
 
-## 14. A 30-second 3D animated action + emotional story built around
+## 24. A 30-second 3D animated action + emotional story built around
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/a-30-second-3d-animated-action-emotional-story-b-685821/video-fafc0fb10175d81d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/a-30-second-3d-animated-action-emotional-story-b-685821/poster-c9f1a5faa82c731f.jpg" alt="A 30-second 3D animated action + emotional story built around video preview" width="700" />
@@ -802,24 +1274,17 @@ Prompt & character details...👇
 
 ---
 
-## 15. Supermodel Woman Wrestling
+## 25. Supermodel Woman Wrestling
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/supermodel-woman-wrestling-432306/video-5d2b8c5d54ca198d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/supermodel-woman-wrestling-432306/poster-be6781eb1ec7efc9.jpg" alt="Supermodel Woman Wrestling video preview" width="700" />
 </a>
 
 <details>
-<summary><strong>Prompt</strong> — #wrestling #promptsharing #seedance Prompt in comments Full 30 sec clip from seedance 2.5 using my director skill in claude and my fight skill. still ironing out some bugs. (mini...</summary>
+<summary><strong>Prompt</strong> — ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ SEEDANCE 2.5 — WWE-STYLE RING DUEL (30s, single-take) ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ASSET BINDING:...</summary>
 
 ~~~~text
-#wrestling
-#promptsharing
-#seedance
-Prompt in comments
-Full 30 sec clip from seedance 2.5 using my director skill in claude and my fight skill.
-still ironing out some bugs.  (mini morph half way)
-Testing with Character names instead of @ image definitions.
-More testing full release soon.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ SEEDANCE 2.5 — WWE-STYLE RING DUEL (30s, single-take) ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ASSET BINDING: @image1 defines Vesper — blonde hair, face, and black satin gown. Do not use the runway background. @Image2 defines Nadja — brunette hair, face, and black satin gown. Do not use the runway background. ONE-SENTENCE SUMMARY: Two rival supermodels-turned-wrestlers battle inside a spotlit WWE-style ring, trading clotheslines, rope-assisted strikes, and flashy signature finishers, shot in dynamic ACTION-style sports-spectacle camerawork. DETAILED PLOT: 0s-3s (HOOK): Already mid-impact — @image1  (Vesper) whips off the ropes and connects a running clothesline across @image2 (Nadja)'s chest and shoulder. Nadja's body flips backward off her feet, crashing flat onto the mat, the impact shaking the ring ropes. Camera: low tracking shot following the clothesline's arc, crash zoom on the landing. SFX: crowd roar, ring mat slam, rope twang. 3s-7s (ESCALATION): Nadja kips up fast, eyes blazing, and charges — right hook connects to Vesper's jaw; Vesper's head snaps sideways, hair spraying with the turn, she stumbles into the ropes. Nadja follows with a body shot to the ribs — Vesper's torso crunches inward, one arm clamping to her side, grunting. Camera: handheld, tight on the exchange, whip-panning with each strike. 7s-12s: Vesper recovers, shoves off the ropes and irish-whips Nadja across the ring into the far turnbuckle — Nadja's back slams the corner pads, arching involuntarily, both hands gripping the top rope to stay upright. Vesper charges in for a corner splash; Nadja rolls clear at the last second and Vesper's shoulder drives hard into the turnbuckle instead, recoiling with a pained grimace. Camera: wide ring shot capturing the full corner spot, then push-in on Vesper's reaction. 12s-16s (POWER SHIFT): Nadja seizes the opening — grabs Vesper by the arm, whips her into the ropes. As Vesper rebounds, Nadja springs into a spinning powerslam, catching Vesper across the shoulders and driving her down flat onto the canvas with a heavy thud, both women's hair fanning out on impact. Camera: locked low angle for the slam, holding on Vesper's stunned reaction. 16s-22s (CLIMAX BUILD): Vesper rolls to the ropes, uses them to haul herself upright, blood-in-her-eyes determined. She climbs the turnbuckle, balancing on the top rope. Nadja turns, sees her too late — Vesper launches into her signature springboard clothesline, arm fully extended, connecting across Nadja's chest mid-air; Nadja is launched backward off her feet, crashing into the opposite ropes before rebounding face-first onto the mat. Camera: dramatic low-to-high crane following Vesper's leap, then whip down to the landing. 22s-27s (CLIMAX): Both women are on their knees, exhausted, throwing weak exchanges — Nadja lands a desperate elbow to Vesper's cheek, head snapping sideways; Vesper answers with a forearm smash across Nadja's jaw, staggering her. They grab each other by the shoulders, straining, both refusing to fall, the crowd roaring louder. Camera: tight symmetrical two-shot, slow push-in on the stalemate. 27s-30s (PAYOFF): Vesper breaks the clinch, ducks low, and hoists Nadja onto her shoulders in one explosive motion — driving her down in a final slam. Nadja's body hits flat, arms splayed, defeated. Vesper stands over her, chest heaving, arms raised in triumph as the crowd noise peaks. Camera: pulls back and rises into a wide victory shot, holding on Vesper's raised arms. ADDITIONAL NOTES: Setting: WWE-style wrestling ring — bright arena spotlights, ropes, turnbuckles, crowd silhouettes and flashing lights in the background, held constant for the full 30s. Both women's black satin gowns progressively rumple and shift through the fight but never tear away — track this consistently. Hair remains loose and dynamic through every impact. Crowd noise swells and dips with the action; a hard 200ms audio dip before the two signature moves (spinning powerslam, springboard clothesline), then full crowd-roar release on impact. No dialogue, no subtitles. [Strictly exclude] Blood, weapons, extreme gore, any additional wrestlers or referees unless stated.
 ~~~~
 
 </details>
@@ -830,25 +1295,110 @@ More testing full release soon.
 
 ---
 
-## 16. Fantasy Film Study 565204
+## 26. Fantasy Film Study 565204
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/fantasy-film-study-565204/video-999f8eace5c51712.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/fantasy-film-study-565204/poster-11b6456b8eb4a68a.jpg" alt="Fantasy Film Study 565204 video preview" width="700" />
 </a>
 
 <details>
-<summary><strong>Prompt</strong> — ☀️ Pushing atmospheric lighting and complex particle VFX inside Seedance 2.5. From a single Midjourney concept render to a 30s dark-fantasy intro trailer with glowing plasma,...</summary>
+<summary><strong>Prompt</strong> — [Global Settings] Subject: [Image_1] (Solara) continuous character consistency. High-end cinematic sci-fi fantasy aesthetic, ivory bone armor, glowing fiery golden sword,...</summary>
 
 ~~~~text
-☀️ Pushing atmospheric lighting and complex particle VFX inside Seedance 2.5.
+[Global Settings]
+Subject: [Image_1] (Solara) continuous character consistency. High-end cinematic sci-fi fantasy aesthetic, ivory bone armor, glowing fiery golden sword, hyper-detailed lighting, fast action pacing.
+Audio: Echoing divine female Voiceover (VO), crackling solar plasma, glass shattering, orchestral choral score.
 
-From a single Midjourney concept render to a
-30s dark-fantasy intro trailer with glowing plasma, solar disintegration, and dynamic audio cues
+[Visual & Narrative Execution]
 
-all rendered in a single generation.Full prompt breakdown in the thread below 👇 🧵
+Shot 1: Extreme close-up of molten golden blade igniting with white-hot solar sparks.
+VO: "They believe darkness is eternal..."
+Camera: Macro tilt along burning sword edge.
+Sound: Plasma ignition roar, humming energy.
 
-Ref image + Sharing Prompt in Thread Reply ⤵️
-@dreamina_ai
+Shot 2: Wide shot of Solara standing atop a cracked crystalline cliff overlooking a shadowy void army.
+VO: "...they forget who forged the dawn."
+Camera: Crane up rapidly into full reveal.
+Sound: Winds howling across cavernous expanse.
+
+Shot 3: Close-up of her glowing golden eyes shining behind her ivory spike halo crown.
+VO: "I don't offer mercy."
+Camera: Slow push-in on fiery eyes.
+Sound: Deep resonance hum.
+
+Shot 4: Mid shot of massive shadow beasts leaping up toward the cliff.
+Camera: Low angle tilt following beasts upward.
+Sound: Monstrous screeches and roars.
+
+Shot 5: Medium shot of Solara taking a single step forward, ground turning to gold beneath her foot.
+VO: "I offer clarity."
+Camera: Tracking shot of footstep creating radiant shockwave.
+Sound: Crystalline impact burst.
+
+Shot 6: Fast cut of shadow beast claw slashing right at camera lens.
+Camera: Kinetic POV snap zoom.
+Sound: Razor claw swoosh.
+
+Shot 7: Low angle shot of Solara blocking claw effortlessly with her glowing rapier guard.
+Camera: Locked low angle camera.
+Sound: Blinding energy collision.
+
+Shot 8: Medium shot of her tilting her head slightly, speaking on-screen.
+Dialogue: "Burn."
+Camera: Quick focal pull to ivory face.
+Sound: Echoing divine voice.
+
+Shot 9: High-speed wide shot as a wall of pure solar fire explodes outward from her blade.
+Camera: Fast tracking dolly backward from fire wave.
+Sound: Massive incendiary blast.
+
+Shot 10: Close-up of shadow beast disintegrating into glowing golden ash.
+Camera: High speed macro of ash dissolve.
+Sound: Sizzling vaporization.
+
+Shot 11: Mid shot of Solara spinning gracefully, her ivory braided tendrils whipping through embers.
+Camera: Circular orbital tracking shot around her body.
+Sound: Heavy wind swoosh, floating embers.
+
+Shot 12: Extreme close-up of her hand tightening around the radiant hilt.
+VO: "Light is not soft..."
+Camera: Dutch angle macro tracking.
+Sound: Metallic energy pulse.
+
+Shot 13: Overhead bird's-eye view as her crown spikes glow intensely, shooting laser beams downward.
+VO: "...it is sharp."
+Camera: 360-degree top-down rotation.
+Sound: Piercing beam discharges.
+
+Shot 14: Cut to multiple void creatures dissolving simultaneously under light pillars.
+Camera: Wide ground-level pan.
+Sound: Choral crescendo, disintegrations.
+
+Shot 15: Low angle shot of Solara gliding forward millimeter above ground without touching dirt.
+Camera: Smooth levitation tracking.
+Sound: Humming anti-gravity aura.
+
+Shot 16: Mid shot of her swinging blade horizontally, creating a crescent arc of sunfire.
+Camera: Medium side tracking shot.
+Sound: Crescent blade roar.
+
+Shot 17: Wide shot of entire dark landscape bursting into golden light and white flora.
+Camera: Sweeping epic landscape pull-back.
+Sound: Harmonic resonance chime.
+
+Shot 18: Close-up of Solara resting burning rapier tip on ground, flames calming to soft glow.
+VO: "The sun always reclaims its realm."
+Camera: Tight tilt up from sword tip to crown.
+Sound: Soft flame crackle.
+
+Shot 19: Medium shot of her turning face toward viewer, speaking directly on-screen.
+Dialogue: "Kneel, or be consumed."
+Camera: Slow push-in on glowing eyes.
+Sound: Authoritative vocal echo.
+
+Shot 20: Cinematic wide shot of Solara floating upward into blinding solar flare, filling screen with light.
+Camera: Boom up shot into overexposed sunburst wipe.
+Sound: Orchestral choir climax fading into silence.
 ~~~~
 
 </details>
@@ -859,7 +1409,7 @@ Ref image + Sharing Prompt in Thread Reply ⤵️
 
 ---
 
-## 17. I tested inside , and the upgrade is immediately noticeable
+## 27. I tested inside , and the upgrade is immediately noticeable
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-tested-inside-and-the-upgrade-is-immediately-n-105315/video-0cb8c7827c8fbbde.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-tested-inside-and-the-upgrade-is-immediately-n-105315/poster-f275c76131cdc320.jpg" alt="I tested inside , and the upgrade is immediately noticeable video preview" width="700" />
@@ -893,7 +1443,7 @@ Locations: Bedroom vanity → gym entrance → gym weights/cardio → stretching
 
 ---
 
-## 18. Action Film Study 279563
+## 28. Action Film Study 279563
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/action-film-study-279563/video-d074514740343214.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/action-film-study-279563/poster-350c70ab73dc15f6.jpg" alt="Action Film Study 279563 video preview" width="700" />
@@ -932,7 +1482,7 @@ Close-up before performing. VO: "That version of me started everything."
 
 ---
 
-## 19. Non-stop forward momentum attempt
+## 29. Non-stop forward momentum attempt
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/non-stop-forward-momentum-attempt-870222/video-ced736b46c45a250.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/non-stop-forward-momentum-attempt-870222/poster-e01bf916e7327f03.jpg" alt="Non-stop forward momentum attempt video preview" width="700" />
@@ -953,7 +1503,7 @@ A tiny ember drifts in darkness. It lands on dry grass and instantly ignites a c
 
 ---
 
-## 20. Action Film Study 229811
+## 30. Action Film Study 229811
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/action-film-study-229811/video-545df238c0cf3cc1.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/action-film-study-229811/poster-5669123cb6ec5242.jpg" alt="Action Film Study 229811 video preview" width="700" />
@@ -991,21 +1541,78 @@ AUTHENTICITY PROTOCOL: Realistic emergency response. No explosions. No exaggerat
 
 ---
 
-## 21. Action Film Study 822773
+## 31. Action Film Study 822773
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/tried-fitting-50-cuts-into-30-seconds-with-822773/video-700b5821bd9c9068.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/tried-fitting-50-cuts-into-30-seconds-with-822773/poster-4e9cdd32aa607006.jpg" alt="Action Film Study 822773 video preview" width="700" />
 </a>
 
 <details>
-<summary><strong>Prompt</strong> — Tried fitting 50 cuts into 30 seconds with Seedance 2.5. I let codex count the cuts. Including flashes, explosion/splash effects and the final fade-out as transitions, the video...</summary>
+<summary><strong>Prompt</strong> — 16:9, 30s, stylized anime-real cinematic night in deserted rain-soaked industrial streets, cyan-coral light, 18mm energy, exactly 50 rapid cuts, active chase cameras, burst cuts,...</summary>
 
 ~~~~text
-Tried fitting 50 cuts into 30 seconds with Seedance 2.5.
+16:9, 30s, stylized anime-real cinematic night in deserted rain-soaked industrial streets, cyan-coral light, 18mm energy, exactly 50 rapid cuts, active chase cameras, burst cuts, and flash cuts.
+Match @[ref image] exactly as frame one; it controls the sole muscle car, wet city, smoke, reflections, and palette. Streets stay empty and traffic-free.
+SEQUENCE
+Shot 1: Frontal WS, locked: exact frame one; the car launches.
+Shot 2: Ground frontal WS, pull: headlights rush dead center.
+Shot 3: Ground frontal CU, locked: the grille fills frame.
+Shot 4: Ground POV CU, locked: chassis thunders overhead.
+Shot 5: Rear ground CU, chase: tires splash the lens.
+Shot 6: Wheel ECU, track: rubber slices through rising water.
+Shot 7: Low profile WS, pan: the car rockets past steam.
+Shot 8: Top-down EWS, locked: it cuts beneath tangled cables.
+Shot 9: Telephoto frontal WS, push: towers compress around it.
+Shot 10: Exhaust ECU, locked: coral backfire, burst cut.
+Shot 11: Rear low WS, chase: the car pulls a spray ribbon.
+Shot 12: Wheel CU, track: the front tire strikes deep water.
+Shot 13: Profile WS, track: a water wall rises beside it.
+Shot 14: Storefront POV WS, locked: its reflection races on glass.
+Shot 15: Front 3/4 WS, pan: the real car splits the reflection.
+Shot 16: Side-mirror CU, locked: the empty street shrinks.
+Shot 17: Mirror CU, push: a neon intersection grows.
+Shot 18: Top-down WS, locked: brake marks hook toward it.
+Shot 19: Low front 3/4 WS, lead: the first drift commits.
+Shot 20: Wheel CU, orbit: the rear tire circles the drift.
+Shot 21: Rear 3/4 WS, track: countersteer throws curb spray.
+Shot 22: Droplet ECU, locked: headlights refract in one bead.
+Shot 23: Frontal WS, pull: white flash reveals a new street.
+Shot 24: Rear 3/4 WS, chase: pipes streak in parallax.
+Shot 25: Curb profile WS, track: the body skims wet concrete.
+Shot 26: Door CU, track: towers warp across black paint.
+Shot 27: Driver POV WS, chase: an empty corridor narrows.
+Shot 28: Hood POV WS, locked: cables whip overhead.
+Shot 29: Wheel ECU, track: the tire compresses on a rise.
+Shot 30: Low profile CU, pan: suspension rebounds forward.
+Shot 31: Dutch front 3/4 WS, lead: it snaps into an alley.
+Shot 32: Wall-mirror WS, locked: reflection starts drift two.
+Shot 33: Rear 3/4 WS, whip pan: mirror hands off to reality.
+Shot 34: Low profile WS, track: drift two clears the alley.
+Shot 35: Rear WS, chase: smoke and spray swallow the lens.
+Shot 36: Headlight ECU, locked: two flash cuts pierce haze.
+Shot 37: High WS, crane: camera dives as the car escapes.
+Shot 38: Top rear WS, chase: skim the roof, then overtake.
+Shot 39: Windshield ECU, track: rain beads race upward.
+Shot 40: Headlight POV WS, chase: road lines stream beneath.
+Shot 41: Puddle POV WS, locked: the car appears inverted.
+Shot 42: Wheel CU, locked: the tire shatters that reflection.
+Shot 43: Ground rear WS, tilt: spray reveals its departure.
+Shot 44: Frontal CU, pull: retreat inches ahead of the bumper.
+Shot 45: High front 3/4 WS, orbit: it crosses an empty junction.
+Shot 46: Top-down EWS, locked: drift three draws a water ring.
+Shot 47: Wheel ECU, track: countersteer redirects momentum.
+Shot 48: Rear profile WS, pan: it straightens at full speed.
+Shot 49: Rear WS, chase: red mist opens around the avenue.
+Shot 50: Rear EWS, pull: it accelerates onward, cut in motion.
 
-I let codex count the cuts. Including flashes, explosion/splash effects and the final fade-out as transitions, the video has 42 cuts/transitions in total. Technically, it contains 36 actual editorial cuts. You can check the prompt below.
+SOUND: V8 roar, gear punches, tire scrub, water hits, exhaust cracks, street reverb; cuts strike engine pulses.
+VFX: Spray and tire smoke catch cyan-coral light; flashes never hide motion.
+EXCLUDE: duplicate cars, identity drift, populated streets, traffic, daylight, stopped ending.
 
-Created with Seedance 2.5 on @astorie_ai
+--
+
+First frame image with Midjourney:
+a vintage 1970s American muscle car facing the camera in the center of a narrow abandoned urban alley, massive clouds of glowing grey smoke erupting from both sides of the street, wet cracked asphalt reflecting headlights and neon red light, dark decaying industrial buildings, tangled overhead cables, fire escapes, exposed pipes, distant skyscrapers fading into teal fog, symmetrical centered composition, low-angle street-level camera, cinematic album cover photography, retro-futuristic neo-noir atmosphere, dramatic volumetric smoke, deep teal and coral color palette, gritty textures, strong contrast, ultra-detailed, moody night scene, no people, no typography, no letters, no logos, no signage --chaos 8 --ar 16:9 --seed 180399593 --profile oqw5d6p --stylize 250 --hd
 ~~~~
 
 </details>
@@ -1016,7 +1623,7 @@ Created with Seedance 2.5 on @astorie_ai
 
 ---
 
-## 22. Gameplay Study 896933
+## 32. Gameplay Study 896933
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/super-casual-real-smartphone-home-video-footage-896933/video-048ce0959e509e32.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/super-casual-real-smartphone-home-video-footage-896933/poster-6768747a1f96dfc7.jpg" alt="Gameplay Study 896933 video preview" width="700" />
@@ -1048,7 +1655,7 @@ Super casual real smartphone home video footage, sunny Los Angeles backyard pool
 
 ---
 
-## 23. DV 16mm tape camcorder handheld feel. POV of CHASE holding
+## 33. DV 16mm tape camcorder handheld feel. POV of CHASE holding
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/dv-16mm-tape-camcorder-handheld-feel-pov-of-chas-664481/video-db1edd095d2a7879.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/dv-16mm-tape-camcorder-handheld-feel-pov-of-chas-664481/poster-12bb20e5cb1eebc5.jpg" alt="DV 16mm tape camcorder handheld feel. POV of CHASE holding video preview" width="700" />
@@ -1085,7 +1692,7 @@ Storyboard (20s, 6 cuts)
 
 ---
 
-## 24. Cleopatra by .🪎
+## 34. Cleopatra by .🪎
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/cleopatra-by-540828/video-148a664d1d6d89d8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/cleopatra-by-540828/poster-a7dca5e4a66a1972.jpg" alt="Cleopatra by .🪎 video preview" width="700" />
@@ -1127,7 +1734,7 @@ Grand historical scale, grounded realism, emotionally restrained acting, physica
 
 ---
 
-## 25. Jan Thirty-Second Delivery Run
+## 35. Jan Thirty-Second Delivery Run
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/jan-thirty-second-delivery-run-271585/video-77c0ad66c83880b2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/jan-thirty-second-delivery-run-271585/poster-c59ca7e3fbdd4955.jpg" alt="Jan Thirty-Second Delivery Run video preview" width="700" />
@@ -1159,7 +1766,7 @@ AUDIO: Renteria only by radio, thin, tinny, filtered, click each side. Jan answe
 
 ---
 
-## 26. Fighter Jet Battleship Strike
+## 36. Fighter Jet Battleship Strike
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/fighter-jet-battleship-strike-814869/video-6bbb04034c77e629.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/fighter-jet-battleship-strike-814869/poster-c81a2be0acecc27c.jpg" alt="Fighter Jet Battleship Strike video preview" width="700" />
@@ -1230,7 +1837,7 @@ Sound design: soaring cinematic orchestra, thunderous percussion, deep brass, ro
 
 ---
 
-## 27. Devastated City Continuous Escape
+## 37. Devastated City Continuous Escape
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/devastated-city-continuous-escape-880148/video-de8617eb1bdd04fc.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/devastated-city-continuous-escape-880148/poster-65d8e375c9137381.jpg" alt="Devastated City Continuous Escape video preview" width="700" />
@@ -1264,7 +1871,7 @@ CAMERA: one unbroken physical path, a weighted rig with real mass - every move t
 
 ---
 
-## 28. Cybernetic Freefall Armor
+## 38. Cybernetic Freefall Armor
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/cybernetic-freefall-armor-624470/video-597d62b1a0c6e7b7.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/cybernetic-freefall-armor-624470/poster-143674445f046081.jpg" alt="Cybernetic Freefall Armor video preview" width="700" />
@@ -1285,7 +1892,7 @@ IDENTITY: @Image1 supplies identity only — face, long black hair, low-brim cap
 
 ---
 
-## 29. Painterly Tsunami Destruction Sequence
+## 39. Painterly Tsunami Destruction Sequence
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/painterly-tsunami-destruction-sequence-047131/video-dfa08d4d31cde8dc.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/painterly-tsunami-destruction-sequence-047131/poster-b9ac9fa4d85fa38b.jpg" alt="Painterly Tsunami Destruction Sequence video preview" width="700" />
@@ -1318,7 +1925,7 @@ Semi-realistic painterly animation style with soft brushwork, textured shading, 
 
 ---
 
-## 30. Obsidian Giant Transformation
+## 40. Obsidian Giant Transformation
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/obsidian-giant-transformation-531249/video-4efc1ad07cdde5e2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/obsidian-giant-transformation-531249/poster-3be6d948a87d799f.jpg" alt="Obsidian Giant Transformation video preview" width="700" />
@@ -1406,7 +2013,7 @@ subtitles, no background music, no readable text or logos.
 
 ---
 
-## 31. Wuxia Inn Dumpling Duel
+## 41. Wuxia Inn Dumpling Duel
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/wuxia-inn-dumpling-duel-209926/video-1a9b667046018d97.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/wuxia-inn-dumpling-duel-209926/poster-680db7851fe9f9d4.jpg" alt="Wuxia Inn Dumpling Duel video preview" width="700" />
@@ -1458,7 +2065,7 @@ A和B保持着帅气的接杀姿势僵在原地，剑和筷子还举着，齐刷
 
 ---
 
-## 32. Cyber Wuxia Ensemble Trailer
+## 42. Cyber Wuxia Ensemble Trailer
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/cyber-wuxia-ensemble-trailer-800985/video-18a0ba74bd9ca7b2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/cyber-wuxia-ensemble-trailer-800985/poster-8c2ccf1ab2764568.jpg" alt="Cyber Wuxia Ensemble Trailer video preview" width="700" />
@@ -1504,7 +2111,7 @@ A和B保持着帅气的接杀姿势僵在原地，剑和筷子还举着，齐刷
 
 ---
 
-## 33. Celestia Floating Magic City
+## 43. Celestia Floating Magic City
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/celestia-floating-magic-city/video-3d478d420944a020.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/celestia-floating-magic-city/poster-a58bb10119d6eee8.jpg" alt="Celestia Floating Magic City video preview" width="700" />
@@ -1644,7 +2251,7 @@ SFX：
 
 ---
 
-## 34. Flooded Botanical Archive Climb
+## 44. Flooded Botanical Archive Climb
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/flooded-botanical-archive-climb/video-4bcec3aa5dba7b43.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/flooded-botanical-archive-climb/poster-50bb64896e50c266.jpg" alt="Flooded Botanical Archive Climb video preview" width="700" />
@@ -1665,7 +2272,7 @@ Scene and Mood: A lone figure climbs upward through a flooding vertical botanica
 
 ---
 
-## 35. Alpine Roller-Coaster Ride
+## 45. Alpine Roller-Coaster Ride
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/alpine-roller-coaster-ride/video-f3f0e16bdf419f53.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/alpine-roller-coaster-ride/poster-a3cd3e06527c8d4c.jpg" alt="Alpine Roller-Coaster Ride video preview" width="700" />
@@ -1704,7 +2311,7 @@ Premium cinematic realism, alpine sunlight, volumetric mist, accurate speed, gra
 
 ---
 
-## 36. Bazaar Chase Cinematic
+## 46. Bazaar Chase Cinematic
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/bazaar-chase-cinematic/video-4c4c03bfa22830cc.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/bazaar-chase-cinematic/poster-14de0d5123fdfc27.jpg" alt="Bazaar Chase Cinematic video preview" width="700" />
@@ -1737,7 +2344,7 @@ Keep the exact same character in every shot: late-20s man, short dark hair, ligh
 
 ---
 
-## 37. Blonde Warrior Battlefield
+## 47. Blonde Warrior Battlefield
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/blonde-warrior-battlefield/video-abc578ca30be6efb.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/blonde-warrior-battlefield/poster-9cae536f4157e408.jpg" alt="Blonde Warrior Battlefield video preview" width="700" />
@@ -1777,7 +2384,7 @@ Ultra-premium fantasy fashion editorial, sensual but powerful warrior energy, im
 
 ---
 
-## 38. Desert Hoverboard Ruin Run
+## 48. Desert Hoverboard Ruin Run
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/desert-hoverboard-ruin-run/video-8193ba59a818bf92.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/desert-hoverboard-ruin-run/poster-c52c2549aeae5eb0.jpg" alt="Desert Hoverboard Ruin Run video preview" width="700" />
@@ -1849,7 +2456,7 @@ The video ends on the held profile of the rider stopped at the cliff edge, facin
 
 ---
 
-## 39. Giant and Dragon Lake Battle
+## 49. Giant and Dragon Lake Battle
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/giant-and-dragon-lake-battle/video-b1a38b4d11848024.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/giant-and-dragon-lake-battle/poster-23af6fb01be4ba94.jpg" alt="Giant and Dragon Lake Battle video preview" width="700" />
@@ -1874,7 +2481,7 @@ A fast-paced action scene with realistic cinematography.
 
 ---
 
-## 40. Flooded Village Survival Thriller
+## 50. Flooded Village Survival Thriller
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/flooded-village-survival-thriller/video-ea51c42d0d305c4a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/flooded-village-survival-thriller/poster-28b22140d698c1d3.jpg" alt="Flooded Village Survival Thriller video preview" width="700" />
@@ -1925,7 +2532,7 @@ Sound: helicopter roar, screaming metal, collapse splash, panicked yelling, wate
 
 ---
 
-## 41. Blue-Disc Anime Hero Battle
+## 51. Blue-Disc Anime Hero Battle
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/blue-disc-anime-hero-battle/video-94caf33689333954.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/blue-disc-anime-hero-battle/poster-3140e5fb9e1b1225.jpg" alt="Blue-Disc Anime Hero Battle video preview" width="700" />
@@ -1977,7 +2584,7 @@ High-contrast cel shading, deep shadows, rimlight, blue glow from the discs spil
 
 ---
 
-## 42. Tactical One-Take Action Demo
+## 52. Tactical One-Take Action Demo
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/tactical-one-take-action-demo/video-637580523ff615f6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/tactical-one-take-action-demo/poster-7d5546a04ca5355e.jpg" alt="Tactical One-Take Action Demo video preview" width="700" />
@@ -2137,7 +2744,7 @@ Foley Only
 
 ---
 
-## 43. Kung Fu Battle Long Take
+## 53. Kung Fu Battle Long Take
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/kung-fu-battle-long-take/video-9fe84b6dd82651d2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/kung-fu-battle-long-take/poster-9f26f82d788ece21.jpg" alt="Kung Fu Battle Long Take video preview" width="700" />
@@ -2203,7 +2810,7 @@ Feature-film anatomy and physics. Correct hands and feet. No extra limbs, morphi
 
 ---
 
-## 44. Grand Bazaar Stunt Chase
+## 54. Grand Bazaar Stunt Chase
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/grand-bazaar-stunt-chase/video-c8cfa1bbe2caf07d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/grand-bazaar-stunt-chase/poster-cf0c5deddc82bdb3.jpg" alt="Grand Bazaar Stunt Chase video preview" width="700" />
@@ -2244,7 +2851,7 @@ Audio: ambient only — footsteps on stone and the distant murmur of the bazaar 
 
 ---
 
-## 45. Mecha Motorcycle High-Speed Dash
+## 55. Mecha Motorcycle High-Speed Dash
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/mecha-motorcycle-high-speed-dash/video-0082047bc7d78f35.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/mecha-motorcycle-high-speed-dash/poster-50538e334f7d8fbd.jpg" alt="Mecha Motorcycle High-Speed Dash video preview" width="700" />
@@ -2266,7 +2873,7 @@ Audio: ambient only — footsteps on stone and the distant murmur of the bazaar 
 
 ---
 
-## 46. Hyperspeed FPV Portal Journey
+## 56. Hyperspeed FPV Portal Journey
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/hyperspeed-fpv-portal-journey/video-4065f5eaa6f51ed4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/hyperspeed-fpv-portal-journey/poster-8f0af0fed2882237.jpg" alt="Hyperspeed FPV Portal Journey video preview" width="700" />
@@ -2329,7 +2936,7 @@ Audio: ambient only — footsteps on stone and the distant murmur of the bazaar 
 
 ---
 
-## 47. Wizard of Oz Scarecrow Plan
+## 57. Wizard of Oz Scarecrow Plan
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/wizard-of-oz-scarecrow-plan/video-8d9bc52c7c69f53a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/wizard-of-oz-scarecrow-plan/poster-6e34dd1a50759c24.jpg" alt="Wizard of Oz Scarecrow Plan video preview" width="700" />
@@ -2397,7 +3004,7 @@ No character duplication, no changing costumes, no disappearing props, no morphi
 
 ---
 
-## 48. Painterly Underwater Wreck Chase
+## 58. Painterly Underwater Wreck Chase
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/painterly-underwater-wreck-chase/video-e73a1d985b779098.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/painterly-underwater-wreck-chase/poster-90f05607dfb5d26b.jpg" alt="Painterly Underwater Wreck Chase video preview" width="700" />
@@ -2488,7 +3095,7 @@ Layout: thin black borders, numbers 01-14 in corners, professional film pitch st
 
 ---
 
-## 49. Mechanical War Bull Battle
+## 59. Mechanical War Bull Battle
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/mechanical-war-bull-battle/video-8f2ab8d6dd31aa9c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/mechanical-war-bull-battle/poster-949e7be5c8abd663.jpg" alt="Mechanical War Bull Battle video preview" width="700" />
@@ -2533,7 +3140,7 @@ Cold, desaturated mythic realism using slate blue, ash grey, charcoal, weathered
 
 ---
 
-## 50. Occult Solo Anime Short
+## 60. Occult Solo Anime Short
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/occult-solo-anime-short/video-ef3f54665f28eb42.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/occult-solo-anime-short/poster-69c3c1efe44ed97c.jpg" alt="Occult Solo Anime Short video preview" width="700" />
@@ -2554,7 +3161,7 @@ Cold, desaturated mythic realism using slate blue, ash grey, charcoal, weathered
 
 ---
 
-## 51. Amazonian Warrior Animal Transformation
+## 61. Amazonian Warrior Animal Transformation
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/amazonian-warrior-animal-transformation/video-457affc3886e4839.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/amazonian-warrior-animal-transformation/poster-d4092128e07e1187.jpg" alt="Amazonian Warrior Animal Transformation video preview" width="700" />
@@ -2585,7 +3192,7 @@ Maintain one continuous uninterrupted shot, seamless transitions, consistent cha
 
 ---
 
-## 52. Fantasy Palace Romance Drama
+## 62. Fantasy Palace Romance Drama
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/fantasy-palace-romance-drama/video-b088c21af7168025.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/fantasy-palace-romance-drama/poster-17ab2033bb8a981d.jpg" alt="Fantasy Palace Romance Drama video preview" width="700" />
@@ -2606,7 +3213,7 @@ A 30-second vertical 9:16 photorealistic fantasy palace romance drama about Prin
 
 ---
 
-## 53. Faceless Riders Highway Chase
+## 63. Faceless Riders Highway Chase
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/faceless-riders-highway-chase/video-f2fc1e8469fd757a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/faceless-riders-highway-chase/poster-979283be8611084d.jpg" alt="Faceless Riders Highway Chase video preview" width="700" />
@@ -2627,7 +3234,7 @@ Use the provided references consistently across the full 30 seconds: Image 1 is 
 
 ---
 
-## 54. Rainy Temple Martial-Arts Epic
+## 64. Rainy Temple Martial-Arts Epic
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/rainy-temple-martial-arts-epic/video-1c5b7c779189be8c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/rainy-temple-martial-arts-epic/poster-55a39828adb7b236.jpg" alt="Rainy Temple Martial-Arts Epic video preview" width="700" />
@@ -2680,7 +3287,7 @@ Use the provided references consistently across the full 30 seconds: Image 1 is 
 
 ---
 
-## 55. White Dragon Camp Rampage
+## 65. White Dragon Camp Rampage
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/white-dragon-camp-rampage/video-434d48d20cd5ed86.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/white-dragon-camp-rampage/poster-271c2e9d93a81a45.jpg" alt="White Dragon Camp Rampage video preview" width="700" />
@@ -2729,7 +3336,7 @@ No music. quick editing.
 
 ---
 
-## 56. Eryan and Griffin Canyon Flight
+## 66. Eryan and Griffin Canyon Flight
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/eryan-griffin-canyon-flight/video-8e8a324f2fd2f6c4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/eryan-griffin-canyon-flight/poster-e5df9fbe59a866ea.jpg" alt="Eryan and Griffin Canyon Flight video preview" width="700" />
@@ -2750,7 +3357,7 @@ NO MUSIC, ONLY NATURAL SOUND — Epic blockbuster fantasy, shot on ARRI Alexa 65
 
 ---
 
-## 57. Pink-Haired Wasteland Zombie Chase
+## 67. Pink-Haired Wasteland Zombie Chase
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/pink-haired-wasteland-zombie-chase/video-fa4478d078891532.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/pink-haired-wasteland-zombie-chase/poster-9bd7f4f8eadf203a.jpg" alt="Pink-Haired Wasteland Zombie Chase video preview" width="700" />

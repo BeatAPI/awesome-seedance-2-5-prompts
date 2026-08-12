@@ -1,0 +1,43 @@
+{
+  "slug": "use-code-umesh25-for-25-off-any-runway-plan-affiliate-906242",
+  "title": {
+    "en": "Use code UMESH25 for 25% off any Runway plan 🎁 (affiliate code)",
+    "zh": "Use code UMESH25 for 25% off any Runway plan 🎁 (affiliate code)"
+  },
+  "description": {
+    "en": "20-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "20 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "20s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@umesh_ai",
+    "url": "https://x.com/umesh_ai/status/2087130704710906242"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-author-thread",
+  "promptSourceUrls": [
+    "https://x.com/umesh_ai/status/2087130708498317378"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/umesh_ai/status/2087130704710906242"
+  ],
+  "prompt": "20-second continuous single-shot video, ultra-photorealistic cinematic macro style.  A real miniature man, about the size of an adult palm, is being chased by a giant fluffy calico cat through a house and into a garden. The cat is a real domestic calico with authentic orange, black, and white fur, realistic whisker movement, natural feline body motion, and playful but intense hunting behavior. The tiny man runs at full speed in fear while the cat rushes after him with chaotic energy, accidentally knocking over objects in its attempt to catch him.  Camera: one continuous uninterrupted shot with no cuts. Low-angle tracking camera at the tiny man's scale, following closely beside and behind him. Realistic handheld movement, shallow depth of field, natural focus breathing, cinematic motion blur, and believable macro scale.  0 to 5 seconds: In the living room, the tiny man sprints across a hardwood floor while the giant calico cat charges behind him. The cat runs too fast, skids slightly, and swats at him with one paw, barely missing. As it rushes forward, it slams into a side table, knocking over a lamp that crashes to the floor. The man dives under the sofa and escapes out the other side.  5 to 10 seconds: He bursts into the kitchen and keeps running across the tile floor. The cat charges in after him and, in its rushed pursuit, bumps a chair aside and sends a fruit bowl tipping over. A large orange rolls across the floor in front of the tiny man, and he jumps over it without slowing down. The cat slides around the corner, scrambling to keep up.  10 to 15 seconds: The man escapes through the pet flap into the garden. He runs through towering blades of grass and over uneven soil as the cat crashes out behind him. The cat's wild chase creates more chaos in the garden, flattening grass, knocking through small flowers, and scattering petals and loose dirt with each heavy step. The tiny man grabs a long flexible blade of grass and pulls it back like a spring.  15 to 18 seconds: He releases the blade of grass and it snaps forward, launching him into the air. He flies toward the calico cat and lands safely on top of its fluffy head between its ears. The landing presses into the fur with believable weight. The cat stops abruptly, sits down, and looks surprised for a brief moment.  18 to 20 seconds: The tiny man steadies himself by holding onto a tuft of fur, then stands proudly on the cat's head. The calico cat turns toward the camera. The man and the cat both pose together and grin directly at the lens in a playful final moment, like unlikely best friends after the chaotic chase. The camera moves slightly closer as warm golden sunlight lights the garden around them.  Important direction: Keep the action clear, readable, and sequential. Focus on smooth continuity and strong visual storytelling. The cat should create visible chaos while chasing the man, but do not overload the scene with too many separate events. Prioritize a few strong destruction moments in the house and a few strong impact moments in the garden. Preserve realistic scale, believable physics, natural fur movement, flexible grass motion, and stable character continuity.  Visual quality: Photorealistic macro cinematography, realistic fur detail, realistic human movement, cinematic lighting, shallow depth of field, accurate shadows, believable contact and motion, detailed textures, smooth continuous motion, and high visual realism.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/use-code-umesh25-for-25-off-any-runway-plan-affiliate-906242/video-82b39cf0a39fc136.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/use-code-umesh25-for-25-off-any-runway-plan-affiliate-906242/poster-c998d02ff7614590.jpg",
+    "format": "video/webm",
+    "videoBytes": 1597995,
+    "videoSha256": "82b39cf0a39fc13640f54cc76e0cac6205065c1465ebcb3af572bbe3b3177c20",
+    "thumbnailBytes": 40143,
+    "thumbnailSha256": "c998d02ff76145901ebf508081bd2967dca0dc43f8f914130c52e61e1044c013"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

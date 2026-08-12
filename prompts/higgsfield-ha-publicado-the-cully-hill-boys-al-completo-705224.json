@@ -1,0 +1,43 @@
+{
+  "slug": "higgsfield-ha-publicado-the-cully-hill-boys-al-completo-705224",
+  "title": {
+    "en": "Higgsfield ha publicado The Cully Hill Boys al completo",
+    "zh": "Higgsfield ha publicado The Cully Hill Boys al completo"
+  },
+  "description": {
+    "en": "23-second cinematic story prompt paired with a source-verified creator example and its output video.",
+    "zh": "23 秒cinematic story提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "cinematic-story",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "23s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Nozelcode",
+    "url": "https://x.com/Nozelcode/status/2087199584774705224"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Nozelcode/status/2087199584774705224"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Nozelcode/status/2087199584774705224"
+  ],
+  "prompt": "→ cada asset\n→ cada decisión detrás de las escenas\n\nNo es una demo ni un corto.\n\nEs un largometraje de 110 minutos con Israel Adesanya, N3on, Rampage Jackson y MK en pantalla, cada uno con sus derechos de imagen cedidos por contrato.\n\nHecho con Seedance 2.5 en Higgsfield.\n\nAhora puedes estudiarlo, remezclar una escena o aplicar la técnica a lo tuyo.\n\nGratis.\n\nEnlace a todos los prompts y assets abajo👇",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/higgsfield-ha-publicado-the-cully-hill-boys-al-completo-705224/video-039b073b90f33952.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/higgsfield-ha-publicado-the-cully-hill-boys-al-completo-705224/poster-49f1b53eac018e39.jpg",
+    "format": "video/webm",
+    "videoBytes": 1175011,
+    "videoSha256": "039b073b90f33952bfeca7c402ee8c2b1261471c33cf90c6a8343772f3f937ad",
+    "thumbnailBytes": 47449,
+    "thumbnailSha256": "49f1b53eac018e39e3511858c6566383a6ed169fcbf1339a46bc4914924dc8e8"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}
