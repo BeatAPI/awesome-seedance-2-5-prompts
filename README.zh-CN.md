@@ -4,6 +4,7 @@
 开源目录。
 
 **[打开 Seedance 2.5 提示词画廊](https://beatapi.io/zh/seedance-2-5-prompts)** ·
+**[使用 Seedance 2.5 API](https://beatapi.io/zh/seedance-2.5-api)** ·
 **[提交 Prompt](https://github.com/BeatAPI/awesome-seedance-2-5-prompts/issues/new?template=prompt.yml)**
 
 ## 首批内容
@@ -345,8 +346,9 @@ GitHub 只保存轻量 Prompt 与元数据，视频放在 BeatAPI 自有 CDN 的
 ## 上线边界
 
 Seedance 2.5 的地区、账号、上传限制和 API 开放状态可能变化，生产接入前
-必须重新核对 Dreamina、CapCut、火山引擎或 BytePlus 当前页面。本仓库不
-表示 BeatAPI workflow API 已经提供 Seedance 2.5 路由。
+必须重新核对当前产品页面。BeatAPI 目前提供 Seedance 2.5 API；模型 ID、
+请求格式、价格与素材要求应以
+[实时 API 页面](https://beatapi.io/zh/seedance-2.5-api)和文档为准。
 
 ## 本地验证
 
