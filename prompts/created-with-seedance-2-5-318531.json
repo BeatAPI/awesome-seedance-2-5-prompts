@@ -1,0 +1,43 @@
+{
+  "slug": "created-with-seedance-2-5-318531",
+  "title": {
+    "en": "Created with Seedance 2.5",
+    "zh": "Created with Seedance 2.5"
+  },
+  "description": {
+    "en": "30-second vlog prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒vlog提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "vlog",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@frametheory058",
+    "url": "https://x.com/frametheory058/status/2095003298747318531"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/frametheory058/status/2095003298747318531"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/frametheory058/status/2095003298747318531"
+  ],
+  "prompt": "30-second continuous photorealistic candid home-video scene in a quiet Korean residential neighborhood on a warm summer morning. The entire video must look like genuine footage recorded by a friend in the early 2000s, NOT a commercial, movie, music video or AI-generated scene.\n\nCHARACTER CONSISTENCY:\nUse the supplied character reference sheet as the strict visual reference for all characters.\n\nMAIN GIRL: Minji, 21, young Korean woman, natural realistic face, authentic skin texture, messy wavy black hair loosely tied back. Oversized plain white T-shirt, loose light pajama pants and simple flat sandals. Keep exactly the same face, hairstyle, clothing, age and body proportions throughout.\n\nFRIEND: Jisung, 22, remains behind the camera for the entire video. Only his natural male voice and laughter are heard.\n\nNEIGHBOR: Mrs. Park, elderly Korean woman around 70, same appearance as reference, wearing comfortable patterned house clothes.\n\nTwo school children appear briefly in the background wearing ordinary school clothes and backpacks.\n\nLOCATION:\nA real lived-in older Korean residential lane: narrow concrete road, modest houses, aged walls, potted plants, bicycles, laundry, utility poles and overhead wires. Warm natural morning sunlight. Nothing staged or overly picturesque.\n\nCAMERA:\nEntire video is filmed by Jisung using an old handheld early-2000s consumer DV camcorder. Genuine handheld shake, slightly imperfect framing, small accidental pans, occasional autofocus adjustment, mild exposure breathing, faded DV colors, soft digital detail, subtle compression noise and realistic motion blur.\n\nThe camera operator reacts physically to events. Do NOT use cinematic camera movement, gimbal stabilization, slow motion, drone shots, perfect composition, dramatic depth of field or modern commercial color grading.\n\nSEQUENCE — ONE NATURAL CONTINUOUS EVENT:\n\n[0–4 SEC]\nMinji casually walks out of her house holding a green garden hose and begins watering several potted plants beside the entrance.\n\nShe notices Jisung filming her and looks directly toward the camera with a small amused smile.\n\nMINJI, natural Korean-accented English:\n“Why are you filming this?”\n\nJISUNG, casually from behind camera:\n“I’m bored.”\n\nShe gives him a playful annoyed look, then continues watering.\n\n[4–9 SEC]\nThe water pressure gradually becomes weak and then almost stops.\n\nMinji looks at the hose nozzle, confused. She lightly shakes it once and squeezes the nozzle again.\n\nNothing.\n\nShe follows the hose with her eyes and notices that part of the hose is accidentally trapped underneath her own sandal.\n\nHer reaction is subtle and completely natural.\n\n[9–13 SEC]\nMinji casually lifts her foot off the hose.\n\nIMMEDIATELY the normal water pressure returns.\n\nA sudden stream of water shoots upward from the badly angled nozzle and splashes directly across her face, hair and upper T-shirt.\n\nIMPORTANT: realistic garden-hose physics only. No explosive or exaggerated water.\n\nMinji freezes for a moment in genuine surprise.\n\nJisung instinctively jerks the camera sideways, briefly losing the framing, then quickly points it back toward her while laughing.\n\nMinji slowly looks directly at the camera with an embarrassed “seriously?” expression.\n\n[13–18 SEC]\nLaughing, Minji turns the hose toward Jisung as if she is going to spray him.\n\nWhile adjusting the nozzle she accidentally rotates it the wrong direction.\n\nA short stronger spray hits her own shoulder and face AGAIN.\n\nShe immediately recoils and laughs:\n\n“Wait—wait!”\n\nJisung laughs harder behind the camera. His laughter makes the handheld framing noticeably shakier.\n\nMinji is genuinely laughing now, slightly soaked, with wet strands of hair naturally sticking around her face.\n\n[18–23 SEC]\nMrs. Park, the elderly neighbor who has been tending plants near her doorway, notices what happened.\n\nMinji looks toward her, embarrassed but laughing.\n\nMrs. Park smiles and raises her own small garden hose as though she is going to help.\n\nMinji relaxes.\n\nInstead, Mrs. Park gives Minji ONE quick, harmless playful spray of water.\n\nMinji looks completely shocked for half a second.\n\nThen Mrs. Park laughs.\n\nMinji immediately starts laughing too.\n\n[23–27 SEC]\nMinji playfully sprays a small amount of water back toward Mrs. Park.\n\nMrs. Park laughs and steps behind her gate.\n\nTwo school children walking farther down the lane notice the situation, stop briefly and laugh naturally before continuing.\n\nKeep this spontaneous and subtle — NOT a large staged water fight.\n\n[27–30 SEC]\nStill laughing and visibly wet, Minji walks directly toward Jisung and the camera while holding the hose.\n\nShe points at him and says:\n\n“You started this.”\n\nJISUNG replies while laughing:\n“I literally did nothing!”\n\nMinji gives him a mischievous look and sends ONE quick spray directly toward the camera.\n\nWater hits the camcorder lens.\n\nThe image instantly becomes partially blurred and smeared by realistic water droplets while the camera operator reacts.\n\nMinji’s genuine laughter remains audible through the wet blurry image.\n\nHARD CUT.\n\nREALISM / PERFORMANCE:\nAll people must look and move like real humans captured unexpectedly on a home video. Natural blinking, breathing, posture, weight shifts, imperfect timing, realistic hand movements and restrained facial expressions.\n\nDialogue must sound like REAL HUMAN SPEECH: natural young adult voices, normal conversational volume, correct emotional timing, subtle Korean accents, no robotic cadence, no narrator voice, no exaggerated acting. Characters must speak ONLY their assigned dialogue. No extra dialogue.\n\nThe humor comes entirely from the believable accident and genuine reactions. Nobody behaves like an actor performing a comedy sketch.\n\nWATER PHYSICS:\nWater must behave exactly like real garden-hose water: correct gravity, splash direction, droplets, wet fabric and progressively wetter hair. The hose stays physically connected and maintains consistent shape. No disappearing hose, duplicated hose, impossible water sources or changing nozzle.\n\nCONTINUITY:\nMinji becomes progressively wetter after each splash and must remain wet afterward. Her clothing, face, hairstyle, house, hose and neighborhood remain consistent. Mrs. Park remains the same person. School children remain consistent. No character duplication, sudden wardrobe changes, teleportation, object morphing or discontinuous positions.\n\nAUDIO:\nAbsolutely NO music and NO narration.\n\nOnly authentic location sound: birds, distant neighborhood conversations, faint traffic, footsteps on concrete, occasional bicycle sound, running water, hose splashes, clothing movement and genuine laughter.\n\nFINAL LOOK:\nWarm summer morning, nostalgic early-2000s Korean home-video feeling. Slightly faded DV colors, ordinary natural sunlight and imperfect consumer-camera quality.\n\nThe finished video should feel like a funny forgotten family camcorder recording from a real summer morning — completely spontaneous, mundane, charming and physically believable.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-318531/video-c393d75ff15e9b69.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-318531/poster-791d72efef5f4a74.jpg",
+    "format": "video/webm",
+    "videoBytes": 2209990,
+    "videoSha256": "c393d75ff15e9b694145ff6461afd0d78a5267c8ed714d7c7d4d97091e4518bf",
+    "thumbnailBytes": 85737,
+    "thumbnailSha256": "791d72efef5f4a74eb89ca185b5a79196a4e2f8936ce4f0e2561801a01c99a36"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

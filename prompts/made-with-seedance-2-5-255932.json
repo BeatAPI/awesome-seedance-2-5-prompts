@@ -1,0 +1,43 @@
+{
+  "slug": "made-with-seedance-2-5-255932",
+  "title": {
+    "en": "Made with Seedance 2.5",
+    "zh": "Made with Seedance 2.5"
+  },
+  "description": {
+    "en": "30-second vlog prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒vlog提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "vlog",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@im_shahid7",
+    "url": "https://x.com/im_shahid7/status/2094658622148255932"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/im_shahid7/status/2094658622148255932"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/im_shahid7/status/2094658622148255932"
+  ],
+  "prompt": "Extremely realistic smartphone travel vlog featuring one Korean woman in her early 20s going on a mountain hiking adventure for the first time. The entire video must look like genuine casual footage recorded on a real smartphone, with imperfect handheld framing, natural camera shake, realistic autofocus, exposure changes, slight motion blur, walking jolts, natural wind noise and authentic outdoor ambience. No cinematic shots, no drone, no gimbal, no beauty filters, no commercial look.\nCharacter: The same Korean woman throughout the entire video, petite oval face, brown eyes, natural coral lips, realistic fair skin, long black hair. Maintain perfect character consistency with no face morphing, identity drift or duplicates.\n0:00–0:04 — Starting the Hike\nShe stands at the mountain trail entrance in selfie mode wearing practical hiking clothes, a backpack and hiking shoes. She smiles excitedly and says in Korean: “오늘 산에 올라가 볼게요!”\n0:04–0:08 — Walking the Trail\nShe walks uphill along a natural mountain path. The phone shakes slightly with every step. Trees, rocks and other hikers appear naturally in the background.\n0:08–0:12 — Steep Section\nShe reaches a steeper rocky part of the trail and carefully climbs while breathing slightly harder. She laughs and says: “생각보다 힘들다!”\n0:12–0:16 — Rest Stop\nShe stops beside a beautiful viewpoint, drinks water and turns the phone toward the mountain landscape.\n0:16–0:21 — Reaching the Summit\nShe finally reaches the mountain summit and reacts with genuine amazement. Strong natural wind moves her hair and clothes as she turns the phone toward the incredible view.\n0:21–0:26 — Summit Snack\nShe sits safely at a designated resting area, takes out a small snack and enjoys it while looking at the mountains.\n0:26–0:30 — Goodbye\nIn selfie mode with the mountain view behind her, she smiles proudly and says: “정말 힘들었지만 너무 좋았어요! 다음에 또 올게요!” She waves and naturally lowers the phone.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-255932/video-5c8310c1ed80df2c.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-255932/poster-4e7746ecfc0455ae.jpg",
+    "format": "video/webm",
+    "videoBytes": 1382520,
+    "videoSha256": "5c8310c1ed80df2cf850097c8d2c51f679ddafd3d02101cdbb970d8d7286e46d",
+    "thumbnailBytes": 44203,
+    "thumbnailSha256": "4e7746ecfc0455ae91f4d0592d458c128dbc57b595541234674fadf88f520a6c"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

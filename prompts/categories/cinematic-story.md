@@ -35,7 +35,309 @@ Hyper-detailed, breathtaking surreal world-building, perfect motion continuity, 
 
 ---
 
-## 2. seedance 2.5 on
+## 2. 使用首帧+提示词制作的视频用来做互动性App挺不错的。
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/app-097861/video-7aeb06b3bbeeeabe.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/app-097861/poster-d6253347d9f25df6.jpg" alt="使用首帧+提示词制作的视频用来做互动性App挺不错的。 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 9:16竖版，8秒，电影级超写实年轻成年东方女性面部近景，一镜到底，全程无切镜、无跳切、无转场。 严格保持参考人物身份 {{Mixed 1}} 、五官比例、脸型、眼睛、鼻子、嘴唇、眉毛、发型、肤色与年龄完全一致，不重新设计人物，不发生换脸或五官漂移。...</summary>
+
+~~~~text
+9:16竖版，8秒，电影级超写实年轻成年东方女性面部近景，一镜到底，全程无切镜、无跳切、无转场。
+
+严格保持参考人物身份 {{Mixed 1}} 、五官比例、脸型、眼睛、鼻子、嘴唇、眉毛、发型、肤色与年龄完全一致，不重新设计人物，不发生换脸或五官漂移。
+
+摄影机固定在人物正前方，与双眼基本同高，人物脸部位于画面中央，头顶保留极少空间，下方只露出少量颈部。近距离人像镜头，接近70–85mm中长焦视觉效果，避免广角脸部变形。
+
+全程摄影机基本固定，不推近、不拉远、不环绕。人物头部也基本保持静止，主要依靠眼球、眼睑、眉毛、嘴唇、下颌和脸颊肌肉完成表演。
+
+柔和均匀的正面散射光，明亮冷白高调人像，背景简洁浅冷灰蓝。人物皮肤白净通透但真实，保留极细微皮肤纹理，眼睛清澈湿润有明显高光，嘴唇具有自然水润反光，淡粉腮红，整体像高质量美容近景摄影，不要塑料皮，不要CG感。
+
+## 0.0–0.8秒
+
+固定镜头。
+
+人物正面直视镜头，头部完全保持稳定。
+
+双眼自然睁开，上下眼睑放松，目光稳定落在镜头中央。
+
+嘴唇自然微张，上下唇之间留有很窄的缝隙，下颌放松，能够看到少量上排牙齿。
+
+保持约半秒后，嘴唇开始自然合拢，不要突然闭嘴。
+
+整个过程只有轻微自然呼吸，鼻翼几乎不动。
+
+## 0.8–1.6秒
+
+嘴唇完全闭合。
+
+随后双唇轻轻向内压紧，下唇稍微向前顶，颏肌开始轻微收缩，下巴中央出现很浅的细小凹凸。
+
+双眼仍然先看镜头。
+
+约1.4秒后，眼球开始先于头部向画面左侧移动。
+
+头部不要跟随转动。
+
+## 1.6–2.8秒
+
+人物保持头部完全朝向正前方。
+
+只有双眼明显看向画面左侧，形成“头不动、眼睛先偷看旁边”的状态。
+
+视线在侧方停留，不快速来回扫动。
+
+双唇继续轻轻压紧，下唇保持轻微前伸，嘴角基本水平。
+
+颏肌保持轻度收缩，下巴下方出现自然的肌肉纹理。
+
+不要微笑。
+
+不要皱眉。
+
+这一段主要依靠侧向眼神和压住的嘴唇形成表情。
+
+## 2.8–3.3秒
+
+视线开始从画面左侧返回镜头中央。
+
+在返回过程中完成一次自然偏慢的眨眼：
+
+上眼睑先向下落，双眼短暂闭合，再重新睁开。
+
+不要连续眨眼。
+
+睁眼之后视线重新稳定落在镜头。
+
+嘴唇的压力稍微松开，但仍保持闭合。
+
+## 3.3–4.4秒
+
+人物开始出现明显的面部变化。
+
+两侧内眉逐渐向上提，同时眉心轻微向中央收拢。
+
+眉间形成很浅的竖向皱褶，但不要深度皱眉。
+
+下眼睑稍微绷紧，双眼继续直视镜头。
+
+嘴角开始轻微向下压。
+
+颏肌再次收缩，下唇明显向前推出一点，形成自然的下唇前顶。
+
+上下唇仍然闭合。
+
+下巴稍微收紧。
+
+这一变化必须逐渐形成：
+
+先动眉毛，
+再收紧下眼睑，
+最后才让下唇向前推出。
+
+不要同时完成所有动作。
+
+## 4.4–5.0秒
+
+人物保持当前面部状态。
+
+一只手从画面右侧边缘进入。
+
+手部动作速度自然，不要突然出现。
+
+拇指与食指逐渐靠近人物画面右侧的脸颊。
+
+人物眼睛仍然看着镜头，不需要明显转头看手。
+
+眉心继续轻微收紧。
+
+下唇保持前顶。
+
+## 5.0–6.8秒
+
+拇指和食指轻轻夹住人物画面右侧脸颊的软组织。
+
+手指首先接触皮肤，然后才逐渐施加压力。
+
+脸颊皮肤在接触点出现真实压陷。
+
+随后手指将脸颊轻轻向画面右侧并略微向外拉动。
+
+皮肤、嘴角和下颌受到物理牵引产生局部形变。
+
+只有被捏住的一侧脸颊发生明显变化，另一侧脸保持自然。
+
+人物眉心进一步轻微收拢。
+
+内眉仍然保持上提。
+
+下眼睑稍微收紧。
+
+眼睛保持较大程度睁开并直视镜头。
+
+下唇因为脸颊受到牵拉而进一步向前突出。
+
+不要张嘴。
+
+不要尖叫。
+
+不要摇头。
+
+不要做夸张疼痛表情。
+
+重点表现：
+
+手指真实压入柔软脸颊，
+皮肤受到挤压，
+脸颊局部产生弹性形变，
+眉眼只有轻度反应。
+
+手指施力不是匀速的。
+
+接触后停顿一下，
+再稍微增加一点压力，
+然后保持。
+
+## 6.8–7.2秒
+
+手指逐渐减小压力。
+
+被夹住的脸颊开始自然回弹。
+
+手指松开后缓慢离开皮肤，但仍短暂停留在画面右侧附近。
+
+脸颊恢复原本轮廓。
+
+眉心的紧绷开始略微减弱。
+
+下唇也逐渐减少前顶幅度。
+
+不要瞬间恢复成完全中性脸。
+
+必须保留约0.2秒的表情残留。
+
+## 7.2–7.55秒
+
+人物完成一次明显但自然的闭眼。
+
+上眼睑快速落下。
+
+双眼短暂闭合。
+
+眉毛开始放松。
+
+嘴唇也稍微松开。
+
+下颌不再绷紧。
+
+这是整个镜头中一个很短的“重置停顿”。
+
+## 7.55–8.0秒
+
+重新睁开双眼后，不再看镜头中央。
+
+眼球立即向画面左上方移动。
+
+头部仍然基本保持正面，不跟随眼球明显转动。
+
+形成明显的“只动眼睛、不动头”的侧上方视线。
+
+眉心基本舒展开。
+
+嘴唇重新轻微分开一条小缝。
+
+下颌放松。
+
+保持这个眼神约最后0.2秒结束画面。
+
+不要笑。
+
+不要再次皱眉。
+
+不要再加入新的动作。
+
+---
+
+## 表演节奏控制
+
+整段表演遵循：
+
+前2秒以嘴唇和眼神为主；
+
+2–3秒用一次眨眼完成状态转换；
+
+3–4.4秒才逐渐加入眉毛和下唇；
+
+4.4秒以后手部才出现；
+
+5–6.8秒为整个镜头唯一明显的物理动作高潮；
+
+7秒以后迅速降低动作强度；
+
+最后只用一次闭眼和斜上方眼神完成收尾。
+
+人物不能一直活动。
+
+每一个明显动作之间必须存在极短暂停顿。
+
+面部动作不要全部同步启动。
+
+眼球、眼睑、眉毛、嘴唇之间应有约0.1–0.3秒的自然时间差。
+
+---
+
+## 面部动作重点
+
+侧看时：
+
+眼球先移动，头保持静止。
+
+委屈表情形成时：
+
+内眉上抬 + 眉心轻微收拢 + 下眼睑轻微绷紧 + 颏肌收缩 + 下唇前顶。
+
+不要用“瞪大眼睛+撅嘴+皱眉”同时出现的夸张卡通表达。
+
+捏脸时：
+
+主要变化来自真实物理挤压，而不是人物主动做更大的表情。
+
+被捏一侧皮肤明显变形，另一侧基本保持原状态。
+
+松开后：
+
+皮肤需要有自然弹性回弹过程，不允许一帧瞬间恢复。
+
+---
+
+## 声音与呼吸
+
+无人物台词。
+
+全程只保留非常轻微的自然呼吸。
+
+0–3秒呼吸平稳。
+
+3–5秒眉心收紧以后，可以出现一次很轻的鼻腔吸气。
+
+捏脸过程中不要发出夸张叫声。
+
+如果生成环境声音，只保留极轻微衣物、手指与皮肤接触产生的细小摩擦声。
+
+不要配夸张卡通音效。
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/app-097861/video-7aeb06b3bbeeeabe.webm)
+
+**Source:** [@liyue_ai](https://x.com/liyue_ai/status/2091497718351097861) · 8s · 9:16 · cinematic story
+
+---
+
+## 3. seedance 2.5 on
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-on-384530/video-ebd811fcddcce004.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-on-384530/poster-4264319bee9d7eb5.jpg" alt="seedance 2.5 on video preview" width="700" />
@@ -56,7 +358,7 @@ Hyperrealistic, photorealistic cinematic video. Static symmetrical wide-angle sh
 
 ---
 
-## 3. Higgsfield ha publicado The Cully Hill Boys al completo
+## 4. Higgsfield ha publicado The Cully Hill Boys al completo
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/higgsfield-ha-publicado-the-cully-hill-boys-al-completo-705224/video-039b073b90f33952.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/higgsfield-ha-publicado-the-cully-hill-boys-al-completo-705224/poster-49f1b53eac018e39.jpg" alt="Higgsfield ha publicado The Cully Hill Boys al completo video preview" width="700" />
@@ -90,7 +392,7 @@ Enlace a todos los prompts y assets abajo👇
 
 ---
 
-## 4. Y han abierto el proyecto al público
+## 5. Y han abierto el proyecto al público
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/y-han-abierto-el-proyecto-al-pblico-086191/video-80a83f86bfb0090c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/y-han-abierto-el-proyecto-al-pblico-086191/poster-941fb3bb5144dfe5.jpg" alt="Y han abierto el proyecto al público video preview" width="700" />
@@ -118,7 +420,7 @@ Todo hecho con Seedance 2.5 en Higgsfield.
 
 ---
 
-## 5. Reply "SEEDANCE" and I'll send it. (must be following)
+## 6. Reply "SEEDANCE" and I'll send it. (must be following)
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/reply-seedance-and-i-ll-send-it-must-be-following-463805/video-fbaba3ac9a9a1d62.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/reply-seedance-and-i-ll-send-it-must-be-following-463805/poster-53051ce85a6e72d3.jpg" alt="Reply &quot;SEEDANCE&quot; and I'll send it. (must be following) video preview" width="700" />
@@ -147,7 +449,7 @@ Reply "SEEDANCE" and I'll send it. (must be following)
 
 ---
 
-## 6. 夺宝奇兵之--香水大盗
+## 7. 夺宝奇兵之--香水大盗
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-443011-443011/video-723c8e356d0f5dc9.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-443011-443011/poster-f8fbf636700683b3.jpg" alt="夺宝奇兵之--香水大盗 video preview" width="700" />
@@ -173,7 +475,7 @@ Reply "SEEDANCE" and I'll send it. (must be following)
 
 ---
 
-## 7. i made this full video in 5 minutes 100% AUTOMATED with my seedance 2.5 workflow..
+## 8. i made this full video in 5 minutes 100% AUTOMATED with my seedance 2.5 workflow..
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-made-this-full-video-in-5-minutes-100-automated-857085/video-a33093f28a1daa8b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-made-this-full-video-in-5-minutes-100-automated-857085/poster-8abcc1dff835a5a5.jpg" alt="i made this full video in 5 minutes 100% AUTOMATED with my seedance 2.5 workflow.. video preview" width="700" />
@@ -203,7 +505,7 @@ RT + reply "SEEDANCE" and i'll send you the step-by-step system (must follow so 
 
 ---
 
-## 8. Generated with Seedance 2.5
+## 9. Generated with Seedance 2.5
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/generated-with-seedance-2-5-971961/video-14178869ff82a795.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/generated-with-seedance-2-5-971961/poster-e2bdca9eb7030a91.jpg" alt="Generated with Seedance 2.5 video preview" width="700" />
@@ -224,7 +526,7 @@ RT + reply "SEEDANCE" and i'll send you the step-by-step system (must follow so 
 
 ---
 
-## 9. GPT 5.6 Sol + Seedance 2.5 = ?
+## 10. GPT 5.6 Sol + Seedance 2.5 = ?
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/gpt-5-6-sol-seedance-2-5-955176/video-0b08fd51f1d2463c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/gpt-5-6-sol-seedance-2-5-955176/poster-e2220245aab93fd9.jpg" alt="GPT 5.6 Sol + Seedance 2.5 = ? video preview" width="700" />
@@ -260,7 +562,7 @@ RT + reply "SEEDANCE" and i'll send you the step-by-step system (must follow so 
 
 ---
 
-## 10. Seedance 2.5 in
+## 11. Seedance 2.5 in
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-in-822614/video-90fe0f039f9e895e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-in-822614/poster-99ad10346b3fcff3.jpg" alt="Seedance 2.5 in video preview" width="700" />
@@ -599,7 +901,7 @@ Moira 正在穿过一连串真正相连的房间，每一扇右侧的门都直�
 
 ---
 
-## 11. Capoeira vs. Kung Fu.
+## 12. Capoeira vs. Kung Fu.
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/capoeira-vs-kung-fu-262757/video-be57f0f9245f362d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/capoeira-vs-kung-fu-262757/poster-a7f799f28444f1a9.jpg" alt="Capoeira vs. Kung Fu. video preview" width="700" />
@@ -652,7 +954,7 @@ img2  定义对手卡波耶拉武者——仅使用其面部、体格、项链�
 
 ---
 
-## 12. Honestly, it feels like a random clip from a real trip… except none of it actually happened 😂✨
+## 13. Honestly, it feels like a random clip from a real trip… except none of it actually happened 😂✨
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/honestly-it-feels-like-a-random-clip-from-a-real-900148/video-bc56d041d8341e1f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/honestly-it-feels-like-a-random-clip-from-a-real-900148/poster-50828e4231d43d0a.jpg" alt="Honestly, it feels like a random clip from a real trip… except none of it actually happened 😂✨ video preview" width="700" />
@@ -683,7 +985,7 @@ Style: Photorealistic, cinematic urban lifestyle aesthetic, authentic Birmingham
 
 ---
 
-## 13. 30秒一镜到底·竹林机械古寺奇遇
+## 14. 30秒一镜到底·竹林机械古寺奇遇
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-301810/video-6ec8310326831d3e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-301810/poster-4b92bdb1f54e2c19.jpg" alt="30秒一镜到底·竹林机械古寺奇遇 video preview" width="700" />
@@ -824,7 +1126,7 @@ Style: Photorealistic, cinematic urban lifestyle aesthetic, authentic Birmingham
 
 ---
 
-## 14. Crazy, right❓
+## 15. Crazy, right❓
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/crazy-right-413578/video-d3a867f84cb16d6d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/crazy-right-413578/poster-7a549ad00b98e8db.jpg" alt="Crazy, right❓ video preview" width="700" />
@@ -905,7 +1207,7 @@ Camera Capture: wide-latitude cinema capture, vintage 2x anamorphic character at
 
 ---
 
-## 15. Stop wasting credits on random
+## 16. Stop wasting credits on random
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/stop-wasting-credits-on-random-705676/video-6e7e561eee9b9da0.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/stop-wasting-credits-on-random-705676/poster-294194b7e0aa1721.jpg" alt="Stop wasting credits on random video preview" width="700" />
@@ -930,7 +1232,7 @@ Want my exact setup? Reply “PROMPT” 👇
 
 ---
 
-## 16. Cinematic Story Study 433265
+## 17. Cinematic Story Study 433265
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/use-image-only-for-the-womans-face-identity-hair-433265/video-3cb543cf3929d273.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/use-image-only-for-the-womans-face-identity-hair-433265/poster-d8d6abc6180f5135.jpg" alt="Cinematic Story Study 433265 video preview" width="700" />
@@ -981,7 +1283,7 @@ CONTINUITY: Same woman/face, store layout, door, red OPEN sign, water bottle and
 
 ---
 
-## 17. This video was 100%
+## 18. This video was 100%
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/this-video-was-100-351093/video-c75e24f43ea6c47d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/this-video-was-100-351093/poster-59eacc9b17da17b8.jpg" alt="This video was 100% video preview" width="700" />
@@ -1062,7 +1364,7 @@ logos, no harsh lighting.
 
 ---
 
-## 18. Cinematic Story Study 501840
+## 19. Cinematic Story Study 501840
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/cinematic-story-study-501840/video-12cc426781d121f8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/cinematic-story-study-501840/poster-a1f2834fcf66c3b6.jpg" alt="Cinematic Story Study 501840 video preview" width="700" />
@@ -1109,7 +1411,7 @@ High-end cinematic anime realism with sakuga energy. Throws show readable weight
 
 ---
 
-## 19. 日本大型综艺水上闯关特别节目（Japanese TV Game Sh
+## 20. 日本大型综艺水上闯关特别节目（Japanese TV Game Sh
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-tv-game-sh-471651/video-df1f65f064d780a5.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-tv-game-sh-471651/poster-369530f3d9cf5c57.jpg" alt="日本大型综艺水上闯关特别节目（Japanese TV Game Sh video preview" width="700" />
@@ -1258,7 +1560,7 @@ High-end cinematic anime realism with sakuga energy. Throws show readable weight
 
 ---
 
-## 20. Cinematic Story Study 728019
+## 21. Cinematic Story Study 728019
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/cinematic-story-study-728019/video-64e4722e192ec244.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/cinematic-story-study-728019/poster-e64e385750512bd4.jpg" alt="Cinematic Story Study 728019 video preview" width="700" />
@@ -1294,7 +1596,7 @@ Seedance 2.5 is live first on @higgsfield 🎬
 
 ---
 
-## 21. 57-60秒：中宗察覺兩人異樣，忍不住大笑出聲，畫面在溫馨笑聲中緩慢淡出。
+## 22. 57-60秒：中宗察覺兩人異樣，忍不住大笑出聲，畫面在溫馨笑聲中緩慢淡出。
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/57-60-962471/video-c1b889455b4bdb3e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/57-60-962471/poster-1f7545dd22dd6a7c.jpg" alt="57-60秒：中宗察覺兩人異樣，忍不住大笑出聲，畫面在溫馨笑聲中緩慢淡出。 video preview" width="700" />
@@ -1351,7 +1653,7 @@ Seedance 2.5 is live first on @higgsfield 🎬
 
 ---
 
-## 22. Cinematic Story Study 734483
+## 23. Cinematic Story Study 734483
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/shot-1-ecu-85mm-push-in-on-the-phone-screen-734483/video-b274ccd4b402e123.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/shot-1-ecu-85mm-push-in-on-the-phone-screen-734483/poster-356fa5f57d943e37.jpg" alt="Cinematic Story Study 734483 video preview" width="700" />
@@ -1400,7 +1702,7 @@ SHOT 15: WS, 24mm pull-out / Match cut back to the bedroom composition from the 
 
 ---
 
-## 23. The Paper Boat
+## 24. The Paper Boat
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/the-paper-boat-429699/video-166866b736ecda0b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/the-paper-boat-429699/poster-afb1b04b4461d01e.jpg" alt="The Paper Boat video preview" width="700" />
@@ -1737,7 +2039,7 @@ Make every frame feel intentionally photographed by a world-class cinematographe
 
 ---
 
-## 24. 4 character refs + short
+## 25. 4 character refs + short
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/4-character-refs-short-435656/video-fc04b50d41bb22cd.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/4-character-refs-short-435656/poster-d0ece72b350862bc.jpg" alt="4 character refs + short video preview" width="700" />
@@ -1758,7 +2060,7 @@ Make every frame feel intentionally photographed by a world-class cinematographe
 
 ---
 
-## 25. MPTER AND COMPARISON
+## 26. MPTER AND COMPARISON
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/mpter-and-comparison-057958/video-d226aa7b42a7ea62.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/mpter-and-comparison-057958/poster-3f4d36269aba7c52.jpg" alt="MPTER AND COMPARISON video preview" width="700" />
@@ -1794,7 +2096,7 @@ Video Created in @dreamina_ai
 
 ---
 
-## 26. Midjourney v8.2 + GPT Image 2
+## 27. Midjourney v8.2 + GPT Image 2
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/midjourney-v8-2-gpt-image-2-685091/video-6affd86ad50d7d79.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/midjourney-v8-2-gpt-image-2-685091/poster-63e356e163853252.jpg" alt="Midjourney v8.2 + GPT Image 2 video preview" width="700" />
@@ -1889,7 +2191,7 @@ Keep exactly one Fighter and one Sentinel. Preserve her referenced appearance, a
 
 ---
 
-## 27. 声音：演员现场原声，精准口型同步
+## 28. 声音：演员现场原声，精准口型同步
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-107144/video-ffe06cf1598632a1.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-107144/poster-d2991dd6595c4c2d.jpg" alt="声音：演员现场原声，精准口型同步 video preview" width="700" />
@@ -2017,7 +2319,7 @@ warped face, extra fingers, identity drift, wardrobe drift, abrupt camera moveme
 
 ---
 
-## 28. Tried making a Post Minion video with in
+## 29. Tried making a Post Minion video with in
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/tried-making-a-post-minion-video-with-in-956768/video-5f6735fa1d86105a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/tried-making-a-post-minion-video-with-in-956768/poster-c9f150d9b5efd010.jpg" alt="Tried making a Post Minion video with in video preview" width="700" />
@@ -2040,7 +2342,7 @@ What AI video tools or workflows have worked well for you?
 
 ---
 
-## 29. Seedance 2.5
+## 30. Seedance 2.5
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-581571/video-d6892ceb65bd39b7.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-581571/poster-2a1e7837a8aa9935.jpg" alt="Seedance 2.5 video preview" width="700" />
@@ -2073,7 +2375,7 @@ Keep the same figure in every shot: slim build, ragged sand-colored hooded cloak
 
 ---
 
-## 30. 🚨 Dola AI is giving FREE AI video credits
+## 31. 🚨 Dola AI is giving FREE AI video credits
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/dola-ai-is-giving-free-ai-video-credits-823385/video-614ab84a531eb717.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/dola-ai-is-giving-free-ai-video-credits-823385/poster-888efebef7e5f3ea.jpg" alt="🚨 Dola AI is giving FREE AI video credits video preview" width="700" />
@@ -2099,7 +2401,7 @@ You can literally create cinematic short films from just ONE prompt🤯
 
 ---
 
-## 31. Unveiling Pure Luxury: The Ultimate Red Ferrari Experience
+## 32. Unveiling Pure Luxury: The Ultimate Red Ferrari Experience
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/unveiling-pure-luxury-the-ultimate-red-ferrari-e-698838/video-49a74c05cd8db885.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/unveiling-pure-luxury-the-ultimate-red-ferrari-e-698838/poster-6f9aaae99341d334.jpg" alt="Unveiling Pure Luxury: The Ultimate Red Ferrari Experience video preview" width="700" />
@@ -2164,7 +2466,7 @@ Negative: blurry faces, deformed hands, extra people, text, watermarks, low qual
 
 ---
 
-## 32. Cinematic Travel Study 643718
+## 33. Cinematic Travel Study 643718
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/photorealistic-cinematic-modern-american-airport-643718/video-cca2cc809ce82386.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/photorealistic-cinematic-modern-american-airport-643718/poster-fe6f0175db283dab.jpg" alt="Cinematic Travel Study 643718 video preview" width="700" />
@@ -2192,7 +2494,7 @@ Photorealistic, ultra-detailed fluid and object physics, perfect volume and surf
 
 ---
 
-## 33. Cinematic Story Study 143211
+## 34. Cinematic Story Study 143211
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/cinematic-story-study-143211/video-0192e622d767fb4f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/cinematic-story-study-143211/poster-8b409eac30d9574d.jpg" alt="Cinematic Story Study 143211 video preview" width="700" />
@@ -2222,7 +2524,7 @@ Photorealistic, ultra-detailed fluid and object physics, perfect volume and surf
 
 ---
 
-## 34. Cinematic Travel Study 020061
+## 35. Cinematic Travel Study 020061
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/bytedance-released-an-official-mpt-guide-and-mos-020061/video-8af66bbcadcaf927.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/bytedance-released-an-official-mpt-guide-and-mos-020061/poster-b699392491f5cafc.jpg" alt="Cinematic Travel Study 020061 video preview" width="700" />
@@ -2260,7 +2562,7 @@ comment 'SEEDANCE' and ill send you the skill i built
 
 ---
 
-## 35. Cinematic Story Study 771813
+## 36. Cinematic Story Study 771813
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/one-30-second-9-16-photorealistic-live-action-dr-771813/video-c67dacb68254f4b8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/one-30-second-9-16-photorealistic-live-action-dr-771813/poster-ed844befa7f818a4.jpg" alt="Cinematic Story Study 771813 video preview" width="700" />
@@ -2281,7 +2583,7 @@ Create one 30-second 9:16 photorealistic live-action dramatic scene with five de
 
 ---
 
-## 36. Cinematic Story Study 765916
+## 37. Cinematic Story Study 765916
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/cinematic-story-study-765916/video-74931101259a11c6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/cinematic-story-study-765916/poster-f4dacc786a7fabae.jpg" alt="Cinematic Story Study 765916 video preview" width="700" />
@@ -2303,7 +2605,7 @@ The couple is getting ready for a weekend brunch in a bright apartment. She help
 
 ---
 
-## 37. Cinematic Story Study 915882
+## 38. Cinematic Story Study 915882
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/five-beautiful-women-in-five-countries-greet-the-915882/video-125771097a745f21.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/five-beautiful-women-in-five-countries-greet-the-915882/poster-589d9e22b674dfea.jpg" alt="Cinematic Story Study 915882 video preview" width="700" />
@@ -2417,7 +2719,7 @@ moves, jitter, flicker.
 
 ---
 
-## 38. Cinematic Story Study 155054
+## 39. Cinematic Story Study 155054
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/wow-the-metamorphosis-in-is-totally-cinematic-to-155054/video-5f7ff53c3039491c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/wow-the-metamorphosis-in-is-totally-cinematic-to-155054/poster-a22ff6e024096414.jpg" alt="Cinematic Story Study 155054 video preview" width="700" />
@@ -2446,7 +2748,7 @@ not music. asmr sounds
 
 ---
 
-## 39. LISTEN UP! 🔊
+## 40. LISTEN UP! 🔊
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/listen-up-228251/video-126f47f9d9eb1f45.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/listen-up-228251/poster-9a7d5668e771624f.jpg" alt="LISTEN UP! 🔊 video preview" width="700" />
@@ -2473,7 +2775,7 @@ This is how you prompt for no music in the new Seedance 2.5 update.  Thanks to K
 
 ---
 
-## 40. The Elven Princess Greets the Orcs
+## 41. The Elven Princess Greets the Orcs
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/the-elven-princess-greets-the-orcs-635938/video-3fffc9610f693073.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/the-elven-princess-greets-the-orcs-635938/poster-51accac332c9990b.jpg" alt="The Elven Princess Greets the Orcs video preview" width="700" />
@@ -2520,7 +2822,7 @@ EXCLUDE: Motion blur anywhere, whip pans, cuts, hidden cuts, lens changes, camer
 
 ---
 
-## 41. Cinematic Story Study 866658
+## 42. Cinematic Story Study 866658
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/cinematic-story-study-866658/video-bcb611d3768fdb28.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/cinematic-story-study-866658/poster-a61c169b26025e20.jpg" alt="Cinematic Story Study 866658 video preview" width="700" />
@@ -2541,7 +2843,7 @@ Create a ten second cinematic live action illusion in a sixteen by nine frame at
 
 ---
 
-## 42. 出来后 2.0 就降智了
+## 43. 出来后 2.0 就降智了
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-426625/video-b1589692d6226036.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-426625/poster-41d54cf7a9c578f7.jpg" alt="出来后 2.0 就降智了 video preview" width="700" />
@@ -2565,7 +2867,7 @@ HKb7_rmbMAARNAP
 
 ---
 
-## 43. Planetarium Gravity Distortion
+## 44. Planetarium Gravity Distortion
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/planetarium-gravity-distortion-288542/video-d597d1e126b2e270.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/planetarium-gravity-distortion-288542/poster-db4d467136601cb2.jpg" alt="Planetarium Gravity Distortion video preview" width="700" />
@@ -2586,7 +2888,7 @@ An elderly night janitor cleans an abandoned Art Deco planetarium during a thund
 
 ---
 
-## 44. World War I Air Combat Film
+## 45. World War I Air Combat Film
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/world-war-i-air-combat-film-449091/video-90a8c64845259b38.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/world-war-i-air-combat-film-449091/poster-7a1096c79a6d13e4.jpg" alt="World War I Air Combat Film video preview" width="700" />
@@ -2641,7 +2943,7 @@ An elderly night janitor cleans an abandoned Art Deco planetarium during a thund
 
 ---
 
-## 45. Vietnam City Scooter Long Take
+## 46. Vietnam City Scooter Long Take
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/vietnam-city-scooter-long-take-216517/video-6b644fc5f97d874e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/vietnam-city-scooter-long-take-216517/poster-0fbd08dc7588028d.jpg" alt="Vietnam City Scooter Long Take video preview" width="700" />
@@ -2684,7 +2986,7 @@ Seedance 2.5 really cooked on this one. Share your thoughts in the comment secti
 
 ---
 
-## 46. Steampunk Momotaro Thirty-Second Story
+## 47. Steampunk Momotaro Thirty-Second Story
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/steampunk-momotaro-thirty-second-story-896854/video-b7488aa4cf16ef72.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/steampunk-momotaro-thirty-second-story-896854/poster-f5aed8ec7256e27b.jpg" alt="Steampunk Momotaro Thirty-Second Story video preview" width="700" />
@@ -2713,7 +3015,7 @@ CapCut-Seedance2.5簡単プロンプトが凄い
 
 ---
 
-## 47. Thirty-Character Family Dinner
+## 48. Thirty-Character Family Dinner
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/thirty-character-family-dinner-307528/video-84f544e175da2e69.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/thirty-character-family-dinner-307528/poster-94ffe7c7e9e9f7a7.jpg" alt="Thirty-Character Family Dinner video preview" width="700" />
@@ -2736,7 +3038,7 @@ You can find character sheets in the quoted post.
 
 ---
 
-## 48. frozen time + rewind effect
+## 49. frozen time + rewind effect
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/frozen-time-rewind-effect-664385/video-41c5634d88f100a2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/frozen-time-rewind-effect-664385/poster-560afa800a358b25.jpg" alt="frozen time + rewind effect video preview" width="700" />
@@ -2773,7 +3075,7 @@ Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving
 
 ---
 
-## 49. Duration: 20s | 16:9 | 24fps
+## 50. Duration: 20s | 16:9 | 24fps
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/duration-20s-16-9-24fps-445413/video-5ec82c72fa8e8edc.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/duration-20s-16-9-24fps-445413/poster-00dfc51520dda79d.jpg" alt="Duration: 20s | 16:9 | 24fps video preview" width="700" />
@@ -2871,7 +3173,7 @@ then slams back. No dialogue.
 
 ---
 
-## 50. Cinematic Travel Study 203080
+## 51. Cinematic Travel Study 203080
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/duration-20s-16-9-24fps-duel-from-romance-of-203080/video-2f3f0ba88c242332.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/duration-20s-16-9-24fps-duel-from-romance-of-203080/poster-67928397436548f8.jpg" alt="Cinematic Travel Study 203080 video preview" width="700" />
@@ -2898,7 +3200,7 @@ Image 3
 
 ---
 
-## 51. Thousand-Year Static Landscape
+## 52. Thousand-Year Static Landscape
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/thousand-year-static-landscape/video-2a4695acb3a5df74.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/thousand-year-static-landscape/poster-906f12352c98197d.jpg" alt="Thousand-Year Static Landscape video preview" width="700" />
@@ -2919,7 +3221,7 @@ A 30 second film from ONE completely locked, static camera position that never m
 
 ---
 
-## 52. Corridor Video Continuation
+## 53. Corridor Video Continuation
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/corridor-video-continuation/video-15d773e393d0b933.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/corridor-video-continuation/poster-0b8ca59b60d76759.jpg" alt="Corridor Video Continuation video preview" width="700" />
@@ -2976,7 +3278,7 @@ No music.
 
 ---
 
-## 53. Trojan War Selfie Vlog
+## 54. Trojan War Selfie Vlog
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/trojan-war-selfie-vlog/video-77d18ea220e9c867.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/trojan-war-selfie-vlog/poster-33da1cdcfba39060.jpg" alt="Trojan War Selfie Vlog video preview" width="700" />
@@ -3001,7 +3303,7 @@ Subject Lock: Long dark wavy hair, olive skin, sharp contoured features, gold ho
 
 ---
 
-## 54. Rainy Neon Thriller
+## 55. Rainy Neon Thriller
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/rainy-neon-thriller/video-e595a694899864a5.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/rainy-neon-thriller/poster-a5d25929d8f6be34.jpg" alt="Rainy Neon Thriller video preview" width="700" />
@@ -3022,7 +3324,7 @@ Rainy neon thriller sequence, 16:9, grounded live-action realism, wet city stree
 
 ---
 
-## 55. 在 即将推出之际我发条 grok 生的视频来提醒一下大家不要忘了这条
+## 56. 在 即将推出之际我发条 grok 生的视频来提醒一下大家不要忘了这条
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-593058/video-33b26b1afa17a4b2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-593058/poster-9d4eee2632b3baff.jpg" alt="在 即将推出之际我发条 grok 生的视频来提醒一下大家不要忘了这条 video preview" width="700" />
@@ -3057,7 +3359,7 @@ Rainy neon thriller sequence, 16:9, grounded live-action realism, wet city stree
 
 ---
 
-## 56. My first test of ! ❤️‍
+## 57. My first test of ! ❤️‍
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/my-first-test-of-526392/video-cc1c1617eab973cd.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/my-first-test-of-526392/poster-fa11e48db6d36286.jpg" alt="My first test of ! ❤️‍ video preview" width="700" />
@@ -3086,7 +3388,7 @@ A photorealistic, cinematic scene of fast-paced action.
 
 ---
 
-## 57. The Suit Was Still Listening
+## 58. The Suit Was Still Listening
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/the-suit-was-still-listening/video-b6e1a1668eba65ec.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/the-suit-was-still-listening/poster-2075fb78ab72aa16.jpg" alt="The Suit Was Still Listening video preview" width="700" />
@@ -3127,7 +3429,7 @@ Sound design must include rain on glass, distant tires on wet road, washer motor
 
 ---
 
-## 58. CBD Rooftop Power Ensemble
+## 59. CBD Rooftop Power Ensemble
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/cbd-rooftop-power-ensemble/video-bb65cbcffcb6e40a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/cbd-rooftop-power-ensemble/poster-0f65ec1a2afe58c4.jpg" alt="CBD Rooftop Power Ensemble video preview" width="700" />
@@ -3169,7 +3471,7 @@ Sound design must include rain on glass, distant tires on wet road, washer motor
 
 ---
 
-## 59. 1977 Boston Zombie Outbreak
+## 60. 1977 Boston Zombie Outbreak
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/1977-boston-zombie-outbreak/video-f187c0447e900cb8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/1977-boston-zombie-outbreak/poster-f0d31fc5ec796d47.jpg" alt="1977 Boston Zombie Outbreak video preview" width="700" />
@@ -3210,7 +3512,7 @@ Authentic 1977 American cinema. Rich foreground, midground and background storyt
 
 ---
 
-## 60. Victorian Greenhouse Mechanical Hummingbird
+## 61. Victorian Greenhouse Mechanical Hummingbird
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/victorian-greenhouse-mechanical-hummingbird/video-e58119573dec9c35.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/victorian-greenhouse-mechanical-hummingbird/poster-cec97cf5a856e119.jpg" alt="Victorian Greenhouse Mechanical Hummingbird video preview" width="700" />
@@ -3247,7 +3549,7 @@ Priorities: absolute character and wardrobe consistency, stable hummingbird desi
 
 ---
 
-## 61. Six Rooms Style Journey
+## 62. Six Rooms Style Journey
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/six-rooms-style-journey/video-905d121060413ed9.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/six-rooms-style-journey/poster-bc99ab07bfae5cad.jpg" alt="Six Rooms Style Journey video preview" width="700" />

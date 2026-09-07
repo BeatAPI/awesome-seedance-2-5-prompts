@@ -1,6 +1,6 @@
 # Seedance 2.5 Action & Fantasy prompts
 
-[Back to all 300 prompts](../../README.md)
+[Back to all 330 prompts](../../README.md)
 
 ## 1. Vietnamese Mythic Sea Battle
 

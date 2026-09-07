@@ -1,0 +1,43 @@
+{
+  "slug": "created-with-seedance-2-5-on-798973",
+  "title": {
+    "en": "Created with Seedance 2.5 on",
+    "zh": "Created with Seedance 2.5 on"
+  },
+  "description": {
+    "en": "10-second documentary prompt paired with a source-verified creator example and its output video.",
+    "zh": "10 秒documentary提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "documentary",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "10s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@meng_dagg695",
+    "url": "https://x.com/meng_dagg695/status/2093921953614798973"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/meng_dagg695/status/2093921953614798973"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/meng_dagg695/status/2093921953614798973"
+  ],
+  "prompt": "A strikingly beautiful woman wearing casual black Gothic-inspired clothing, layered silver jewelry, ornate rings, a crescent moon pendant, and polished high heels black boots walks confidently down a bustling modern city street at night. She has long flowing black hair, subtle dark makeup, red lipstick and an air of mystery. Pedestrians glance at her with admiration.\n\nA stranger notices her unique appearance and discreetly begins recording her with a smartphone while following at a respectful distance. The camera alternates between cinematic tracking shots behind the woman, over-the-shoulder views from the stranger's phone, and wide shots of the busy street illuminated by storefront lights and traffic.\n\nThe woman slowly realizes she is being filmed. Her confident expression changes into visible discomfort and unease. She repeatedly glances over her shoulder at the stranger, politely quickens her pace, and weaves naturally through crowds, trying not to draw attention. The stranger continues following, fascinated, believing he has simply found an unusually elegant Gothic woman.\n\nThe woman turns slowly around a street corner into a semi-dark alley illuminated only by pale moonlight spilling between old brick buildings. The sounds of the busy city fade into silence. The camera follows smoothly into the alley.\n\nAs she disappears briefly into the shadows, a seamless, magical transformation occurs. Black wisps of smoke and shimmering moonlit particles swirl around her as she transforms into a sleek black cat. The transformation is graceful, elegant, and photorealistic, with a slow motion effect.\n\nThe stranger rounds the corner seconds later, still recording with the smartphone, confused because the mysterious woman has completely vanished. Instead, only a long haired black cat remains wearing the same pendant that the woman was wearing.\n\nThe stranger slowly approaches the cat, never realizing it is the woman. The cat turns its head toward the camera with uncanny intelligence. It blinks once before its eyes suddenly glow an intense, supernatural emerald green. The glow softly illuminates the surrounding cobblestones and reflects in the stranger's phone lens.\n\nThe stranger lowers the phone slightly, bewildered, while the cat calmly watches before silently disappearing deeper into the shadows.\n\nStyle: Ultra-photorealistic, cinematic dark fantasy, realistic human anatomy, Hollywood-quality visual effects, subtle magical realism, Gothic elegance, dramatic moonlight, volumetric lighting, realistic fabric simulation, smooth natural motion, high character consistency, shallow depth of field, 35mm anamorphic lens, slow tracking shots, handheld smartphone perspective mixed with cinematic camera work, rich atmospheric detail, 8K quality, no text, no logos, no watermarks, no visual glitches.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-on-798973/video-8dba95b0dcfe0ab5.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-on-798973/poster-8ee8bbcf72dfeaab.jpg",
+    "format": "video/webm",
+    "videoBytes": 907096,
+    "videoSha256": "8dba95b0dcfe0ab5cb159a072142e68cb953a3f43960b92dabbc0036be9e2d5b",
+    "thumbnailBytes": 60686,
+    "thumbnailSha256": "8ee8bbcf72dfeaabfd9e45ac65e8801a5f31b5ed7740d10d60d153241914ac3b"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

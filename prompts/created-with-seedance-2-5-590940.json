@@ -1,0 +1,43 @@
+{
+  "slug": "created-with-seedance-2-5-590940",
+  "title": {
+    "en": "Created with Seedance 2.5.",
+    "zh": "Created with Seedance 2.5."
+  },
+  "description": {
+    "en": "30-second vlog prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒vlog提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "vlog",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@nawalsehar",
+    "url": "https://x.com/nawalsehar/status/2087465121421590940"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/nawalsehar/status/2087465121421590940"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/nawalsehar/status/2087465121421590940"
+  ],
+  "prompt": "A young woman wakes up, gets ready for the day, leaves her apartment, prepares her vintage scooter with realistic step-by-step movements, and rides through multiple neighborhoods to meet her friend. After a natural journey across the city, she arrives, parks the scooter, removes her helmet, and shares a warm hug before smiling at the camera. Ultra-realistic lifestyle vlog, authentic smartphone footage, precise English lip-sync, realistic scooter handling, natural body movement, seamless continuity, soft morning light, immersive city ambience, documentary-style realism, and consistent character identity.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-590940/video-44f9da539be87f0b.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-590940/poster-f749d3a44714d1ac.jpg",
+    "format": "video/webm",
+    "videoBytes": 2584081,
+    "videoSha256": "44f9da539be87f0b240b6f60983b4da9e235ef19afe275595badbbba747e9544",
+    "thumbnailBytes": 65873,
+    "thumbnailSha256": "f749d3a44714d1accce7616075bdb85d1fc12de7f4c55c843dd02a2e9e75bb0b"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

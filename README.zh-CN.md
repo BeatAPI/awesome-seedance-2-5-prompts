@@ -4,13 +4,12 @@
 开源目录。
 
 **[打开 Seedance 2.5 提示词画廊](https://beatapi.io/zh/seedance-2-5-prompts)** ·
-**[使用 Seedance 2.5 API](https://beatapi.io/zh/seedance-2.5-api)** ·
 **[提交 Prompt](https://github.com/BeatAPI/awesome-seedance-2-5-prompts/issues/new?template=prompt.yml)**
 
 ## 首批内容
 
-- 300 条完整 Prompt 与对应 WebM 视频；
-- 295 条创作者来源核验案例；
+- 330 条完整 Prompt 与对应 WebM 视频；
+- 325 条创作者来源核验案例；
 - 5 条明确标注的官方展示案例；
 - 每条都保留视频原帖、Prompt 来源、模型证据、参考素材组合、时长、
   画幅、验证状态和权利状态。
@@ -22,6 +21,36 @@
 
 | Prompt | 来源 | 时长 | 证据状态 |
 | --- | --- | --- | --- |
+| [Created with Seedance 2.5 on](./prompts/created-with-seedance-2-5-on-370629.json) | [@eshal__ai](https://x.com/eshal__ai/status/2096840505355370629) | 30s | source-verified |
+| [A cinematic journey through time, created with Seedance 2.5.](./prompts/a-cinematic-journey-through-time-created-with-seedance-2-5-308685.json) | [@RuzainaMeer](https://x.com/RuzainaMeer/status/2096837494000308685) | 30s | source-verified |
+| [Created on seedance 2.5](./prompts/created-on-seedance-2-5-543579.json) | [@nawalsehar](https://x.com/nawalsehar/status/2096832969453543579) | 30s | source-verified |
+| [This mockup was generated using Nano banana pro and I animated it with Seedance 2.5](./prompts/this-mockup-was-generated-using-nano-banana-pro-and-i-344327.json) | [@realtinabrown_](https://x.com/realtinabrown_/status/2095786754930344327) | 8s | source-verified |
+| [Seedance 2.5 via](./prompts/seedance-2-5-via-738826.json) | [@saniaspeaks_](https://x.com/saniaspeaks_/status/2095728089015738826) | 30s | source-verified |
+| [Made with Seedance 2.5](./prompts/made-with-seedance-2-5-152532.json) | [@Kashberg_0](https://x.com/Kashberg_0/status/2095368416098152532) | 30s | source-verified |
+| [Created with Seedance 2.5 on](./prompts/created-with-seedance-2-5-on-190187.json) | [@sophiaparkerr_](https://x.com/sophiaparkerr_/status/2095143773978190187) | 15s | source-verified |
+| [Created with Seedance 2.5](./prompts/created-with-seedance-2-5-318531.json) | [@frametheory058](https://x.com/frametheory058/status/2095003298747318531) | 30s | source-verified |
+| [Made with Seedance 2.5](./prompts/made-with-seedance-2-5-255932.json) | [@im_shahid7](https://x.com/im_shahid7/status/2094658622148255932) | 30s | source-verified |
+| [+ SOPHISTICATED EDITORIAL TRAVEL POSTER](./prompts/sophisticated-editorial-travel-poster-055509.json) | [@AiwithLariab](https://x.com/AiwithLariab/status/2094618926475055509) | 15s | source-verified |
+| [Made with Seedance 2.5 + Gpt image 2](./prompts/made-with-seedance-2-5-gpt-image-2-191705.json) | [@ChillaiKalan__](https://x.com/ChillaiKalan__/status/2094280707422191705) | 30s | source-verified |
+| [Created with Seedance 2.5 on](./prompts/created-with-seedance-2-5-on-798973.json) | [@meng_dagg695](https://x.com/meng_dagg695/status/2093921953614798973) | 10s | source-verified |
+| [Seedance 2.5 via higgsfield makes it feel real.](./prompts/seedance-2-5-via-higgsfield-makes-it-feel-real-388426.json) | [@saniaspeaks_](https://x.com/saniaspeaks_/status/2093665693015388426) | 30s | source-verified |
+| [Made possible with Seedance 2.5.](./prompts/made-possible-with-seedance-2-5-386343.json) | [@saniaspeaks_](https://x.com/saniaspeaks_/status/2093552631650386343) | 30s | source-verified |
+| [Continue jogging → dumbbells → core → stretching → water → mirror smile.](./prompts/continue-jogging-dumbbells-core-stretching-water-mirror-smile-999741.json) | [@ElsaSofia__AI](https://x.com/ElsaSofia__AI/status/2092207601991999741) | 45s | source-verified |
+| [Every parent has lived this moment!](./prompts/every-parent-has-lived-this-moment-220283.json) | [@SeharShinwari](https://x.com/SeharShinwari/status/2091810238836220283) | 30s | source-verified |
+| [Made with Seedance 2.5 on ImagineArt](./prompts/made-with-seedance-2-5-on-imagineart-339299.json) | [@im_shahid7](https://x.com/im_shahid7/status/2091754978348339299) | 15s | source-verified |
+| [CREATED THIS VIDEO USING GPT IMAGE 2 + SEEDANCE 2.5](./prompts/created-this-video-using-gpt-image-2-seedance-2-5-410098.json) | [@AiWithSaira](https://x.com/AiWithSaira/status/2091753773425410098) | 30s | source-verified |
+| [使用首帧+提示词制作的视频用来做互动性App挺不错的。](./prompts/app-097861.json) | [@liyue_ai](https://x.com/liyue_ai/status/2091497718351097861) | 8s | source-verified |
+| [Made this video with GPT IMAGE 2 + seedance 2.5](./prompts/made-this-video-with-gpt-image-2-seedance-2-5-080172.json) | [@ElsaSofia__AI](https://x.com/ElsaSofia__AI/status/2091483398972080172) | 30s | source-verified |
+| [Created with Seedance 2.5 on](./prompts/created-with-seedance-2-5-on-519456.json) | [@ayzalnooor24521](https://x.com/ayzalnooor24521/status/2091385950295519456) | 15s | source-verified |
+| [Made this video with GPT IMAGE 2 + seedance 2.5 via](./prompts/made-this-video-with-gpt-image-2-seedance-2-5-319528.json) | [@ElsaSofia__AI](https://x.com/ElsaSofia__AI/status/2091345498909319528) | 20s | source-verified |
+| [Try it here](./prompts/try-it-here-988559.json) | [@SyntheSarah](https://x.com/SyntheSarah/status/2091007759130988559) | 15s | source-verified |
+| [Seedance 2.5](./prompts/seedance-2-5-227354.json) | [@Naiknelofar788](https://x.com/Naiknelofar788/status/2090131477145227354) | 30s | source-verified |
+| [Seedance 2.5 1080P is now available on — and it’s 50% off right now.](./prompts/seedance-2-5-1080p-is-now-available-on-and-its-398461.json) | [@RuzainaMeer](https://x.com/RuzainaMeer/status/2089595902818398461) | 30s | source-verified |
+| [Made with Flova AI using Nano Banana Pro + Seedance 2.0, powered by Skill Script to Video](./prompts/made-with-flova-ai-using-nano-banana-pro-seedance-2-074074.json) | [@Caden_Flux](https://x.com/Caden_Flux/status/2089154775829074074) | 60s | source-verified |
+| [Made with seedance 2.5](./prompts/made-with-seedance-2-5-891661.json) | [@Ciri_ai](https://x.com/Ciri_ai/status/2088527190417891661) | 18s | source-verified |
+| [Created with Seedance 2.5 on](./prompts/created-with-seedance-2-5-on-309030.json) | [@Caden_Flux](https://x.com/Caden_Flux/status/2088512747055309030) | 30s | source-verified |
+| [Seedance 2.5 can handle quick cinematic shots very well](./prompts/seedance-2-5-can-handle-quick-cinematic-shots-very-well-743745.json) | [@AIwithkhan](https://x.com/AIwithkhan/status/2088506532434743745) | 15s | source-verified |
+| [Created with Seedance 2.5.](./prompts/created-with-seedance-2-5-590940.json) | [@nawalsehar](https://x.com/nawalsehar/status/2087465121421590940) | 30s | source-verified |
 | [Seedance 2.5](./prompts/seedance-2-5-312407.json) | [@Naiknelofar788](https://x.com/Naiknelofar788/status/2087231217968312407) | 30s | source-verified |
 | [seedance 2.5 on](./prompts/seedance-2-5-on-384530.json) | [@MaomaoChan__AI](https://x.com/MaomaoChan__AI/status/2087223135326384530) | 8s | source-verified |
 | [PROMPT [Character Reference Mapping] @ Image 1 is [Character Name], use @ Audio 1](./prompts/prompt-character-reference-mapping-image-1-is-character-name-use-486583.json) | [@ObsceneSelene](https://x.com/ObsceneSelene/status/2087215968720486583) | 30s | source-verified |
@@ -346,9 +375,8 @@ GitHub 只保存轻量 Prompt 与元数据，视频放在 BeatAPI 自有 CDN 的
 ## 上线边界
 
 Seedance 2.5 的地区、账号、上传限制和 API 开放状态可能变化，生产接入前
-必须重新核对当前产品页面。BeatAPI 目前提供 Seedance 2.5 API；模型 ID、
-请求格式、价格与素材要求应以
-[实时 API 页面](https://beatapi.io/zh/seedance-2.5-api)和文档为准。
+必须重新核对 Dreamina、CapCut、火山引擎或 BytePlus 当前页面。本仓库不
+表示 BeatAPI workflow API 已经提供 Seedance 2.5 路由。
 
 ## 本地验证
 

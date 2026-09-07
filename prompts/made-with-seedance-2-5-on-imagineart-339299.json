@@ -1,0 +1,43 @@
+{
+  "slug": "made-with-seedance-2-5-on-imagineart-339299",
+  "title": {
+    "en": "Made with Seedance 2.5 on ImagineArt",
+    "zh": "Made with Seedance 2.5 on ImagineArt"
+  },
+  "description": {
+    "en": "15-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@im_shahid7",
+    "url": "https://x.com/im_shahid7/status/2091754978348339299"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/im_shahid7/status/2091754978348339299"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/im_shahid7/status/2091754978348339299"
+  ],
+  "prompt": "Create a 15-second hilarious animated sequence in the exact same warm, elegant 3D cartoon/Pixar-like visual style as the provided storyboard. Maintain the same husband and wife character designs, luxurious cream-colored bedroom and laundry room, cinematic warm lighting, expressive exaggerated facial reactions, and smooth comedic timing.\nScene 1 — 0–3 sec: The husband is relaxing in bed reading a book. Suddenly, he notices his wife's bra and top being thrown out from another room onto the floor. He slowly lowers his book and stares at them with wide, suspicious eyes. In his imagination, this clearly looks like his wife is preparing for a romantic moment with someone inside.\nScene 2 — 3–6 sec: The husband immediately jumps up excitedly and rushes to the mirror. He sprays mouth freshener, applies perfume, fixes his hair, and gives himself a confident, seductive smile. He is convinced something romantic is happening and that he should quickly join his wife.\nScene 3 — 6–9 sec: Looking handsome and confident, he slowly and dramatically opens the door, expecting a romantic surprise. His expression suddenly changes from excitement to complete confusion.\nScene 4 — 9–12 sec: Reveal the truth: his wife is simply doing laundry. She is pulling freshly washed clothes from the washing machine one by one and tossing them onto the floor because she needs help carrying them. She looks at her husband standing there, fully dressed up and smelling of perfume.\nScene 5 — 12–15 sec: The wife immediately takes advantage of him, smiling innocently as she stacks a huge pile of wet clothes into his arms. The husband becomes completely trapped under the mountain of laundry. His romantic excitement disappears instantly, and he walks away slowly with a sad, moody, defeated expression while the wife happily continues doing laundry.\nComedy style: exaggerated facial expressions, fast misunderstanding setup, dramatic reveal, visual humor, smooth character animation, cinematic framing, warm luxury interior, same character consistency and visual style throughout.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-on-imagineart-339299/video-1db56917e0dd2612.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-on-imagineart-339299/poster-84538884bc9384ff.jpg",
+    "format": "video/webm",
+    "videoBytes": 833990,
+    "videoSha256": "1db56917e0dd261275350fb119865124836b854d2050cfa3d682b37cd00105b3",
+    "thumbnailBytes": 48092,
+    "thumbnailSha256": "84538884bc9384ffb7e9fd76abc3cc4d6a6719496fe5ffe9e8068697b5dc3955"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "made-this-video-with-gpt-image-2-seedance-2-5-319528",
+  "title": {
+    "en": "Made this video with GPT IMAGE 2 + seedance 2.5 via",
+    "zh": "Made this video with GPT IMAGE 2 + seedance 2.5 via"
+  },
+  "description": {
+    "en": "20-second vlog prompt paired with a source-verified creator example and its output video.",
+    "zh": "20 秒vlog提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "vlog",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "20s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ElsaSofia__AI",
+    "url": "https://x.com/ElsaSofia__AI/status/2091345498909319528"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/ElsaSofia__AI/status/2091345498909319528"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/ElsaSofia__AI/status/2091345498909319528"
+  ],
+  "prompt": "DURATION: 20 seconds\nASPECT RATIO: 16:9\n\nSTYLE:\nUltra-photorealistic live-action cinematic lifestyle vlog, premium commercial quality, natural human movement, realistic skin and hair, realistic clothing physics, soft cinematic lighting, subtle handheld camera feel, shallow depth of field, natural color grading.\n\nREFERENCE ASSIGNMENT:\n\n@IMG1 = FEMALE HERO / MAIN CHARACTER\n@IMG2 = BEDROOM / MORNING\n@IMG3 = KITCHEN / BREAKFAST\n@IMG4 = WORK / DESK\n@IMG5 = OUTDOOR / CAFÉ\n@IMG6 = EVENING / NIGHT\n\nUse @IMG1 as the strict identity reference throughout the entire video.\n\nCHARACTER CONSISTENCY:\nThe same woman must appear in every scene.\n\nPreserve her exact face, facial structure, eyes, nose, lips, hairstyle, skin tone, feminine body proportions and overall identity.\n\nDo not change her identity between scenes.\n\n0–3 SECONDS — MORNING\n\nStart in the bedroom using @IMG2.\n\nThe woman wakes up naturally and sits on the edge of the bed.\n\nSoft morning sunlight enters through the window.\n\nShe gently opens the curtains and looks toward the morning light.\n\nCamera begins with a medium-wide shot and smoothly pushes toward her.\n\nPeaceful morning atmosphere.\n\n3–6 SECONDS — BREAKFAST\n\nSmooth cinematic transition to @IMG3.\n\nThe same woman prepares a simple breakfast in the kitchen.\n\nShe pours coffee or tea into a ceramic mug and places breakfast on the counter.\n\nNatural steam rises from the hot drink.\n\nShe briefly looks toward the camera with a relaxed morning smile.\n\nUse a natural medium tracking shot.\n\n6–10 SECONDS — WORK\n\nTransition to @IMG4.\n\nThe same woman sits at her desk and works on her laptop.\n\nShe types briefly, checks the screen and writes a few notes in her notebook.\n\nNatural productive expression.\n\nCamera moves slowly from a side angle toward a three-quarter view.\n\nKeep the environment realistic and calm.\n\n10–14 SECONDS — OUTDOOR / CAFÉ\n\nTransition naturally to @IMG5.\n\nThe same woman leaves home and walks through a beautiful modern city street toward an outdoor café.\n\nCamera smoothly tracks backward while she walks toward it.\n\nShe arrives at the café, places her handbag beside the table and sits down.\n\nShe smiles naturally toward the camera.\n\nWarm daylight and realistic city background.\n\n14–17 SECONDS — CAFÉ MOMENT\n\nClose cinematic shot.\n\nShe picks up her coffee/drink and takes a relaxed sip.\n\nSubtle background movement from distant pedestrians.\n\nNatural handheld lifestyle-vlog feeling.\n\n17–20 SECONDS — NIGHT\n\nTransition to @IMG6.\n\nThe same woman is back home in her cozy bedroom at night.\n\nShe places her phone on the bedside table and relaxes after the day.\n\nShe looks toward the window at the city lights, then turns toward the camera with a small peaceful smile.\n\nCamera slowly pushes into a close-up.\n\nEnd on her calm expression with warm bedroom lighting and soft city-light bokeh.\n\nCUT TO BLACK.\n\nCAMERA PRIORITY:\n\nKeep the camera cinematic and natural.\n\nUse smooth tracking, gentle push-ins, medium shots, close-ups and subtle handheld movement.\n\nAvoid excessive camera shake.\n\nKeep the woman as the visual focus.\n\nMaintain realistic transitions between locations.\n\nFINAL RULES:\n\nSame female character throughout.\nSame face and identity throughout.\nNatural realistic human movement.\nRealistic lighting and shadows.\nRealistic clothing and hair movement.\nNo face changes.\nNo character duplication.\nNo extra main characters.\nNo cartoon or anime appearance.\nNo fantasy effects.\nNo excessive motion blur.\nNo distorted hands.\nNo text.\nNo logos.\nNo watermark.\n\nThe overall feeling should be:\nA beautiful, realistic cinematic glimpse into one ordinary but aesthetically pleasing day in her life.\n\nReference Image:\n\nCreate a premium photorealistic female character reference sheet using the uploaded woman as the STRICT identity reference.\n\nPreserve her exact facial identity, facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, natural skin texture, hairstyle and overall appearance.\n\nCreate the same woman as a realistic modern lifestyle vlogger.\n\nShow her with natural feminine proportions and realistic anatomy.\n\nCHARACTER PRESENTATION:\n\nCreate a clean professional character sheet containing:\n\n1. Full-body front view\n2. Full-body 3/4 view\n3. Full-body side view\n4. Back view\n5. Close-up face portrait\n6. Natural smiling expression\n7. Neutral expression\n8. Casual standing pose\n\nKeep the exact same woman in every view.\n\nCLOTHING:\n\nUse a simple modern casual lifestyle outfit suitable for a daily vlog:\na clean neutral-colored fitted top, comfortable casual trousers or jeans, and simple everyday footwear.\n\nKeep the outfit realistic, modest and natural.\n\nSTYLE:\n\nUltra-photorealistic live-action photography, premium lifestyle commercial aesthetic, realistic skin texture, natural hair strands, realistic fabric, physically accurate anatomy, soft cinematic lighting, subtle depth of field, high-end photography, natural colors.\n\nThe character should look like a real woman photographed for a professional lifestyle vlog.\n\nIDENTITY CONSISTENCY IS THE HIGHEST PRIORITY.\n\nDo not change her face.\nDo not change her hairstyle.\nDo not masculinize her.\nDo not make her look like a different person.\nDo not create an anime or cartoon appearance.\nNo fantasy styling.\nNo text.\nNo logo.\nNo watermark.\n\nClean neutral studio background.\n\nThis character reference will be used as the SAME FEMALE PROTAGONIST throughout a 20-second \"A Day in Her Life\" cinematic lifestyle vlog.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/made-this-video-with-gpt-image-2-seedance-2-5-319528/video-e85feaf9c4a1d0dc.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/made-this-video-with-gpt-image-2-seedance-2-5-319528/poster-995acc3b58d80ec5.jpg",
+    "format": "video/webm",
+    "videoBytes": 1293343,
+    "videoSha256": "e85feaf9c4a1d0dc88aa658d8cfba8d28058330ff82fe2ba303464a38cbbbf75",
+    "thumbnailBytes": 72888,
+    "thumbnailSha256": "995acc3b58d80ec5cf56ea94fadab372491c3c155bc352755f7e1bb2fe523682"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

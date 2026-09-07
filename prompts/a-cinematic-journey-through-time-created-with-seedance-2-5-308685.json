@@ -1,0 +1,43 @@
+{
+  "slug": "a-cinematic-journey-through-time-created-with-seedance-2-5-308685",
+  "title": {
+    "en": "A cinematic journey through time, created with Seedance 2.5.",
+    "zh": "A cinematic journey through time, created with Seedance 2.5."
+  },
+  "description": {
+    "en": "30-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@RuzainaMeer",
+    "url": "https://x.com/RuzainaMeer/status/2096837494000308685"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/RuzainaMeer/status/2096837494000308685"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/RuzainaMeer/status/2096837494000308685"
+  ],
+  "prompt": "Create a 30-second ultra-photorealistic cinematic documentary showing the evolution of the universe and life on Earth in one seamless journey.\n\nBegin with the Big Bang and the expansion of space, then show matter forming, the first stars, galaxies, supernovae, and the birth of the Solar System and Earth. Transition to volcanic early Earth, cooling oceans, primitive single-celled life, complex marine organisms, life moving onto land, prehistoric forests, dinosaurs, early mammals, primates, hominins, and finally modern Homo sapiens.\n\nEnd with a modern human looking toward the horizon as the camera rapidly pulls back from Earth to the Moon, Solar System, and Milky Way, connecting humanity to the universe.\n\nUse continuous cinematic camera movement, seamless transitions through time and scale, realistic physics, scientifically inspired environments, natural motion, detailed animal anatomy, realistic lighting, HDR, and premium documentary cinematography.\n\n16:9, ultra-realistic, photorealistic, emotionally powerful, scientifically grounded. No text, labels, narration, fantasy, cyberpunk, neon, or futuristic elements.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/a-cinematic-journey-through-time-created-with-seedance-2-5-308685/video-328ef7c7380321e1.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/a-cinematic-journey-through-time-created-with-seedance-2-5-308685/poster-bd50d37ef58d0f76.jpg",
+    "format": "video/webm",
+    "videoBytes": 2178833,
+    "videoSha256": "328ef7c7380321e15c11fc7e5d22b938884b5c7acb5ef4eda8a25c8baacb2255",
+    "thumbnailBytes": 71744,
+    "thumbnailSha256": "bd50d37ef58d0f76fddf9bad7c1cca0dc116285e4cdc3f2adc99bec43d3ce4f9"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

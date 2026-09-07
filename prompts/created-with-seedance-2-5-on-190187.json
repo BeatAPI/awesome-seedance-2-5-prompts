@@ -1,0 +1,43 @@
+{
+  "slug": "created-with-seedance-2-5-on-190187",
+  "title": {
+    "en": "Created with Seedance 2.5 on",
+    "zh": "Created with Seedance 2.5 on"
+  },
+  "description": {
+    "en": "15-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@sophiaparkerr_",
+    "url": "https://x.com/sophiaparkerr_/status/2095143773978190187"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/sophiaparkerr_/status/2095143773978190187"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/sophiaparkerr_/status/2095143773978190187"
+  ],
+  "prompt": "Create a 15-second cinematic cozy lifestyle video of a young woman spending a peaceful afternoon at a charming café. Use the provided facial reference to maintain her exact identity, facial structure, skin tone, hair, and overall appearance throughout the entire video. Her face should remain naturally hidden or partially obscured in every shot by her hair, camera angle, or framing, while still using the reference for accurate character consistency.\n\nCharacter & outfit: She wears a soft white feminine top, light blue relaxed-fit jeans, a pink gingham shirt casually tied over one shoulder, a delicate heart necklace, and carries a cream canvas tote bag. Keep the outfit, accessories, hairstyle, and character completely consistent.\n\n0–3 sec — Arriving at the café:\nShow her walking toward a small, charming café surrounded by greenery. Capture her from behind and from the side as she approaches the glass entrance, gently holding her tote bag. Warm afternoon sunlight creates a soft, peaceful atmosphere.\n\n3–6 sec — Entering:\nShe opens the café door and walks inside. Reveal a cozy interior with warm cream walls, wooden tables, vintage-style shelves filled with cups, soft wall lamps, a small bakery counter, and a cute checkerboard tile detail. Camera follows her naturally from behind, keeping her face hidden.\n\n6–9 sec — Exploring the café:\nShe slowly looks around the café, browsing the menu and pastry display. Show close-up details of her hand holding the tote strap, her pink gingham shirt, coffee cups on shelves, handwritten menu boards, and warm ambient lighting.\n\n9–12 sec — Coffee moment:\nShe sits at a small wooden table beside a window overlooking lush greenery. A freshly prepared latte is placed in front of her with beautiful heart-shaped latte art. She gently picks up the cup and enjoys the cozy moment, with her face still outside the frame or covered by her hair.\n\n12–15 sec — Peaceful ending:\nCamera moves into a top-down shot of the latte on the table, her hands resting beside the cup and the cream tote bag nearby. She takes a slow sip, then the camera gently pulls back to reveal the warm café atmosphere.\n\nVisual style: cozy café aesthetic, warm natural sunlight, soft golden tones, realistic textures, subtle film grain, shallow depth of field, gentle handheld camera movement, candid lifestyle photography, peaceful weekend mood, natural human movements, cinematic realism.\n\nImportant: Maintain one identical character throughout. Do not change her facial features, hairstyle, body proportions, clothing, necklace, or tote bag. Her face should never be clearly revealed, but the facial reference must still be used to preserve her identity. Vertical 9:16, 15 seconds, realistic cinematic video, smooth transitions, no text, no subtitles, no logos., what will be the caption for this",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-on-190187/video-9da76f74cdbeece4.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-on-190187/poster-b693f6299e9d6d8c.jpg",
+    "format": "video/webm",
+    "videoBytes": 1580794,
+    "videoSha256": "9da76f74cdbeece45e17dd2837d15375c721eae006a4b53c055a5edfbe55fcad",
+    "thumbnailBytes": 79089,
+    "thumbnailSha256": "b693f6299e9d6d8c2fb32d187c95441888b008b2c8e29b5578b9df5383a9f557"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

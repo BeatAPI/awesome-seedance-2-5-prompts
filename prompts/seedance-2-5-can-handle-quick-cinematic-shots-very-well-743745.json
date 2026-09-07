@@ -1,0 +1,43 @@
+{
+  "slug": "seedance-2-5-can-handle-quick-cinematic-shots-very-well-743745",
+  "title": {
+    "en": "Seedance 2.5 can handle quick cinematic shots very well",
+    "zh": "Seedance 2.5 can handle quick cinematic shots very well"
+  },
+  "description": {
+    "en": "15-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AIwithkhan",
+    "url": "https://x.com/AIwithkhan/status/2088506532434743745"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/AIwithkhan/status/2088506532434743745"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/AIwithkhan/status/2088506532434743745"
+  ],
+  "prompt": "Create an ultra-realistic cinematic action sequence featuring a young woman wearing fitted blue jeans, a stylish crop top, sneakers, and protective inline skates. Maintain perfect character consistency throughout the entire video — same face, hairstyle, outfit, body proportions, and accessories.\n\nThe video opens with a low-angle tracking shot as she skates aggressively through a crowded downtown street, weaving effortlessly between taxis, buses, pedestrians, bicycles, street vendors, and delivery carts. She looks over her shoulder and notices a police car approaching behind her with flashing lights.\n\nShe accelerates dramatically. The camera races alongside her as she performs a powerful jump over a moving car, lands smoothly, then immediately launches over a street vendor cart without losing speed. She ducks beneath a low barrier, spins around a corner, grabs a railing, swings around it, and lands back onto the street.\n\nThe police chase intensifies. Two police cars struggle to follow as she cuts through narrow side streets, crowded market lanes, alleyways, and pedestrian-filled shortcuts. Use rapid FPV-style camera movement, low tracking shots beside her skates, dramatic overhead views, tire-level shots, and fast whip pans. Keep the action physically believable with realistic momentum, wheel friction, body weight, and landing impact.\n\nShe makes one final spectacular leap over a line of parked vehicles, lands perfectly, and disappears around a tight corner. The police cars stop behind her. The officers step out, completely exhausted, looking down the empty street in disbelief.\n\nOne officer slowly shakes his head and says, “She's too fast.” The other officer catches his breath and simply gives up, leaning against the car.\n\nEnd with a cinematic slow-motion hero shot of the girl skating away into the busy city, sunlight reflecting off the buildings as the camera rises above the street and pulls back.\n\nStyle: Premium action-movie cinematography, high-energy urban chase, realistic stunt choreography, dynamic handheld camera, FPV tracking, dramatic low angles, smooth gimbal shots, realistic motion blur, detailed city environment, natural lighting, physically accurate vehicle and character movement, cinematic color grading, photorealistic, ultra-detailed, 4K HDR, 24fps, 1\n\nNegative prompt: No crashes into pedestrians, no injuries, no gore, no distorted anatomy, no extra limbs, no duplicated characters, no floating objects, no unrealistic skating physics, no flickering, no text, no logos, no subtitles, no watermark.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-can-handle-quick-cinematic-shots-very-well-743745/video-aafd5493b4e03871.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-can-handle-quick-cinematic-shots-very-well-743745/poster-97bb977194eefdfd.jpg",
+    "format": "video/webm",
+    "videoBytes": 1569211,
+    "videoSha256": "aafd5493b4e038714445bfe189206099b2affcfee0b1610817b0c819da4d64ef",
+    "thumbnailBytes": 91384,
+    "thumbnailSha256": "97bb977194eefdfd7faf0fd57858b275aa2b7adb4f2e438539eaeacf624e59b2"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

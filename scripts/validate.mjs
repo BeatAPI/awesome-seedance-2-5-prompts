@@ -44,13 +44,15 @@ assert.ok(
 );
 const pageSize = 25;
 const pageCount = Math.ceil(catalog.prompts.length / pageSize);
+const generatedEntryCount = (source) =>
+  (source.match(/^## \d+\.[^\n]*\n\n<a href=/gm) ?? []).length;
 for (let page = 1; page <= pageCount; page += 1) {
   const pageSource = await readFile(
     new URL(`../prompts/pages/${page}.md`, import.meta.url),
     'utf8'
   );
   assert.equal(
-    (pageSource.match(/^## \d+\./gm) ?? []).length,
+    generatedEntryCount(pageSource),
     Math.min(pageSize, catalog.prompts.length - (page - 1) * pageSize),
     `page ${page} should contain the expected prompt slice`
   );

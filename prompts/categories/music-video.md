@@ -2,7 +2,508 @@
 
 [Back to the featured gallery](../../README.md) · [Catalog index](../README.md)
 
-## 1. PROMPT [Character Reference Mapping] @ Image 1 is [Character Name], use @ Audio 1
+## 1. A cinematic journey through time, created with Seedance 2.5.
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/a-cinematic-journey-through-time-created-with-seedance-2-5-308685/video-328ef7c7380321e1.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/a-cinematic-journey-through-time-created-with-seedance-2-5-308685/poster-bd50d37ef58d0f76.jpg" alt="A cinematic journey through time, created with Seedance 2.5. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 30-second ultra-photorealistic cinematic documentary showing the evolution of the universe and life on Earth in one seamless journey. Begin with the Big Bang and the...</summary>
+
+~~~~text
+Create a 30-second ultra-photorealistic cinematic documentary showing the evolution of the universe and life on Earth in one seamless journey.
+
+Begin with the Big Bang and the expansion of space, then show matter forming, the first stars, galaxies, supernovae, and the birth of the Solar System and Earth. Transition to volcanic early Earth, cooling oceans, primitive single-celled life, complex marine organisms, life moving onto land, prehistoric forests, dinosaurs, early mammals, primates, hominins, and finally modern Homo sapiens.
+
+End with a modern human looking toward the horizon as the camera rapidly pulls back from Earth to the Moon, Solar System, and Milky Way, connecting humanity to the universe.
+
+Use continuous cinematic camera movement, seamless transitions through time and scale, realistic physics, scientifically inspired environments, natural motion, detailed animal anatomy, realistic lighting, HDR, and premium documentary cinematography.
+
+16:9, ultra-realistic, photorealistic, emotionally powerful, scientifically grounded. No text, labels, narration, fantasy, cyberpunk, neon, or futuristic elements.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/a-cinematic-journey-through-time-created-with-seedance-2-5-308685/video-328ef7c7380321e1.webm)
+
+**Source:** [@RuzainaMeer](https://x.com/RuzainaMeer/status/2096837494000308685) · 30s · 16:9 · music video
+
+---
+
+## 2. Created with Seedance 2.5 on
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-on-190187/video-9da76f74cdbeece4.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-on-190187/poster-b693f6299e9d6d8c.jpg" alt="Created with Seedance 2.5 on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15-second cinematic cozy lifestyle video of a young woman spending a peaceful afternoon at a charming café. Use the provided facial reference to maintain her exact...</summary>
+
+~~~~text
+Create a 15-second cinematic cozy lifestyle video of a young woman spending a peaceful afternoon at a charming café. Use the provided facial reference to maintain her exact identity, facial structure, skin tone, hair, and overall appearance throughout the entire video. Her face should remain naturally hidden or partially obscured in every shot by her hair, camera angle, or framing, while still using the reference for accurate character consistency.
+
+Character & outfit: She wears a soft white feminine top, light blue relaxed-fit jeans, a pink gingham shirt casually tied over one shoulder, a delicate heart necklace, and carries a cream canvas tote bag. Keep the outfit, accessories, hairstyle, and character completely consistent.
+
+0–3 sec — Arriving at the café:
+Show her walking toward a small, charming café surrounded by greenery. Capture her from behind and from the side as she approaches the glass entrance, gently holding her tote bag. Warm afternoon sunlight creates a soft, peaceful atmosphere.
+
+3–6 sec — Entering:
+She opens the café door and walks inside. Reveal a cozy interior with warm cream walls, wooden tables, vintage-style shelves filled with cups, soft wall lamps, a small bakery counter, and a cute checkerboard tile detail. Camera follows her naturally from behind, keeping her face hidden.
+
+6–9 sec — Exploring the café:
+She slowly looks around the café, browsing the menu and pastry display. Show close-up details of her hand holding the tote strap, her pink gingham shirt, coffee cups on shelves, handwritten menu boards, and warm ambient lighting.
+
+9–12 sec — Coffee moment:
+She sits at a small wooden table beside a window overlooking lush greenery. A freshly prepared latte is placed in front of her with beautiful heart-shaped latte art. She gently picks up the cup and enjoys the cozy moment, with her face still outside the frame or covered by her hair.
+
+12–15 sec — Peaceful ending:
+Camera moves into a top-down shot of the latte on the table, her hands resting beside the cup and the cream tote bag nearby. She takes a slow sip, then the camera gently pulls back to reveal the warm café atmosphere.
+
+Visual style: cozy café aesthetic, warm natural sunlight, soft golden tones, realistic textures, subtle film grain, shallow depth of field, gentle handheld camera movement, candid lifestyle photography, peaceful weekend mood, natural human movements, cinematic realism.
+
+Important: Maintain one identical character throughout. Do not change her facial features, hairstyle, body proportions, clothing, necklace, or tote bag. Her face should never be clearly revealed, but the facial reference must still be used to preserve her identity. Vertical 9:16, 15 seconds, realistic cinematic video, smooth transitions, no text, no subtitles, no logos., what will be the caption for this
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-on-190187/video-9da76f74cdbeece4.webm)
+
+**Source:** [@sophiaparkerr_](https://x.com/sophiaparkerr_/status/2095143773978190187) · 15s · 16:9 · music video
+
+---
+
+## 3. Every parent has lived this moment!
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/every-parent-has-lived-this-moment-220283/video-ba558a88e05337c4.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/every-parent-has-lived-this-moment-220283/poster-abd6a688df59ad4e.jpg" alt="Every parent has lived this moment! video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 30-second cinematic live-action family comedy titled “FIVE MORE MINUTES.” FORMAT &amp; STYLE: Hyper-realistic photorealistic live action, 4K, vertical 16:9, 24fps cinematic...</summary>
+
+~~~~text
+Create a 30-second cinematic live-action family comedy titled “FIVE MORE MINUTES.”
+
+FORMAT & STYLE:
+Hyper-realistic photorealistic live action, 4K, vertical 16:9, 24fps cinematic film look, natural early-morning lighting, realistic skin, hair, fabric and physics, subtle handheld camera movement, smooth tracking shots, shallow depth of field, natural color grading and professional filmmaking. The scene should feel like a genuine family moment filmed in a real home, with natural acting and believable expressions.
+
+CHARACTER CONSISTENCY:
+MOTHER — South Asian woman around 40, medium complexion, dark hair tied in a simple low bun, wearing a comfortable light-grey long-sleeve home outfit. Warm but slightly frustrated personality.
+
+SON — South Asian teenage boy, 16–17 years old, medium complexion, messy dark-brown hair, wearing a navy-blue T-shirt and grey sweatpants. Sleepy, slightly lazy teenage personality.
+
+Keep both characters exactly consistent throughout the entire video: same faces, age, hairstyle, clothing, body proportions and skin tone.
+
+LOCATION:
+A realistic, comfortable family home in the morning. The son's bedroom contains a single bed with a grey-and-white striped blanket, wooden bedside table, digital alarm clock, school backpack, books and everyday personal items. The hallway, stairs and kitchen must clearly belong to the same house. Warm sunlight enters through the bedroom window.
+
+0–4 SEC — FIRST WAKE-UP:
+Wide cinematic shot of the bedroom. The alarm clock reads 7:00 AM. The son is deeply asleep under the blanket. The mother quietly opens the door, enters and looks at him.
+
+She says naturally:
+“Wake up, it's time for school.”
+
+The son barely reacts.
+
+4–7 SEC — FIVE MORE MINUTES:
+Close-up of the sleepy son. He slowly opens one eye, pulls the blanket closer and quietly mumbles:
+“Five more minutes…”
+
+He immediately turns away and falls asleep again.
+
+The mother looks at him with a tired, slightly frustrated expression.
+
+7–10 SEC — AGAIN:
+The mother returns and gently shakes his shoulder.
+
+“Come on, get up now.”
+
+The son pulls the blanket over his head.
+
+“Five more minutes…”
+
+The mother pauses, takes a breath and looks toward the ceiling in disbelief. Keep the humor subtle and realistic.
+
+10–17 SEC — MORNING CHAOS:
+Create a quick, coherent montage showing the mother's attempts to get him ready:
+• She opens the curtains.
+• She prepares breakfast in the kitchen.
+• She calls him from the hallway.
+• She picks up his school backpack.
+• She searches around the bedroom for a missing shoe.
+• She returns to find him still lying in bed.
+
+The son remains sleepy but gradually wakes up. Keep the same house, wardrobe and props throughout.
+
+17–21 SEC — TOO LATE:
+The son suddenly notices the time and realizes he is late.
+
+His expression changes instantly.
+
+He jumps out of bed, quickly gets dressed, grabs his backpack and rushes downstairs. The mother follows behind him, amused and frustrated.
+
+21–24 SEC — FINALLY READY:
+At the front door, the son stands ready to leave with his backpack.
+
+The mother looks relieved.
+
+Finally.
+
+He opens the door.
+
+She suddenly notices something and stops him.
+
+24–27 SEC — THE REVEAL:
+Close-up of the son's feet.
+
+He is wearing two completely different sneakers:
+one black sneaker and one grey sneaker.
+
+He slowly looks down at them.
+
+His expression changes from confidence to complete disbelief.
+
+27–30 SEC — FUNNY ENDING:
+Two-shot of mother and son.
+
+They look at each other for one silent second.
+
+Both suddenly start laughing.
+
+The son shakes his head and runs back upstairs to change his shoes while the mother remains at the door laughing.
+
+End naturally on the mother's amused expression.
+
+CINEMATOGRAPHY:
+Use realistic 35mm and 50mm cinematic lens aesthetics, natural rack focus, smooth camera pushes, subtle handheld movement, realistic motion blur and shallow depth of field. Use wider shots to establish the home and close-ups for the comedy beats. Avoid excessive camera movement.
+
+AUDIO:
+Natural morning ambience, birds outside, distant traffic, footsteps, fabric movement, alarm clock and household sounds. Use natural-sounding dialogue with realistic pauses. Add very subtle playful background music during the montage and ending.
+
+STRICT CONSISTENCY & QUALITY:
+Keep the same two characters, bedroom, hallway, kitchen, backpack, alarm clock and clothing throughout. The two mismatched shoes must remain visually consistent in the final reveal. No changing faces, hairstyles, ages or outfits. No duplicate characters, extra fingers, extra limbs, distorted hands, warped faces, floating objects, sudden environment changes, unrealistic physics, random props, logos or watermarks. No supernatural effects or exaggerated VFX.
+
+The final result should look like a professionally filmed, relatable family comedy with natural performances, clear storytelling and a satisfying visual punchline.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/every-parent-has-lived-this-moment-220283/video-ba558a88e05337c4.webm)
+
+**Source:** [@SeharShinwari](https://x.com/SeharShinwari/status/2091810238836220283) · 30s · 212:119 · music video
+
+---
+
+## 4. Try it here
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/try-it-here-988559/video-6f5c619ed112dbe8.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/try-it-here-988559/poster-eb06cef77e9b0063.jpg" alt="Try it here video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15-second ultra-realistic cinematic action sequence featuring a female fighter in her mid-20s battling a much larger armored opponent in an abandoned industrial...</summary>
+
+~~~~text
+Create a 15-second ultra-realistic cinematic action sequence featuring a female fighter in her mid-20s battling a much larger armored opponent in an abandoned industrial warehouse. Character: A confident athletic woman around 25 years old, realistic proportions, strong but natural physique, sharp expressive eyes, dark shoulder-length hair tied into a practical high ponytail. She wears a fitted black tactical combat outfit with subtle fabric texture, lightweight protective gloves, dark cargo pants and rugged boots. Keep her face, hairstyle, body proportions and outfit perfectly consistent throughout the entire video. Opponent: A huge muscular male warrior wearing heavy, weathered dark metal armor. He is approximately twice her size, intimidating and physically powerful, but completely realistic in anatomy and movement. His armor has scratches, dents and realistic metallic textures. Environment: A massive abandoned industrial warehouse at night. Concrete floor, steel beams, broken windows, scattered crates, dust floating through shafts of cold moonlight, subtle atmospheric haze. No cyberpunk, no neon lights, no futuristic glowing elements. Photorealistic cinematic environment. 0–3 seconds Start with a low-angle wide shot. The female fighter stands alone in the center of the warehouse while the giant armored opponent slowly approaches from the background. Heavy footsteps echo through the building. She raises her fists and takes a defensive fighting stance. The camera slowly pushes toward her, emphasizing the huge size difference. 3–6 seconds The giant suddenly charges at extreme speed and throws a powerful punch toward her. She narrowly dodges sideways at the last second. His fist crashes into a thick concrete pillar, sending small fragments and dust into the air. Use a brief slow-motion moment during the dodge, with realistic cloth and hair movement. 6–10 seconds She immediately counterattacks. She runs toward him, jumps onto a nearby steel structure, uses it as leverage, and launches herself toward his upper body. She lands on his armored shoulder, grabs onto the armor, swings around his back and kicks him hard in the side. The giant loses balance and crashes into several wooden crates. Show dynamic but believable physics, realistic weight and momentum. 10–13 seconds The giant quickly gets back up and swings both arms toward her. She slides underneath the attack, rolls across the concrete floor, grabs a metal chain lying nearby and uses it to pull herself forward. She jumps onto the giant's chest and delivers one powerful final kick that sends him crashing backward through a large wooden wall. 13–15 seconds The camera follows the giant as he crashes through the wall, then rapidly swings back to the female fighter. She lands firmly on the ground, slowly stands straight, breathing heavily, and looks directly toward the camera with a calm, confident expression. Dust and tiny debris fall around her in the background. Visual style: photorealistic Hollywood action cinematography, realistic human anatomy, physically accurate movement, detailed facial features, natural skin texture, realistic fabric and metal textures, dramatic practical lighting, volumetric dust, cinematic depth of field, subtle handheld camera movement, dynamic tracking shots, realistic motion blur, high-detail environment, natural color grading, high contrast, 4K cinematic quality. Action direction: Fast, fluid and believable martial-arts choreography. Every movement must have clear weight and momentum. Avoid exaggerated superhero physics, cartoon movement, floating characters, unnatural body deformation or excessive slow motion.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/try-it-here-988559/video-6f5c619ed112dbe8.webm)
+
+**Source:** [@SyntheSarah](https://x.com/SyntheSarah/status/2091007759130988559) · 15s · 16:9 · music video
+
+---
+
+## 5. Made with seedance 2.5
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-891661/video-aaf87a9500389c1e.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-891661/poster-94812ee87d432916.jpg" alt="Made with seedance 2.5 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Photorealistic cinematic high-end cocktail bar during a packed Friday night rush, narrow backbar shelving lined with bottles, low amber pendant lights, backlit ice wall,...</summary>
+
+~~~~text
+Photorealistic cinematic high-end cocktail bar during a packed Friday night rush, narrow backbar shelving lined with bottles, low amber pendant lights, backlit ice wall, condensation on glassware, crowded service well, bartenders moving rapidly in a tight space, warm amber light mixed with cool blue neon accents, realistic skin texture and sweat sheen, subtle handheld camera movement, rich lived-in bar detail, natural 35mm film grain. Shot with grounded modern realism and precise temporal control.
+Maintain perfect character consistency for the young female bartender throughout: mid-20s, sharp focused eyes, dark hair pulled into a low bun with loose strands, black fitted vest over a white shirt, sleeves rolled, thin leather wrist strap. No glamour styling, no artificial skin smoothing.
+0–4s: [Energetic Handheld Tracking Shot] The camera follows the young bartender moving quickly along the service well, carrying a finished garnished cocktail toward the bar top. Coworkers cross tightly around her, a shaker rattles nearby, a barback calls out a ticket and the head bartender glances over from the register. She shields the glass with both hands while weaving through the crowd of reaching guests.
+4–11s: [Sudden Collision into Dynamic Super Slow-Motion] A guest leans back off a barstool without looking and knocks into her arm. The glass tips violently. Its contents lift away from the rim: the liquid separates into a curving ribbon, a large clear ice sphere floats free, citrus twist and edible flower garnish spin loose, a scatter of fine mist hangs suspended in the air.
+The camera moves into a smooth orbit around her as time slows almost completely. Steam from the espresso machine, neon light flicker, surrounding staff, a falling bar spoon and every airborne component become perfectly suspended at the peak of the accident. Everyone else freezes mid-reaction. Only the young bartender remains free to move.
+She absorbs the shock for one brief beat, then reacts with extraordinary speed and precision. Moving through the frozen arrangement, she catches the ice sphere in one palm, redirects the citrus twist with her fingertips, slides the glass beneath the falling liquid and rebuilds the drink directly from the suspended arc. She catches the ribbon of liquid with the rim of the glass, guides it back inside cleanly, sets the flower garnish on top and steadies the glass just before it can spill.
+11–15s: [Time Snaps Back to Normal — Continuous Tracking Shot] Full-speed bar noise returns at once. The bar spoon and a few harmless droplets strike the floor behind her, but the completed cocktail is already steady in her hand. The guest who bumped her turns in disbelief. She does not stop or celebrate; she continues directly toward the bar top as though nothing happened.
+15–18s: [Tense Medium Close-Up] She sets the reconstructed cocktail down in front of the head bartender's section. He studies it in silence under the pendant light. Bar sounds become slightly muffled. He notices one small drip on the stem, wipes it away with a bar towel and looks at her without revealing approval or disappointment.
+18–20s: [Final Close-Up] The head bartender slides the glass toward the waiting server and nods for it to go out. The young bartender releases one controlled breath, turns back toward the busy well and immediately starts the next ticket. End on the flawless cocktail disappearing into the crowd.
+Photorealistic, ultra-detailed liquid, ice and garnish physics; perfect preservation of glass shape, liquid volume and ice clarity; convincing suspended droplets and mist; sharp motion blur only on actively moving elements; believable hand interaction; stable anatomy; consistent glassware design and garnish placement; seamless transitions between real time, extreme slow motion, near-frozen time and normal speed; no magical glow or fantasy visuals—the temporal effect should feel like heightened cinematic perception during an adrenaline response. Aggressive handheld energy outside the slow-motion passage, smooth controlled orbit during it, tactile bar sound design, realistic performances, rich contrast, natural film grain, no artifacts, no distorted hands, no floating garnish after time resumes, movie-level continuity and high rewatch value.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-891661/video-aaf87a9500389c1e.webm)
+
+**Source:** [@Ciri_ai](https://x.com/Ciri_ai/status/2088527190417891661) · 18s · 16:9 · music video
+
+---
+
+## 6. Created with Seedance 2.5 on
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-on-309030/video-af61dbe7da0aed0c.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-on-309030/poster-d934801f5bf08d45.jpg" alt="Created with Seedance 2.5 on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 30-second cinematic mythological horror sequence in 16:9 widescreen. STRICT CHARACTER CONSISTENCY: Use the provided sailor character reference and siren character...</summary>
+
+~~~~text
+Create a 30-second cinematic mythological horror sequence in 16:9 widescreen.
+
+STRICT CHARACTER CONSISTENCY:
+Use the provided sailor character reference and siren character reference as absolute visual references.
+
+LOCK BOTH CHARACTERS throughout the entire sequence:
+- identical facial identity
+- identical hairstyle
+- identical body proportions
+- identical clothing
+- identical colors and materials
+- identical siren design, face, hair, eyes, scales, tail, and creature features
+
+Do not redesign either character between shots.
+
+STYLE:
+Ultra-realistic cinematic maritime mythology, dark ancient ocean, photorealistic characters, realistic water physics, practical-looking creature design, dramatic moonlight, volumetric fog, wet surfaces, atmospheric sea spray, high-end Hollywood cinematography, ARRI Alexa 65 aesthetic, anamorphic cinematic lenses, natural motion blur, deep blacks, high contrast, 4K, premium VFX, 16:9.
+
+PACING:
+Fast-paced cinematic storytelling with constant visual progression. No static shots longer than necessary. Every shot should naturally motivate the next shot through movement, sound, camera direction, lighting, or match cuts.
+
+Avoid slow exposition. Build tension continuously.
+
+SHOT 1 — 0–4 SEC
+EXTREME WIDE ESTABLISHING SHOT.
+
+A lone wooden sailing ship cuts rapidly through a dark ocean at night.
+
+Huge waves crash against the hull. Thick fog moves across the water. Lightning briefly illuminates distant storm clouds.
+
+Camera starts high above the ship and rapidly pushes downward toward the deck.
+
+CUT smoothly into—
+
+SHOT 2 — 4–7 SEC
+HANDHELD CINEMATIC DECK SHOT.
+
+The male sailor urgently adjusts the ship's wheel as the vessel fights the waves.
+
+Lantern light flickers across his face.
+
+He suddenly freezes.
+
+The wind dies.
+
+The violent ocean becomes unnaturally quiet.
+
+Camera rapidly pushes toward his face as he hears something.
+
+A faint female voice singing through the fog.
+
+No visible siren yet.
+
+SHOT 3 — 7–11 SEC
+POV SHOT FROM THE SAILOR.
+
+He looks toward the ocean.
+
+Dense fog rolls across the water.
+
+A distant silhouette briefly appears on a jagged rock.
+
+The singing becomes clearer.
+
+Camera slowly advances toward the silhouette while the sailor steps toward the railing.
+
+The silhouette disappears.
+
+A sudden wave crashes against the ship.
+
+MATCH CUT to—
+
+SHOT 4 — 11–15 SEC
+FAST CLOSE-UP SEQUENCE.
+
+Extreme close-up of the sailor's eyes.
+
+Cut to his hand gripping the wet wooden railing.
+
+Cut to the ocean.
+
+Cut back to his face.
+
+The singing continues.
+
+He suddenly realizes something terrifying:
+
+the voice sounds exactly like HIS OWN VOICE.
+
+The singing whispers his name.
+
+English dialogue, whispered and natural:
+
+SIREN:
+“Come closer…”
+
+The sailor looks horrified.
+
+SHOT 5 — 15–19 SEC
+FAST TRACKING SHOT.
+
+The sailor moves through thick fog toward the front of the ship.
+
+Camera tracks backward in front of him.
+
+The singing grows louder.
+
+Fragments of old shipwrecks appear through the fog.
+
+Broken masts.
+
+Human bones.
+
+Old wooden debris.
+
+The camera whips around—
+
+SHOT 6 — 19–23 SEC
+SIREN REVEAL.
+
+The siren is sitting completely motionless on a jagged black rock above the water.
+
+She is beautiful from a distance but deeply unnatural up close.
+
+Long wet black hair.
+
+Pale cold-toned skin.
+
+Black reflective eyes.
+
+Subtle aquatic scales.
+
+Sharp teeth.
+
+Dark predatory tail partially visible through the waves.
+
+She slowly raises her head.
+
+She is singing in the EXACT SAME VOICE as the sailor.
+
+The sailor stares at her in disbelief.
+
+The siren smiles slightly.
+
+SHOT 7 — 23–27 SEC
+RAPID ESCALATION.
+
+Close-up of the siren's mouth as she sings.
+
+Cut to the sailor taking one involuntary step toward the edge.
+
+Cut to his boots sliding across the wet deck.
+
+Cut to dozens of skeletal remains scattered across the rocks beneath the siren.
+
+Cut back to the sailor.
+
+The siren whispers using his own voice:
+
+SIREN:
+“Come home.”
+
+The sailor's expression changes from confusion to terror.
+
+SHOT 8 — 27–30 SEC
+FINAL CINEMATIC PAYOFF.
+
+The sailor takes one final step toward the ocean.
+
+Suddenly the camera swings behind him.
+
+Hundreds of faint glowing eyes appear beneath the black water.
+
+Multiple sirens are silently surrounding the ship.
+
+The main siren looks directly into the camera.
+
+Her mouth opens slightly, revealing sharp teeth.
+
+The ocean violently surges upward.
+
+SMASH CUT TO BLACK.
+
+Sound of a massive wave.
+
+Then complete silence.
+
+FINAL AUDIO:
+A faint echo of the sailor's own voice whispering:
+
+“Help me…”
+
+SOUND DESIGN:
+Heavy ocean waves, creaking wooden ship, rope tension, distant thunder, wind abruptly stopping, subtle underwater ambience, eerie female singing, heartbeat building progressively, sudden silence before the final reveal, deep cinematic impact at the cut to black.
+
+CAMERA:
+Dynamic handheld movement during the storm, rapid push-ins, tracking shots, POV shots, whip pans, extreme close-ups, wide aerial establishing shots, smooth motivated transitions, cinematic rack focus, realistic motion blur, occasional brief slow motion only for major reveals.
+
+NEGATIVE PROMPT:
+cartoon, anime, stylized animation, generic mermaid, cute mermaid, colorful fantasy, romantic atmosphere, comedy, cheesy expressions, excessive slow motion, static camera, random scene changes, inconsistent characters, changing faces, changing clothes, changing siren design, different hairstyles, unrealistic water physics, plastic CGI, low-detail creature, excessive gore, modern objects, modern clothing, subtitles, text on screen, watermark, logo.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-on-309030/video-af61dbe7da0aed0c.webm)
+
+**Source:** [@Caden_Flux](https://x.com/Caden_Flux/status/2088512747055309030) · 30s · 16:9 · music video
+
+---
+
+## 7. Seedance 2.5 can handle quick cinematic shots very well
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-can-handle-quick-cinematic-shots-very-well-743745/video-aafd5493b4e03871.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-can-handle-quick-cinematic-shots-very-well-743745/poster-97bb977194eefdfd.jpg" alt="Seedance 2.5 can handle quick cinematic shots very well video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create an ultra-realistic cinematic action sequence featuring a young woman wearing fitted blue jeans, a stylish crop top, sneakers, and protective inline skates. Maintain perfect...</summary>
+
+~~~~text
+Create an ultra-realistic cinematic action sequence featuring a young woman wearing fitted blue jeans, a stylish crop top, sneakers, and protective inline skates. Maintain perfect character consistency throughout the entire video — same face, hairstyle, outfit, body proportions, and accessories.
+
+The video opens with a low-angle tracking shot as she skates aggressively through a crowded downtown street, weaving effortlessly between taxis, buses, pedestrians, bicycles, street vendors, and delivery carts. She looks over her shoulder and notices a police car approaching behind her with flashing lights.
+
+She accelerates dramatically. The camera races alongside her as she performs a powerful jump over a moving car, lands smoothly, then immediately launches over a street vendor cart without losing speed. She ducks beneath a low barrier, spins around a corner, grabs a railing, swings around it, and lands back onto the street.
+
+The police chase intensifies. Two police cars struggle to follow as she cuts through narrow side streets, crowded market lanes, alleyways, and pedestrian-filled shortcuts. Use rapid FPV-style camera movement, low tracking shots beside her skates, dramatic overhead views, tire-level shots, and fast whip pans. Keep the action physically believable with realistic momentum, wheel friction, body weight, and landing impact.
+
+She makes one final spectacular leap over a line of parked vehicles, lands perfectly, and disappears around a tight corner. The police cars stop behind her. The officers step out, completely exhausted, looking down the empty street in disbelief.
+
+One officer slowly shakes his head and says, “She's too fast.” The other officer catches his breath and simply gives up, leaning against the car.
+
+End with a cinematic slow-motion hero shot of the girl skating away into the busy city, sunlight reflecting off the buildings as the camera rises above the street and pulls back.
+
+Style: Premium action-movie cinematography, high-energy urban chase, realistic stunt choreography, dynamic handheld camera, FPV tracking, dramatic low angles, smooth gimbal shots, realistic motion blur, detailed city environment, natural lighting, physically accurate vehicle and character movement, cinematic color grading, photorealistic, ultra-detailed, 4K HDR, 24fps, 1
+
+Negative prompt: No crashes into pedestrians, no injuries, no gore, no distorted anatomy, no extra limbs, no duplicated characters, no floating objects, no unrealistic skating physics, no flickering, no text, no logos, no subtitles, no watermark.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-can-handle-quick-cinematic-shots-very-well-743745/video-aafd5493b4e03871.webm)
+
+**Source:** [@AIwithkhan](https://x.com/AIwithkhan/status/2088506532434743745) · 15s · 16:9 · music video
+
+---
+
+## 8. PROMPT [Character Reference Mapping] @ Image 1 is [Character Name], use @ Audio 1
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/prompt-character-reference-mapping-image-1-is-character-name-use-486583/video-c341386ca8714c24.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/prompt-character-reference-mapping-image-1-is-character-name-use-486583/poster-52d95fd11cad31d7.jpg" alt="PROMPT [Character Reference Mapping] @ Image 1 is [Character Name], use @ Audio 1 video preview" width="700" />
@@ -45,7 +546,7 @@ Global Style: A dark, oppressive, and deeply unsettling cinematic environment re
 
 ---
 
-## 2. catch it, clean it, grill it, eat it, all 100% AI with Seedance 2.5
+## 9. catch it, clean it, grill it, eat it, all 100% AI with Seedance 2.5
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/catch-it-clean-it-grill-it-eat-it-all-100-657649/video-d1a5faa43e375327.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/catch-it-clean-it-grill-it-eat-it-all-100-657649/poster-e009c250627ab7bd.jpg" alt="catch it, clean it, grill it, eat it, all 100% AI with Seedance 2.5 video preview" width="700" />
@@ -117,7 +618,7 @@ Same hands, sleeve and wrist cord across all four segments. Same rod, knife, boa
 
 ---
 
-## 3. Created in
+## 10. Created in
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-in-423842/video-53ac67607999bbaa.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-in-423842/poster-c7d42d7b131e6175.jpg" alt="Created in video preview" width="700" />
@@ -182,7 +683,7 @@ Exactly one martial artist, one consistent outfit, one waterfall environment and
 
 ---
 
-## 4. Seedance 2.5 in
+## 11. Seedance 2.5 in
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-in-451524/video-576e30d3d7cd8478.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-in-451524/poster-6e19068a671e2b0b.jpg" alt="Seedance 2.5 in video preview" width="700" />
@@ -219,7 +720,7 @@ Character: A mysterious masked dancer wearing flowing turquoise robes, golden an
 
 ---
 
-## 5. Made with Seedance 2.5 on
+## 12. Made with Seedance 2.5 on
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-on-576337/video-c9badc8d8df5f12a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-on-576337/poster-cbb66153cdddac7b.jpg" alt="Made with Seedance 2.5 on video preview" width="700" />
@@ -262,7 +763,7 @@ Maintain strict continuity of scale, geometry, materials, components, tools, han
 
 ---
 
-## 6. Seedance 2.5 Emotion control is insane. Made with
+## 13. Seedance 2.5 Emotion control is insane. Made with
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-emotion-control-is-insane-made-with-828740/video-cfac19c913d09c66.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-emotion-control-is-insane-made-with-828740/poster-b7a50f13a09fbc23.jpg" alt="Seedance 2.5 Emotion control is insane. Made with video preview" width="700" />
@@ -301,7 +802,7 @@ Avoid: Falling, stumbling, malfunction, comedy, silent crying, restrained breakd
 
 ---
 
-## 7. Real-world action is getting easier to direct.
+## 14. Real-world action is getting easier to direct.
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/real-world-action-is-getting-easier-to-direct-304904/video-631a86726f200b23.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/real-world-action-is-getting-easier-to-direct-304904/poster-1b360351d9704b67.jpg" alt="Real-world action is getting easier to direct. video preview" width="700" />
@@ -361,7 +862,7 @@ No text, no subtitles, no brand marks, no corner TV logo, no UI frame, no cartoo
 
 ---
 
-## 8. GPT Image 2 and Seedance 2.5
+## 15. GPT Image 2 and Seedance 2.5
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/gpt-image-2-and-seedance-2-5-734939/video-3ef60b400973f7c4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/gpt-image-2-and-seedance-2-5-734939/poster-659ea17913f0d25f.jpg" alt="GPT Image 2 and Seedance 2.5 video preview" width="700" />
@@ -396,7 +897,7 @@ The animation dynamically shifts and transforms along with her hand movements, s
 
 ---
 
-## 9. Ultra-realistic spontaneous vertical handheld footage recorded during fighting in
+## 16. Ultra-realistic spontaneous vertical handheld footage recorded during fighting in
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/ultra-realistic-spontaneous-vertical-handheld-footage-recorded-during-fi-459303/video-a27e0cd7fcf6cfe7.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/ultra-realistic-spontaneous-vertical-handheld-footage-recorded-during-fi-459303/poster-ec0d9e0fd30adaa5.jpg" alt="Ultra-realistic spontaneous vertical handheld footage recorded during fighting in video preview" width="700" />
@@ -483,7 +984,7 @@ Fifteen seconds of raw, badly-framed video that should not exist — someone run
 
 ---
 
-## 10. Here's one of the first tests.
+## 17. Here's one of the first tests.
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/here-s-one-of-the-first-tests-211150/video-9ec4fde87439ff5d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/here-s-one-of-the-first-tests-211150/poster-50bf8e78d9f30480.jpg" alt="Here's one of the first tests. video preview" width="700" />
@@ -578,7 +1079,7 @@ Keep the protagonist's South Asian features, black hoodie, olive cargo pants, an
 
 ---
 
-## 11. Created this with Seedance 2.5 on
+## 18. Created this with Seedance 2.5 on
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-this-with-seedance-2-5-on-587451/video-51a437b6c81fdde2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-this-with-seedance-2-5-on-587451/poster-6f0c9e4d362338a7.jpg" alt="Created this with Seedance 2.5 on video preview" width="700" />
@@ -620,7 +1121,7 @@ AVOID: Existing superhero characters, recognizable costumes, logos, franchise im
 
 ---
 
-## 12. Seedance 2.5 on
+## 19. Seedance 2.5 on
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-on-423855/video-7f8f202a42d7b9ad.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-on-423855/poster-1e54cdc1bdc8a011.jpg" alt="Seedance 2.5 on video preview" width="700" />
@@ -649,7 +1150,7 @@ Make it indistinguishable from expensive real live-action cinema. No AI look, ca
 
 ---
 
-## 13. I’m genuinely impressed by how well Seedance 2.5 keeps the geography intact here！😍
+## 20. I’m genuinely impressed by how well Seedance 2.5 keeps the geography intact here！😍
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/im-genuinely-impressed-by-how-well-seedance-2-5-keeps-635022/video-30bae685fd1c3ebe.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/im-genuinely-impressed-by-how-well-seedance-2-5-keeps-635022/poster-9123633f2f24eb91.jpg" alt="I’m genuinely impressed by how well Seedance 2.5 keeps the geography intact here！😍 video preview" width="700" />
@@ -700,7 +1201,7 @@ Photorealistic Eastern wasteland fantasy, blending Dunhuang earth-and-rock archi
 
 ---
 
-## 14. I honestly didn't expect Seedance 2.5 to hold this together so well.😍
+## 21. I honestly didn't expect Seedance 2.5 to hold this together so well.😍
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-honestly-didn-t-expect-seedance-2-5-to-hold-557485/video-781e48d5964ae509.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-honestly-didn-t-expect-seedance-2-5-to-hold-557485/poster-8a15f0da66294955.jpg" alt="I honestly didn't expect Seedance 2.5 to hold this together so well.😍 video preview" width="700" />
@@ -859,7 +1360,7 @@ Prohibit malformed limbs, extra arms, disappearing sword blades, cloth clipping,
 
 ---
 
-## 15. Photorealistic cinematic 3D character render, physically-based rendering with
+## 22. Photorealistic cinematic 3D character render, physically-based rendering with
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/photorealistic-cinematic-3d-character-render-physically-based-rendering-825338/video-325b2e8e5777af85.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/photorealistic-cinematic-3d-character-render-physically-based-rendering-825338/poster-c4c6ed0e352abeb7.jpg" alt="Photorealistic cinematic 3D character render, physically-based rendering with video preview" width="700" />
@@ -954,7 +1455,7 @@ photoreal cinematic rendering only.
 
 ---
 
-## 16. Made with Seedance 2.5 on
+## 23. Made with Seedance 2.5 on
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-on-636796/video-b1ecb6532824c730.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-on-636796/poster-4c1674d7992f6291.jpg" alt="Made with Seedance 2.5 on video preview" width="700" />
@@ -1006,7 +1507,7 @@ no music, no subtitle
 
 ---
 
-## 17. Seedance 2.5 in
+## 24. Seedance 2.5 in
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-in-696981/video-68b16c85fb3d6311.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-in-696981/poster-069c755a6a429806.jpg" alt="Seedance 2.5 in video preview" width="700" />
@@ -1055,7 +1556,7 @@ Environment: A magical kingdom at sunset with a winding river, pastel-colored Vi
 
 ---
 
-## 18. A 15-seconds Time-Warp Disaster Created using Seedance 2.5.
+## 25. A 15-seconds Time-Warp Disaster Created using Seedance 2.5.
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/a-15-seconds-time-warp-disaster-created-using-seedance-2-195538/video-dcdb3ffacda1270a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/a-15-seconds-time-warp-disaster-created-using-seedance-2-195538/poster-31e8e10f9afbf68d.jpg" alt="A 15-seconds Time-Warp Disaster Created using Seedance 2.5. video preview" width="700" />
@@ -1160,7 +1661,7 @@ No music, subtitles, narration, logos, or on-screen text. 16:9.
 
 ---
 
-## 19. 30 seconds of pure cinematic martial arts with insane camera work.
+## 26. 30 seconds of pure cinematic martial arts with insane camera work.
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/30-seconds-of-pure-cinematic-martial-arts-with-insane-camera-250284/video-34650623c3e9dcc3.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/30-seconds-of-pure-cinematic-martial-arts-with-insane-camera-250284/poster-db12e244e7becd01.jpg" alt="30 seconds of pure cinematic martial arts with insane camera work. video preview" width="700" />
@@ -1194,7 +1695,7 @@ Photorealistic martial-arts blockbuster, anamorphic cinematography, high-contras
 
 ---
 
-## 20. Video created with Seedance 2.5 on Cinematic Story Director Skill.
+## 27. Video created with Seedance 2.5 on Cinematic Story Director Skill.
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-created-with-seedance-2-5-on-cinematic-story-director-169553/video-2e812d0fc24f20e6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-created-with-seedance-2-5-on-cinematic-story-director-169553/poster-8b5c286d8d567ea7.jpg" alt="Video created with Seedance 2.5 on Cinematic Story Director Skill. video preview" width="700" />
@@ -1227,7 +1728,7 @@ Music should be a stylish modern bass driven nightlife instrumental with a playf
 
 ---
 
-## 21. seedance 2.5 on
+## 28. seedance 2.5 on
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-on-832715/video-061ab1d16601bfdf.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-on-832715/poster-e4f315a7a05b0d78.jpg" alt="seedance 2.5 on video preview" width="700" />
@@ -1291,7 +1792,7 @@ NEGATIVE: no cuts, no jump cuts, no dissolves, no cross-fades, no fade to black;
 
 ---
 
-## 22. 屠龙断岳 🆚 倚天涤尘🔪
+## 29. 屠龙断岳 🆚 倚天涤尘🔪
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-965824-965824/video-c411e70bf23bc0ae.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-965824-965824/poster-fa9493fec5b44432.jpg" alt="屠龙断岳 🆚 倚天涤尘🔪 video preview" width="700" />
@@ -1368,7 +1869,7 @@ NEGATIVE: no cuts, no jump cuts, no dissolves, no cross-fades, no fade to black;
 
 ---
 
-## 23. Made with Seedance 2.5 on
+## 30. Made with Seedance 2.5 on
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-on-352388/video-dab42b3abd92560a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-on-352388/poster-b70a44fa906f7c2d.jpg" alt="Made with Seedance 2.5 on video preview" width="700" />
@@ -1389,7 +1890,7 @@ A cinematic superhero-inspired short film. A young man wearing a sleek red-and-b
 
 ---
 
-## 24. Hyper-realistic 30-Second Miniature Philippines Drone Showcase (Tilt-Shift &
+## 31. Hyper-realistic 30-Second Miniature Philippines Drone Showcase (Tilt-Shift &
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/hyper-realistic-30-second-miniature-philippines-drone-showcase-tilt-shif-210205/video-1516d85b4763cd73.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/hyper-realistic-30-second-miniature-philippines-drone-showcase-tilt-shif-210205/poster-271cb7c195ec7468.jpg" alt="Hyper-realistic 30-Second Miniature Philippines Drone Showcase (Tilt-Shift &amp; video preview" width="700" />
@@ -1442,7 +1943,7 @@ Audio FX: Mechanical hum and creak of the spinning Ferris wheel, distant carniva
 
 ---
 
-## 25. Justice awakens. The scales of truth begin to move.
+## 32. Justice awakens. The scales of truth begin to move.
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/justice-awakens-the-scales-of-truth-begin-to-move-887120/video-23f56247ba47db2a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/justice-awakens-the-scales-of-truth-begin-to-move-887120/poster-216c68644e668026.jpg" alt="Justice awakens. The scales of truth begin to move. video preview" width="700" />
@@ -1463,7 +1964,7 @@ Audio FX: Mechanical hum and creak of the spinning Ferris wheel, distant carniva
 
 ---
 
-## 26. Made with Seedance 2.5 on
+## 33. Made with Seedance 2.5 on
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-on-110436/video-8ec60e5a86be4ce2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-on-110436/poster-6d588971309051d4.jpg" alt="Made with Seedance 2.5 on video preview" width="700" />
@@ -1560,7 +2061,7 @@ Audio: <one dry click> <the full street returning at once> <a wall of rain hitti
 
 ---
 
-## 27. The tricky part was forcing alien hands on the dap and keeping the 'ElevenLabs' spelling stable.
+## 34. The tricky part was forcing alien hands on the dap and keeping the 'ElevenLabs' spelling stable.
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/the-tricky-part-was-forcing-alien-hands-on-the-dap-956391/video-35b92ee6da60cd32.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/the-tricky-part-was-forcing-alien-hands-on-the-dap-956391/poster-72ef166d9be00647.jpg" alt="The tricky part was forcing alien hands on the dap and keeping the 'ElevenLabs' spelling stable. video preview" width="700" />
@@ -1601,7 +2102,7 @@ Photorealistic cinematic film, anamorphic lenses, shallow depth of field, volume
 
 ---
 
-## 28. Try it now on
+## 35. Try it now on
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/try-it-now-on-656068/video-d12a72e081eb2c5b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/try-it-now-on-656068/poster-4eec8250bd687094.jpg" alt="Try it now on video preview" width="700" />
@@ -1649,7 +2150,7 @@ No text, no subtitles, no logos, no watermark.
 
 ---
 
-## 29. Seedance 2.5 + GPT Image 2 using
+## 36. Seedance 2.5 + GPT Image 2 using
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-gpt-image-2-using-253535/video-36a9c5019a1fcb0f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-gpt-image-2-using-253535/poster-2bccc235f98c1b32.jpg" alt="Seedance 2.5 + GPT Image 2 using video preview" width="700" />
@@ -1672,7 +2173,7 @@ No text, no subtitles, no logos, no watermark.
 
 ---
 
-## 30. Reference layer: Based on image, the rider's face, hair, build, and clothing stay
+## 37. Reference layer: Based on image, the rider's face, hair, build, and clothing stay
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/reference-layer-based-on-image-the-rider-s-face-hair-824057/video-81c54fb022224bce.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/reference-layer-based-on-image-the-rider-s-face-hair-824057/poster-e421ae772d41f366.jpg" alt="Reference layer: Based on image, the rider's face, hair, build, and clothing stay video preview" width="700" />
@@ -1705,7 +2206,7 @@ Storyboard:
 
 ---
 
-## 31. creators are going to love this
+## 38. creators are going to love this
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/creators-are-going-to-love-this-605556/video-9f3c9396a4409fef.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/creators-are-going-to-love-this-605556/poster-0e5c8443c22729ab.jpg" alt="creators are going to love this video preview" width="700" />
@@ -1734,7 +2235,7 @@ that means you can generate full cinematic content right now for the price of on
 
 ---
 
-## 32. expression, motion, light. different class from 2.0.
+## 39. expression, motion, light. different class from 2.0.
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/expression-motion-light-different-class-from-2-0-937224/video-5993c98f30b467cb.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/expression-motion-light-different-class-from-2-0-937224/poster-8c8bb136f1601aa2.jpg" alt="expression, motion, light. different class from 2.0. video preview" width="700" />
@@ -1811,7 +2312,7 @@ blurred faces sit motionless in the audience seats, backs to camera,
 
 ---
 
-## 33. 2️⃣ Generated the video with Seedance 2.5, which is available with exclusive first access on Lovart.
+## 40. 2️⃣ Generated the video with Seedance 2.5, which is available with exclusive first access on Lovart.
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/2-generated-the-video-with-seedance-2-5-which-is-821090/video-27610c0b0044f6f9.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/2-generated-the-video-with-seedance-2-5-which-is-821090/poster-b8af7d9068cdcace.jpg" alt="2️⃣ Generated the video with Seedance 2.5, which is available with exclusive first access on Lovart. video preview" width="700" />
@@ -1856,7 +2357,7 @@ Ultra-cinematic ancient Chinese martial arts film, authentic traditional Chinese
 
 ---
 
-## 34. MiniMax H3 on vs. Seedance 2.5
+## 41. MiniMax H3 on vs. Seedance 2.5
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/minimax-h3-on-vs-seedance-2-5-967648/video-20454ab26e61c09b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/minimax-h3-on-vs-seedance-2-5-967648/poster-09fd1f43fb520e05.jpg" alt="MiniMax H3 on vs. Seedance 2.5 video preview" width="700" />
@@ -1889,7 +2390,7 @@ Ultra-realistic cinematic disaster sequence, photorealistic vehicle physics, rea
 
 ---
 
-## 35. CAMERA: Handheld DV 16mm daily vlog footage. The video MUST
+## 42. CAMERA: Handheld DV 16mm daily vlog footage. The video MUST
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/camera-handheld-dv-16mm-daily-vlog-footage-the-v-110168/video-a037aa546c356666.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/camera-handheld-dv-16mm-daily-vlog-footage-the-v-110168/poster-c5f292051f586634.jpg" alt="CAMERA: Handheld DV 16mm daily vlog footage. The video MUST video preview" width="700" />
@@ -1950,7 +2451,7 @@ She gives a small wave and ends the recording.
 
 ---
 
-## 36. Music Video Study 140421
+## 43. Music Video Study 140421
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/they-said-is-here-to-cook-and-i-agree-with-140421/video-c9f1cd4de15d3841.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/they-said-is-here-to-cook-and-i-agree-with-140421/poster-bb6695f5b4857f42.jpg" alt="Music Video Study 140421 video preview" width="700" />
@@ -1989,7 +2490,7 @@ Give a Storyboard image for it in 16:9
 
 ---
 
-## 37. Underground Rap Performance Studio
+## 44. Underground Rap Performance Studio
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/underground-rap-performance-studio-129750/video-7327a9c0e01a4edb.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/underground-rap-performance-studio-129750/poster-a8583e0e1e75fef3.jpg" alt="Underground Rap Performance Studio video preview" width="700" />
@@ -2116,7 +2617,7 @@ No portal, black hole, fantasy reveal, studio destruction, flying cubes or detac
 
 ---
 
-## 38. Music Video Study 031982
+## 45. Music Video Study 031982
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/is-an-official-platform-for-it-brings-cinema-gra-031982/video-4af57f18c573c7d0.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/is-an-official-platform-for-it-brings-cinema-gra-031982/poster-1e2997dfcf6c24ce.jpg" alt="Music Video Study 031982 video preview" width="700" />
@@ -2137,7 +2638,7 @@ No portal, black hole, fantasy reveal, studio destruction, flying cubes or detac
 
 ---
 
-## 39. Trippy Music Video
+## 46. Trippy Music Video
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/trippy-music-video-052209/video-f3424e4cae5380e2.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/trippy-music-video-052209/poster-89b278f475614da5.jpg" alt="Trippy Music Video video preview" width="700" />
@@ -2162,7 +2663,7 @@ Use the uploaded 30-second audio as the only soundtrack. Make it a powerful dubs
 
 ---
 
-## 40. Rapper Reference Performance
+## 47. Rapper Reference Performance
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/rapper-reference-performance/video-091ca43d11d292c6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/rapper-reference-performance/poster-a5fa8e5b5b2be101.jpg" alt="Rapper Reference Performance video preview" width="700" />
@@ -2215,7 +2716,7 @@ Finish on the full stadium bowl: tens of thousands of people across every tier p
 
 ---
 
-## 41. Underground London Techno Club
+## 48. Underground London Techno Club
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/underground-london-techno-club/video-c445568d42d6e7df.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/underground-london-techno-club/poster-50c972a2cf800799.jpg" alt="Underground London Techno Club video preview" width="700" />
@@ -2256,7 +2757,7 @@ The overall image should feel raw, naturalistic and grounded, with visible film 
 
 ---
 
-## 42. Ten-Member Idol Concert
+## 49. Ten-Member Idol Concert
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/ten-member-idol-concert/video-37890e3d802442e7.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/ten-member-idol-concert/poster-e67755f51593d4da.jpg" alt="Ten-Member Idol Concert video preview" width="700" />
@@ -2281,7 +2782,7 @@ The outfits should share a cohesive overall design, while each member has a diff
 
 ---
 
-## 43. Randomized Graffiti Dance MV
+## 50. Randomized Graffiti Dance MV
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/randomized-graffiti-dance-mv/video-dfbb4c95b8d5480a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/randomized-graffiti-dance-mv/poster-13316f0670bfae61.jpg" alt="Randomized Graffiti Dance MV video preview" width="700" />
@@ -2389,7 +2890,7 @@ VFXは身体の動きに反応する。足の接地で粒子や波紋が広が�
 
 ---
 
-## 44. Retro Y2K Pop Duo Music Video
+## 51. Retro Y2K Pop Duo Music Video
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/retro-y2k-pop-duo-music-video/video-4308f03a237fc295.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/retro-y2k-pop-duo-music-video/poster-bc3abe129c79ffb6.jpg" alt="Retro Y2K Pop Duo Music Video video preview" width="700" />
@@ -2444,7 +2945,7 @@ Hard cut at 13.0s. 13.0–15.0s Set A, 47°: back-to-back frozen final pose, cam
 
 ---
 
-## 45. Live-Action Dance Comparison
+## 52. Live-Action Dance Comparison
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/live-action-dance-comparison/video-3a4f6062fd8df96b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/live-action-dance-comparison/poster-9b83cf7fd76986c9.jpg" alt="Live-Action Dance Comparison video preview" width="700" />
@@ -2571,7 +3072,7 @@ VFXは衣装カラーに合わせて、光の線や粒子が控えめに反応�
 
 ---
 
-## 46. Multilingual Beach Hip-Hop Band
+## 53. Multilingual Beach Hip-Hop Band
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/multilingual-beach-hip-hop-band/video-a26d3c6418c38002.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/multilingual-beach-hip-hop-band/poster-aafdf85cf6c5f869.jpg" alt="Multilingual Beach Hip-Hop Band video preview" width="700" />

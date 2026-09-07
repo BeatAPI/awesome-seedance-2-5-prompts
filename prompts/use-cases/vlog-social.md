@@ -1,6 +1,6 @@
 # Seedance 2.5 Vlog & Social prompts
 
-[Back to all 300 prompts](../../README.md)
+[Back to all 330 prompts](../../README.md)
 
 ## 1. Summer Resort Waterslide Vlog
 
@@ -60,7 +60,2183 @@ REALISM NOTES: Authentic body language, natural blinking, genuine focused smiles
 
 ---
 
-## 3. Seedance 2.5 🤯
+## 3. Created with Seedance 2.5 on
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-on-370629/video-d8e2a65382d2378e.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-on-370629/poster-47993240f046fbd7.jpg" alt="Created with Seedance 2.5 on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year-old East Asian woman with dark hair exploring Bali during a dreamy summer getaway. Shot like an...</summary>
+
+~~~~text
+A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year-old East Asian woman with dark hair exploring Bali during a dreamy summer getaway. Shot like an authentic luxury travel diary with handheld camera movement, candid moments, soft golden-hour sunlight, dreamy 35mm film aesthetics, warm vintage color grading, shallow depth of field, natural skin texture, atmospheric lighting, and cinematic storytelling. Maintain the same woman throughout every scene: dark hair, youthful appearance, natural makeup, elegant summer outfits, relaxed happy expression. Format: 4K cinematic video, 24fps, 35mm film grain, realistic handheld camera, soft focus, warm color palette, travel documentary style.
+
+Scene 1 (0-4s) — Arrival & Village Street: A warm Balinese morning. The woman strolls down a narrow street lined with frangipani trees and stone shrines, wearing a linen wrap dress, sunglasses pushed up into her hair. Motorbikes pass softly blurred in the background, incense smoke drifts from a doorway offering. Camera trails her from behind, then swings into a close-up as she glances back over her shoulder and laughs, saying softly, "Okay, I think I already love it here."
+
+Scene 2 (4-8s) — Cliffside Beach Discovery: She descends stone steps onto a narrow cliffside beach, turquoise water crashing against limestone cliffs behind her. She walks barefoot at the tideline, dress hem lifted slightly, waves curling over her feet. Low-angle shots of her footprints filling with foam, sunlight scattering across the water, jagged cliffs framing the horizon.
+
+Scene 3 (8-12s) — Rice Terrace & Jungle Moments: A worm's-eye view looking up through banana leaves and bamboo, sunlight cutting through in warm shafts with soft lens flares. Cut to a close-up of her standing at the edge of an emerald rice terrace, wind lifting loose strands of hair as she looks out, quietly murmuring, "It's so green it doesn't look real."
+
+Scene 4 (12-16s) — Warung Cafe & Slow Living: She sits alone at a small open-air warung overlooking the jungle, sipping fresh coconut water through a paper straw. Sunlight filters through woven bamboo shades. Close-up shots of her hands wrapped around the coconut, condensation beading on the shell, her contented half-smile as she watches the trees sway.
+
+Scene 5 (16-20s) — Ocean Adventure: She paddles a wooden longboard through a calm turquoise lagoon, sunlight sparkling across the surface. Camera circles her at water level, capturing gentle ripples and distant green cliffs. She loses balance slightly, laughs out loud, and calls toward the camera, "Don't film this part — actually, keep filming it."
+
+Scene 6 (20-24s) — Night Market Exploration: A glowing Balinese night market strung with paper lanterns, satay smoke curling into the air, vendors calling out prices. She weaves through the crowd sampling grilled skewers and mango sticky rice, her face lit by warm string lights and passing motorbike headlights. Cinematic close-ups of her eyes widening at the taste, lanterns blurred into soft bokeh behind her.
+
+Scene 7 (24-27s) — Golden Sunset Ending: A wide silhouette shot of her standing at the shoreline as the sun sinks into the sea, sky burning orange and violet, reflections rippling across the wet sand. Waves wash gently around her ankles as she tilts her face toward the last light, one hand shielding her eyes.
+
+Scene 8 (27-30s) — Hotel Night Reflection: A rooftop pool bar overlooking a glittering coastal skyline at night. She leans against the railing in a simple white dress, curtain of hair moving in the breeze, city lights reflected in her eyes. Final intimate close-up of her curled up on the hotel bed, propped on one elbow, looking directly into the lens with a soft, warm smile as she says, "Goodnight from Bali."
+
+Camera Style: Authentic travel vlog cinematography, handheld camera shake, smooth cinematic transitions, slow push-ins, natural drifting movement, occasional POV shots, realistic autofocus hunting, subtle motion blur.
+
+Visual Style: Dreamy Bali vacation film, boutique travel-brand aesthetic, soft golden sunlight, realistic skin texture, cinematic shallow depth of field, nostalgic 35mm film look, warm atmospheric tones, natural unscripted expressions, emotional storytelling.
+
+Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent character appearance, changing hairstyle, extra fingers, distorted body, artificial lighting, oversaturated colors, blurry face, unnatural movements, duplicate people.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-on-370629/video-d8e2a65382d2378e.webm)
+
+**Source:** [@eshal__ai](https://x.com/eshal__ai/status/2096840505355370629) · 30s · 16:9 · vlog
+
+---
+
+## 4. Created on seedance 2.5
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-on-seedance-2-5-543579/video-b547c933a60bc9de.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-on-seedance-2-5-543579/poster-83bb05677df3d10b.jpg" alt="Created on seedance 2.5 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 30-second photorealistic live-action American university romance vlog set during a sudden afternoon rainstorm. A young female student gets caught in heavy rain without an...</summary>
+
+~~~~text
+Create a 30-second photorealistic live-action American university romance vlog set during a sudden afternoon rainstorm. A young female student gets caught in heavy rain without an umbrella, until a male student kindly shares his black umbrella. They walk together through a realistic U.S. college campus, joking and slowly becoming comfortable with each other.
+
+They escape to a cozy campus café, share hot coffee beside a rain-covered window, and have a subtle moment of connection. As the rain stops, golden sunlight breaks through the clouds and they walk together across the wet campus.
+
+Modern 2026 cinematic coming-of-age style, natural American English dialogue, realistic rain, wet hair and clothing, umbrella physics, puddle reflections, authentic student behavior, handheld smartphone-style camera, natural expressions and subtle romance. No exaggerated acting, CGI, animation, subtitles, music or watermark.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/created-on-seedance-2-5-543579/video-b547c933a60bc9de.webm)
+
+**Source:** [@nawalsehar](https://x.com/nawalsehar/status/2096832969453543579) · 30s · 16:9 · vlog
+
+---
+
+## 5. Seedance 2.5 via
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-via-738826/video-f18633f9cdb9d5f0.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-via-738826/poster-1d381cd9ad2c2b81.jpg" alt="Seedance 2.5 via video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Ultra-realistic casual smartphone lifestyle video featuring one young Korean woman in her early 20s visiting a busy local fruit market, buying fresh fruits, tasting them, and...</summary>
+
+~~~~text
+Ultra-realistic casual smartphone lifestyle video featuring one young Korean woman in her early 20s visiting a busy local fruit market, buying fresh fruits, tasting them, and returning home.
+The entire video must look like genuine footage casually recorded on a real handheld smartphone by a friend or companion accompanying her. The Korean woman does NOT hold the camera and does NOT film herself in selfie mode. The camera naturally follows her from nearby like a friend casually recording her day.
+Use imperfect handheld framing, subtle natural camera shake, realistic smartphone autofocus, automatic exposure changes, slight motion blur, natural walking movement, occasional imperfect composition, authentic market sounds and realistic real-world physics.
+
+No cinematic shots, no drone, no gimbal, no professional camera work, no beauty filters and no commercial look.
+
+CHARACTER:
+The same young Korean woman throughout the entire video, early 20s, petite oval face, brown eyes, natural coral lips, realistic fair skin and long black hair. Maintain perfect character consistency with no face morphing, identity drift or duplicate people.
+
+STORY — A DAY AT THE FRUIT MARKET
+
+0:00–0:04 — Arriving at the Market
+The handheld smartphone camera follows the Korean woman as she walks toward a busy local fruit market. She looks around happily at the colorful stalls ahead of her.
+
+She naturally says:
+
+“오늘 과일 좀 사러 왔어요!”
+
+The camera briefly pans toward the busy market entrance and follows her inside.
+
+0:04–0:08 — Exploring the Fruit Stalls
+The friend filming casually follows her through the market. She walks past colorful stalls filled with strawberries, grapes, oranges, mangoes and other fresh fruits.
+
+She stops and looks around with excitement, saying:
+
+“와, 과일이 진짜 많다!”
+
+The camera naturally moves closer to show the fruits, with realistic smartphone autofocus shifting between her and the fruit displays.
+
+0:08–0:12 — Choosing Fruits
+She stops at a fruit stall and carefully looks at different fruits. She picks up a few pieces, examines them naturally and talks briefly with the seller.
+
+The camera remains handheld nearby, occasionally moving slightly out of perfect framing like genuine casual phone footage.
+
+0:12–0:16 — Buying the Fruits
+She chooses several fruits and hands them to the seller. The seller naturally weighs and packs the fruits into a bag while she watches.
+
+She pays for the fruits and smiles happily.
+
+0:16–0:20 — Tasting a Fruit
+The seller offers her a small sample of fresh fruit. The smartphone camera captures her naturally taking a bite.
+
+She pauses for a genuine reaction, smiles with surprise and says:
+
+“와, 진짜 달다!”
+
+Keep her reaction spontaneous and natural.
+
+0:20–0:24 — Walking Through the Market
+The camera follows her as she walks through the market carrying her bag of fresh fruit. She happily looks inside the bag and says:
+
+“오늘 진짜 많이 샀어요!”
+
+People naturally walk around her, sellers work at their stalls and authentic market activity continues in the background.
+
+0:24–0:27 — Leaving the Market
+The handheld smartphone camera follows her from behind and beside as she leaves the busy fruit market carrying her shopping bag.
+
+Natural walking shake, footsteps and market sounds gradually fade behind her.
+
+0:27–0:30 — Back Home
+Hard cut to her arriving home. The friend filming captures her placing the fresh fruits on a kitchen table.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-via-738826/video-f18633f9cdb9d5f0.webm)
+
+**Source:** [@saniaspeaks_](https://x.com/saniaspeaks_/status/2095728089015738826) · 30s · 16:9 · vlog
+
+---
+
+## 6. Created with Seedance 2.5
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-318531/video-c393d75ff15e9b69.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-318531/poster-791d72efef5f4a74.jpg" alt="Created with Seedance 2.5 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — 30-second continuous photorealistic candid home-video scene in a quiet Korean residential neighborhood on a warm summer morning. The entire video must look like genuine footage...</summary>
+
+~~~~text
+30-second continuous photorealistic candid home-video scene in a quiet Korean residential neighborhood on a warm summer morning. The entire video must look like genuine footage recorded by a friend in the early 2000s, NOT a commercial, movie, music video or AI-generated scene.
+
+CHARACTER CONSISTENCY:
+Use the supplied character reference sheet as the strict visual reference for all characters.
+
+MAIN GIRL: Minji, 21, young Korean woman, natural realistic face, authentic skin texture, messy wavy black hair loosely tied back. Oversized plain white T-shirt, loose light pajama pants and simple flat sandals. Keep exactly the same face, hairstyle, clothing, age and body proportions throughout.
+
+FRIEND: Jisung, 22, remains behind the camera for the entire video. Only his natural male voice and laughter are heard.
+
+NEIGHBOR: Mrs. Park, elderly Korean woman around 70, same appearance as reference, wearing comfortable patterned house clothes.
+
+Two school children appear briefly in the background wearing ordinary school clothes and backpacks.
+
+LOCATION:
+A real lived-in older Korean residential lane: narrow concrete road, modest houses, aged walls, potted plants, bicycles, laundry, utility poles and overhead wires. Warm natural morning sunlight. Nothing staged or overly picturesque.
+
+CAMERA:
+Entire video is filmed by Jisung using an old handheld early-2000s consumer DV camcorder. Genuine handheld shake, slightly imperfect framing, small accidental pans, occasional autofocus adjustment, mild exposure breathing, faded DV colors, soft digital detail, subtle compression noise and realistic motion blur.
+
+The camera operator reacts physically to events. Do NOT use cinematic camera movement, gimbal stabilization, slow motion, drone shots, perfect composition, dramatic depth of field or modern commercial color grading.
+
+SEQUENCE — ONE NATURAL CONTINUOUS EVENT:
+
+[0–4 SEC]
+Minji casually walks out of her house holding a green garden hose and begins watering several potted plants beside the entrance.
+
+She notices Jisung filming her and looks directly toward the camera with a small amused smile.
+
+MINJI, natural Korean-accented English:
+“Why are you filming this?”
+
+JISUNG, casually from behind camera:
+“I’m bored.”
+
+She gives him a playful annoyed look, then continues watering.
+
+[4–9 SEC]
+The water pressure gradually becomes weak and then almost stops.
+
+Minji looks at the hose nozzle, confused. She lightly shakes it once and squeezes the nozzle again.
+
+Nothing.
+
+She follows the hose with her eyes and notices that part of the hose is accidentally trapped underneath her own sandal.
+
+Her reaction is subtle and completely natural.
+
+[9–13 SEC]
+Minji casually lifts her foot off the hose.
+
+IMMEDIATELY the normal water pressure returns.
+
+A sudden stream of water shoots upward from the badly angled nozzle and splashes directly across her face, hair and upper T-shirt.
+
+IMPORTANT: realistic garden-hose physics only. No explosive or exaggerated water.
+
+Minji freezes for a moment in genuine surprise.
+
+Jisung instinctively jerks the camera sideways, briefly losing the framing, then quickly points it back toward her while laughing.
+
+Minji slowly looks directly at the camera with an embarrassed “seriously?” expression.
+
+[13–18 SEC]
+Laughing, Minji turns the hose toward Jisung as if she is going to spray him.
+
+While adjusting the nozzle she accidentally rotates it the wrong direction.
+
+A short stronger spray hits her own shoulder and face AGAIN.
+
+She immediately recoils and laughs:
+
+“Wait—wait!”
+
+Jisung laughs harder behind the camera. His laughter makes the handheld framing noticeably shakier.
+
+Minji is genuinely laughing now, slightly soaked, with wet strands of hair naturally sticking around her face.
+
+[18–23 SEC]
+Mrs. Park, the elderly neighbor who has been tending plants near her doorway, notices what happened.
+
+Minji looks toward her, embarrassed but laughing.
+
+Mrs. Park smiles and raises her own small garden hose as though she is going to help.
+
+Minji relaxes.
+
+Instead, Mrs. Park gives Minji ONE quick, harmless playful spray of water.
+
+Minji looks completely shocked for half a second.
+
+Then Mrs. Park laughs.
+
+Minji immediately starts laughing too.
+
+[23–27 SEC]
+Minji playfully sprays a small amount of water back toward Mrs. Park.
+
+Mrs. Park laughs and steps behind her gate.
+
+Two school children walking farther down the lane notice the situation, stop briefly and laugh naturally before continuing.
+
+Keep this spontaneous and subtle — NOT a large staged water fight.
+
+[27–30 SEC]
+Still laughing and visibly wet, Minji walks directly toward Jisung and the camera while holding the hose.
+
+She points at him and says:
+
+“You started this.”
+
+JISUNG replies while laughing:
+“I literally did nothing!”
+
+Minji gives him a mischievous look and sends ONE quick spray directly toward the camera.
+
+Water hits the camcorder lens.
+
+The image instantly becomes partially blurred and smeared by realistic water droplets while the camera operator reacts.
+
+Minji’s genuine laughter remains audible through the wet blurry image.
+
+HARD CUT.
+
+REALISM / PERFORMANCE:
+All people must look and move like real humans captured unexpectedly on a home video. Natural blinking, breathing, posture, weight shifts, imperfect timing, realistic hand movements and restrained facial expressions.
+
+Dialogue must sound like REAL HUMAN SPEECH: natural young adult voices, normal conversational volume, correct emotional timing, subtle Korean accents, no robotic cadence, no narrator voice, no exaggerated acting. Characters must speak ONLY their assigned dialogue. No extra dialogue.
+
+The humor comes entirely from the believable accident and genuine reactions. Nobody behaves like an actor performing a comedy sketch.
+
+WATER PHYSICS:
+Water must behave exactly like real garden-hose water: correct gravity, splash direction, droplets, wet fabric and progressively wetter hair. The hose stays physically connected and maintains consistent shape. No disappearing hose, duplicated hose, impossible water sources or changing nozzle.
+
+CONTINUITY:
+Minji becomes progressively wetter after each splash and must remain wet afterward. Her clothing, face, hairstyle, house, hose and neighborhood remain consistent. Mrs. Park remains the same person. School children remain consistent. No character duplication, sudden wardrobe changes, teleportation, object morphing or discontinuous positions.
+
+AUDIO:
+Absolutely NO music and NO narration.
+
+Only authentic location sound: birds, distant neighborhood conversations, faint traffic, footsteps on concrete, occasional bicycle sound, running water, hose splashes, clothing movement and genuine laughter.
+
+FINAL LOOK:
+Warm summer morning, nostalgic early-2000s Korean home-video feeling. Slightly faded DV colors, ordinary natural sunlight and imperfect consumer-camera quality.
+
+The finished video should feel like a funny forgotten family camcorder recording from a real summer morning — completely spontaneous, mundane, charming and physically believable.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-318531/video-c393d75ff15e9b69.webm)
+
+**Source:** [@frametheory058](https://x.com/frametheory058/status/2095003298747318531) · 30s · 9:16 · vlog
+
+---
+
+## 7. Made with Seedance 2.5
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-255932/video-5c8310c1ed80df2c.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-255932/poster-4e7746ecfc0455ae.jpg" alt="Made with Seedance 2.5 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Extremely realistic smartphone travel vlog featuring one Korean woman in her early 20s going on a mountain hiking adventure for the first time. The entire video must look like...</summary>
+
+~~~~text
+Extremely realistic smartphone travel vlog featuring one Korean woman in her early 20s going on a mountain hiking adventure for the first time. The entire video must look like genuine casual footage recorded on a real smartphone, with imperfect handheld framing, natural camera shake, realistic autofocus, exposure changes, slight motion blur, walking jolts, natural wind noise and authentic outdoor ambience. No cinematic shots, no drone, no gimbal, no beauty filters, no commercial look.
+Character: The same Korean woman throughout the entire video, petite oval face, brown eyes, natural coral lips, realistic fair skin, long black hair. Maintain perfect character consistency with no face morphing, identity drift or duplicates.
+0:00–0:04 — Starting the Hike
+She stands at the mountain trail entrance in selfie mode wearing practical hiking clothes, a backpack and hiking shoes. She smiles excitedly and says in Korean: “오늘 산에 올라가 볼게요!”
+0:04–0:08 — Walking the Trail
+She walks uphill along a natural mountain path. The phone shakes slightly with every step. Trees, rocks and other hikers appear naturally in the background.
+0:08–0:12 — Steep Section
+She reaches a steeper rocky part of the trail and carefully climbs while breathing slightly harder. She laughs and says: “생각보다 힘들다!”
+0:12–0:16 — Rest Stop
+She stops beside a beautiful viewpoint, drinks water and turns the phone toward the mountain landscape.
+0:16–0:21 — Reaching the Summit
+She finally reaches the mountain summit and reacts with genuine amazement. Strong natural wind moves her hair and clothes as she turns the phone toward the incredible view.
+0:21–0:26 — Summit Snack
+She sits safely at a designated resting area, takes out a small snack and enjoys it while looking at the mountains.
+0:26–0:30 — Goodbye
+In selfie mode with the mountain view behind her, she smiles proudly and says: “정말 힘들었지만 너무 좋았어요! 다음에 또 올게요!” She waves and naturally lowers the phone.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-255932/video-5c8310c1ed80df2c.webm)
+
+**Source:** [@im_shahid7](https://x.com/im_shahid7/status/2094658622148255932) · 30s · 16:9 · vlog
+
+---
+
+## 8. Made with Seedance 2.5 + Gpt image 2
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-gpt-image-2-191705/video-a6c9531a264200f3.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-gpt-image-2-191705/poster-75ca30e53473ab60.jpg" alt="Made with Seedance 2.5 + Gpt image 2 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Seedance 2.5-30-Second Ultra-Photorealistic Travel Vlog Prompt Create a 30-second ultra-photorealistic travel vlog that looks exactly like genuine footage spontaneously recorded...</summary>
+
+~~~~text
+Seedance 2.5-30-Second Ultra-Photorealistic Travel Vlog Prompt
+
+Create a 30-second ultra-photorealistic travel vlog that looks exactly like genuine footage spontaneously recorded by a real European travel creator on a high-quality handheld vlog camera. The same young European woman must remain visually identical throughout the entire video: identical face, facial proportions, hairstyle, hair color, skin tone, body proportions, age, wardrobe, accessories, and overall appearance. Maintain strict character consistency across every shot and camera angle.
+
+The woman should have natural skin pores, subtle facial imperfections, realistic eyes, individual hair strands, authentic hair movement, natural body proportions, realistic hands, and spontaneous human expressions. No beauty filter, no plastic skin, no excessive makeup, no perfect symmetry.
+
+The entire video must feel like real documentary/travel-vlog footage, not a commercial, music video, cinematic film, 3D render, or AI-generated sequence.
+
+CONTINUITY / CHARACTER LOCK
+
+Same woman in every shot. Young European woman, approximately mid-20s, naturally attractive but completely realistic. Natural complexion with visible pores and tiny imperfections, realistic eyes and eyelashes, natural eyebrows, slightly imperfect hair strands moving independently in the breeze. Same hairstyle and clothing throughout. Authentic posture and walking rhythm. No facial identity drift, no changes in age, hairstyle, clothing, accessories, body shape, or skin tone.
+
+She carries a small compact vlog camera, held naturally at arm's length during selfie shots. Her grip, fingers, hands, and camera position must remain anatomically realistic.
+
+LOCATION / ATMOSPHERE
+
+A beautiful European historic old-town district in the morning. Narrow stone-paved street, textured centuries-old buildings, colorful but realistic façades, wooden shutters, small cafés, outdoor tables, bicycles, bakery storefront, pedestrians, subtle street activity.
+
+Soft morning sunlight with realistic shadows. Natural atmospheric perspective. Authentic European street ambience. Background people behave independently and naturally, without staring at the camera. No duplicated pedestrians or repeated background characters.
+
+SHOT 1 — 0–5 SECONDS
+
+Selfie-style handheld vlog footage.
+
+The woman walks naturally down the old-town street while holding a small vlog camera at arm's length. She looks directly into the lens with a subtle, genuine smile.
+
+Camera has realistic handheld movement: slight walking bounce, tiny wrist movements, occasional micro-shake, natural framing imperfections, subtle breathing-related movement. Do NOT stabilize the footage perfectly.
+
+Her hair moves naturally as she walks through a light morning breeze. Her expression remains relaxed and spontaneous. She occasionally blinks naturally.
+
+Behind her: pedestrians walking casually, parked bicycles, café entrances, historic textured buildings and morning activity.
+
+Natural sunlight falls across her face as she moves between partial shade and sunlight. Preserve realistic exposure and skin tones.
+
+SHOT 2 — 5–10 SECONDS
+
+She naturally turns the camera away from herself toward the street.
+
+Create an imperfect handheld pan, as if a real travel creator casually redirected their vlog camera.
+
+Reveal:
+
+- detailed historic European architecture
+- stone façades and windows
+- outdoor café tables
+- people drinking coffee
+- bicycles moving through the street
+- a small neighborhood bakery
+- subtle morning street activity
+
+The pan should NOT be perfectly smooth. Include realistic wrist acceleration, tiny framing corrections and slight motion blur.
+
+As the camera moves from a darker section of the street into direct morning sunlight, produce a subtle automatic exposure adjustment. Highlights and shadows react naturally like a real camera sensor.
+
+No cinematic transition. No artificial camera glide.
+
+SHOT 3 — 10–15 SECONDS
+
+Cut naturally back to selfie footage.
+
+The same woman continues walking toward the café. She briefly says something casual and conversational to the camera, such as:
+
+“This little street is so beautiful.”
+
+Her lip movement must synchronize naturally with the words. Facial expressions are relaxed and understated. No exaggerated acting.
+
+She briefly glances toward something in the street and then back at the lens. She blinks naturally. A light breeze moves several individual strands of hair.
+
+Pedestrians pass naturally in the background without acknowledging the camera.
+
+Maintain realistic handheld shake, authentic walking bounce, natural breathing, realistic depth of field and believable street ambience.
+
+SHOT 4 — 15–21 SECONDS
+
+Transition naturally into POV footage from her camera.
+
+She approaches and enters a small independent local café.
+
+The camera moves through the doorway at normal human walking speed. Slight vertical bounce and subtle wrist movement remain visible.
+
+Inside:
+
+- warm natural café lighting
+- wooden tables
+- textured walls
+- realistic glass reflections
+- small background conversations
+- customers moving naturally
+- barista activity in the distance
+- subtle environmental shadows
+
+The camera approaches a wooden table containing a freshly prepared coffee and a small pastry.
+
+Show subtle realistic steam rising from the coffee. Reflections on the cup and nearby glass should obey real-world lighting.
+
+No exaggerated steam. No floating objects. No artificial-looking food.
+
+SHOT 5 — 21–26 SECONDS
+
+Cut back to selfie footage.
+
+The same woman is now sitting outside the café at a small table.
+
+She naturally picks up the coffee, takes a small casual sip, lowers the cup and looks into the camera.
+
+Her expression changes into a subtle authentic smile. Avoid influencer-style posing or exaggerated happiness.
+
+Maintain exact facial identity and wardrobe continuity.
+
+Background remains alive:
+pedestrians walking, bicycles passing, café customers talking, subtle movement of chairs and clothing in the breeze.
+
+Camera remains handheld and slightly imperfect, with realistic micro-shake.
+
+SHOT 6 — 26–30 SECONDS
+
+Continue the selfie shot for a natural ending.
+
+She keeps a relaxed smile for a moment, then her attention subtly shifts toward the street.
+
+The camera performs a small natural focus shift from her face toward the street behind her.
+
+Her face gradually becomes slightly softer while the background becomes clearer, like realistic autofocus behavior from a modern vlog camera.
+
+End spontaneously rather than dramatically.
+
+No cinematic fade, no artificial transition, no title card.
+
+CAMERA / PHYSICS
+
+Authentic handheld vlog-camera behavior throughout.
+
+Use:
+
+- realistic walking bounce
+- subtle wrist shake
+- natural micro-jitter
+- imperfect framing
+- physically accurate motion blur
+- realistic autofocus behavior
+- realistic exposure adaptation
+- natural depth of field
+- physically correct reflections
+- realistic shadows
+- natural skin response to sunlight
+- believable hair physics
+- realistic fabric movement
+- authentic pedestrian movement
+
+Camera should occasionally make tiny human corrections rather than moving perfectly smoothly.
+
+AUDIO / AMBIENCE
+
+Natural location sound only.
+
+Include subtle:
+
+- footsteps on stone pavement
+- distant conversations
+- café chatter
+- bicycle movement
+- light street noise
+- birds in the distance
+- door opening
+- subtle café interior ambience
+- faint cup movement
+- natural breathing
+
+Her spoken sentence should sound like a real casual vlog recording, with natural voice volume and slight environmental background noise.
+
+No dramatic soundtrack. No cinematic sound effects.
+
+ABSOLUTE REALISM REQUIREMENTS
+
+Prioritize photographic realism over visual perfection.
+
+The footage should contain the tiny imperfections normally found in genuine handheld travel footage.
+
+Avoid:
+
+- CGI appearance
+- AI-generated look
+- plastic skin
+- beauty filters
+- excessive skin smoothing
+- perfect facial symmetry
+- exaggerated expressions
+- overly cinematic lighting
+- perfect gimbal movement
+- impossible camera movement
+- warped hands
+- malformed fingers
+- distorted faces
+- inconsistent facial identity
+- changing clothing
+- changing hairstyle
+- duplicated pedestrians
+- frozen background people
+- unnatural walking
+- floating objects
+- impossible reflections
+- incorrect shadows
+- artificial depth-of-field
+- excessive bokeh
+- oversaturated colors
+- hyper-sharp artificial textures
+- dramatic transitions
+- commercial/ad-style posing
+
+Final target: The finished 30-second video must be indistinguishable from a genuine, spontaneously filmed European travel vlog captured by a real person on a premium handheld vlog camera. Every person, object, reflection, shadow, movement, facial expression, hair strand, exposure change and camera motion should obey real-world physics.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-gpt-image-2-191705/video-a6c9531a264200f3.webm)
+
+**Source:** [@ChillaiKalan__](https://x.com/ChillaiKalan__/status/2094280707422191705) · 30s · 16:9 · vlog
+
+---
+
+## 9. Seedance 2.5 via higgsfield makes it feel real.
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-via-higgsfield-makes-it-feel-real-388426/video-83ddda97a3114fc7.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-via-higgsfield-makes-it-feel-real-388426/poster-fb52fcdb3768a29f.jpg" alt="Seedance 2.5 via higgsfield makes it feel real. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Smartphone sports vlog featuring one Korean woman in her early 20s learning and practicing traditional Chinese martial arts (kung fu) at an authentic outdoor training courtyard in...</summary>
+
+~~~~text
+Smartphone sports vlog featuring one Korean woman in her early 20s learning and practicing traditional Chinese martial arts (kung fu) at an authentic outdoor training courtyard in China. The entire video must look like genuine casual smartphone footage, with imperfect handheld framing, subtle camera shake, realistic autofocus adjustments, automatic exposure changes, slight motion blur, natural walking movement, realistic skin texture, authentic ambient sounds and real-world physics. No cinematic shots, no gimbal, no drone, no beauty filters, no commercial look.
+
+Character: The same Korean woman throughout the entire video, petite oval face, brown eyes, natural coral lips, realistic fair skin, long black hair. Maintain perfect character consistency with no face morphing, identity drift or duplicate people.
+
+0:00–0:04 — Training Arrival
+She stands outside a traditional Chinese martial arts training courtyard in selfie mode, looking excited. She says in Korean: “오늘 중국 무술을 배워볼 거예요!” She turns the phone to show the training area and students practicing in the background.
+
+0:04–0:08 — Getting Ready
+She changes into a simple traditional-style kung fu training uniform. She stands beside an instructor and carefully copies basic martial arts movements, looking focused but slightly nervous.
+
+0:08–0:12 — First Practice
+She practices a simple sequence of controlled punches and defensive movements. Her movements are believable for a beginner, with small mistakes and natural corrections rather than perfect professional technique.
+
+0:12–0:15 — Kick Practice
+She tries a controlled front kick toward a training pad held by the instructor. She slightly loses balance afterward, laughs naturally and looks embarrassed.
+
+0:15–0:18 — Hard Cut / Improved Practice
+Hard cut exactly at 0:15. Same woman, same identity and training outfit. She now performs the same basic movements with noticeably better confidence and coordination.
+
+0:18–0:22 — Martial Arts Sequence
+She performs a short, simple kung fu combination with controlled punches, blocks and footwork. Keep all movements physically realistic, safe and believable.
+
+0:22–0:26 — Training With Others
+She joins several students practicing synchronized basic movements in the courtyard. Natural sounds of footsteps, clothing movement and distant conversations are audible.
+
+0:26–0:30 — Happy Ending
+Breathing slightly heavily after training, she returns to selfie mode, smiles proudly and says: “생각보다 어렵지만 정말 재미있었어요!” She gives a small wave and naturally lowers the phone to end the vlog.
+
+Throughout the entire video, prioritize authentic smartphone realism: imperfect framing, subtle focus changes, realistic breathing, natural blinking, believable beginner movements, physically accurate body motion, authentic courtyard ambience and spontaneous reactions. The final result should feel like a real personal vlog filmed casually on a smartphone, not an AI-generated action movie or commercial.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-via-higgsfield-makes-it-feel-real-388426/video-83ddda97a3114fc7.webm)
+
+**Source:** [@saniaspeaks_](https://x.com/saniaspeaks_/status/2093665693015388426) · 30s · 16:9 · vlog
+
+---
+
+## 10. Made possible with Seedance 2.5.
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-possible-with-seedance-2-5-386343/video-37aaa1347134bd67.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-possible-with-seedance-2-5-386343/poster-2e91c16d57b7ea87.jpg" alt="Made possible with Seedance 2.5. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Realistic smartphone travel vlog featuring one Korean woman in her early 20s visiting a large museum for the first time. The entire video must look like genuine casual footage...</summary>
+
+~~~~text
+Realistic smartphone travel vlog featuring one Korean woman in her early 20s visiting a large museum for the first time. The entire video must look like genuine casual footage recorded on a real smartphone, with imperfect handheld framing, subtle natural camera shake, realistic autofocus adjustments, automatic exposure changes, slight motion blur, natural walking movement, realistic skin texture, authentic indoor lighting and real-world physics. No cinematic shots, no gimbal, no drone, no beauty filters, no commercial look, no artificial transitions.
+
+Character: The same Korean woman throughout the entire video, petite oval face, brown eyes, natural coral lips, realistic fair skin, long black hair, subtle natural makeup. Maintain perfect character consistency with no face morphing, identity drift or duplicate people.
+
+0:00–0:04 — Museum Arrival
+She stands outside the museum entrance holding her phone in selfie mode. She looks excited and naturally says in Korean: “안녕하세요! 오늘 처음으로 이 박물관에 왔어요!” She turns the phone slightly to show the impressive museum entrance and other visitors walking inside.
+
+0:04–0:08 — Entering the Museum
+She walks through the entrance into the large museum hall. The phone camera automatically adjusts from bright outdoor light to the darker indoor environment. She looks around with genuine curiosity while quietly filming the high ceiling, architecture and visitors.
+
+0:08–0:12 — Famous Exhibition
+She stops in front of an impressive historical exhibition and slowly moves the phone closer to show the details. She looks genuinely amazed and softly says: “와… 실제로 보니까 정말 신기하다.” Keep all artwork and exhibits original and generic, with no recognizable copyrighted artwork.
+
+0:12–0:15 — Ancient Artifact
+She walks toward another display containing an ancient-looking artifact behind glass. She leans slightly closer to look at it, then turns the camera toward herself with a fascinated expression.
+
+0:15–0:18 — Outfit Change
+Hard cut exactly at 0:15. The same woman now wears a soft cream cardigan over a light beige top, dark brown trousers, simple sneakers and a small crossbody bag. Her face and identity remain exactly the same. She continues exploring another museum gallery.
+
+0:18–0:21 — Interactive Exhibit
+She discovers an interactive digital exhibit and naturally tries it. Her reaction is spontaneous and curious, not exaggerated. Other museum visitors behave quietly and naturally in the background.
+
+0:21–0:24 — Looking at a Large Display
+She stands in front of a huge historical display and slowly tilts the phone upward to capture its impressive size. Her eyes follow the display naturally and she quietly smiles in amazement.
+
+0:24–0:27 — Museum Café Break
+She sits at a small museum café with a drink and dessert. She takes a small bite, looks at the camera and smiles naturally. Ambient sounds remain subtle, with quiet conversations and the natural atmosphere of a real museum café.
+
+0:27–0:30 — Goodbye
+Near the museum exit, she switches back to selfie mode. She smiles warmly and says: “오늘 정말 재미있었어요! 다음에 또 올게요. 안녕!” She waves naturally and lowers the phone toward the floor, ending the recording.
+
+Throughout the entire video, prioritize real smartphone imperfections and authentic documentary-style footage: slight framing mistakes, subtle autofocus hunting, natural exposure changes, realistic blinking and breathing, believable hand movements, physically accurate walking, quiet museum ambience, natural visitor behavior and realistic reflections on glass display cases. The final result must feel indistinguishable from a genuine personal smartphone museum vlog recorded by a real person.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/made-possible-with-seedance-2-5-386343/video-37aaa1347134bd67.webm)
+
+**Source:** [@saniaspeaks_](https://x.com/saniaspeaks_/status/2093552631650386343) · 30s · 16:9 · vlog
+
+---
+
+## 11. Continue jogging → dumbbells → core → stretching → water → mirror smile.
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/continue-jogging-dumbbells-core-stretching-water-mirror-smile-999741/video-1575efe766a87a46.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/continue-jogging-dumbbells-core-stretching-water-mirror-smile-999741/poster-05f44d2df243a716.jpg" alt="Continue jogging → dumbbells → core → stretching → water → mirror smile. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Part 1. 30 second + part 2. 15 second =Total 45 second DURATION: 45 seconds ASPECT RATIO: 16:9 Prompt ⤵️ Part 1. 30 second Create an ultra-photorealistic cinematic female morning...</summary>
+
+~~~~text
+Part 1. 30 second + part 2. 15 second =Total 45 second
+
+DURATION: 45 seconds
+ASPECT RATIO: 16:9
+
+Prompt ⤵️
+
+Part 1. 30 second
+
+Create an ultra-photorealistic cinematic female morning fitness lifestyle vlog.
+
+REFERENCE PRIORITY:
+
+@IMG1 = STRICT FEMALE IDENTITY REFERENCE
+@IMG8 = MASTER FITNESS LOOK, OUTFIT, HAIRSTYLE, SHOES AND ACCESSORIES
+@IMG2 = BEDROOM ENVIRONMENT
+@IMG3 = BATHROOM ENVIRONMENT
+@IMG4 = MORNING WALKING ROUTE
+@IMG5 = GYM ENVIRONMENT
+@IMG6 = FITNESS ACTION REFERENCE
+
+The SAME woman from @IMG1 must appear throughout the entire video.
+
+Use @IMG8 to maintain her exact fitness outfit, hairstyle, sneakers, earbuds, fitness watch and water bottle once she changes for her workout.
+
+Do not change her face, identity, hairstyle or appearance.
+
+--------------------------------------------------
+
+0–5 SECONDS — WAKE UP
+
+Use @IMG1 + @IMG2.
+
+Early morning.
+
+The woman is sleeping peacefully in her bedroom.
+
+Soft morning sunlight enters through the curtains.
+
+She slowly wakes up.
+
+She opens her eyes, sits up naturally and gently stretches.
+
+She gets out of bed.
+
+Natural sleepy morning expression.
+
+CAMERA:
+Slow cinematic push-in from a medium-wide bedroom shot.
+
+--------------------------------------------------
+
+5–10 SECONDS — BRUSH & FACE WASH
+
+Use @IMG1 + @IMG3.
+
+She walks into the bathroom.
+
+She stands naturally in front of the mirror.
+
+She brushes her teeth.
+
+Show a brief realistic close-up of brushing.
+
+She rinses her mouth.
+
+Then she washes her face with clean water.
+
+She gently dries her face with a towel.
+
+She looks into the mirror with a fresh morning expression.
+
+CAMERA:
+Medium mirror shot followed by brief close-ups.
+
+Realistic water movement and natural hand movements.
+
+--------------------------------------------------
+
+10–15 SECONDS — GETTING READY FOR FITNESS
+
+Use @IMG8.
+
+She changes into the exact athletic outfit shown in @IMG8.
+
+She puts on the same running shoes.
+
+She puts in the same wireless earbuds.
+
+She wears the same fitness watch.
+
+She picks up the same reusable water bottle.
+
+She briefly checks herself in the mirror.
+
+She is ready for her morning walk and gym session.
+
+CAMERA:
+Quick but smooth lifestyle cuts:
+
+athletic shoes,
+earbuds,
+fitness watch,
+water bottle,
+then medium shot of her ready to leave.
+
+Do not change her outfit after this point.
+
+--------------------------------------------------
+
+15–22 SECONDS — MORNING WALK
+
+Use @IMG8 + @IMG4.
+
+She leaves her home and walks along the peaceful morning walking route.
+
+Soft sunrise light passes through the trees.
+
+She starts with a comfortable walk.
+
+After a few moments she increases her pace into a light brisk walk.
+
+Her arms and legs move naturally.
+
+She looks calm, fresh and energetic.
+
+CAMERA:
+Smooth side-tracking shot.
+
+Then a front-facing tracking shot.
+
+Brief close-up of her sneakers walking on the path.
+
+Keep the morning environment visible.
+
+--------------------------------------------------
+
+22–26 SECONDS — GYM ARRIVAL
+
+Use @IMG8 + @IMG5.
+
+She arrives at the gym.
+
+She approaches the entrance.
+
+She opens the door and walks inside.
+
+The camera follows her into the gym.
+
+Briefly reveal the treadmill and workout area.
+
+She walks toward the treadmill.
+
+CAMERA:
+Smooth follow shot from behind.
+
+Then wide gym establishing shot.
+
+--------------------------------------------------
+
+26–30 SECONDS — TREADMILL BEGINNING
+
+Use @IMG8 + @IMG6.
+
+She steps onto the treadmill.
+
+She places her feet naturally.
+
+She begins with a slow warm-up walk.
+
+After a moment, she increases the speed slightly and begins a light jog.
+
+Her posture is natural.
+
+Her arms move naturally.
+
+Her expression is focused but comfortable.
+
+END THE VIDEO WHILE SHE IS STILL LIGHTLY JOGGING.
+
+IMPORTANT:
+Do NOT finish the workout in Part 1.
+
+Do NOT show dumbbells yet.
+
+Do NOT show stretching yet.
+
+Do NOT show the final water/mirror scene yet.
+
+The final moment must clearly establish her jogging on the treadmill so Part 2 can continue from this exact activity.
+
+CAMERA:
+Side medium shot of the treadmill.
+
+Finish with a stable cinematic frame of her jogging.
+
+--------------------------------------------------
+
+REALISM:
+
+Natural human movement.
+
+Realistic walking.
+
+Realistic running.
+
+Realistic treadmill mechanics.
+
+Realistic brushing.
+
+Realistic face washing.
+
+Realistic water.
+
+Realistic clothing movement.
+
+Realistic hands and feet.
+
+Natural facial expressions.
+
+No exaggerated movements.
+
+No sudden transitions.
+
+No teleportation.
+
+No face morphing.
+
+No identity change.
+
+No outfit change after the fitness outfit appears.
+
+No distorted hands.
+
+No extra fingers.
+
+No cartoon.
+
+No anime.
+
+No CGI-looking human.
+
+No text.
+
+No logos.
+
+No watermark.
+
+FINAL FRAME:
+
+The woman is lightly jogging on the treadmill inside the gym.
+
+Hold the final treadmill shot briefly and cleanly.
+
+This final frame will be used as the continuity reference for .
+
+PART 2.
+
+DURATION: 15 SECONDS
+
+Create an ultra-photorealistic cinematic continuation of PART 1.
+
+CONTINUITY PRIORITY — ABSOLUTE:
+
+The video MUST begin from the EXACT FINAL FRAME of PART 1.
+
+Use the final frame of Part 1 as the PRIMARY STARTING REFERENCE.
+
+The SAME woman must continue from the exact treadmill position.
+
+Preserve:
+- exact face
+- hairstyle
+- athletic outfit
+- shoes
+- earbuds
+- fitness watch
+- body position
+- gym environment
+- lighting
+- camera perspective
+- treadmill position
+
+There must be NO visible jump, character change, outfit change or environment change.
+
+ADDITIONAL REFERENCES:
+
+@IMG8 = MASTER FITNESS CHARACTER
+@IMG6 = GYM WORKOUT ACTION
+@IMG7 = POST-WORKOUT ENDING
+
+--------------------------------------------------
+
+0–4 SECONDS — CONTINUE TREADMILL
+
+Continue EXACTLY from the final frame of Part 1.
+
+The woman continues lightly jogging on the treadmill.
+
+Do not restart the action.
+
+Her running rhythm remains consistent with Part 1.
+
+After a moment, she gradually slows the treadmill.
+
+She steps off naturally.
+
+CAMERA:
+Continue the same camera angle from the final frame of Part 1 before making a subtle cinematic transition.
+
+--------------------------------------------------
+
+4–8 SECONDS — DUMBBELL WORKOUT
+
+Use @IMG6.
+
+The woman walks naturally from the treadmill to the dumbbell area.
+
+She picks up a pair of light dumbbells.
+
+She performs controlled shoulder/arm exercises.
+
+Her movements are realistic and safe.
+
+She completes a few controlled repetitions.
+
+CAMERA:
+Medium cinematic shot.
+
+Brief close-up of her hands holding the dumbbells.
+
+Keep her face recognizable.
+
+--------------------------------------------------
+
+8–11 SECONDS — MAT + STRETCH
+
+Use @IMG6.
+
+She places the dumbbells down.
+
+She moves to an exercise mat.
+
+She performs one simple controlled core exercise.
+
+Then she stands up and performs a brief gentle stretch.
+
+Natural breathing.
+
+Relaxed but slightly tired expression.
+
+CAMERA:
+Medium-wide shot.
+
+Smooth transition from mat exercise to standing stretch.
+
+--------------------------------------------------
+
+11–15 SECONDS — WATER + FINAL SMILE
+
+Use @IMG7.
+
+The workout is complete.
+
+She picks up her reusable water bottle.
+
+She takes a natural drink of water.
+
+She gently wipes her forehead with the gym towel.
+
+She looks at herself in the large gym mirror.
+
+She takes a calm breath.
+
+She gives herself a small confident satisfied smile.
+
+CAMERA:
+Gentle cinematic push toward her reflection.
+
+Finish on the confident smile.
+
+CUT TO BLACK.
+
+--------------------------------------------------
+
+CONTINUITY RULES:
+
+Same woman from Part 1.
+
+Same face.
+
+Same hairstyle.
+
+Same athletic outfit.
+
+Same shoes.
+
+Same earbuds.
+
+Same fitness watch.
+
+Same gym.
+
+Same lighting.
+
+Same morning atmosphere.
+
+Same realistic visual style.
+
+The first frame of Part 2 must match the final frame of Part 1.
+
+No restart.
+
+No sudden camera jump.
+
+No outfit change.
+
+No face morphing.
+
+No different woman.
+
+No distorted hands.
+
+No extra fingers.
+
+No unrealistic exercise.
+
+No exaggerated movements.
+
+No cartoon.
+
+No anime.
+
+No text.
+
+No logo.
+
+No watermark.
+
+FINAL FEELING:
+
+The second part should feel like the SAME continuous morning workout session, not a separate video.
+
+PART 1 END:
+Treadmill jogging.
+
+PART 2:
+Continue jogging → dumbbells → core → stretching → water → mirror smile.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/continue-jogging-dumbbells-core-stretching-water-mirror-smile-999741/video-1575efe766a87a46.webm)
+
+**Source:** [@ElsaSofia__AI](https://x.com/ElsaSofia__AI/status/2092207601991999741) · 45s · 16:9 · vlog
+
+---
+
+## 12. CREATED THIS VIDEO USING GPT IMAGE 2 + SEEDANCE 2.5
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-this-video-using-gpt-image-2-seedance-2-5-410098/video-d30323390a17079d.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-this-video-using-gpt-image-2-seedance-2-5-410098/poster-8900ccfd75d712b7.jpg" alt="CREATED THIS VIDEO USING GPT IMAGE 2 + SEEDANCE 2.5 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — DURATION: 30 seconds STYLE: Ultra-photorealistic live-action everyday lifestyle vlog. Premium cinematic commercial quality. Natural human behavior. Realistic hand movements....</summary>
+
+~~~~text
+DURATION: 30 seconds
+
+STYLE:
+Ultra-photorealistic live-action everyday lifestyle vlog.
+Premium cinematic commercial quality.
+Natural human behavior.
+Realistic hand movements.
+Realistic shopping interaction.
+Natural facial expressions.
+Smooth cinematic camera movement.
+Authentic everyday atmosphere.
+Elegant cinematic South Asian lifestyle aesthetic.
+
+REFERENCE ASSIGNMENT:
+
+@IMG1 = MAIN FEMALE CHARACTER
+@IMG2 = HOME / ENTRANCE
+@IMG3 = BEAUTY / COSMETIC MART
+@IMG4 = BEAUTY SHOPPING ACTION
+@IMG5 = CHECKOUT
+@IMG6 = HOME BEAUTY PRODUCT ARRANGEMENT
+
+Use all references consistently.
+
+CHARACTER CONSISTENCY:
+
+The EXACT SAME woman from @IMG1 must appear throughout the entire video.
+
+Preserve her exact face, facial features, hairstyle, skin tone, body proportions, age appearance and overall identity.
+
+Keep her exact outfit, hairstyle, jewelry and overall appearance consistent throughout the entire journey.
+
+She carries the same luxury black designer handbag from @IMG1 throughout the shopping trip.
+
+Do not change her identity or appearance between scenes.
+
+---
+
+0–4 SECONDS — LEAVING HOME
+
+Use @IMG1 + @IMG2.
+
+The woman is getting ready to go out for a beauty and self-care shopping trip.
+
+She briefly checks her phone.
+
+She picks up her luxury black designer handbag.
+
+She walks toward the front door.
+
+She opens the door and leaves her home.
+
+CAMERA:
+Smooth cinematic tracking shot from inside the entrance following her toward the door.
+
+Natural daylight.
+
+Realistic walking movement.
+
+Natural handbag movement.
+
+Natural phone interaction.
+
+---
+
+4–8 SECONDS — ARRIVING AT BEAUTY MART
+
+Use @IMG3.
+
+Transition naturally to a modern beauty and cosmetics mart.
+
+The same woman arrives at the entrance carrying her handbag.
+
+She enters the store and looks around the beauty section.
+
+She walks toward shelves filled with premium beauty, skincare and salon-related products.
+
+CAMERA:
+Smooth forward tracking shot following her into the store.
+
+Show a realistic modern beauty mart environment.
+
+Warm premium retail lighting.
+
+Authentic everyday shopping atmosphere.
+
+---
+
+8–15 SECONDS — SELECTING BEAUTY PRODUCTS
+
+Use @IMG4.
+
+The woman walks through the beauty and self-care section.
+
+She picks up a skincare product and examines the packaging.
+
+She compares another beauty product.
+
+She selects several items suitable for her personal beauty and salon/self-care routine.
+
+She places the selected products naturally into her shopping basket.
+
+She briefly checks her phone while comparing her shopping list.
+
+She continues selecting products.
+
+CAMERA:
+Alternate naturally between:
+
+medium tracking shot,
+close-up of her hand picking up beauty products,
+close-up of product details,
+medium shot of her placing products into the basket,
+close-up of her checking her phone.
+
+Keep all hand movements physically realistic.
+
+Keep the products visually consistent.
+
+---
+
+15–20 SECONDS — CHECKOUT & PAYMENT
+
+Use @IMG5.
+
+The woman arrives at the checkout counter with her selected beauty products.
+
+She places the products on the counter.
+
+The cashier scans the items one by one.
+
+The woman completes the payment using her phone/card.
+
+She receives the receipt.
+
+She collects her shopping bag while keeping her handbag with her.
+
+CAMERA:
+Medium-wide checkout shot.
+
+Brief close-up of products being scanned.
+
+Brief close-up of payment.
+
+Return to the woman collecting her beauty shopping bag.
+
+Natural everyday interaction.
+
+---
+
+20–24 SECONDS — RETURNING HOME
+
+Use @IMG2 + @IMG6.
+
+The woman arrives back home carrying her beauty shopping bag and her handbag.
+
+She enters the home.
+
+She places the shopping bag on the table or kitchen counter.
+
+She begins taking out the beauty products.
+
+CAMERA:
+Smooth follow shot as she enters the home.
+
+Natural indoor lighting.
+
+Realistic shopping-bag movement.
+
+Natural body mechanics.
+
+---
+
+24–30 SECONDS — ORGANIZING BEAUTY PRODUCTS
+
+Use @IMG6.
+
+She takes the beauty and self-care products out of the shopping bag.
+
+She neatly arranges skincare products, beauty products and salon-related items on a clean vanity or countertop.
+
+She organizes the products carefully.
+
+She looks at the neatly arranged beauty products.
+
+She gives a small natural satisfied smile.
+
+CAMERA:
+Begin with a medium shot.
+
+Cut briefly to beauty products being placed on the vanity.
+
+Close-up of her hands arranging the products.
+
+Finish with a gentle cinematic push toward her natural satisfied expression.
+
+CUT TO BLACK.
+
+---
+
+CAMERA STYLE:
+
+Use smooth professional lifestyle-vlog cinematography.
+
+Natural cinematic tracking shots.
+
+Medium shots for actions.
+
+Close-ups for important details.
+
+Gentle cinematic push-ins.
+
+Natural depth of field.
+
+No excessive camera shake.
+
+No unnecessary fast camera movements.
+
+Keep the woman visually readable throughout.
+
+---
+
+REALISM PRIORITY:
+
+Natural walking.
+
+Natural hand movements.
+
+Realistic handbag movement.
+
+Realistic shopping basket movement.
+
+Realistic beauty-product handling.
+
+Realistic phone interaction.
+
+Realistic checkout behavior.
+
+Realistic shopping bags.
+
+Natural facial expressions.
+
+Natural body mechanics.
+
+Natural hair movement.
+
+Natural clothing movement.
+
+No exaggerated movements.
+
+No teleportation.
+
+No floating objects.
+
+No instant scene changes.
+
+---
+
+CONSISTENCY RULES:
+
+Same woman throughout.
+
+Same face throughout.
+
+Same hairstyle throughout.
+
+Same outfit throughout.
+
+Same jewelry throughout.
+
+Same luxury black designer handbag throughout.
+
+Same beauty products throughout the shopping journey.
+
+Same beauty mart environment.
+
+Same home environment.
+
+No face morphing.
+
+No different woman.
+
+No distorted hands.
+
+No extra fingers.
+
+No changing products unnecessarily.
+
+No cartoon.
+
+No anime.
+
+No CGI-looking skin.
+
+No fantasy elements.
+
+No text.
+
+No logo.
+
+No watermark.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/created-this-video-using-gpt-image-2-seedance-2-5-410098/video-d30323390a17079d.webm)
+
+**Source:** [@AiWithSaira](https://x.com/AiWithSaira/status/2091753773425410098) · 30s · 16:9 · vlog
+
+---
+
+## 13. Made this video with GPT IMAGE 2 + seedance 2.5
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-this-video-with-gpt-image-2-seedance-2-5-080172/video-1534cd50b61fd113.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-this-video-with-gpt-image-2-seedance-2-5-080172/poster-3847434bc821537a.jpg" alt="Made this video with GPT IMAGE 2 + seedance 2.5 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — DURATION: 30 seconds ASPECT RATIO: Use the video's available landscape/cinematic ratio. STYLE: Ultra-photorealistic live-action cooking and lifestyle vlog, premium food-commercial...</summary>
+
+~~~~text
+DURATION: 30 seconds
+
+ASPECT RATIO: Use the video's available landscape/cinematic ratio.
+
+STYLE:
+Ultra-photorealistic live-action cooking and lifestyle vlog, premium food-commercial cinematography, realistic human behavior, natural hand movements, realistic cooking physics, authentic home atmosphere, cinematic lighting, subtle handheld camera movement, realistic food textures, natural skin and hair.
+
+REFERENCE ASSIGNMENT:
+
+@IMG1 = FEMALE CHARACTER
+@IMG2 = KITCHEN ENVIRONMENT
+@IMG3 = INGREDIENTS AND COOKING SETUP
+@IMG4 = COOKING ACTION
+@IMG5 = FINISHED CREAMY CHICKEN PASTA
+@IMG6 = DINING SCENE
+
+Use all uploaded references consistently.
+
+CHARACTER CONSISTENCY:
+
+The SAME woman from @IMG1 must appear throughout the entire video.
+
+Preserve her exact face, facial features, hairstyle, skin tone, body proportions and overall identity.
+
+Do not change her appearance between scenes.
+
+Preserve the same casual home-cooking outfit from @IMG1.
+
+FOOD CONSISTENCY:
+
+The dish throughout the entire video is EXACTLY the creamy chicken pasta shown in @IMG3 and @IMG5.
+
+Maintain the same pasta, chicken, mushrooms, cherry tomatoes, cream sauce, parmesan and parsley throughout.
+
+Do not change the dish between scenes.
+
+---
+
+0–4 SECONDS — PREPARATION
+
+Use @IMG2 and @IMG3.
+
+The woman enters the kitchen and approaches the countertop.
+
+The ingredients for creamy chicken pasta are neatly arranged in front of her.
+
+She looks over the ingredients and begins preparing dinner.
+
+Camera starts with a natural medium-wide kitchen shot and gently moves closer.
+
+Show the real home environment.
+
+---
+
+4–9 SECONDS — CHOPPING
+
+Use @IMG3 and @IMG4.
+
+The woman places vegetables on the wooden cutting board.
+
+She carefully chops garlic, onion and mushrooms with a kitchen knife.
+
+Show realistic hand and finger movement.
+
+Include a brief close-up of the knife cutting the vegetables.
+
+Vegetables naturally separate as she cuts them.
+
+Return to a medium shot showing her focused expression.
+
+Keep the action smooth and believable.
+
+---
+
+9–15 SECONDS — COOKING
+
+Use @IMG4.
+
+She places the pan on the stove and adds a small amount of olive oil.
+
+She adds the prepared chicken and vegetables into the hot pan.
+
+A realistic sizzling sound and subtle steam accompany the cooking.
+
+She uses a wooden spoon to stir the ingredients.
+
+The chicken gradually cooks while the vegetables soften.
+
+Camera moves from a side angle toward the pan.
+
+Include a close-up of the food sizzling and being stirred.
+
+---
+
+15–20 SECONDS — CREAMY SAUCE & PASTA
+
+Continue using @IMG4 and @IMG3.
+
+She adds the creamy sauce ingredients to the pan.
+
+The sauce mixes naturally with the chicken and vegetables.
+
+She adds the cooked pasta.
+
+She gently tosses and stirs everything together.
+
+The creamy sauce coats the pasta realistically.
+
+Steam rises naturally from the pan.
+
+Show a satisfying close-up of the finished creamy texture.
+
+Do not rush this action.
+
+---
+
+20–24 SECONDS — PLATING
+
+Use @IMG5.
+
+The woman transfers the freshly cooked creamy chicken pasta from the pan onto the ceramic plate.
+
+She carefully arranges the pasta.
+
+She adds parmesan and fresh parsley on top.
+
+A small amount of realistic steam rises from the hot food.
+
+Camera transitions into a premium close-up food shot.
+
+Make the dish look genuinely freshly cooked and appetizing.
+
+---
+
+24–30 SECONDS — DINNER
+
+Use @IMG6.
+
+The woman sits at the dining table with the finished creamy chicken pasta.
+
+She picks up the fork naturally.
+
+She takes a small bite.
+
+She tastes the food and gives a genuine satisfied smile.
+
+She briefly looks toward the camera as if sharing the moment with her audience.
+
+Camera slowly pushes toward her and the plate.
+
+End on a warm, cozy lifestyle shot of the woman enjoying the dinner she prepared herself.
+
+CUT TO BLACK.
+
+---
+
+CAMERA PRIORITY:
+
+Use natural cinematic camera movement.
+
+Wide establishing shots for the kitchen.
+
+Medium shots for cooking actions.
+
+Close-ups for chopping and sizzling food.
+
+Macro-style food detail during sauce and plating.
+
+Gentle push-in during the final dining moment.
+
+Avoid excessive camera shake.
+
+Avoid unnecessary camera movement.
+
+Keep the woman and the food clearly readable.
+
+---
+
+REALISM PRIORITY:
+
+Natural human movement.
+
+Realistic hand anatomy.
+
+Realistic knife handling.
+
+Realistic food physics.
+
+Realistic steam.
+
+Realistic sauce consistency.
+
+Realistic sizzling and stirring.
+
+Natural facial expressions.
+
+Natural eating motion.
+
+No exaggerated movements.
+
+No instant food transformations.
+
+No teleporting ingredients.
+
+No changing kitchen.
+
+No changing outfit.
+
+No changing character.
+
+---
+
+FINAL RULES:
+
+Same woman throughout.
+Same face throughout.
+Same kitchen throughout.
+Same outfit throughout.
+Same creamy chicken pasta throughout.
+Same ingredients throughout.
+
+No different woman.
+No face morphing.
+No extra people.
+No distorted hands.
+No extra fingers.
+No unrealistic eating.
+No cartoon.
+No anime.
+No fantasy.
+No text.
+No logos.
+No watermark.
+
+The final result should feel like a genuine cinematic cooking vlog filmed inside a real woman's home.
+
+Reference Image prompt:
+
+Create an ultra-photorealistic premium female character reference sheet using the uploaded woman as the STRICT IDENTITY REFERENCE.
+
+IDENTITY — ABSOLUTE PRIORITY:
+
+Preserve the exact identity of the woman in the uploaded image.
+
+Keep her:
+- exact face shape
+- eyes
+- eyebrows
+- nose
+- lips
+- jawline
+- skin tone
+- natural skin texture
+- hairstyle
+- hairline
+- facial proportions
+- age appearance
+- feminine body proportions
+
+Do not redesign her face.
+Do not beautify or alter her recognizable features.
+She must look like the exact same real woman in every view.
+
+CHARACTER CONCEPT:
+
+Create a realistic modern young woman who will be the main protagonist of a cinematic everyday cooking/lifestyle video.
+
+She has a natural, approachable appearance and relaxed confident personality.
+
+Create a realistic everyday home-cooking appearance rather than a fashion-model look.
+
+OUTFIT:
+
+A tasteful modern casual home outfit suitable for cooking dinner:
+
+- simple fitted neutral-colored top
+- comfortable casual trousers
+- clean natural styling
+- minimal jewelry
+- no high-fashion styling
+- no excessive makeup
+
+Keep the outfit practical and believable for a woman cooking at home.
+
+CHARACTER SHEET LAYOUT:
+
+Create one professional reference sheet containing:
+
+1. Full-body FRONT view
+2. Full-body 3/4 FRONT view
+3. Full-body SIDE view
+4. Full-body BACK view
+5. Medium portrait
+6. Close-up facial portrait
+7. Natural smiling expression
+8. Neutral expression
+9. Hands and clothing detail
+
+Every view must show the EXACT SAME WOMAN.
+
+BODY & ANATOMY:
+
+Natural realistic feminine proportions.
+Lean, healthy everyday physique.
+Accurate human anatomy.
+Natural posture.
+No exaggerated body proportions.
+
+HAIR:
+
+Preserve the exact hairstyle from the uploaded reference.
+
+Show realistic individual hair strands and natural volume.
+
+PHOTOGRAPHY:
+
+Ultra-photorealistic live-action photography.
+
+Premium cinematic lifestyle production quality.
+
+Realistic skin pores and texture.
+
+Natural hair detail.
+
+Physically accurate clothing fabric.
+
+Soft professional studio lighting.
+
+Natural shadows.
+
+Subtle realistic depth of field.
+
+High-end commercial photography quality.
+
+BACKGROUND:
+
+Clean warm-neutral studio background.
+
+Minimal distractions.
+
+The character must be clearly separated from the background.
+
+IDENTITY CONSISTENCY:
+
+This exact woman will be used as the main character in:
+
+@IMG1 Character
+@IMG4 Cooking Action
+@IMG6 Dining Scene
+and the final 30-second video.
+
+Her face and identity must remain identical across all references and video scenes.
+
+IMPORTANT NEGATIVE RULES:
+
+No face redesign.
+No different woman.
+No face morphing.
+No age change.
+No hairstyle change.
+No masculine features.
+No exaggerated makeup.
+No unrealistic body proportions.
+No cartoon.
+No anime.
+No CGI-looking skin.
+No text.
+No logo.
+No watermark.
+
+Premium photorealistic cinematic character reference sheet.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/made-this-video-with-gpt-image-2-seedance-2-5-080172/video-1534cd50b61fd113.webm)
+
+**Source:** [@ElsaSofia__AI](https://x.com/ElsaSofia__AI/status/2091483398972080172) · 30s · 16:9 · vlog
+
+---
+
+## 14. Made this video with GPT IMAGE 2 + seedance 2.5 via
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-this-video-with-gpt-image-2-seedance-2-5-319528/video-e85feaf9c4a1d0dc.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-this-video-with-gpt-image-2-seedance-2-5-319528/poster-995acc3b58d80ec5.jpg" alt="Made this video with GPT IMAGE 2 + seedance 2.5 via video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — DURATION: 20 seconds ASPECT RATIO: 16:9 STYLE: Ultra-photorealistic live-action cinematic lifestyle vlog, premium commercial quality, natural human movement, realistic skin and...</summary>
+
+~~~~text
+DURATION: 20 seconds
+ASPECT RATIO: 16:9
+
+STYLE:
+Ultra-photorealistic live-action cinematic lifestyle vlog, premium commercial quality, natural human movement, realistic skin and hair, realistic clothing physics, soft cinematic lighting, subtle handheld camera feel, shallow depth of field, natural color grading.
+
+REFERENCE ASSIGNMENT:
+
+@IMG1 = FEMALE HERO / MAIN CHARACTER
+@IMG2 = BEDROOM / MORNING
+@IMG3 = KITCHEN / BREAKFAST
+@IMG4 = WORK / DESK
+@IMG5 = OUTDOOR / CAFÉ
+@IMG6 = EVENING / NIGHT
+
+Use @IMG1 as the strict identity reference throughout the entire video.
+
+CHARACTER CONSISTENCY:
+The same woman must appear in every scene.
+
+Preserve her exact face, facial structure, eyes, nose, lips, hairstyle, skin tone, feminine body proportions and overall identity.
+
+Do not change her identity between scenes.
+
+0–3 SECONDS — MORNING
+
+Start in the bedroom using @IMG2.
+
+The woman wakes up naturally and sits on the edge of the bed.
+
+Soft morning sunlight enters through the window.
+
+She gently opens the curtains and looks toward the morning light.
+
+Camera begins with a medium-wide shot and smoothly pushes toward her.
+
+Peaceful morning atmosphere.
+
+3–6 SECONDS — BREAKFAST
+
+Smooth cinematic transition to @IMG3.
+
+The same woman prepares a simple breakfast in the kitchen.
+
+She pours coffee or tea into a ceramic mug and places breakfast on the counter.
+
+Natural steam rises from the hot drink.
+
+She briefly looks toward the camera with a relaxed morning smile.
+
+Use a natural medium tracking shot.
+
+6–10 SECONDS — WORK
+
+Transition to @IMG4.
+
+The same woman sits at her desk and works on her laptop.
+
+She types briefly, checks the screen and writes a few notes in her notebook.
+
+Natural productive expression.
+
+Camera moves slowly from a side angle toward a three-quarter view.
+
+Keep the environment realistic and calm.
+
+10–14 SECONDS — OUTDOOR / CAFÉ
+
+Transition naturally to @IMG5.
+
+The same woman leaves home and walks through a beautiful modern city street toward an outdoor café.
+
+Camera smoothly tracks backward while she walks toward it.
+
+She arrives at the café, places her handbag beside the table and sits down.
+
+She smiles naturally toward the camera.
+
+Warm daylight and realistic city background.
+
+14–17 SECONDS — CAFÉ MOMENT
+
+Close cinematic shot.
+
+She picks up her coffee/drink and takes a relaxed sip.
+
+Subtle background movement from distant pedestrians.
+
+Natural handheld lifestyle-vlog feeling.
+
+17–20 SECONDS — NIGHT
+
+Transition to @IMG6.
+
+The same woman is back home in her cozy bedroom at night.
+
+She places her phone on the bedside table and relaxes after the day.
+
+She looks toward the window at the city lights, then turns toward the camera with a small peaceful smile.
+
+Camera slowly pushes into a close-up.
+
+End on her calm expression with warm bedroom lighting and soft city-light bokeh.
+
+CUT TO BLACK.
+
+CAMERA PRIORITY:
+
+Keep the camera cinematic and natural.
+
+Use smooth tracking, gentle push-ins, medium shots, close-ups and subtle handheld movement.
+
+Avoid excessive camera shake.
+
+Keep the woman as the visual focus.
+
+Maintain realistic transitions between locations.
+
+FINAL RULES:
+
+Same female character throughout.
+Same face and identity throughout.
+Natural realistic human movement.
+Realistic lighting and shadows.
+Realistic clothing and hair movement.
+No face changes.
+No character duplication.
+No extra main characters.
+No cartoon or anime appearance.
+No fantasy effects.
+No excessive motion blur.
+No distorted hands.
+No text.
+No logos.
+No watermark.
+
+The overall feeling should be:
+A beautiful, realistic cinematic glimpse into one ordinary but aesthetically pleasing day in her life.
+
+Reference Image:
+
+Create a premium photorealistic female character reference sheet using the uploaded woman as the STRICT identity reference.
+
+Preserve her exact facial identity, facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, natural skin texture, hairstyle and overall appearance.
+
+Create the same woman as a realistic modern lifestyle vlogger.
+
+Show her with natural feminine proportions and realistic anatomy.
+
+CHARACTER PRESENTATION:
+
+Create a clean professional character sheet containing:
+
+1. Full-body front view
+2. Full-body 3/4 view
+3. Full-body side view
+4. Back view
+5. Close-up face portrait
+6. Natural smiling expression
+7. Neutral expression
+8. Casual standing pose
+
+Keep the exact same woman in every view.
+
+CLOTHING:
+
+Use a simple modern casual lifestyle outfit suitable for a daily vlog:
+a clean neutral-colored fitted top, comfortable casual trousers or jeans, and simple everyday footwear.
+
+Keep the outfit realistic, modest and natural.
+
+STYLE:
+
+Ultra-photorealistic live-action photography, premium lifestyle commercial aesthetic, realistic skin texture, natural hair strands, realistic fabric, physically accurate anatomy, soft cinematic lighting, subtle depth of field, high-end photography, natural colors.
+
+The character should look like a real woman photographed for a professional lifestyle vlog.
+
+IDENTITY CONSISTENCY IS THE HIGHEST PRIORITY.
+
+Do not change her face.
+Do not change her hairstyle.
+Do not masculinize her.
+Do not make her look like a different person.
+Do not create an anime or cartoon appearance.
+No fantasy styling.
+No text.
+No logo.
+No watermark.
+
+Clean neutral studio background.
+
+This character reference will be used as the SAME FEMALE PROTAGONIST throughout a 20-second "A Day in Her Life" cinematic lifestyle vlog.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/made-this-video-with-gpt-image-2-seedance-2-5-319528/video-e85feaf9c4a1d0dc.webm)
+
+**Source:** [@ElsaSofia__AI](https://x.com/ElsaSofia__AI/status/2091345498909319528) · 20s · 16:9 · vlog
+
+---
+
+## 15. Seedance 2.5
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-227354/video-eb5bd739aa2660e2.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-227354/poster-15c99533e3ee38a6.jpg" alt="Seedance 2.5 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 30-second 16:9 horizontal photorealistic iPhone travel vlog filmed in Dearborn, Michigan. The video must feel like authentic spontaneous UGC recorded by a real woman, not...</summary>
+
+~~~~text
+Create a 30-second 16:9 horizontal photorealistic iPhone travel vlog filmed in Dearborn, Michigan. The video must feel like authentic spontaneous UGC recorded by a real woman, not a commercial.
+
+Main Character: Clearly adult woman, around 25, naturally attractive, confident and energetic, expressive eyes, soft natural makeup, long healthy hair. She wears a fitted casual top, jeans, light jacket and small crossbody bag. Maintain exactly the same face, body proportions, hairstyle, outfit, accessories and voice throughout every shot.
+
+Visual Style: Realistic iPhone front-camera footage, natural handheld movement, slight walking bounce, occasional imperfect framing, realistic autofocus shifts, exposure adjustments and motion blur. Natural skin texture and hair movement. Authentic Dearborn streets, storefronts, pedestrians, traffic and morning sunlight. No beauty filter, plastic skin, excessive glamour lighting, cinematic/drone shots, subtitles, text overlays, logos, distorted hands or duplicated people.
+
+[0–6s] MORNING INTRO
+
+Front-facing iPhone camera as she walks through a lively Dearborn street in warm morning sunlight. Buildings, cars and pedestrians naturally move behind her. She smiles directly at the camera.
+
+Girl: “Good morning, everyone! I’m in Dearborn, Michigan, and honestly, the vibe here already feels so good.”
+
+She briefly turns the phone toward the street, then back to her face.
+
+[6–13s] CITY EXPLORATION
+
+Continuous handheld vlog energy. She walks past local storefronts, looking around curiously.
+
+Girl: “Okay, first thing I noticed—there’s such an interesting mix of cultures here… and I already know I’m gonna find something good to eat.”
+
+She laughs naturally. A delicious food smell catches her attention and she looks off-camera.
+
+Girl: “Wait… oh my God. What is that smell?”
+
+She quickly turns the phone toward a nearby Middle Eastern bakery or restaurant, then back to herself.
+
+[13–21s] FOOD MOMENT
+
+Natural jump cut while preserving perfect character consistency. She is now outside the restaurant holding a fresh Middle Eastern pastry or snack. She takes a bite while filming herself.
+
+Her eyes widen with genuine surprise.
+
+Girl: “Mmm! Okay… nobody warned me Dearborn was gonna feed me this well.”
+
+She laughs while chewing and points playfully at the camera.
+
+Girl: “This is dangerous.”
+
+Keep realistic street ambience underneath her voice.
+
+[21–27s] QUICK CITY DISCOVERY
+
+Another natural vlog jump cut. She walks through a recognizable urban Dearborn environment with golden morning light, pedestrians and passing cars.
+
+Girl: “I’ve been here, like, twenty minutes… and I already feel like there’s way more to this city than I expected.”
+
+She briefly turns around while walking backward, smiling excitedly, then faces forward again.
+
+[27–30s] HOOK FOR NEXT PART
+
+She brings the iPhone slightly closer to her face, creating an intimate vlog moment.
+
+Girl: “Alright, come with me. Let’s see what else Dearborn is hiding.”
+
+She gives the camera a confident smile, turns the phone toward the street ahead and continues walking.
+
+END FRAME: Natural moving iPhone footage continues forward, making the vlog feel like it is about to continue.
+
+Audio: Clear close-range iPhone microphone recording with perfectly synchronized natural lip movement. Conversational American English delivery, subtle breathing, genuine laughter and realistic vocal imperfections. Keep distant conversations, traffic, footsteps, light wind and restaurant ambience underneath her voice. No overpowering background music.
+
+Final priority: Photorealism, believable iPhone footage, authentic UGC travel-vlog behavior, strong character consistency across all cuts, accurate lip sync, natural acting and realistic Dearborn atmosphere.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-227354/video-eb5bd739aa2660e2.webm)
+
+**Source:** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2090131477145227354) · 30s · 16:9 · vlog
+
+---
+
+## 16. Created with Seedance 2.5.
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-590940/video-44f9da539be87f0b.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-590940/poster-f749d3a44714d1ac.jpg" alt="Created with Seedance 2.5. video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — A young woman wakes up, gets ready for the day, leaves her apartment, prepares her vintage scooter with realistic step-by-step movements, and rides through multiple neighborhoods...</summary>
+
+~~~~text
+A young woman wakes up, gets ready for the day, leaves her apartment, prepares her vintage scooter with realistic step-by-step movements, and rides through multiple neighborhoods to meet her friend. After a natural journey across the city, she arrives, parks the scooter, removes her helmet, and shares a warm hug before smiling at the camera. Ultra-realistic lifestyle vlog, authentic smartphone footage, precise English lip-sync, realistic scooter handling, natural body movement, seamless continuity, soft morning light, immersive city ambience, documentary-style realism, and consistent character identity.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-590940/video-44f9da539be87f0b.webm)
+
+**Source:** [@nawalsehar](https://x.com/nawalsehar/status/2087465121421590940) · 30s · 16:9 · vlog
+
+---
+
+## 17. Seedance 2.5 🤯
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-420849/video-a9200349959388a9.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-420849/poster-866b6b8d122bf550.jpg" alt="Seedance 2.5 🤯 video preview" width="700" />
@@ -99,7 +2275,7 @@ The entire 30-second generation should feel like one continuous, coherent day ca
 
 ---
 
-## 4. i just made this video with seedance 2.5 & it's honestly absurd how real it feels
+## 18. i just made this video with seedance 2.5 & it's honestly absurd how real it feels
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-just-made-this-video-with-seedance-2-5-it-918460/video-10b5b4f56ff15317.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-just-made-this-video-with-seedance-2-5-it-918460/poster-c5d4ff21897ba9ea.jpg" alt="i just made this video with seedance 2.5 &amp; it's honestly absurd how real it feels video preview" width="700" />
@@ -149,7 +2325,7 @@ A small wave.
 
 ---
 
-## 5. Kolejny test seedance 2.5 , wesołe miasteczko rok 1410 Polska.
+## 19. Kolejny test seedance 2.5 , wesołe miasteczko rok 1410 Polska.
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/kolejny-test-seedance-2-5-wesoe-miasteczko-rok-1410-polska-893338/video-1735bd521c55fcd3.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/kolejny-test-seedance-2-5-wesoe-miasteczko-rok-1410-polska-893338/poster-80021698f0a3f630.jpg" alt="Kolejny test seedance 2.5 , wesołe miasteczko rok 1410 Polska. video preview" width="700" />
@@ -240,7 +2416,7 @@ It should look like a completely impossible piece of found footage — an ordina
 
 ---
 
-## 6. Create a 30-second ultra-realistic documentary/home-video of the SAME young
+## 20. Create a 30-second ultra-realistic documentary/home-video of the SAME young
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/create-a-30-second-ultra-realistic-documentary-home-video-of-620321/video-b51bdf9fed1d559e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/create-a-30-second-ultra-realistic-documentary-home-video-of-620321/poster-1fd813bd20ea05ef.jpg" alt="Create a 30-second ultra-realistic documentary/home-video of the SAME young video preview" width="700" />
@@ -291,7 +2467,7 @@ Goal: One continuous-feeling forgotten early-2000s Korean home video: warm, cand
 
 ---
 
-## 7. Seedance 2.5 on Higgsfield AI
+## 21. Seedance 2.5 on Higgsfield AI
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-on-higgsfield-ai-012374/video-60d8729d557e0cf9.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-on-higgsfield-ai-012374/poster-575a39faac4914ef.jpg" alt="Seedance 2.5 on Higgsfield AI video preview" width="700" />
@@ -329,7 +2505,7 @@ Emotional tone: calm, productive, joyful, and satisfying, a complete day in the 
 
 ---
 
-## 8. A morning walk. Woman, golden retriever, quiet suburban park. Nothing happens
+## 22. A morning walk. Woman, golden retriever, quiet suburban park. Nothing happens
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/a-morning-walk-woman-golden-retriever-quiet-suburban-park-nothing-540574/video-82b4a8485bb8e24c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/a-morning-walk-woman-golden-retriever-quiet-suburban-park-nothing-540574/poster-0c0c7b1b54fe3799.jpg" alt="A morning walk. Woman, golden retriever, quiet suburban park. Nothing happens video preview" width="700" />
@@ -378,7 +2554,7 @@ Seedance 2.5 handled it clean. The tech isn't the limiting factor anymore, askin
 
 ---
 
-## 9. Made with Seedance 2.5 (native 30-second video, no editing)
+## 23. Made with Seedance 2.5 (native 30-second video, no editing)
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-native-30-second-video-no-571790/video-d776d2eca38f2d4f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-native-30-second-video-no-571790/poster-7ceb6a20ba6422ef.jpg" alt="Made with Seedance 2.5 (native 30-second video, no editing) video preview" width="700" />
@@ -459,7 +2635,7 @@ The result must feel like a real self-recorded late-night gym vlog by a glamorou
 
 ---
 
-## 10. Seedance 2.5
+## 24. Seedance 2.5
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-280310/video-1511d706b1db03b7.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-280310/poster-7477b5f40a5a6338.jpg" alt="Seedance 2.5 video preview" width="700" />
@@ -494,7 +2670,7 @@ VISUAL STYLE: Ultra-realistic candid boyfriend travel vlog, documentary realism,
 
 ---
 
-## 11. Video created with Seedance 2.5 on
+## 25. Video created with Seedance 2.5 on
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-created-with-seedance-2-5-on-784738/video-92863a266a08986c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-created-with-seedance-2-5-on-784738/poster-bacf7b255e2f0f0a.jpg" alt="Video created with Seedance 2.5 on video preview" width="700" />
@@ -535,7 +2711,7 @@ Audio: nocturnal club and R and B instrumental around 150 BPM, deep rounded kick
 
 ---
 
-## 12. Creation on
+## 26. Creation on
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/creation-on-828971/video-61e5ae8572967602.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/creation-on-828971/poster-446baaf99706d6e7.jpg" alt="Creation on video preview" width="700" />
@@ -572,7 +2748,7 @@ Pacing: extremely fast opening hook, escalating physical comedy, clear dialogue,
 
 ---
 
-## 13. eyecannndy․com for transitions
+## 27. eyecannndy․com for transitions
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/eyecannndycom-for-transitions-019153/video-7b4250561aa3e002.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/eyecannndycom-for-transitions-019153/poster-026598adfc378b12.jpg" alt="eyecannndy․com for transitions video preview" width="700" />
@@ -622,7 +2798,7 @@ unlimited means every loop above costs nothing to run... start one tonight
 
 ---
 
-## 14. Seedance 2.5
+## 28. Seedance 2.5
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-551218/video-998ca78d6f2aea97.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-551218/poster-c67f925eced11fc1.jpg" alt="Seedance 2.5 video preview" width="700" />
@@ -671,7 +2847,7 @@ Make it feel like a forgotten personal home video from the early 2000s — intim
 
 ---
 
-## 15. It was ridiculously easy.
+## 29. It was ridiculously easy.
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/it-was-ridiculously-easy-588278/video-9edda12af0aaa813.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/it-was-ridiculously-easy-588278/poster-3dbf6303a93a5170.jpg" alt="It was ridiculously easy. video preview" width="700" />
@@ -778,7 +2954,7 @@ No subtitles, captions, on-screen text or logos. No slow motion or colour gradin
 
 ---
 
-## 16. 高端交车仪式 vlog（Luxury Car Delivery Vl
+## 30. 高端交车仪式 vlog（Luxury Car Delivery Vl
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/vlog-luxury-car-delivery-vl-863196/video-44264a6aee4ced61.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/vlog-luxury-car-delivery-vl-863196/poster-25eda75701cf91bc.jpg" alt="高端交车仪式 vlog（Luxury Car Delivery Vl video preview" width="700" />
@@ -842,7 +3018,7 @@ No subtitles, captions, on-screen text or logos. No slow motion or colour gradin
 
 ---
 
-## 17. 真实骑行 vlog（Authentic Cycling Vlog）
+## 31. 真实骑行 vlog（Authentic Cycling Vlog）
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/vlog-authentic-cycling-vlog-275817/video-fcaae498a56b577e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/vlog-authentic-cycling-vlog-275817/poster-8fa118f359b21db6.jpg" alt="真实骑行 vlog（Authentic Cycling Vlog） video preview" width="700" />
@@ -941,7 +3117,7 @@ No subtitles, captions, on-screen text or logos. No slow motion or colour gradin
 
 ---
 
-## 18. POV: back in high school for 30 seconds and none of it is real.. made on Seedance 2.5..
+## 32. POV: back in high school for 30 seconds and none of it is real.. made on Seedance 2.5..
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/pov-back-in-high-school-for-30-seconds-and-none-634586/video-59a0a77ce6784e43.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/pov-back-in-high-school-for-30-seconds-and-none-634586/poster-1502d5e06e22ec57.jpg" alt="POV: back in high school for 30 seconds and none of it is real.. made on Seedance 2.5.. video preview" width="700" />
@@ -994,7 +3170,7 @@ Positive locks: camera never leaves first-person POV, no external cutaways. Same
 
 ---
 
-## 19. The moon took a night off. Everything went wrong in
+## 33. The moon took a night off. Everything went wrong in
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/the-moon-took-a-night-off-everything-went-wrong-546768/video-c61aef557b405ecf.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/the-moon-took-a-night-off-everything-went-wrong-546768/poster-9dd968b4f9596121.jpg" alt="The moon took a night off. Everything went wrong in video preview" width="700" />
@@ -1015,7 +3191,7 @@ Positive locks: camera never leaves first-person POV, no external cutaways. Same
 
 ---
 
-## 20. The Umbrella Escape
+## 34. The Umbrella Escape
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/the-umbrella-escape-488195/video-cd660b188da8f221.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/the-umbrella-escape-488195/poster-d7214a8827fe3e2e.jpg" alt="The Umbrella Escape video preview" width="700" />
@@ -1038,7 +3214,7 @@ Positive locks: camera never leaves first-person POV, no external cutaways. Same
 
 ---
 
-## 21. 📝プラットホームとプロンプトはリプ欄
+## 35. 📝プラットホームとプロンプトはリプ欄
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-003695-003695/video-38b6feb134b3741c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-prompt-case-003695-003695/poster-ef9c501519583c1c.jpg" alt="📝プラットホームとプロンプトはリプ欄 video preview" width="700" />
@@ -1077,7 +3253,7 @@ CONTINUITY LOCK: same face, glasses, bob haircut with green streaks, white flowe
 
 ---
 
-## 22. Vlog Study 019109
+## 36. Vlog Study 019109
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/is-extra-realistic-on-019109/video-580f67b1b994fd87.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/is-extra-realistic-on-019109/poster-5199879ff0ccd7c4.jpg" alt="Vlog Study 019109 video preview" width="700" />
@@ -1104,7 +3280,7 @@ Dialogue is natural spoken Korean (except "Good enough"), reacting casually to e
 
 ---
 
-## 23. Korean City Day Vlog
+## 37. Korean City Day Vlog
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/korean-city-day-vlog-993075/video-629787f47dd0f835.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/korean-city-day-vlog-993075/poster-01e06acfd1e65253.jpg" alt="Korean City Day Vlog video preview" width="700" />
@@ -1157,7 +3333,7 @@ Goal: Authentic Korean neighborhood life captured like a forgotten home video fr
 
 ---
 
-## 24. Trainee Days Camcorder Montage
+## 38. Trainee Days Camcorder Montage
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/trainee-days-camcorder-montage-251247/video-de374f7beeb0bd28.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/trainee-days-camcorder-montage-251247/poster-7011a4dd253a97e3.jpg" alt="Trainee Days Camcorder Montage video preview" width="700" />
@@ -1205,7 +3381,7 @@ Trainee dorm room (early morning) → vocal lesson room (morning) → dance prac
 
 ---
 
-## 25. Turkish Eggs Mini-DV Recipe Vlog
+## 39. Turkish Eggs Mini-DV Recipe Vlog
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/turkish-eggs-mini-dv-recipe-vlog-107610/video-2503ba98404071af.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/turkish-eggs-mini-dv-recipe-vlog-107610/poster-987c0e2c3109c70d.jpg" alt="Turkish Eggs Mini-DV Recipe Vlog video preview" width="700" />
@@ -1250,7 +3426,7 @@ Prioritise intimate food sounds: yoghurt stirring, garlic scraping, simmering wa
 
 ---
 
-## 26. K-Pop Idol Day Camcorder Montage
+## 40. K-Pop Idol Day Camcorder Montage
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/k-pop-idol-day-camcorder-montage-345309/video-b986009c7aa079a7.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/k-pop-idol-day-camcorder-montage-345309/poster-427ba91e0531cba1.jpg" alt="K-Pop Idol Day Camcorder Montage video preview" width="700" />
@@ -1304,7 +3480,7 @@ Dorm room (morning) → van interior (daytime) → practice room (afternoon) →
 
 ---
 
-## 27. Japanese Game Show Foam Roller
+## 41. Japanese Game Show Foam Roller
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-game-show-foam-roller/video-fa4c5269025df3df.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-game-show-foam-roller/poster-29b656a2da94c5ab.jpg" alt="Japanese Game Show Foam Roller video preview" width="700" />
@@ -1325,7 +3501,7 @@ Broadcast footage from a real 2000s–2010s Japanese sports entertainment progra
 
 ---
 
-## 28. Robots Text-Hold Studio Comedy
+## 42. Robots Text-Hold Studio Comedy
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/robots-text-hold-studio-comedy/video-79fdcec3211e1023.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/robots-text-hold-studio-comedy/poster-b3e7988ff4b3d0d8.jpg" alt="Robots Text-Hold Studio Comedy video preview" width="700" />
@@ -1415,7 +3591,7 @@ VISUAL QUALITY: Premium influencer content, realistic studio lighting, natural h
 
 ---
 
-## 29. Casual Apartment Tour
+## 43. Casual Apartment Tour
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/casual-apartment-tour/video-ffc6a2c4af0c11ee.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/casual-apartment-tour/poster-af8e69dea4dd12a9.jpg" alt="Casual Apartment Tour video preview" width="700" />
@@ -1484,7 +3660,7 @@ studio lighting, no subtitles, no music.
 
 ---
 
-## 30. Parisian City Girl Vlog
+## 44. Parisian City Girl Vlog
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/parisian-city-girl-vlog/video-51ac9026486e09d4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/parisian-city-girl-vlog/poster-7c667166e596d3f6.jpg" alt="Parisian City Girl Vlog video preview" width="700" />
@@ -1522,7 +3698,7 @@ Goal: Authentic Parisian life captured like a forgotten home video from the earl
 
 ---
 
-## 31. Korean Mini-DV Street Vlog
+## 45. Korean Mini-DV Street Vlog
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/korean-mini-dv-street-vlog/video-460634e42be498c5.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/korean-mini-dv-street-vlog/poster-e6dffaa00544e903.jpg" alt="Korean Mini-DV Street Vlog video preview" width="700" />
@@ -1560,7 +3736,7 @@ Goal: A quiet, satisfying weekend chore moment grounded, warm, believable.
 
 ---
 
-## 32. Beauty Filter Double Comes Alive
+## 46. Beauty Filter Double Comes Alive
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/filter-double-comes-alive-comedy/video-d39fefc1544a764b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/filter-double-comes-alive-comedy/poster-63a6197ee2aa352b.jpg" alt="Beauty Filter Double Comes Alive video preview" width="700" />
@@ -1622,7 +3798,7 @@ Goal: A quiet, satisfying weekend chore moment grounded, warm, believable.
 
 ---
 
-## 33. Quiet City Bicycle Ride
+## 47. Quiet City Bicycle Ride
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/quiet-city-bicycle-ride/video-222617624dd8efad.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/quiet-city-bicycle-ride/poster-75ba3ef6aead6c64.jpg" alt="Quiet City Bicycle Ride video preview" width="700" />

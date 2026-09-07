@@ -1,0 +1,43 @@
+{
+  "slug": "seedance-2-5-via-738826",
+  "title": {
+    "en": "Seedance 2.5 via",
+    "zh": "Seedance 2.5 via"
+  },
+  "description": {
+    "en": "30-second vlog prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒vlog提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "vlog",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@saniaspeaks_",
+    "url": "https://x.com/saniaspeaks_/status/2095728089015738826"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/saniaspeaks_/status/2095728089015738826"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/saniaspeaks_/status/2095728089015738826"
+  ],
+  "prompt": "Ultra-realistic casual smartphone lifestyle video featuring one young Korean woman in her early 20s visiting a busy local fruit market, buying fresh fruits, tasting them, and returning home.\nThe entire video must look like genuine footage casually recorded on a real handheld smartphone by a friend or companion accompanying her. The Korean woman does NOT hold the camera and does NOT film herself in selfie mode. The camera naturally follows her from nearby like a friend casually recording her day.\nUse imperfect handheld framing, subtle natural camera shake, realistic smartphone autofocus, automatic exposure changes, slight motion blur, natural walking movement, occasional imperfect composition, authentic market sounds and realistic real-world physics.\n\nNo cinematic shots, no drone, no gimbal, no professional camera work, no beauty filters and no commercial look.\n\nCHARACTER:\nThe same young Korean woman throughout the entire video, early 20s, petite oval face, brown eyes, natural coral lips, realistic fair skin and long black hair. Maintain perfect character consistency with no face morphing, identity drift or duplicate people.\n\nSTORY — A DAY AT THE FRUIT MARKET\n\n0:00–0:04 — Arriving at the Market\nThe handheld smartphone camera follows the Korean woman as she walks toward a busy local fruit market. She looks around happily at the colorful stalls ahead of her.\n\nShe naturally says:\n\n“오늘 과일 좀 사러 왔어요!”\n\nThe camera briefly pans toward the busy market entrance and follows her inside.\n\n0:04–0:08 — Exploring the Fruit Stalls\nThe friend filming casually follows her through the market. She walks past colorful stalls filled with strawberries, grapes, oranges, mangoes and other fresh fruits.\n\nShe stops and looks around with excitement, saying:\n\n“와, 과일이 진짜 많다!”\n\nThe camera naturally moves closer to show the fruits, with realistic smartphone autofocus shifting between her and the fruit displays.\n\n0:08–0:12 — Choosing Fruits\nShe stops at a fruit stall and carefully looks at different fruits. She picks up a few pieces, examines them naturally and talks briefly with the seller.\n\nThe camera remains handheld nearby, occasionally moving slightly out of perfect framing like genuine casual phone footage.\n\n0:12–0:16 — Buying the Fruits\nShe chooses several fruits and hands them to the seller. The seller naturally weighs and packs the fruits into a bag while she watches.\n\nShe pays for the fruits and smiles happily.\n\n0:16–0:20 — Tasting a Fruit\nThe seller offers her a small sample of fresh fruit. The smartphone camera captures her naturally taking a bite.\n\nShe pauses for a genuine reaction, smiles with surprise and says:\n\n“와, 진짜 달다!”\n\nKeep her reaction spontaneous and natural.\n\n0:20–0:24 — Walking Through the Market\nThe camera follows her as she walks through the market carrying her bag of fresh fruit. She happily looks inside the bag and says:\n\n“오늘 진짜 많이 샀어요!”\n\nPeople naturally walk around her, sellers work at their stalls and authentic market activity continues in the background.\n\n0:24–0:27 — Leaving the Market\nThe handheld smartphone camera follows her from behind and beside as she leaves the busy fruit market carrying her shopping bag.\n\nNatural walking shake, footsteps and market sounds gradually fade behind her.\n\n0:27–0:30 — Back Home\nHard cut to her arriving home. The friend filming captures her placing the fresh fruits on a kitchen table.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-via-738826/video-f18633f9cdb9d5f0.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-via-738826/poster-1d381cd9ad2c2b81.jpg",
+    "format": "video/webm",
+    "videoBytes": 3079134,
+    "videoSha256": "f18633f9cdb9d5f0eac532549750a851bf790bff8c196da191dd3a91a418df00",
+    "thumbnailBytes": 72259,
+    "thumbnailSha256": "1d381cd9ad2c2b816a2ba9f19fc384ad86d8f9e8cf04aa8b17e67e7edfc412db"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

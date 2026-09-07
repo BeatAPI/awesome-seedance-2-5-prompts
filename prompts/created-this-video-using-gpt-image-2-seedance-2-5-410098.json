@@ -1,0 +1,43 @@
+{
+  "slug": "created-this-video-using-gpt-image-2-seedance-2-5-410098",
+  "title": {
+    "en": "CREATED THIS VIDEO USING GPT IMAGE 2 + SEEDANCE 2.5",
+    "zh": "CREATED THIS VIDEO USING GPT IMAGE 2 + SEEDANCE 2.5"
+  },
+  "description": {
+    "en": "30-second vlog prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒vlog提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "vlog",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AiWithSaira",
+    "url": "https://x.com/AiWithSaira/status/2091753773425410098"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/AiWithSaira/status/2091753773425410098"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/AiWithSaira/status/2091753773425410098"
+  ],
+  "prompt": "DURATION: 30 seconds\n\nSTYLE:\nUltra-photorealistic live-action everyday lifestyle vlog.\nPremium cinematic commercial quality.\nNatural human behavior.\nRealistic hand movements.\nRealistic shopping interaction.\nNatural facial expressions.\nSmooth cinematic camera movement.\nAuthentic everyday atmosphere.\nElegant cinematic South Asian lifestyle aesthetic.\n\nREFERENCE ASSIGNMENT:\n\n@IMG1 = MAIN FEMALE CHARACTER\n@IMG2 = HOME / ENTRANCE\n@IMG3 = BEAUTY / COSMETIC MART\n@IMG4 = BEAUTY SHOPPING ACTION\n@IMG5 = CHECKOUT\n@IMG6 = HOME BEAUTY PRODUCT ARRANGEMENT\n\nUse all references consistently.\n\nCHARACTER CONSISTENCY:\n\nThe EXACT SAME woman from @IMG1 must appear throughout the entire video.\n\nPreserve her exact face, facial features, hairstyle, skin tone, body proportions, age appearance and overall identity.\n\nKeep her exact outfit, hairstyle, jewelry and overall appearance consistent throughout the entire journey.\n\nShe carries the same luxury black designer handbag from @IMG1 throughout the shopping trip.\n\nDo not change her identity or appearance between scenes.\n\n---\n\n0–4 SECONDS — LEAVING HOME\n\nUse @IMG1 + @IMG2.\n\nThe woman is getting ready to go out for a beauty and self-care shopping trip.\n\nShe briefly checks her phone.\n\nShe picks up her luxury black designer handbag.\n\nShe walks toward the front door.\n\nShe opens the door and leaves her home.\n\nCAMERA:\nSmooth cinematic tracking shot from inside the entrance following her toward the door.\n\nNatural daylight.\n\nRealistic walking movement.\n\nNatural handbag movement.\n\nNatural phone interaction.\n\n---\n\n4–8 SECONDS — ARRIVING AT BEAUTY MART\n\nUse @IMG3.\n\nTransition naturally to a modern beauty and cosmetics mart.\n\nThe same woman arrives at the entrance carrying her handbag.\n\nShe enters the store and looks around the beauty section.\n\nShe walks toward shelves filled with premium beauty, skincare and salon-related products.\n\nCAMERA:\nSmooth forward tracking shot following her into the store.\n\nShow a realistic modern beauty mart environment.\n\nWarm premium retail lighting.\n\nAuthentic everyday shopping atmosphere.\n\n---\n\n8–15 SECONDS — SELECTING BEAUTY PRODUCTS\n\nUse @IMG4.\n\nThe woman walks through the beauty and self-care section.\n\nShe picks up a skincare product and examines the packaging.\n\nShe compares another beauty product.\n\nShe selects several items suitable for her personal beauty and salon/self-care routine.\n\nShe places the selected products naturally into her shopping basket.\n\nShe briefly checks her phone while comparing her shopping list.\n\nShe continues selecting products.\n\nCAMERA:\nAlternate naturally between:\n\nmedium tracking shot,\nclose-up of her hand picking up beauty products,\nclose-up of product details,\nmedium shot of her placing products into the basket,\nclose-up of her checking her phone.\n\nKeep all hand movements physically realistic.\n\nKeep the products visually consistent.\n\n---\n\n15–20 SECONDS — CHECKOUT & PAYMENT\n\nUse @IMG5.\n\nThe woman arrives at the checkout counter with her selected beauty products.\n\nShe places the products on the counter.\n\nThe cashier scans the items one by one.\n\nThe woman completes the payment using her phone/card.\n\nShe receives the receipt.\n\nShe collects her shopping bag while keeping her handbag with her.\n\nCAMERA:\nMedium-wide checkout shot.\n\nBrief close-up of products being scanned.\n\nBrief close-up of payment.\n\nReturn to the woman collecting her beauty shopping bag.\n\nNatural everyday interaction.\n\n---\n\n20–24 SECONDS — RETURNING HOME\n\nUse @IMG2 + @IMG6.\n\nThe woman arrives back home carrying her beauty shopping bag and her handbag.\n\nShe enters the home.\n\nShe places the shopping bag on the table or kitchen counter.\n\nShe begins taking out the beauty products.\n\nCAMERA:\nSmooth follow shot as she enters the home.\n\nNatural indoor lighting.\n\nRealistic shopping-bag movement.\n\nNatural body mechanics.\n\n---\n\n24–30 SECONDS — ORGANIZING BEAUTY PRODUCTS\n\nUse @IMG6.\n\nShe takes the beauty and self-care products out of the shopping bag.\n\nShe neatly arranges skincare products, beauty products and salon-related items on a clean vanity or countertop.\n\nShe organizes the products carefully.\n\nShe looks at the neatly arranged beauty products.\n\nShe gives a small natural satisfied smile.\n\nCAMERA:\nBegin with a medium shot.\n\nCut briefly to beauty products being placed on the vanity.\n\nClose-up of her hands arranging the products.\n\nFinish with a gentle cinematic push toward her natural satisfied expression.\n\nCUT TO BLACK.\n\n---\n\nCAMERA STYLE:\n\nUse smooth professional lifestyle-vlog cinematography.\n\nNatural cinematic tracking shots.\n\nMedium shots for actions.\n\nClose-ups for important details.\n\nGentle cinematic push-ins.\n\nNatural depth of field.\n\nNo excessive camera shake.\n\nNo unnecessary fast camera movements.\n\nKeep the woman visually readable throughout.\n\n---\n\nREALISM PRIORITY:\n\nNatural walking.\n\nNatural hand movements.\n\nRealistic handbag movement.\n\nRealistic shopping basket movement.\n\nRealistic beauty-product handling.\n\nRealistic phone interaction.\n\nRealistic checkout behavior.\n\nRealistic shopping bags.\n\nNatural facial expressions.\n\nNatural body mechanics.\n\nNatural hair movement.\n\nNatural clothing movement.\n\nNo exaggerated movements.\n\nNo teleportation.\n\nNo floating objects.\n\nNo instant scene changes.\n\n---\n\nCONSISTENCY RULES:\n\nSame woman throughout.\n\nSame face throughout.\n\nSame hairstyle throughout.\n\nSame outfit throughout.\n\nSame jewelry throughout.\n\nSame luxury black designer handbag throughout.\n\nSame beauty products throughout the shopping journey.\n\nSame beauty mart environment.\n\nSame home environment.\n\nNo face morphing.\n\nNo different woman.\n\nNo distorted hands.\n\nNo extra fingers.\n\nNo changing products unnecessarily.\n\nNo cartoon.\n\nNo anime.\n\nNo CGI-looking skin.\n\nNo fantasy elements.\n\nNo text.\n\nNo logo.\n\nNo watermark.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/created-this-video-using-gpt-image-2-seedance-2-5-410098/video-d30323390a17079d.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/created-this-video-using-gpt-image-2-seedance-2-5-410098/poster-8900ccfd75d712b7.jpg",
+    "format": "video/webm",
+    "videoBytes": 2287759,
+    "videoSha256": "d30323390a17079dde5f74198498db4ebe9ec51d1b890c157440611b2fcb5e86",
+    "thumbnailBytes": 85380,
+    "thumbnailSha256": "8900ccfd75d712b7cdd000237c21c99dc1b5b2c5fdf033a03393c0b87a8a9e01"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

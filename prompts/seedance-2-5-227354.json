@@ -1,0 +1,43 @@
+{
+  "slug": "seedance-2-5-227354",
+  "title": {
+    "en": "Seedance 2.5",
+    "zh": "Seedance 2.5"
+  },
+  "description": {
+    "en": "30-second vlog prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒vlog提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "vlog",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Naiknelofar788",
+    "url": "https://x.com/Naiknelofar788/status/2090131477145227354"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Naiknelofar788/status/2090131477145227354"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Naiknelofar788/status/2090131477145227354"
+  ],
+  "prompt": "Create a 30-second 16:9 horizontal photorealistic iPhone travel vlog filmed in Dearborn, Michigan. The video must feel like authentic spontaneous UGC recorded by a real woman, not a commercial.\n\nMain Character: Clearly adult woman, around 25, naturally attractive, confident and energetic, expressive eyes, soft natural makeup, long healthy hair. She wears a fitted casual top, jeans, light jacket and small crossbody bag. Maintain exactly the same face, body proportions, hairstyle, outfit, accessories and voice throughout every shot.\n\nVisual Style: Realistic iPhone front-camera footage, natural handheld movement, slight walking bounce, occasional imperfect framing, realistic autofocus shifts, exposure adjustments and motion blur. Natural skin texture and hair movement. Authentic Dearborn streets, storefronts, pedestrians, traffic and morning sunlight. No beauty filter, plastic skin, excessive glamour lighting, cinematic/drone shots, subtitles, text overlays, logos, distorted hands or duplicated people.\n\n[0–6s] MORNING INTRO\n\nFront-facing iPhone camera as she walks through a lively Dearborn street in warm morning sunlight. Buildings, cars and pedestrians naturally move behind her. She smiles directly at the camera.\n\nGirl: “Good morning, everyone! I’m in Dearborn, Michigan, and honestly, the vibe here already feels so good.”\n\nShe briefly turns the phone toward the street, then back to her face.\n\n[6–13s] CITY EXPLORATION\n\nContinuous handheld vlog energy. She walks past local storefronts, looking around curiously.\n\nGirl: “Okay, first thing I noticed—there’s such an interesting mix of cultures here… and I already know I’m gonna find something good to eat.”\n\nShe laughs naturally. A delicious food smell catches her attention and she looks off-camera.\n\nGirl: “Wait… oh my God. What is that smell?”\n\nShe quickly turns the phone toward a nearby Middle Eastern bakery or restaurant, then back to herself.\n\n[13–21s] FOOD MOMENT\n\nNatural jump cut while preserving perfect character consistency. She is now outside the restaurant holding a fresh Middle Eastern pastry or snack. She takes a bite while filming herself.\n\nHer eyes widen with genuine surprise.\n\nGirl: “Mmm! Okay… nobody warned me Dearborn was gonna feed me this well.”\n\nShe laughs while chewing and points playfully at the camera.\n\nGirl: “This is dangerous.”\n\nKeep realistic street ambience underneath her voice.\n\n[21–27s] QUICK CITY DISCOVERY\n\nAnother natural vlog jump cut. She walks through a recognizable urban Dearborn environment with golden morning light, pedestrians and passing cars.\n\nGirl: “I’ve been here, like, twenty minutes… and I already feel like there’s way more to this city than I expected.”\n\nShe briefly turns around while walking backward, smiling excitedly, then faces forward again.\n\n[27–30s] HOOK FOR NEXT PART\n\nShe brings the iPhone slightly closer to her face, creating an intimate vlog moment.\n\nGirl: “Alright, come with me. Let’s see what else Dearborn is hiding.”\n\nShe gives the camera a confident smile, turns the phone toward the street ahead and continues walking.\n\nEND FRAME: Natural moving iPhone footage continues forward, making the vlog feel like it is about to continue.\n\nAudio: Clear close-range iPhone microphone recording with perfectly synchronized natural lip movement. Conversational American English delivery, subtle breathing, genuine laughter and realistic vocal imperfections. Keep distant conversations, traffic, footsteps, light wind and restaurant ambience underneath her voice. No overpowering background music.\n\nFinal priority: Photorealism, believable iPhone footage, authentic UGC travel-vlog behavior, strong character consistency across all cuts, accurate lip sync, natural acting and realistic Dearborn atmosphere.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-227354/video-eb5bd739aa2660e2.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-227354/poster-15c99533e3ee38a6.jpg",
+    "format": "video/webm",
+    "videoBytes": 2326491,
+    "videoSha256": "eb5bd739aa2660e2430df313bb3035bdf6f5c0cf5f8231dd8892fbbf0c7c116f",
+    "thumbnailBytes": 57084,
+    "thumbnailSha256": "15c99533e3ee38a6da32c4dd54f8bd7738d44f24aaf7a1bb442a9023355fa1b9"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

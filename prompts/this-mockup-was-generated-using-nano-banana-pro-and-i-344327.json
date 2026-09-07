@@ -1,0 +1,44 @@
+{
+  "slug": "this-mockup-was-generated-using-nano-banana-pro-and-i-344327",
+  "title": {
+    "en": "This mockup was generated using Nano banana pro and I animated it with Seedance 2.5",
+    "zh": "This mockup was generated using Nano banana pro and I animated it with Seedance 2.5"
+  },
+  "description": {
+    "en": "8-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "8 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "reference-generation",
+  "mode": "reference-to-video",
+  "duration": "8s",
+  "aspectRatio": "479:360",
+  "ingredients": [
+    "Text prompt",
+    "Image reference"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@realtinabrown_",
+    "url": "https://x.com/realtinabrown_/status/2095786754930344327"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/realtinabrown_/status/2095786754930344327"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/realtinabrown_/status/2095786754930344327"
+  ],
+  "prompt": "Create a photorealistic premium streetwear keychain product mockup inspired by the reference image.\n\nThe composition should feature a metal keyring with realistic silver keys and small metal chains, photographed against a pure black background. Hanging from the keyring are two branded elements:\n\nA custom metal emblem/charm featuring the supplied icon. Reproduce the supplied icon accurately as a physical metal keychain charm, preserving its exact shape, proportions, and details. Do not redesign or reinterpret the icon.\nA small vertical rubber/acrylic branded tag featuring the supplied wordmark logo. Reproduce the supplied wordmark accurately, preserving its exact typography, proportions, and letterforms. The wordmark should be integrated naturally into the tag as a premium streetwear accessory.\n\nUse realistic brushed and polished metal, subtle reflections, dimensional edges, realistic chain connections, soft studio lighting, and natural shadows. The overall aesthetic should feel premium, edgy, youthful, fashion-forward, and collectible.\n\nKeep the composition close to the reference: the keyring and keys positioned toward the upper portion, with the icon hanging prominently below and the wordmark tag positioned alongside it. The accessories should overlap naturally and feel physically connected.\n\nImportant: The supplied logo icon and wordmark are the exact brand assets. Do not modify, distort, simplify, redraw, misspell, or generate alternative versions of them. Keep all branding legible and faithful to the supplied references.\n\nPhotorealistic product photography, macro detail, realistic materials, subtle highlights, black studio background, premium fashion campaign aesthetic, high-end commercial product shot, sharp focus.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/this-mockup-was-generated-using-nano-banana-pro-and-i-344327/video-85fd4465af5b7e79.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/this-mockup-was-generated-using-nano-banana-pro-and-i-344327/poster-2abdc5794477d12f.jpg",
+    "format": "video/webm",
+    "videoBytes": 661977,
+    "videoSha256": "85fd4465af5b7e7952be40dede7b1d035a5cec50648e2c4e818c725e7c25f76a",
+    "thumbnailBytes": 39966,
+    "thumbnailSha256": "2abdc5794477d12f4f0ca1cfec78c7b2e6e1b2f4caf0be279b9f1ddf35a52732"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

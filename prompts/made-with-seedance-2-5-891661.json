@@ -1,0 +1,43 @@
+{
+  "slug": "made-with-seedance-2-5-891661",
+  "title": {
+    "en": "Made with seedance 2.5",
+    "zh": "Made with seedance 2.5"
+  },
+  "description": {
+    "en": "18-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "18 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "18s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Ciri_ai",
+    "url": "https://x.com/Ciri_ai/status/2088527190417891661"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Ciri_ai/status/2088527190417891661"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Ciri_ai/status/2088527190417891661"
+  ],
+  "prompt": "Photorealistic cinematic high-end cocktail bar during a packed Friday night rush, narrow backbar shelving lined with bottles, low amber pendant lights, backlit ice wall, condensation on glassware, crowded service well, bartenders moving rapidly in a tight space, warm amber light mixed with cool blue neon accents, realistic skin texture and sweat sheen, subtle handheld camera movement, rich lived-in bar detail, natural 35mm film grain. Shot with grounded modern realism and precise temporal control.\nMaintain perfect character consistency for the young female bartender throughout: mid-20s, sharp focused eyes, dark hair pulled into a low bun with loose strands, black fitted vest over a white shirt, sleeves rolled, thin leather wrist strap. No glamour styling, no artificial skin smoothing.\n0–4s: [Energetic Handheld Tracking Shot] The camera follows the young bartender moving quickly along the service well, carrying a finished garnished cocktail toward the bar top. Coworkers cross tightly around her, a shaker rattles nearby, a barback calls out a ticket and the head bartender glances over from the register. She shields the glass with both hands while weaving through the crowd of reaching guests.\n4–11s: [Sudden Collision into Dynamic Super Slow-Motion] A guest leans back off a barstool without looking and knocks into her arm. The glass tips violently. Its contents lift away from the rim: the liquid separates into a curving ribbon, a large clear ice sphere floats free, citrus twist and edible flower garnish spin loose, a scatter of fine mist hangs suspended in the air.\nThe camera moves into a smooth orbit around her as time slows almost completely. Steam from the espresso machine, neon light flicker, surrounding staff, a falling bar spoon and every airborne component become perfectly suspended at the peak of the accident. Everyone else freezes mid-reaction. Only the young bartender remains free to move.\nShe absorbs the shock for one brief beat, then reacts with extraordinary speed and precision. Moving through the frozen arrangement, she catches the ice sphere in one palm, redirects the citrus twist with her fingertips, slides the glass beneath the falling liquid and rebuilds the drink directly from the suspended arc. She catches the ribbon of liquid with the rim of the glass, guides it back inside cleanly, sets the flower garnish on top and steadies the glass just before it can spill.\n11–15s: [Time Snaps Back to Normal — Continuous Tracking Shot] Full-speed bar noise returns at once. The bar spoon and a few harmless droplets strike the floor behind her, but the completed cocktail is already steady in her hand. The guest who bumped her turns in disbelief. She does not stop or celebrate; she continues directly toward the bar top as though nothing happened.\n15–18s: [Tense Medium Close-Up] She sets the reconstructed cocktail down in front of the head bartender's section. He studies it in silence under the pendant light. Bar sounds become slightly muffled. He notices one small drip on the stem, wipes it away with a bar towel and looks at her without revealing approval or disappointment.\n18–20s: [Final Close-Up] The head bartender slides the glass toward the waiting server and nods for it to go out. The young bartender releases one controlled breath, turns back toward the busy well and immediately starts the next ticket. End on the flawless cocktail disappearing into the crowd.\nPhotorealistic, ultra-detailed liquid, ice and garnish physics; perfect preservation of glass shape, liquid volume and ice clarity; convincing suspended droplets and mist; sharp motion blur only on actively moving elements; believable hand interaction; stable anatomy; consistent glassware design and garnish placement; seamless transitions between real time, extreme slow motion, near-frozen time and normal speed; no magical glow or fantasy visuals—the temporal effect should feel like heightened cinematic perception during an adrenaline response. Aggressive handheld energy outside the slow-motion passage, smooth controlled orbit during it, tactile bar sound design, realistic performances, rich contrast, natural film grain, no artifacts, no distorted hands, no floating garnish after time resumes, movie-level continuity and high rewatch value.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-891661/video-aaf87a9500389c1e.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-891661/poster-94812ee87d432916.jpg",
+    "format": "video/webm",
+    "videoBytes": 1408865,
+    "videoSha256": "aaf87a9500389c1ec3a8f45a7d3c3caabc10d5367e9ede2adf41666f5cb66fc9",
+    "thumbnailBytes": 66991,
+    "thumbnailSha256": "94812ee87d432916e95cf7a458028fc55cd660e6cee42ebf44243bd7a9a32349"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

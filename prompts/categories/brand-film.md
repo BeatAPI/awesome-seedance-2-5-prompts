@@ -2,7 +2,368 @@
 
 [Back to the featured gallery](../../README.md) · [Catalog index](../README.md)
 
-## 1. ✨Seedance 2.5 is LIVE on ToAPIs API
+## 1. This mockup was generated using Nano banana pro and I animated it with Seedance 2.5
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/this-mockup-was-generated-using-nano-banana-pro-and-i-344327/video-85fd4465af5b7e79.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/this-mockup-was-generated-using-nano-banana-pro-and-i-344327/poster-2abdc5794477d12f.jpg" alt="This mockup was generated using Nano banana pro and I animated it with Seedance 2.5 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a photorealistic premium streetwear keychain product mockup inspired by the reference image. The composition should feature a metal keyring with realistic silver keys and...</summary>
+
+~~~~text
+Create a photorealistic premium streetwear keychain product mockup inspired by the reference image.
+
+The composition should feature a metal keyring with realistic silver keys and small metal chains, photographed against a pure black background. Hanging from the keyring are two branded elements:
+
+A custom metal emblem/charm featuring the supplied icon. Reproduce the supplied icon accurately as a physical metal keychain charm, preserving its exact shape, proportions, and details. Do not redesign or reinterpret the icon.
+A small vertical rubber/acrylic branded tag featuring the supplied wordmark logo. Reproduce the supplied wordmark accurately, preserving its exact typography, proportions, and letterforms. The wordmark should be integrated naturally into the tag as a premium streetwear accessory.
+
+Use realistic brushed and polished metal, subtle reflections, dimensional edges, realistic chain connections, soft studio lighting, and natural shadows. The overall aesthetic should feel premium, edgy, youthful, fashion-forward, and collectible.
+
+Keep the composition close to the reference: the keyring and keys positioned toward the upper portion, with the icon hanging prominently below and the wordmark tag positioned alongside it. The accessories should overlap naturally and feel physically connected.
+
+Important: The supplied logo icon and wordmark are the exact brand assets. Do not modify, distort, simplify, redraw, misspell, or generate alternative versions of them. Keep all branding legible and faithful to the supplied references.
+
+Photorealistic product photography, macro detail, realistic materials, subtle highlights, black studio background, premium fashion campaign aesthetic, high-end commercial product shot, sharp focus.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/this-mockup-was-generated-using-nano-banana-pro-and-i-344327/video-85fd4465af5b7e79.webm)
+
+**Source:** [@realtinabrown_](https://x.com/realtinabrown_/status/2095786754930344327) · 8s · 479:360 · brand film
+
+---
+
+## 2. Made with Seedance 2.5
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-152532/video-bb90ce1a348ce5dc.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-152532/poster-faedaaadbf29837a.jpg" alt="Made with Seedance 2.5 video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create an explosive, motion-graphics-driven character reveal trailer in 16:9, exactly 13 distinct cuts, 120fps. The main character is a confident young anime-inspired streetwear...</summary>
+
+~~~~text
+Create an explosive, motion-graphics-driven character reveal trailer in 16:9, exactly 13 distinct cuts, 120fps.
+The main character is a confident young anime-inspired streetwear woman with long silver-white hair tied into a loose high ponytail, a few strands falling naturally around her face, vivid violet eyes, a small black ear cuff, a cropped graphite-grey technical jacket with reflective silver panels, a fitted black sleeveless top, loose charcoal cargo pants with subtle utility straps, fingerless black gloves, and chunky black-and-silver sneakers. Preserve her exact face, proportions, hairstyle, outfit, materials, accessories and colors throughout; never redesign her.
+CONCEPT: A mysterious chrome-and-neon visual identity reveal inside a futuristic underground parking structure. The environment transforms through reflective metal surfaces, LED strips, rotating chrome objects, surveillance-style graphics, giant typography, geometric shadows and rhythmic light pulses.
+Do not use the previous blue-haired character, clothing, palette or visual motifs.
+The film is 75% graphic design and environmental transformation, 25% character movement.
+PALETTE: Graphite black, chrome silver, violet, white and small accents of electric magenta.
+STYLE: Premium AAA motion-graphics title sequence × futuristic fashion campaign × anime-inspired cinematic rendering. High contrast, glossy materials, sophisticated composition and aggressive editorial energy.
+CUT 01 | 0.00–1.00s
+Complete black screen.
+A thin silver horizontal line appears.
+It splits into dozens of smaller lines and rapidly builds a geometric fingerprint-like pattern.
+A violet pulse travels through it.
+The pattern collapses into a giant letter C.
+Hard impact.
+CUT 02 | 1.00–2.00s
+Extreme close-up of her violet eye.
+A chrome reflection moves across her iris.
+The camera pulls backward through the reflection, revealing her face surrounded by a black geometric frame.
+Four thin silver brackets lock around her eyes.
+Instant flash to white.
+CUT 03 | 2.00–3.10s
+Low-angle shot.
+She walks through the underground parking structure.
+Overhead fluorescent strips switch on sequentially as she passes beneath them.
+Her reflection appears across polished car surfaces.
+Giant typography slides across the architecture:
+SHIFT / CONTROL / FOCUS
+CUT 04 | 3.10–4.00s
+The image fractures into five vertical editorial panels.
+Each panel shows a different detail of her movement:
+hair swinging, glove tightening, sneaker stepping, jacket turning, direct eye contact.
+The panels rapidly compress until they form one full-body portrait.
+CUT 05 | 4.00–5.10s
+A giant chrome sphere rolls across the parking floor.
+She steps onto its path and stops it with one sneaker.
+The sphere visibly reacts to the pressure and rotates backward.
+The camera circles around her as the sphere becomes a giant reflective graphic containing fragments of her silhouette.
+CUT 06 | 5.10–6.00s
+Hard editorial transition.
+A huge word IMPACT fills the parking floor.
+She runs toward it and jumps over the center letters.
+Her shadow stretches unnaturally long across the typography as a deliberate graphic effect.
+The word compresses vertically beneath her and rebounds as she lands.
+CUT 07 | 6.00–7.00s
+All lights suddenly switch off.
+Only violet emergency strips remain.
+She slowly turns toward camera.
+Three delayed silhouettes appear behind her, each offset slightly to the side.
+The silhouettes become chrome wireframes.
+They rotate around her and collapse into a single circular emblem.
+CUT 08 | 7.00–8.00s
+Rapid-fire typography sequence.
+NOISE
+PRESSURE
+MOTION
+CONTROL
+Each word slams into a different part of the environment.
+She moves through the typography with sharp, controlled fashion-editorial poses.
+Camera flashes punctuate every transition.
+CUT 09 | 8.00–9.00s
+The floor becomes a gigantic reflective black surface.
+She stands at its center.
+A violet circular pulse expands from beneath her shoes.
+Every reflection in the floor moves half a second after her real movement, creating a deliberate delayed-echo effect.
+CUT 10 | 9.00–10.10s
+Dozens of chrome panels descend from the ceiling.
+They rotate around her like a mechanical kaleidoscope.
+Each panel reflects a different angle of her face.
+The panels rapidly align into one enormous silver letter O.
+The center becomes completely black.
+Cut through the O.
+CUT 11 | 10.10–11.10s
+Rapid poster montage.
+Four full-screen fashion-editorial compositions:
+01 — Full-body portrait beneath fluorescent lights.
+02 — Close-up with chrome reflections across her face.
+03 — Side profile framed by violet geometry.
+04 — Standing beside a reflective sports car silhouette.
+Each poster uses a different layout, numbers, technical markings, diagonal cuts and oversized typography.
+CUT 12 | 11.10–13.00s
+Hero shot.
+She stands alone in the center of the parking structure.
+Every overhead light turns on simultaneously.
+A massive chrome ring forms behind her.
+The ring rotates faster and faster while violet light pulses through its surface.
+She raises one hand and calmly adjusts her glove.
+Everything stops.
+One-frame white flash.
+CUT 13 | 13.00–15.00s
+Final identity card.
+Deep graphite background.
+A giant metallic CHROME PULSE wordmark dominates the composition.
+She stands slightly in front of it with a relaxed posture.
+Thin violet circles, chrome arcs, technical grids, microtext-like graphic marks and diagonal silver lines surround her.
+A bright violet pulse travels through the entire wordmark.
+The chrome letters briefly reflect her silhouette.
+Hard cut to black.
+EDITING: Extremely aggressive editorial rhythm. Hard cuts, graphic matches, snap zooms, whip transitions, panel compression, reflection transitions, speed ramps, shutter flashes, freeze frames, impact shakes and synchronized typography movement. Every cut must feel visually different.
+CAMERA: Premium fashion-film cinematography combined with motion graphics. Use low-angle tracking, circular camera movement, extreme close-ups, symmetrical compositions, overhead shots, reflective perspectives and controlled push-ins.
+AUDIO: Heavy futuristic electronic soundtrack with industrial percussion, deep sub-bass, metallic hits, distorted synth pulses and rhythmic glitches. Layer realistic parking-garage ambience, footsteps, fluorescent electrical hum, sneaker impacts, metal movement, subtle echoes and camera-shutter sounds. Every major graphic impact has synchronized sound design.
+PHYSICS: Realistic human weight, natural walking and jumping mechanics, accurate sneaker contact, believable reflections, realistic chrome material behavior, natural hair and clothing movement, physically consistent shadows and lighting.
+NEGATIVE: No blue-haired character, no previous AO design, no copied character, no weapons, no combat, no fire, no gore, no character redesign during the video, no face drift, no hairstyle changes, no wardrobe changes, no distorted hands, extra fingers, malformed anatomy, floating objects, weightless movement, duplicated character, plastic skin, cheap CGI, game-like rendering, excessive bloom, excessive particles, random lens flares, fake reflections, artificial blur, subtitles, watermark, unrelated logos or generic stock footage.
+FINAL QUALITY: Premium AAA quality, anime-inspired cinematic rendering, high-end fashion campaign aesthetic, sophisticated motion graphics, realistic materials, dramatic lighting, flawless character consistency and a distinctive visual identity designed for a professional daily X video series.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-152532/video-bb90ce1a348ce5dc.webm)
+
+**Source:** [@Kashberg_0](https://x.com/Kashberg_0/status/2095368416098152532) · 30s · 16:9 · brand film
+
+---
+
+## 3. + SOPHISTICATED EDITORIAL TRAVEL POSTER
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/sophisticated-editorial-travel-poster-055509/video-83dd00ad04ce6553.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/sophisticated-editorial-travel-poster-055509/poster-2333df4ab84ec75b.jpg" alt="+ SOPHISTICATED EDITORIAL TRAVEL POSTER video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — DESTINATION = [DESTINATION] SCOPE OVERRIDE = AUTO Create a premium vertical 3D isometric miniature diorama of [DESTINATION], focused on its most internationally recognizable...</summary>
+
+~~~~text
+DESTINATION = [DESTINATION]
+SCOPE OVERRIDE = AUTO
+
+Create a premium vertical 3D isometric miniature diorama of [DESTINATION], focused on its most internationally recognizable geographic and cultural core.
+
+Silently identify the country, region, visual identity, essential geography, and 5–8 iconic elements before composing.
+
+━━━━━━━━━━━━━━━━━━
+1. GEOGRAPHIC SCOPE
+━━━━━━━━━━━━━━━━━━
+
+Use the smallest coherent area that best represents [DESTINATION], not automatically its full administrative boundary.
+
+Prioritize:
+
+1. recognizable island, peninsula, river corridor, harbor, historic center, urban district, or mountain basin
+2. landmark-dense central area
+3. full territory only when its entire outline is compact, distinctive, and essential to its identity
+
+For large metropolitan areas, exclude generic suburbs, airports, industrial districts, satellite towns, and low-information outskirts unless they contain an essential landmark.
+
+Maintain:
+
+ICONIC CORE 75% + SUPPORTING CONTEXT 25%
+
+If SCOPE OVERRIDE is provided, treat it as authoritative.
+
+━━━━━━━━━━━━━━━━━━
+2. TERRAIN FOOTPRINT
+━━━━━━━━━━━━━━━━━━
+
+Use the recognizable silhouette of the selected iconic core as the elevated terrain base.
+
+The complete terrain must remain visible, centered, and uncropped. Preserve important coastlines, rivers, islands, harbors, mountains, waterfronts, and directional relationships.
+
+Geography may be compressed for clarity, but never reversed or randomly rearranged. Preserve relative positions such as opposite riverbanks, island and mainland, city and mountain, landmark and waterfront.
+
+This is a refined geographic travel artwork, not a literal GIS map.
+
+━━━━━━━━━━━━━━━━━━
+3. LANDMARK HIERARCHY
+━━━━━━━━━━━━━━━━━━
+
+Select 5–8 authentic elements:
+
+– 1–2 PRIMARY HERO LANDMARKS
+– 3–5 SECONDARY LANDMARKS
+– 1 natural or geographic feature where appropriate
+
+Choose them by recognizability, cultural importance, distinctive silhouette, and relevance to the selected core.
+
+Hero landmarks must be the largest, clearest, and most visually dominant. Secondary landmarks must remain smaller and supportive.
+
+Preserve each landmark’s defining silhouette, proportions, roofline, structure, materials, and characteristic colors. Slight enlargement is allowed for legibility, but avoid excessive scale distortion.
+
+Use each landmark only once.
+
+━━━━━━━━━━━━━━━━━━
+4. GEOGRAPHIC INTEGRATION
+━━━━━━━━━━━━━━━━━━
+
+Place landmarks in approximately correct relative locations. Keep real clusters together and preserve meaningful relationships:
+
+– bridges connect the correct shores
+– waterfront landmarks remain beside water
+– skyline towers remain within their real cluster
+– historic landmarks connect to their neighborhoods
+– mountain landmarks remain on elevated terrain
+
+Connect everything through appropriate streets, bridges, parks, plazas, neighborhoods, vegetation, waterways, coastlines, hills, and terrain.
+
+The result must feel like one continuous miniature world, not separate souvenir objects.
+
+━━━━━━━━━━━━━━━━━━
+5. CINEMATIC COMPOSITION
+━━━━━━━━━━━━━━━━━━
+
+Design the image as a camera-ready establishing frame for future image-to-video animation.
+
+Create three clear depth layers:
+
+FOREGROUND — water, shoreline, road, park, plaza, or terrain edge
+MIDGROUND — Hero Landmark and primary city district
+BACKGROUND — secondary skyline, historic district, mountain, harbor, or natural boundary
+
+Use one continuous river, avenue, bridge route, coastline, harbor, valley, or urban axis to guide the eye from the foreground toward the Hero Landmark.
+
+Keep important silhouettes separated. Avoid excessive overlap, fragile thin structures, uniform density, and unnecessary micro-buildings that may flicker or deform during animation.
+
+━━━━━━━━━━━━━━━━━━
+6. STYLE AND FORMAT
+━━━━━━━━━━━━━━━━━━
+
+Render as a sophisticated high-detail 3D architectural miniature with:
+
+– high-angle three-quarter isometric view
+– orthographic-like perspective
+– sculpted terrain elevation
+– realistic miniature architecture
+– refined model-making craftsmanship
+– polished but restrained materials
+– realistic glass, stone, metal, water, foliage, and roof textures
+– detailed ambient occlusion
+– soft contact shadows
+– premium museum-display quality
+
+Format:
+
+– vertical 2:3 or 3:4
+– diorama occupying the lower 68–75%
+– complete terrain footprint visible
+– generous upper negative space
+– warm off-white studio background
+– subtle shadow beneath the terrain
+– no decorative border
+
+The style must feel elegant, realistic, and architectural—not cartoonish, chibi, toy-like, low-poly, or flat.
+
+━━━━━━━━━━━━━━━━━━
+7. EDITORIAL HEADER
+━━━━━━━━━━━━━━━━━━
+
+At the upper center, display exactly:
+
+[DESTINATION]
+[COUNTRY · REGION OR CONTINENT]
+[ACCURATE NATIONAL FLAG]
+
+Use a bold condensed uppercase sans-serif title with a smaller, widely tracked uppercase supporting line and one small accurate flag.
+
+No slogans, captions, dates, coordinates, street names, landmark labels, or additional text.
+
+━━━━━━━━━━━━━━━━━━
+8. FINAL CONSTRAINTS
+━━━━━━━━━━━━━━━━━━
+
+The destination must be recognizable before reading the title.
+
+Ensure:
+
+– iconic core dominates
+– Hero Landmark is immediately clear
+– geography remains plausible
+– outer districts do not dilute the identity
+– the full terrain footprint remains visible
+– the composition has a clear camera path
+– all elements form one cohesive miniature environment
+
+Avoid inaccurate geography, full administrative sprawl, generic filler, random or duplicated landmarks, invented structures, equal landmark scale, overcrowding, landmark overlap, fantasy architecture, excessive distortion, cropped terrain, incorrect text, incorrect flags, logos, and watermarks.
+
+FINAL RESULT:
+
+ICONIC CORE GEOGRAPHY
++ LANDMARK-LED HIERARCHY
++ CINEMATIC DEPTH
++ PREMIUM 3D ARCHITECTURAL MINIATURE
++ SOPHISTICATED EDITORIAL TRAVEL POSTER
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/sophisticated-editorial-travel-poster-055509/video-83dd00ad04ce6553.webm)
+
+**Source:** [@AiwithLariab](https://x.com/AiwithLariab/status/2094618926475055509) · 15s · 9:16 · brand film
+
+---
+
+## 4. Made with Seedance 2.5 on ImagineArt
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-on-imagineart-339299/video-1db56917e0dd2612.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-on-imagineart-339299/poster-84538884bc9384ff.jpg" alt="Made with Seedance 2.5 on ImagineArt video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Create a 15-second hilarious animated sequence in the exact same warm, elegant 3D cartoon/Pixar-like visual style as the provided storyboard. Maintain the same husband and wife...</summary>
+
+~~~~text
+Create a 15-second hilarious animated sequence in the exact same warm, elegant 3D cartoon/Pixar-like visual style as the provided storyboard. Maintain the same husband and wife character designs, luxurious cream-colored bedroom and laundry room, cinematic warm lighting, expressive exaggerated facial reactions, and smooth comedic timing.
+Scene 1 — 0–3 sec: The husband is relaxing in bed reading a book. Suddenly, he notices his wife's bra and top being thrown out from another room onto the floor. He slowly lowers his book and stares at them with wide, suspicious eyes. In his imagination, this clearly looks like his wife is preparing for a romantic moment with someone inside.
+Scene 2 — 3–6 sec: The husband immediately jumps up excitedly and rushes to the mirror. He sprays mouth freshener, applies perfume, fixes his hair, and gives himself a confident, seductive smile. He is convinced something romantic is happening and that he should quickly join his wife.
+Scene 3 — 6–9 sec: Looking handsome and confident, he slowly and dramatically opens the door, expecting a romantic surprise. His expression suddenly changes from excitement to complete confusion.
+Scene 4 — 9–12 sec: Reveal the truth: his wife is simply doing laundry. She is pulling freshly washed clothes from the washing machine one by one and tossing them onto the floor because she needs help carrying them. She looks at her husband standing there, fully dressed up and smelling of perfume.
+Scene 5 — 12–15 sec: The wife immediately takes advantage of him, smiling innocently as she stacks a huge pile of wet clothes into his arms. The husband becomes completely trapped under the mountain of laundry. His romantic excitement disappears instantly, and he walks away slowly with a sad, moody, defeated expression while the wife happily continues doing laundry.
+Comedy style: exaggerated facial expressions, fast misunderstanding setup, dramatic reveal, visual humor, smooth character animation, cinematic framing, warm luxury interior, same character consistency and visual style throughout.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-on-imagineart-339299/video-1db56917e0dd2612.webm)
+
+**Source:** [@im_shahid7](https://x.com/im_shahid7/status/2091754978348339299) · 15s · 16:9 · brand film
+
+---
+
+## 5. ✨Seedance 2.5 is LIVE on ToAPIs API
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-is-live-on-toapis-api-232790/video-4e80d24d44619e26.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-is-live-on-toapis-api-232790/poster-bb3c9a533d5ce7e0.jpg" alt="✨Seedance 2.5 is LIVE on ToAPIs API video preview" width="700" />
@@ -68,7 +429,7 @@ Flow: organized, synchronized, and tactical for operators; chaotic, swarming, an
 
 ---
 
-## 2. Made with Seedance 2.5
+## 6. Made with Seedance 2.5
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-490561/video-1f7ae392e82f6caf.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-490561/poster-beccaeade57fef1a.jpg" alt="Made with Seedance 2.5 video preview" width="700" />
@@ -107,7 +468,7 @@ Overall Style: Hyper-realistic, dangerous, gritty, chaotic yet controlled—like
 
 ---
 
-## 3. Free Seedream on Renoise is such a nice surprise. 🤯
+## 7. Free Seedream on Renoise is such a nice surprise. 🤯
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/free-seedream-on-renoise-is-such-a-nice-surprise-558738/video-5f58ba69d98f6c6f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/free-seedream-on-renoise-is-such-a-nice-surprise-558738/poster-616ec3b8092f0667.jpg" alt="Free Seedream on Renoise is such a nice surprise. 🤯 video preview" width="700" />
@@ -140,7 +501,7 @@ Style: official kawaii fantasy RPG character sheet, Japanese Lolita fashion, mag
 
 ---
 
-## 4. Seedance 2.5 used
+## 8. Seedance 2.5 used
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-used-616691/video-600ab53f4c841c0b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-used-616691/poster-2f7a37a0ce5a01db.jpg" alt="Seedance 2.5 used video preview" width="700" />
@@ -167,7 +528,7 @@ Negative Prompt: No subtitles, logos, watermarks, duplicate people, distorted an
 
 ---
 
-## 5. Seedance 2.5 did well
+## 9. Seedance 2.5 did well
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-did-well-077118/video-7b4ffe2c1079c02e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/seedance-2-5-did-well-077118/poster-968a827ebf59e3b6.jpg" alt="Seedance 2.5 did well video preview" width="700" />
@@ -217,7 +578,7 @@ Audio: authentic ATC radio chatter, engine spool-up, pushback tug sounds, baggag
 
 ---
 
-## 6. Use code UMESH25 for 25% off any Runway plan 🎁 (affiliate code)
+## 10. Use code UMESH25 for 25% off any Runway plan 🎁 (affiliate code)
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/use-code-umesh25-for-25-off-any-runway-plan-affiliate-906242/video-82b39cf0a39fc136.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/use-code-umesh25-for-25-off-any-runway-plan-affiliate-906242/poster-c998d02ff7614590.jpg" alt="Use code UMESH25 for 25% off any Runway plan 🎁 (affiliate code) video preview" width="700" />
@@ -238,7 +599,7 @@ Audio: authentic ATC radio chatter, engine spool-up, pushback tug sounds, baggag
 
 ---
 
-## 7. Use the uploaded reference image as the exact character reference. Preserve her
+## 11. Use the uploaded reference image as the exact character reference. Preserve her
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/use-the-uploaded-reference-image-as-the-exact-character-reference-396603/video-326570fd78c6f05d.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/use-the-uploaded-reference-image-as-the-exact-character-reference-396603/poster-fa9b1eee3ca39ceb.jpg" alt="Use the uploaded reference image as the exact character reference. Preserve her video preview" width="700" />
@@ -267,7 +628,7 @@ Negative Prompt: No text, no subtitles, no watermarks, no duplicate characters, 
 
 ---
 
-## 8. Made with Seedance 2.5 cinematic visuals, realistic physics, and insane VFX.
+## 12. Made with Seedance 2.5 cinematic visuals, realistic physics, and insane VFX.
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-cinematic-visuals-realistic-physics-and-254024/video-40af68f202dbb120.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-seedance-2-5-cinematic-visuals-realistic-physics-and-254024/poster-2753a6a953b41ef5.jpg" alt="Made with Seedance 2.5 cinematic visuals, realistic physics, and insane VFX. video preview" width="700" />
@@ -288,7 +649,7 @@ Create a cinematic luxury diamond advertisement with a dark premium aesthetic. A
 
 ---
 
-## 9. I went for my Tennis practice and Seedance 2.5 handled rest
+## 13. I went for my Tennis practice and Seedance 2.5 handled rest
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-went-for-my-tennis-practice-and-seedance-2-5-586531/video-0abe20a4e047ab2a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-went-for-my-tennis-practice-and-seedance-2-5-586531/poster-f82cdc22a211f5de.jpg" alt="I went for my Tennis practice and Seedance 2.5 handled rest video preview" width="700" />
@@ -339,7 +700,7 @@ Overall style: ultra-realistic cinematic sports commercial, consistent young wom
 
 ---
 
-## 10. Made with
+## 14. Made with
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-365832/video-f39149e3ede760a4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/made-with-365832/poster-ffc1d13a292242f1.jpg" alt="Made with video preview" width="700" />
@@ -431,7 +792,7 @@ technique, same palette, same light values throughout.
 
 ---
 
-## 11. Video created with Seedance 2.5 on
+## 15. Video created with Seedance 2.5 on
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-created-with-seedance-2-5-on-489739/video-24dd311faee0dec8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/video-created-with-seedance-2-5-on-489739/poster-41264ea2931f4f0d.jpg" alt="Video created with Seedance 2.5 on video preview" width="700" />
@@ -452,7 +813,7 @@ Create a 15 second 16:9 high energy music driven visual film inspired by early d
 
 ---
 
-## 12. Try it now on
+## 16. Try it now on
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/try-it-now-on-088591/video-399a3a97f528104c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/try-it-now-on-088591/poster-0cb6c9cee5e61af8.jpg" alt="Try it now on video preview" width="700" />
@@ -508,7 +869,7 @@ No text, no subtitles, no logos, no watermark.
 
 ---
 
-## 13. It's insane what Seedance 2.5 can do 🤯
+## 17. It's insane what Seedance 2.5 can do 🤯
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/it-s-insane-what-seedance-2-5-can-do-479241/video-6c0c21f0b9b110dc.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/it-s-insane-what-seedance-2-5-can-do-479241/poster-cdc8783cf76339aa.jpg" alt="It's insane what Seedance 2.5 can do 🤯 video preview" width="700" />
@@ -541,7 +902,7 @@ Style: official fantasy RPG character sheet, cute blacksmith fantasy, Genshin Im
 
 ---
 
-## 14. I just nailed this video with Seedance 2.5 model
+## 18. I just nailed this video with Seedance 2.5 model
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-just-nailed-this-video-with-seedance-2-5-model-859522/video-a59bcf66047263ac.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-just-nailed-this-video-with-seedance-2-5-model-859522/poster-a371105e6d84862b.jpg" alt="I just nailed this video with Seedance 2.5 model video preview" width="700" />
@@ -570,7 +931,7 @@ Negative Prompt: No subtitles, no text, no watermarks, no duplicate people, no d
 
 ---
 
-## 15. 5 minutes a day. Just for you.
+## 19. 5 minutes a day. Just for you.
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/5-minutes-a-day-just-for-you-019376/video-684e2b5cdbc40431.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/5-minutes-a-day-just-for-you-019376/poster-82cbb7ccdbe497bb.jpg" alt="5 minutes a day. Just for you. video preview" width="700" />
@@ -659,7 +1020,7 @@ Final text:
 
 ---
 
-## 16. Film: *Empresses in the Palace* 甄嬛传 Segment: The Jinghong Dance 惊鸿舞
+## 20. Film: *Empresses in the Palace* 甄嬛传 Segment: The Jinghong Dance 惊鸿舞
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/film-empresses-in-the-palace-segment-the-jinghong-dance-967532/video-bb3b77fd4b70d47b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/film-empresses-in-the-palace-segment-the-jinghong-dance-967532/poster-313033683cc3665b.jpg" alt="Film: *Empresses in the Palace* 甄嬛传 Segment: The Jinghong Dance 惊鸿舞 video preview" width="700" />
@@ -701,7 +1062,7 @@ Exact period production texture of premium Qing-dynasty court drama, coherent si
 
 ---
 
-## 17. Product Commercial Study 209333
+## 21. Product Commercial Study 209333
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-209333/video-796cc0f305081e8a.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-209333/poster-8ca023c7dd321f95.jpg" alt="Product Commercial Study 209333 video preview" width="700" />
@@ -722,7 +1083,7 @@ Create a 30 second vertical 9:16 photorealistic lifestyle vlog, filmed entirely 
 
 ---
 
-## 18. Product Commercial Study 683460
+## 22. Product Commercial Study 683460
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/30-second-ultra-realistic-multi-shot-candid-obse-683460/video-2ae8bcddcd348cca.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/30-second-ultra-realistic-multi-shot-candid-obse-683460/poster-851b5825a7348b47.jpg" alt="Product Commercial Study 683460 video preview" width="700" />
@@ -783,7 +1144,7 @@ TOTAL SHOTS: 7
 
 ---
 
-## 19. Product Commercial Study 256505
+## 23. Product Commercial Study 256505
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-256505/video-db65a21634fb703b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-256505/poster-f629adbeb01de616.jpg" alt="Product Commercial Study 256505 video preview" width="700" />
@@ -804,7 +1165,7 @@ Create a 10 second cinematic live action video in 16:9, one continuous unbroken 
 
 ---
 
-## 20. UGC on is just crazy
+## 24. UGC on is just crazy
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/ugc-on-is-just-crazy-066501/video-fb64d830040465e1.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/ugc-on-is-just-crazy-066501/poster-bb990dc632dca5dd.jpg" alt="UGC on is just crazy video preview" width="700" />
@@ -839,7 +1200,7 @@ Ultra-realistic UGC fashion content, authentic creator review, cinematic handhel
 
 ---
 
-## 21. Product Commercial Study 855712
+## 25. Product Commercial Study 855712
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/mpt-create-a-15-second-cinematic-underground-fas-855712/video-51d755dd47347e05.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/mpt-create-a-15-second-cinematic-underground-fas-855712/poster-131645192910e4c9.jpg" alt="Product Commercial Study 855712 video preview" width="700" />
@@ -860,7 +1221,7 @@ Create a 15 second cinematic underground fashion film in 16:9 inside a real conc
 
 ---
 
-## 22. Product Commercial Study 191208
+## 26. Product Commercial Study 191208
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-191208/video-eb66e0c349a26609.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-191208/poster-1e6963c541eeedb4.jpg" alt="Product Commercial Study 191208 video preview" width="700" />
@@ -881,7 +1242,7 @@ Create a 15 second cinematic street fashion video in 16:9, grounded in real urba
 
 ---
 
-## 23. Making these kinds of uniquely styled videos has gotten so much fun lately.
+## 27. Making these kinds of uniquely styled videos has gotten so much fun lately.
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/making-these-kinds-of-uniquely-styled-videos-has-gotten-so-113956/video-74605a77461defe3.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/making-these-kinds-of-uniquely-styled-videos-has-gotten-so-113956/poster-4c23d67f129163ab.jpg" alt="Making these kinds of uniquely styled videos has gotten so much fun lately. video preview" width="700" />
@@ -936,7 +1297,7 @@ Never a slideshow; every graphic element must transform, move, erase, reveal, or
 
 ---
 
-## 24. Fashion Film Study 261494
+## 28. Fashion Film Study 261494
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/mpt-create-a-10-second-16-9-avant-garde-fashion-261494/video-1a71b1a4a1b99289.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/mpt-create-a-10-second-16-9-avant-garde-fashion-261494/poster-b9998ea15121b6fd.jpg" alt="Fashion Film Study 261494 video preview" width="700" />
@@ -957,7 +1318,7 @@ Create a 10 second 16:9 avant garde fashion film with the tactile realism of a l
 
 ---
 
-## 25. Product Commercial Study 171692
+## 29. Product Commercial Study 171692
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/it-s-insane-what-you-can-make-with-171692/video-98c4ff1e0273c65f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/it-s-insane-what-you-can-make-with-171692/poster-58ffa6469ae824c2.jpg" alt="Product Commercial Study 171692 video preview" width="700" />
@@ -1013,7 +1374,7 @@ Flour dust on the lens. She wipes it with her sleeve. A smile. The frame goes da
 
 ---
 
-## 26. Product Commercial Study 309837
+## 30. Product Commercial Study 309837
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-309837/video-32ba5442fa856d7c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-309837/poster-fd1e7354b34e91fe.jpg" alt="Product Commercial Study 309837 video preview" width="700" />
@@ -1041,7 +1402,7 @@ Style: Premium cinematic commercial, realistic delivery-rider lifestyle, energet
 
 ---
 
-## 27. Sports Film Study 274971
+## 31. Sports Film Study 274971
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/sports-film-study-274971/video-6028dfc4959dd365.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/sports-film-study-274971/poster-d526e84500c5036c.jpg" alt="Sports Film Study 274971 video preview" width="700" />
@@ -1203,7 +1564,7 @@ and the starter's pistol only.
 
 ---
 
-## 28. 🚨 I created this cinematic advertisement using . 🤯
+## 32. 🚨 I created this cinematic advertisement using . 🤯
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-created-this-cinematic-advertisement-using-406311/video-14d4c51b3444f857.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-created-this-cinematic-advertisement-using-406311/poster-e7f23831d7cd2b65.jpg" alt="🚨 I created this cinematic advertisement using . 🤯 video preview" width="700" />
@@ -1231,7 +1592,7 @@ Dola AI's Seedance 2.5 AI model is perfect for:
 
 ---
 
-## 29. A 30-second cinematic parkour commercial about focus, movement, and pushing beyond the edge.
+## 33. A 30-second cinematic parkour commercial about focus, movement, and pushing beyond the edge.
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/a-30-second-cinematic-parkour-commercial-about-focus-movement-and-513060/video-ed330e25450df86c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/a-30-second-cinematic-parkour-commercial-about-focus-movement-and-513060/poster-ea98cb346e2ed7bb.jpg" alt="A 30-second cinematic parkour commercial about focus, movement, and pushing beyond the edge. video preview" width="700" />
@@ -1275,7 +1636,7 @@ Ultra-realistic, cinematic lighting, cool blue-gray color grade, volumetric ligh
 
 ---
 
-## 30. Product Commercial Study 178710
+## 34. Product Commercial Study 178710
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/camera-handheld-dv-16mm-vertical-9-16-daily-vlog-178710/video-534bb32fcbefccb8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/camera-handheld-dv-16mm-vertical-9-16-daily-vlog-178710/poster-ad8c383cec00bc7f.jpg" alt="Product Commercial Study 178710 video preview" width="700" />
@@ -1332,7 +1693,7 @@ She gives the camera a small wave before ending the recording.
 
 ---
 
-## 31. Product Commercial Study 662980
+## 35. Product Commercial Study 662980
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-662980/video-89bf2fc4cd1d671f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-662980/poster-b945c43b87d3366f.jpg" alt="Product Commercial Study 662980 video preview" width="700" />
@@ -1363,7 +1724,7 @@ Ultra-realistic travel cinematography, authentic airport ambience, realistic ann
 
 ---
 
-## 32. Product Commercial Study 990763
+## 36. Product Commercial Study 990763
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/n-exactly-15-second-photorealistic-shopping-vlog-990763/video-bbb3eb98e972fa51.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/n-exactly-15-second-photorealistic-shopping-vlog-990763/poster-96e34a39c1d5801e.jpg" alt="Product Commercial Study 990763 video preview" width="700" />
@@ -1456,7 +1817,7 @@ Close walking selfie approaching the fitting rooms, garments over her free arm:
 
 ---
 
-## 33. Product Commercial Study 007654
+## 37. Product Commercial Study 007654
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/an-everyday-drive-made-special-by-the-glow-of-th-007654/video-263ec7fa8a57fde0.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/an-everyday-drive-made-special-by-the-glow-of-th-007654/poster-046ff55b58d680ba.jpg" alt="Product Commercial Study 007654 video preview" width="700" />
@@ -1485,7 +1846,7 @@ Warm sunset lighting, lens flares, motion blur, elegant and mysterious atmospher
 
 ---
 
-## 34. Sports Film Study 255212
+## 38. Sports Film Study 255212
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/sports-film-study-255212/video-9cfae8a126ef3d3f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/sports-film-study-255212/poster-8e4984073634932e.jpg" alt="Sports Film Study 255212 video preview" width="700" />
@@ -1586,7 +1947,7 @@ and commentary.
 
 ---
 
-## 35. is too spicy 🥵
+## 39. is too spicy 🥵
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/is-too-spicy-905417/video-1e84a158a85619f9.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/is-too-spicy-905417/poster-f9e48896a2bac2dc.jpg" alt="is too spicy 🥵 video preview" width="700" />
@@ -1623,7 +1984,7 @@ Audio: Upbeat energetic instrumental with punchy percussion hits synced to splas
 
 ---
 
-## 36. Product Commercial Study 761919
+## 40. Product Commercial Study 761919
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/camera-look-handheld-mini-dv-camcorder-footage-f-761919/video-fdc553f782dd671c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/camera-look-handheld-mini-dv-camcorder-footage-f-761919/poster-a208a634621af35d.jpg" alt="Product Commercial Study 761919 video preview" width="700" />
@@ -1660,7 +2021,7 @@ REALISM NOTES: Authentic body language, natural blinking, genuine soft smiles, o
 
 ---
 
-## 37. Product Commercial Study 045019
+## 41. Product Commercial Study 045019
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-045019/video-1bb9660e033b1d1e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/product-commercial-study-045019/poster-673121318af97464.jpg" alt="Product Commercial Study 045019 video preview" width="700" />
@@ -1683,7 +2044,7 @@ Ultra-realistic, authentic creator content, premium grocery aesthetic, natural b
 
 ---
 
-## 38. Product Commercial Study 615320
+## 42. Product Commercial Study 615320
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/every-destination-becomes-magical-when-you-slow-615320/video-ff045b2e6de0781e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/every-destination-becomes-magical-when-you-slow-615320/poster-bbee39a540fd97cc.jpg" alt="Product Commercial Study 615320 video preview" width="700" />
@@ -1704,7 +2065,7 @@ A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year
 
 ---
 
-## 39. text to video 3D animation
+## 43. text to video 3D animation
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/text-to-video-3d-animation-246455/video-3f72f756e9da433f.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/text-to-video-3d-animation-246455/poster-b1acb225c8c7db01.jpg" alt="text to video 3D animation video preview" width="700" />
@@ -1725,7 +2086,7 @@ A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year
 
 ---
 
-## 40. i just figured out the best way to use
+## 44. i just figured out the best way to use
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-just-figured-out-the-best-way-to-use-487592/video-3afa69046712d6c1.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-just-figured-out-the-best-way-to-use-487592/poster-68977d86d82e5097.jpg" alt="i just figured out the best way to use video preview" width="700" />
@@ -1774,7 +2135,7 @@ RT + reply "SEEDANCE" and i'll send it over (must follow so i can dm)
 
 ---
 
-## 41. Tokyo Fisheye Streetwear Fashion Film
+## 45. Tokyo Fisheye Streetwear Fashion Film
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/tokyo-fisheye-streetwear-fashion-film-562052/video-ac0b004df3b00171.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/tokyo-fisheye-streetwear-fashion-film-562052/poster-a8d15527be0ab0a4.jpg" alt="Tokyo Fisheye Streetwear Fashion Film video preview" width="700" />
@@ -1795,7 +2156,7 @@ Cinematic 13-second raw handheld streetwear fashion video shot on 8mm vintage fi
 
 ---
 
-## 42. Product Commercial Study 981913
+## 46. Product Commercial Study 981913
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/camera-look-handheld-mini-dv-camcorder-footage-f-981913/video-acad16faf28aa298.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/camera-look-handheld-mini-dv-camcorder-footage-f-981913/poster-5d3ad64096c9f707.jpg" alt="Product Commercial Study 981913 video preview" width="700" />
@@ -1832,7 +2193,7 @@ REALISM NOTES: Authentic body language, natural blinking, genuine cheerful smile
 
 ---
 
-## 43. Italian Coast Wakeboarding Splash
+## 47. Italian Coast Wakeboarding Splash
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/italian-coast-wakeboarding-splash-433442/video-dcbf8625a8d83951.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/italian-coast-wakeboarding-splash-433442/poster-1559afd05ea7f394.jpg" alt="Italian Coast Wakeboarding Splash video preview" width="700" />
@@ -1857,7 +2218,7 @@ A fun, fast-paced action scene.
 
 ---
 
-## 44. Cartoon Bulldog Versus Live Boxer
+## 48. Cartoon Bulldog Versus Live Boxer
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/cartoon-bulldog-versus-live-boxer-029228/video-ca3142256c322af3.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/cartoon-bulldog-versus-live-boxer-029228/poster-7adccc2afffcde48.jpg" alt="Cartoon Bulldog Versus Live Boxer video preview" width="700" />
@@ -1928,7 +2289,7 @@ Final slightly high-angle wide shot. The referee brings the bulldog to the cente
 
 ---
 
-## 45. Protein Shake UGC Ad
+## 49. Protein Shake UGC Ad
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/protein-shake-ugc-ad/video-90e9dabd8ffdfc9c.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/protein-shake-ugc-ad/poster-03b884cc1da9837f.jpg" alt="Protein Shake UGC Ad video preview" width="700" />
@@ -1997,7 +2358,7 @@ REFS: @image1 = 主角色参考（角色一致性：面部、发型、体型、�
 
 ---
 
-## 46. Japanese Mobile Carrier Family Ad
+## 50. Japanese Mobile Carrier Family Ad
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-mobile-carrier-family-ad/video-c1725dc88a062536.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/japanese-mobile-carrier-family-ad/poster-24351c93f01c292b.jpg" alt="Japanese Mobile Carrier Family Ad video preview" width="700" />
@@ -2115,7 +2476,7 @@ jitter, flicker.
 
 ---
 
-## 47. Fictional Stadium Sports Commercial
+## 51. Fictional Stadium Sports Commercial
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/fictional-stadium-sports-commercial/video-cb329d9a303614d8.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/fictional-stadium-sports-commercial/poster-fb5ec1a394367b37.jpg" alt="Fictional Stadium Sports Commercial video preview" width="700" />
@@ -2136,7 +2497,7 @@ Duration: 15s | Aspect ratio: 16:9 | 24fps Text-to-video. No reference images. F
 
 ---
 
-## 48. Nine-Language Flower Relay
+## 52. Nine-Language Flower Relay
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/nine-language-flower-relay/video-d33c80c74741c58e.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/nine-language-flower-relay/poster-195c3d4a31dc98fe.jpg" alt="Nine-Language Flower Relay video preview" width="700" />
@@ -2157,7 +2518,7 @@ Duration: 15s | Aspect ratio: 16:9 | 24fps Text-to-video. No reference images. F
 
 ---
 
-## 49. Aquatic Brand Concept Journey
+## 53. Aquatic Brand Concept Journey
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/aquatic-brand-concept-journey/video-2be6b0e0afb0a2e4.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/aquatic-brand-concept-journey/poster-1d927ab2c8760355.jpg" alt="Aquatic Brand Concept Journey video preview" width="700" />

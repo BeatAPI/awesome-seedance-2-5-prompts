@@ -1,0 +1,43 @@
+{
+  "slug": "made-possible-with-seedance-2-5-386343",
+  "title": {
+    "en": "Made possible with Seedance 2.5.",
+    "zh": "Made possible with Seedance 2.5."
+  },
+  "description": {
+    "en": "30-second vlog prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒vlog提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "vlog",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@saniaspeaks_",
+    "url": "https://x.com/saniaspeaks_/status/2093552631650386343"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/saniaspeaks_/status/2093552631650386343"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/saniaspeaks_/status/2093552631650386343"
+  ],
+  "prompt": "Realistic smartphone travel vlog featuring one Korean woman in her early 20s visiting a large museum for the first time. The entire video must look like genuine casual footage recorded on a real smartphone, with imperfect handheld framing, subtle natural camera shake, realistic autofocus adjustments, automatic exposure changes, slight motion blur, natural walking movement, realistic skin texture, authentic indoor lighting and real-world physics. No cinematic shots, no gimbal, no drone, no beauty filters, no commercial look, no artificial transitions.\n\nCharacter: The same Korean woman throughout the entire video, petite oval face, brown eyes, natural coral lips, realistic fair skin, long black hair, subtle natural makeup. Maintain perfect character consistency with no face morphing, identity drift or duplicate people.\n\n0:00–0:04 — Museum Arrival\nShe stands outside the museum entrance holding her phone in selfie mode. She looks excited and naturally says in Korean: “안녕하세요! 오늘 처음으로 이 박물관에 왔어요!” She turns the phone slightly to show the impressive museum entrance and other visitors walking inside.\n\n0:04–0:08 — Entering the Museum\nShe walks through the entrance into the large museum hall. The phone camera automatically adjusts from bright outdoor light to the darker indoor environment. She looks around with genuine curiosity while quietly filming the high ceiling, architecture and visitors.\n\n0:08–0:12 — Famous Exhibition\nShe stops in front of an impressive historical exhibition and slowly moves the phone closer to show the details. She looks genuinely amazed and softly says: “와… 실제로 보니까 정말 신기하다.” Keep all artwork and exhibits original and generic, with no recognizable copyrighted artwork.\n\n0:12–0:15 — Ancient Artifact\nShe walks toward another display containing an ancient-looking artifact behind glass. She leans slightly closer to look at it, then turns the camera toward herself with a fascinated expression.\n\n0:15–0:18 — Outfit Change\nHard cut exactly at 0:15. The same woman now wears a soft cream cardigan over a light beige top, dark brown trousers, simple sneakers and a small crossbody bag. Her face and identity remain exactly the same. She continues exploring another museum gallery.\n\n0:18–0:21 — Interactive Exhibit\nShe discovers an interactive digital exhibit and naturally tries it. Her reaction is spontaneous and curious, not exaggerated. Other museum visitors behave quietly and naturally in the background.\n\n0:21–0:24 — Looking at a Large Display\nShe stands in front of a huge historical display and slowly tilts the phone upward to capture its impressive size. Her eyes follow the display naturally and she quietly smiles in amazement.\n\n0:24–0:27 — Museum Café Break\nShe sits at a small museum café with a drink and dessert. She takes a small bite, looks at the camera and smiles naturally. Ambient sounds remain subtle, with quiet conversations and the natural atmosphere of a real museum café.\n\n0:27–0:30 — Goodbye\nNear the museum exit, she switches back to selfie mode. She smiles warmly and says: “오늘 정말 재미있었어요! 다음에 또 올게요. 안녕!” She waves naturally and lowers the phone toward the floor, ending the recording.\n\nThroughout the entire video, prioritize real smartphone imperfections and authentic documentary-style footage: slight framing mistakes, subtle autofocus hunting, natural exposure changes, realistic blinking and breathing, believable hand movements, physically accurate walking, quiet museum ambience, natural visitor behavior and realistic reflections on glass display cases. The final result must feel indistinguishable from a genuine personal smartphone museum vlog recorded by a real person.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/made-possible-with-seedance-2-5-386343/video-37aaa1347134bd67.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/made-possible-with-seedance-2-5-386343/poster-2e91c16d57b7ea87.jpg",
+    "format": "video/webm",
+    "videoBytes": 2259873,
+    "videoSha256": "37aaa1347134bd678ab54b97af1eb66f5d9b8528cc3289a7db767f263d2880e4",
+    "thumbnailBytes": 55583,
+    "thumbnailSha256": "2e91c16d57b7ea87894f2431836ccf802a05e828956ea1484665c159c260b05f"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

@@ -2,7 +2,73 @@
 
 [Back to the featured gallery](../../README.md) · [Catalog index](../README.md)
 
-## 1. Let yourself be hypnotized by the magical sound of the shamisen 👺
+## 1. Created with Seedance 2.5 on
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-on-798973/video-8dba95b0dcfe0ab5.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-on-798973/poster-8ee8bbcf72dfeaab.jpg" alt="Created with Seedance 2.5 on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — A strikingly beautiful woman wearing casual black Gothic-inspired clothing, layered silver jewelry, ornate rings, a crescent moon pendant, and polished high heels black boots...</summary>
+
+~~~~text
+A strikingly beautiful woman wearing casual black Gothic-inspired clothing, layered silver jewelry, ornate rings, a crescent moon pendant, and polished high heels black boots walks confidently down a bustling modern city street at night. She has long flowing black hair, subtle dark makeup, red lipstick and an air of mystery. Pedestrians glance at her with admiration.
+
+A stranger notices her unique appearance and discreetly begins recording her with a smartphone while following at a respectful distance. The camera alternates between cinematic tracking shots behind the woman, over-the-shoulder views from the stranger's phone, and wide shots of the busy street illuminated by storefront lights and traffic.
+
+The woman slowly realizes she is being filmed. Her confident expression changes into visible discomfort and unease. She repeatedly glances over her shoulder at the stranger, politely quickens her pace, and weaves naturally through crowds, trying not to draw attention. The stranger continues following, fascinated, believing he has simply found an unusually elegant Gothic woman.
+
+The woman turns slowly around a street corner into a semi-dark alley illuminated only by pale moonlight spilling between old brick buildings. The sounds of the busy city fade into silence. The camera follows smoothly into the alley.
+
+As she disappears briefly into the shadows, a seamless, magical transformation occurs. Black wisps of smoke and shimmering moonlit particles swirl around her as she transforms into a sleek black cat. The transformation is graceful, elegant, and photorealistic, with a slow motion effect.
+
+The stranger rounds the corner seconds later, still recording with the smartphone, confused because the mysterious woman has completely vanished. Instead, only a long haired black cat remains wearing the same pendant that the woman was wearing.
+
+The stranger slowly approaches the cat, never realizing it is the woman. The cat turns its head toward the camera with uncanny intelligence. It blinks once before its eyes suddenly glow an intense, supernatural emerald green. The glow softly illuminates the surrounding cobblestones and reflects in the stranger's phone lens.
+
+The stranger lowers the phone slightly, bewildered, while the cat calmly watches before silently disappearing deeper into the shadows.
+
+Style: Ultra-photorealistic, cinematic dark fantasy, realistic human anatomy, Hollywood-quality visual effects, subtle magical realism, Gothic elegance, dramatic moonlight, volumetric lighting, realistic fabric simulation, smooth natural motion, high character consistency, shallow depth of field, 35mm anamorphic lens, slow tracking shots, handheld smartphone perspective mixed with cinematic camera work, rich atmospheric detail, 8K quality, no text, no logos, no watermarks, no visual glitches.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-on-798973/video-8dba95b0dcfe0ab5.webm)
+
+**Source:** [@meng_dagg695](https://x.com/meng_dagg695/status/2093921953614798973) · 10s · 16:9 · documentary
+
+---
+
+## 2. Created with Seedance 2.5 on
+
+<a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-on-519456/video-2f563592f1dec089.webm">
+  <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-on-519456/poster-06ce9be781583821.jpg" alt="Created with Seedance 2.5 on video preview" width="700" />
+</a>
+
+<details>
+<summary><strong>Prompt</strong> — Ultra-realistic 15-second cinematic lifestyle video of the exact same elegant girl in cream/ivory traditional embroidered outfit with floral detailing and matching dupatta, seated...</summary>
+
+~~~~text
+Ultra-realistic 15-second cinematic lifestyle video of the exact same elegant girl in cream/ivory traditional embroidered outfit with floral detailing and matching dupatta, seated on a luxurious seaside balcony overlooking turquoise ocean, palm trees, sandy beach and distant city skyline under warm morning sunlight.
+
+She starts by gently sipping tea from a white cup at the marble breakfast table with a calm, happy expression, then lowers the cup and peacefully gazes at the sparkling waves.
+
+Next she picks up the smartphone beside her, casually scrolls through the screen with relaxed curiosity, briefly looks back at the ocean while holding the phone, places it down, and takes another soft sip of tea as her dupatta gently moves in the sea breeze.
+
+End with a smooth wide cinematic pull-back of her sitting peacefully enjoying tea against the beautiful turquoise sea and coastline.
+
+Keep perfect character consistency (same face, skin tone, eyes, hairstyle, jewelry, body, outfit), same location, props and background throughout, with natural movements, soft shadows, realistic ocean waves, shallow depth of field and premium travel-ad aesthetic.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-3158E8?style=for-the-badge)](https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-on-519456/video-2f563592f1dec089.webm)
+
+**Source:** [@ayzalnooor24521](https://x.com/ayzalnooor24521/status/2091385950295519456) · 15s · 49:45 · documentary
+
+---
+
+## 3. Let yourself be hypnotized by the magical sound of the shamisen 👺
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/let-yourself-be-hypnotized-by-the-magical-sound-of-the-904230/video-fc9ad94b47812faa.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/let-yourself-be-hypnotized-by-the-magical-sound-of-the-904230/poster-99a0a35f09b5a59c.jpg" alt="Let yourself be hypnotized by the magical sound of the shamisen 👺 video preview" width="700" />
@@ -39,7 +105,7 @@ AAA cinematic video with ultra-realistic audio-visual synchronization IMAX style
 
 ---
 
-## 2. You can now generate dynamic camera movements with up to 30secs of a single generation!✨
+## 4. You can now generate dynamic camera movements with up to 30secs of a single generation!✨
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/you-can-now-generate-dynamic-camera-movements-with-up-to-501168/video-92d1386bd8f9004b.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/you-can-now-generate-dynamic-camera-movements-with-up-to-501168/poster-d90baf5c0b67d01b.jpg" alt="You can now generate dynamic camera movements with up to 30secs of a single generation!✨ video preview" width="700" />
@@ -69,7 +135,7 @@ Technical Specifications: Ultra-realistic FPV movement, cinematic speed ramps, r
 
 ---
 
-## 3. Img -> GPT Image 2
+## 5. Img -> GPT Image 2
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/img-gpt-image-2-033082/video-928857242fe348c6.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/img-gpt-image-2-033082/poster-c5b90c8dfd1f825d.jpg" alt="Img -&gt; GPT Image 2 video preview" width="700" />
@@ -114,7 +180,7 @@ Audio: (Steady rain falling on wet pavement, a faint electronic hum from the neo
 
 ---
 
-## 4. Documentary Study 243738
+## 6. Documentary Study 243738
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-remixed-the-243738/video-af9098d4f640abe5.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/i-remixed-the-243738/poster-9889c7838eb977d7.jpg" alt="Documentary Study 243738 video preview" width="700" />
@@ -135,7 +201,7 @@ Reality TV lightsaber-building competition testing segment, filmed as a multi-ca
 
 ---
 
-## 5. 1970s Mediterranean Woman Documentary
+## 7. 1970s Mediterranean Woman Documentary
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/1970s-mediterranean-woman-documentary-685471/video-17bdf822c7c08f99.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/1970s-mediterranean-woman-documentary-685471/poster-fbf5658f7edc5e8b.jpg" alt="1970s Mediterranean Woman Documentary video preview" width="700" />
@@ -172,7 +238,7 @@ Ultra-photorealistic vintage documentary, authentic analog exposure, realistic h
 
 ---
 
-## 6. Three A.M. French Nightlife POV
+## 8. Three A.M. French Nightlife POV
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/three-a-m-french-nightlife-pov-399523/video-3b60e3c265f54dd5.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/three-a-m-french-nightlife-pov-399523/poster-6e8569c12bf99389.jpg" alt="Three A.M. French Nightlife POV video preview" width="700" />
@@ -269,7 +335,7 @@ The entire performance must feel spontaneous, messy, and completely believable. 
 
 ---
 
-## 7. Peking Opera Craft Inheritance
+## 9. Peking Opera Craft Inheritance
 
 <a href="https://media.beatapi.io/prompt-gallery/seedance-2-5/peking-opera-craft-inheritance/video-dd3b5fd37ba095a9.webm">
   <img src="https://media.beatapi.io/prompt-gallery/seedance-2-5/peking-opera-craft-inheritance/poster-4daf4e9bb45bb5d5.jpg" alt="Peking Opera Craft Inheritance video preview" width="700" />

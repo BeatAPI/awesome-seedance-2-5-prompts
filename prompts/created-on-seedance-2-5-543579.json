@@ -1,0 +1,43 @@
+{
+  "slug": "created-on-seedance-2-5-543579",
+  "title": {
+    "en": "Created on seedance 2.5",
+    "zh": "Created on seedance 2.5"
+  },
+  "description": {
+    "en": "30-second vlog prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒vlog提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "vlog",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@nawalsehar",
+    "url": "https://x.com/nawalsehar/status/2096832969453543579"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/nawalsehar/status/2096832969453543579"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/nawalsehar/status/2096832969453543579"
+  ],
+  "prompt": "Create a 30-second photorealistic live-action American university romance vlog set during a sudden afternoon rainstorm. A young female student gets caught in heavy rain without an umbrella, until a male student kindly shares his black umbrella. They walk together through a realistic U.S. college campus, joking and slowly becoming comfortable with each other.\n\nThey escape to a cozy campus café, share hot coffee beside a rain-covered window, and have a subtle moment of connection. As the rain stops, golden sunlight breaks through the clouds and they walk together across the wet campus.\n\nModern 2026 cinematic coming-of-age style, natural American English dialogue, realistic rain, wet hair and clothing, umbrella physics, puddle reflections, authentic student behavior, handheld smartphone-style camera, natural expressions and subtle romance. No exaggerated acting, CGI, animation, subtitles, music or watermark.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/created-on-seedance-2-5-543579/video-b547c933a60bc9de.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/created-on-seedance-2-5-543579/poster-83bb05677df3d10b.jpg",
+    "format": "video/webm",
+    "videoBytes": 2282300,
+    "videoSha256": "b547c933a60bc9de6f3080c542ba0cf61654dadb2e2b99cab402b04e43f0059d",
+    "thumbnailBytes": 45353,
+    "thumbnailSha256": "83bb05677df3d10b34d6f47e2a977f5ec15975ed7f1fa33003e1fb87227090fc"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

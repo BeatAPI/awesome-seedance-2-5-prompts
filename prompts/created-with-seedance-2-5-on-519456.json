@@ -1,0 +1,43 @@
+{
+  "slug": "created-with-seedance-2-5-on-519456",
+  "title": {
+    "en": "Created with Seedance 2.5 on",
+    "zh": "Created with Seedance 2.5 on"
+  },
+  "description": {
+    "en": "15-second documentary prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒documentary提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "documentary",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "49:45",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@ayzalnooor24521",
+    "url": "https://x.com/ayzalnooor24521/status/2091385950295519456"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/ayzalnooor24521/status/2091385950295519456"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/ayzalnooor24521/status/2091385950295519456"
+  ],
+  "prompt": "Ultra-realistic 15-second cinematic lifestyle video of the exact same elegant girl in cream/ivory traditional embroidered outfit with floral detailing and matching dupatta, seated on a luxurious seaside balcony overlooking turquoise ocean, palm trees, sandy beach and distant city skyline under warm morning sunlight.\n\nShe starts by gently sipping tea from a white cup at the marble breakfast table with a calm, happy expression, then lowers the cup and peacefully gazes at the sparkling waves.\n\nNext she picks up the smartphone beside her, casually scrolls through the screen with relaxed curiosity, briefly looks back at the ocean while holding the phone, places it down, and takes another soft sip of tea as her dupatta gently moves in the sea breeze.\n\nEnd with a smooth wide cinematic pull-back of her sitting peacefully enjoying tea against the beautiful turquoise sea and coastline.\n\nKeep perfect character consistency (same face, skin tone, eyes, hairstyle, jewelry, body, outfit), same location, props and background throughout, with natural movements, soft shadows, realistic ocean waves, shallow depth of field and premium travel-ad aesthetic.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-on-519456/video-2f563592f1dec089.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-on-519456/poster-06ce9be781583821.jpg",
+    "format": "video/webm",
+    "videoBytes": 1370603,
+    "videoSha256": "2f563592f1dec089abc062b892eab921659ed2f0c344bd6310c7c713f42c304d",
+    "thumbnailBytes": 51348,
+    "thumbnailSha256": "06ce9be7815838215f8d157d497c3b105885d2147684c636edb207e7dec80ca8"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

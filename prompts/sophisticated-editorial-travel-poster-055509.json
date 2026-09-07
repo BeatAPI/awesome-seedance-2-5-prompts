@@ -1,0 +1,43 @@
+{
+  "slug": "sophisticated-editorial-travel-poster-055509",
+  "title": {
+    "en": "+ SOPHISTICATED EDITORIAL TRAVEL POSTER",
+    "zh": "+ SOPHISTICATED EDITORIAL TRAVEL POSTER"
+  },
+  "description": {
+    "en": "15-second brand film prompt paired with a source-verified creator example and its output video.",
+    "zh": "15 秒brand film提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "brand-film",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "15s",
+  "aspectRatio": "9:16",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@AiwithLariab",
+    "url": "https://x.com/AiwithLariab/status/2094618926475055509"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/AiwithLariab/status/2094618926475055509"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/AiwithLariab/status/2094618926475055509"
+  ],
+  "prompt": "DESTINATION = [DESTINATION]\nSCOPE OVERRIDE = AUTO\n\nCreate a premium vertical 3D isometric miniature diorama of [DESTINATION], focused on its most internationally recognizable geographic and cultural core.\n\nSilently identify the country, region, visual identity, essential geography, and 5–8 iconic elements before composing.\n\n━━━━━━━━━━━━━━━━━━\n1. GEOGRAPHIC SCOPE\n━━━━━━━━━━━━━━━━━━\n\nUse the smallest coherent area that best represents [DESTINATION], not automatically its full administrative boundary.\n\nPrioritize:\n\n1. recognizable island, peninsula, river corridor, harbor, historic center, urban district, or mountain basin\n2. landmark-dense central area\n3. full territory only when its entire outline is compact, distinctive, and essential to its identity\n\nFor large metropolitan areas, exclude generic suburbs, airports, industrial districts, satellite towns, and low-information outskirts unless they contain an essential landmark.\n\nMaintain:\n\nICONIC CORE 75% + SUPPORTING CONTEXT 25%\n\nIf SCOPE OVERRIDE is provided, treat it as authoritative.\n\n━━━━━━━━━━━━━━━━━━\n2. TERRAIN FOOTPRINT\n━━━━━━━━━━━━━━━━━━\n\nUse the recognizable silhouette of the selected iconic core as the elevated terrain base.\n\nThe complete terrain must remain visible, centered, and uncropped. Preserve important coastlines, rivers, islands, harbors, mountains, waterfronts, and directional relationships.\n\nGeography may be compressed for clarity, but never reversed or randomly rearranged. Preserve relative positions such as opposite riverbanks, island and mainland, city and mountain, landmark and waterfront.\n\nThis is a refined geographic travel artwork, not a literal GIS map.\n\n━━━━━━━━━━━━━━━━━━\n3. LANDMARK HIERARCHY\n━━━━━━━━━━━━━━━━━━\n\nSelect 5–8 authentic elements:\n\n– 1–2 PRIMARY HERO LANDMARKS\n– 3–5 SECONDARY LANDMARKS\n– 1 natural or geographic feature where appropriate\n\nChoose them by recognizability, cultural importance, distinctive silhouette, and relevance to the selected core.\n\nHero landmarks must be the largest, clearest, and most visually dominant. Secondary landmarks must remain smaller and supportive.\n\nPreserve each landmark’s defining silhouette, proportions, roofline, structure, materials, and characteristic colors. Slight enlargement is allowed for legibility, but avoid excessive scale distortion.\n\nUse each landmark only once.\n\n━━━━━━━━━━━━━━━━━━\n4. GEOGRAPHIC INTEGRATION\n━━━━━━━━━━━━━━━━━━\n\nPlace landmarks in approximately correct relative locations. Keep real clusters together and preserve meaningful relationships:\n\n– bridges connect the correct shores\n– waterfront landmarks remain beside water\n– skyline towers remain within their real cluster\n– historic landmarks connect to their neighborhoods\n– mountain landmarks remain on elevated terrain\n\nConnect everything through appropriate streets, bridges, parks, plazas, neighborhoods, vegetation, waterways, coastlines, hills, and terrain.\n\nThe result must feel like one continuous miniature world, not separate souvenir objects.\n\n━━━━━━━━━━━━━━━━━━\n5. CINEMATIC COMPOSITION\n━━━━━━━━━━━━━━━━━━\n\nDesign the image as a camera-ready establishing frame for future image-to-video animation.\n\nCreate three clear depth layers:\n\nFOREGROUND — water, shoreline, road, park, plaza, or terrain edge\nMIDGROUND — Hero Landmark and primary city district\nBACKGROUND — secondary skyline, historic district, mountain, harbor, or natural boundary\n\nUse one continuous river, avenue, bridge route, coastline, harbor, valley, or urban axis to guide the eye from the foreground toward the Hero Landmark.\n\nKeep important silhouettes separated. Avoid excessive overlap, fragile thin structures, uniform density, and unnecessary micro-buildings that may flicker or deform during animation.\n\n━━━━━━━━━━━━━━━━━━\n6. STYLE AND FORMAT\n━━━━━━━━━━━━━━━━━━\n\nRender as a sophisticated high-detail 3D architectural miniature with:\n\n– high-angle three-quarter isometric view\n– orthographic-like perspective\n– sculpted terrain elevation\n– realistic miniature architecture\n– refined model-making craftsmanship\n– polished but restrained materials\n– realistic glass, stone, metal, water, foliage, and roof textures\n– detailed ambient occlusion\n– soft contact shadows\n– premium museum-display quality\n\nFormat:\n\n– vertical 2:3 or 3:4\n– diorama occupying the lower 68–75%\n– complete terrain footprint visible\n– generous upper negative space\n– warm off-white studio background\n– subtle shadow beneath the terrain\n– no decorative border\n\nThe style must feel elegant, realistic, and architectural—not cartoonish, chibi, toy-like, low-poly, or flat.\n\n━━━━━━━━━━━━━━━━━━\n7. EDITORIAL HEADER\n━━━━━━━━━━━━━━━━━━\n\nAt the upper center, display exactly:\n\n[DESTINATION]\n[COUNTRY · REGION OR CONTINENT]\n[ACCURATE NATIONAL FLAG]\n\nUse a bold condensed uppercase sans-serif title with a smaller, widely tracked uppercase supporting line and one small accurate flag.\n\nNo slogans, captions, dates, coordinates, street names, landmark labels, or additional text.\n\n━━━━━━━━━━━━━━━━━━\n8. FINAL CONSTRAINTS\n━━━━━━━━━━━━━━━━━━\n\nThe destination must be recognizable before reading the title.\n\nEnsure:\n\n– iconic core dominates\n– Hero Landmark is immediately clear\n– geography remains plausible\n– outer districts do not dilute the identity\n– the full terrain footprint remains visible\n– the composition has a clear camera path\n– all elements form one cohesive miniature environment\n\nAvoid inaccurate geography, full administrative sprawl, generic filler, random or duplicated landmarks, invented structures, equal landmark scale, overcrowding, landmark overlap, fantasy architecture, excessive distortion, cropped terrain, incorrect text, incorrect flags, logos, and watermarks.\n\nFINAL RESULT:\n\nICONIC CORE GEOGRAPHY\n+ LANDMARK-LED HIERARCHY\n+ CINEMATIC DEPTH\n+ PREMIUM 3D ARCHITECTURAL MINIATURE\n+ SOPHISTICATED EDITORIAL TRAVEL POSTER",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/sophisticated-editorial-travel-poster-055509/video-83dd00ad04ce6553.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/sophisticated-editorial-travel-poster-055509/poster-2333df4ab84ec75b.jpg",
+    "format": "video/webm",
+    "videoBytes": 1501826,
+    "videoSha256": "83dd00ad04ce655399a2b2214e8d1205ee3e5ec9c0de32352c37bbf993034245",
+    "thumbnailBytes": 52039,
+    "thumbnailSha256": "2333df4ab84ec75ba825efeebab959dc05f2fa245980282f7dfdb673f03012da"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}

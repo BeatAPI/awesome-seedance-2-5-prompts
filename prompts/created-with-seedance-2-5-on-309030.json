@@ -1,0 +1,43 @@
+{
+  "slug": "created-with-seedance-2-5-on-309030",
+  "title": {
+    "en": "Created with Seedance 2.5 on",
+    "zh": "Created with Seedance 2.5 on"
+  },
+  "description": {
+    "en": "30-second music video prompt paired with a source-verified creator example and its output video.",
+    "zh": "30 秒music video提示词，保留来源、完整 Prompt 与对应输出视频。"
+  },
+  "category": "music-video",
+  "workflowMode": "reference-generation",
+  "mode": "text-to-video",
+  "duration": "30s",
+  "aspectRatio": "16:9",
+  "ingredients": [
+    "Text prompt"
+  ],
+  "source": {
+    "kind": "x",
+    "name": "@Caden_Flux",
+    "url": "https://x.com/Caden_Flux/status/2088512747055309030"
+  },
+  "outputStatus": "source-verified",
+  "promptVisibility": "same-post",
+  "promptSourceUrls": [
+    "https://x.com/Caden_Flux/status/2088512747055309030"
+  ],
+  "modelEvidenceUrls": [
+    "https://x.com/Caden_Flux/status/2088512747055309030"
+  ],
+  "prompt": "Create a 30-second cinematic mythological horror sequence in 16:9 widescreen.\n\nSTRICT CHARACTER CONSISTENCY:\nUse the provided sailor character reference and siren character reference as absolute visual references.\n\nLOCK BOTH CHARACTERS throughout the entire sequence:\n- identical facial identity\n- identical hairstyle\n- identical body proportions\n- identical clothing\n- identical colors and materials\n- identical siren design, face, hair, eyes, scales, tail, and creature features\n\nDo not redesign either character between shots.\n\nSTYLE:\nUltra-realistic cinematic maritime mythology, dark ancient ocean, photorealistic characters, realistic water physics, practical-looking creature design, dramatic moonlight, volumetric fog, wet surfaces, atmospheric sea spray, high-end Hollywood cinematography, ARRI Alexa 65 aesthetic, anamorphic cinematic lenses, natural motion blur, deep blacks, high contrast, 4K, premium VFX, 16:9.\n\nPACING:\nFast-paced cinematic storytelling with constant visual progression. No static shots longer than necessary. Every shot should naturally motivate the next shot through movement, sound, camera direction, lighting, or match cuts.\n\nAvoid slow exposition. Build tension continuously.\n\nSHOT 1 — 0–4 SEC\nEXTREME WIDE ESTABLISHING SHOT.\n\nA lone wooden sailing ship cuts rapidly through a dark ocean at night.\n\nHuge waves crash against the hull. Thick fog moves across the water. Lightning briefly illuminates distant storm clouds.\n\nCamera starts high above the ship and rapidly pushes downward toward the deck.\n\nCUT smoothly into—\n\nSHOT 2 — 4–7 SEC\nHANDHELD CINEMATIC DECK SHOT.\n\nThe male sailor urgently adjusts the ship's wheel as the vessel fights the waves.\n\nLantern light flickers across his face.\n\nHe suddenly freezes.\n\nThe wind dies.\n\nThe violent ocean becomes unnaturally quiet.\n\nCamera rapidly pushes toward his face as he hears something.\n\nA faint female voice singing through the fog.\n\nNo visible siren yet.\n\nSHOT 3 — 7–11 SEC\nPOV SHOT FROM THE SAILOR.\n\nHe looks toward the ocean.\n\nDense fog rolls across the water.\n\nA distant silhouette briefly appears on a jagged rock.\n\nThe singing becomes clearer.\n\nCamera slowly advances toward the silhouette while the sailor steps toward the railing.\n\nThe silhouette disappears.\n\nA sudden wave crashes against the ship.\n\nMATCH CUT to—\n\nSHOT 4 — 11–15 SEC\nFAST CLOSE-UP SEQUENCE.\n\nExtreme close-up of the sailor's eyes.\n\nCut to his hand gripping the wet wooden railing.\n\nCut to the ocean.\n\nCut back to his face.\n\nThe singing continues.\n\nHe suddenly realizes something terrifying:\n\nthe voice sounds exactly like HIS OWN VOICE.\n\nThe singing whispers his name.\n\nEnglish dialogue, whispered and natural:\n\nSIREN:\n“Come closer…”\n\nThe sailor looks horrified.\n\nSHOT 5 — 15–19 SEC\nFAST TRACKING SHOT.\n\nThe sailor moves through thick fog toward the front of the ship.\n\nCamera tracks backward in front of him.\n\nThe singing grows louder.\n\nFragments of old shipwrecks appear through the fog.\n\nBroken masts.\n\nHuman bones.\n\nOld wooden debris.\n\nThe camera whips around—\n\nSHOT 6 — 19–23 SEC\nSIREN REVEAL.\n\nThe siren is sitting completely motionless on a jagged black rock above the water.\n\nShe is beautiful from a distance but deeply unnatural up close.\n\nLong wet black hair.\n\nPale cold-toned skin.\n\nBlack reflective eyes.\n\nSubtle aquatic scales.\n\nSharp teeth.\n\nDark predatory tail partially visible through the waves.\n\nShe slowly raises her head.\n\nShe is singing in the EXACT SAME VOICE as the sailor.\n\nThe sailor stares at her in disbelief.\n\nThe siren smiles slightly.\n\nSHOT 7 — 23–27 SEC\nRAPID ESCALATION.\n\nClose-up of the siren's mouth as she sings.\n\nCut to the sailor taking one involuntary step toward the edge.\n\nCut to his boots sliding across the wet deck.\n\nCut to dozens of skeletal remains scattered across the rocks beneath the siren.\n\nCut back to the sailor.\n\nThe siren whispers using his own voice:\n\nSIREN:\n“Come home.”\n\nThe sailor's expression changes from confusion to terror.\n\nSHOT 8 — 27–30 SEC\nFINAL CINEMATIC PAYOFF.\n\nThe sailor takes one final step toward the ocean.\n\nSuddenly the camera swings behind him.\n\nHundreds of faint glowing eyes appear beneath the black water.\n\nMultiple sirens are silently surrounding the ship.\n\nThe main siren looks directly into the camera.\n\nHer mouth opens slightly, revealing sharp teeth.\n\nThe ocean violently surges upward.\n\nSMASH CUT TO BLACK.\n\nSound of a massive wave.\n\nThen complete silence.\n\nFINAL AUDIO:\nA faint echo of the sailor's own voice whispering:\n\n“Help me…”\n\nSOUND DESIGN:\nHeavy ocean waves, creaking wooden ship, rope tension, distant thunder, wind abruptly stopping, subtle underwater ambience, eerie female singing, heartbeat building progressively, sudden silence before the final reveal, deep cinematic impact at the cut to black.\n\nCAMERA:\nDynamic handheld movement during the storm, rapid push-ins, tracking shots, POV shots, whip pans, extreme close-ups, wide aerial establishing shots, smooth motivated transitions, cinematic rack focus, realistic motion blur, occasional brief slow motion only for major reveals.\n\nNEGATIVE PROMPT:\ncartoon, anime, stylized animation, generic mermaid, cute mermaid, colorful fantasy, romantic atmosphere, comedy, cheesy expressions, excessive slow motion, static camera, random scene changes, inconsistent characters, changing faces, changing clothes, changing siren design, different hairstyles, unrealistic water physics, plastic CGI, low-detail creature, excessive gore, modern objects, modern clothing, subtitles, text on screen, watermark, logo.",
+  "media": {
+    "video": "https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-on-309030/video-af61dbe7da0aed0c.webm",
+    "thumbnail": "https://media.beatapi.io/prompt-gallery/seedance-2-5/created-with-seedance-2-5-on-309030/poster-d934801f5bf08d45.jpg",
+    "format": "video/webm",
+    "videoBytes": 1372005,
+    "videoSha256": "af61dbe7da0aed0cd921d755525d01454d7d1b7600004974207e625d1a584c17",
+    "thumbnailBytes": 25011,
+    "thumbnailSha256": "d934801f5bf08d45918fd5a185be522588e22873c3ba4e3df9b80a786550cf80"
+  },
+  "rightsStatus": "source-attributed; redistribution-rights-not-verified"
+}
