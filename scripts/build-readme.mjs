@@ -115,6 +115,14 @@ const [readme, catalogSource] = await Promise.all([
   readFile(readmeFile, 'utf8'),
   readFile(catalogFile, 'utf8'),
 ]);
+for (const requiredLink of [
+  'https://beatapi.io/seedance-2-5-prompts',
+  'https://beatapi.io/seedance-2.5-api',
+]) {
+  if (!readme.includes(requiredLink)) {
+    throw new Error(`README is missing required BeatAPI CTA: ${requiredLink}`);
+  }
+}
 const catalog = JSON.parse(catalogSource);
 const catalogEntries = catalog.prompts.filter((entry) => entry.media?.video);
 const featuredOrder = new Map(
